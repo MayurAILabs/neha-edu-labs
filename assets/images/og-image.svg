@@ -1,0 +1,13 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 630'>
+<defs><linearGradient id='og' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#2563EB'/><stop offset='.5' stop-color='#7C3AED'/><stop offset='1' stop-color='#06B6D4'/></linearGradient></defs>
+<rect width='1200' height='630' fill='url(#og)'/>
+<g opacity='.12' fill='white'><circle cx='120' cy='540' r='90'/><circle cx='1080' cy='90' r='120'/><circle cx='1000' cy='560' r='40'/></g>
+<g transform='translate(90,80)'>
+<rect width='84' height='84' rx='20' fill='white' opacity='.95'/>
+<path d='M18 40 42 26l24 14-24 14z' fill='#2563EB'/>
+</g>
+<text x='90' y='240' font-family='Poppins, Arial, sans-serif' font-size='72' font-weight='800' fill='white'>Neha Edu Labs</text>
+<text x='90' y='300' font-family='Inter, Arial, sans-serif' font-size='34' fill='white' opacity='.92'>Learn Engineering. Master AI. Build Your Future.</text>
+<text x='90' y='400' font-family='Inter, Arial, sans-serif' font-size='26' fill='white' opacity='.85'>Electronics &#8226; VLSI &#8226; Embedded Systems &#8226; Python &#8226; AI</text>
+<text x='90' y='560' font-family='Inter, Arial, sans-serif' font-size='24' font-weight='700' fill='white' opacity='.95'>nehaedulabs.in</text>
+</svg>

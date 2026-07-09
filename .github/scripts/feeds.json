@@ -1,0 +1,14 @@
+[
+  { "source": "OpenAI",              "url": "https://openai.com/blog/rss.xml",                          "category": "AI" },
+  { "source": "Google AI Blog",      "url": "https://blog.google/technology/ai/rss/",                    "category": "AI" },
+  { "source": "Google DeepMind",     "url": "https://deepmind.google/blog/rss.xml",                      "category": "AI" },
+  { "source": "NVIDIA",              "url": "https://blogs.nvidia.com/feed/",                            "category": "AI" },
+  { "source": "Hugging Face",        "url": "https://huggingface.co/blog/feed.xml",                      "category": "AI" },
+  { "source": "MIT News — AI",       "url": "https://news.mit.edu/rss/topic/artificial-intelligence2",   "category": "AI" },
+  { "source": "IEEE Spectrum",       "url": "https://spectrum.ieee.org/feeds/feed.rss",                  "category": "Engineering" },
+  { "source": "GitHub Blog",         "url": "https://github.blog/feed/",                                 "category": "Programming" },
+  { "source": "Python Insider",      "url": "https://blog.python.org/feeds/posts/default?alt=rss",       "category": "Programming" },
+  { "source": "Google Developers",   "url": "https://developers.googleblog.com/feeds/posts/default",     "category": "Programming" },
+  { "source": "NPTEL / SWAYAM",      "url": "https://nptel.ac.in/feed",                                  "category": "Education" },
+  { "source": "AICTE",               "url": "https://www.aicte-india.org/rss.xml",                       "category": "Education" }
+]

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Title and description below are generic placeholders — NELBlog.renderPost() overwrites
+     document.title and the meta[name=description] content at runtime once it loads the
+     matching article from data/blog.json via the ?id= query string. -->
+<title>Article | Neha Edu Labs Blog</title>
+<meta name="description" content="Read the latest article from the Neha Edu Labs blog — practical insights on Engineering, AI, Electronics and career growth.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.nehaedulabs.in/blog-post.html">
+
+<meta name="theme-color" content="#2563EB">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icons/icon-192.svg">
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+<!-- AOS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+
+<!-- Site CSS -->
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-page="blog">
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<div class="page-loader" id="pageLoader"><div class="loader-ring" role="status" aria-label="Loading"></div></div>
+
+<header class="site-header" id="site-header"></header>
+
+<main id="main-content">
+  <div id="blog-post-root"></div>
+</main>
+
+<footer class="site-footer" id="site-footer"></footer>
+
+<div class="install-banner" id="installBanner">
+  <i class="fa-solid fa-download" style="font-size:1.4rem;color:var(--color-primary);"></i>
+  <div><strong>Install Neha Edu Labs</strong><p class="text-muted" style="font-size:.8rem;margin:0;">Add to your home screen for offline access.</p></div>
+  <button id="installAccept" class="btn btn-primary btn-sm">Install</button>
+  <button id="installDismiss" class="btn-icon btn-outline" aria-label="Dismiss"><i class="fa-solid fa-xmark"></i></button>
+</div>
+
+<!-- Scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script src="assets/js/components.js" defer></script>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/news.js"></script>
+<script src="assets/js/blog.js"></script>
+<script src="assets/js/search.js"></script>
+<script src="assets/js/main.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    NELBlog.renderPost("blog-post-root");
+  });
+</script>
+</body>
+</html>

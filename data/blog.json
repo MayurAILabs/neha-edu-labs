@@ -1,0 +1,98 @@
+[
+  {
+    "id": "vlsi-career-guide",
+    "title": "Is VLSI Design Still a Great Career Choice in 2026?",
+    "excerpt": "With AI accelerating chip design and global semiconductor investment rising, here's an honest look at whether VLSI is worth pursuing today.",
+    "author": "Neha Badgujar",
+    "date": "2026-06-20",
+    "category": "Electronics",
+    "image": "assets/images/blog/vlsi-career.svg",
+    "tags": ["VLSI", "Career", "Semiconductors"],
+    "readTime": 7,
+    "content": "The global semiconductor industry is going through one of its biggest expansions in decades, driven by AI accelerators, automotive electronics and the push for domestic chip manufacturing in multiple countries. For students wondering if VLSI design is still worth the years of study, the short answer is yes — but with a caveat: the field is evolving fast, and success now depends on combining core RTL/physical-design fundamentals with newer skills like AI-assisted EDA tools and system-level thinking.\n\nIn this article I break down what a typical VLSI career path looks like, the skills that are non-negotiable (CMOS fundamentals, Verilog/RTL, STA basics), the skills that are increasingly differentiating (scripting, ML-assisted design flows) and how to build a portfolio as a student without access to expensive commercial tools."
+  },
+  {
+    "id": "learning-python-effectively",
+    "title": "How Engineering Students Should Actually Learn Python",
+    "excerpt": "Stop watching 10-hour tutorials without typing a single line. Here's a project-first approach that sticks.",
+    "author": "Neha Badgujar",
+    "date": "2026-06-12",
+    "category": "Programming",
+    "image": "assets/images/blog/learn-python.svg",
+    "tags": ["Python", "Study Tips", "Programming"],
+    "readTime": 6,
+    "content": "One of the most common mistakes I see in students learning Python is passive consumption — watching tutorial after tutorial without ever getting stuck. Being stuck is where the actual learning happens.\n\nInstead, I recommend a project-first approach: pick a tiny real problem (a expense tracker, a quiz app, a file organizer), and learn just enough syntax to build it. Look things up as you go. This mirrors how professional developers actually work and builds real problem-solving muscle far faster than sequential tutorial-watching."
+  },
+  {
+    "id": "prompt-engineering-students",
+    "title": "5 Prompt Engineering Techniques Every Student Should Know",
+    "excerpt": "From chain-of-thought to role prompting — practical techniques to get dramatically better answers from ChatGPT, Claude and Gemini.",
+    "author": "Neha Badgujar",
+    "date": "2026-06-05",
+    "category": "Artificial Intelligence",
+    "image": "assets/images/blog/prompt-techniques.svg",
+    "tags": ["AI Tools", "Prompt Engineering", "Productivity"],
+    "readTime": 5,
+    "content": "Most students use AI chatbots at maybe 20% of their real potential because they ask vague, single-line questions. Here are five techniques that consistently produce better results: (1) give role & context, (2) ask for step-by-step reasoning, (3) provide examples of the output format you want, (4) iterate instead of expecting perfection in one shot, and (5) ask the model to critique its own answer before finalizing."
+  },
+  {
+    "id": "embedded-systems-first-project",
+    "title": "Your First Embedded Systems Project: A Practical Roadmap",
+    "excerpt": "Confused about where to start with 8051 or Arduino? Here's a beginner-friendly roadmap from theory to your first working circuit.",
+    "author": "Neha Badgujar",
+    "date": "2026-05-28",
+    "category": "Electronics",
+    "image": "assets/images/blog/embedded-roadmap.svg",
+    "tags": ["Embedded Systems", "8051", "Projects"],
+    "readTime": 8,
+    "content": "Embedded systems can feel overwhelming at first because it sits at the intersection of hardware and software. My advice: start with the smallest possible working circuit — blinking an LED — and build up complexity one peripheral at a time: digital I/O, then timers, then interrupts, then serial communication, then sensors.\n\nThis article walks through a 6-step roadmap that takes you from zero to a working sensor-based mini project, with links to the relevant modules in our Embedded Systems with 8051 course."
+  },
+  {
+    "id": "outcome-based-education",
+    "title": "What Outcome-Based Education Actually Means for Students",
+    "excerpt": "OBE isn't just an accreditation buzzword — here's how it should change the way you approach every course.",
+    "author": "Neha Badgujar",
+    "date": "2026-05-15",
+    "category": "Education",
+    "image": "assets/images/blog/obe.svg",
+    "tags": ["Outcome Based Education", "Teaching", "Higher Education"],
+    "readTime": 6,
+    "content": "Outcome-Based Education (OBE) shifts the focus from 'what was taught' to 'what students can actually do' after a course. As faculty, I design every module around measurable Course Outcomes (COs) mapped to Program Outcomes (POs). As a student, understanding this framework helps you focus your study time on demonstrable skills rather than just memorization — which pays off directly in interviews and projects."
+  },
+  {
+    "id": "adc-dac-explained",
+    "title": "ADC & DAC Explained: The Bridge Between Analog and Digital Worlds",
+    "excerpt": "A clear, intuitive breakdown of how analog-to-digital and digital-to-analog converters actually work — with solved examples.",
+    "author": "Neha Badgujar",
+    "date": "2026-05-02",
+    "category": "Electronics",
+    "image": "assets/images/blog/adc-dac.svg",
+    "tags": ["ADC", "DAC", "Electronics"],
+    "readTime": 7,
+    "content": "Every time your phone records audio or your smartwatch reads your heart rate, an ADC is converting a continuous analog signal into discrete digital values. This article breaks down sampling, quantization and resolution intuitively, followed by a look at common DAC architectures — a topic close to my research interests in noise cancellation and signal processing."
+  },
+  {
+    "id": "ai-tools-for-research",
+    "title": "The Best AI Tools for Academic Research in 2026",
+    "excerpt": "NotebookLM, Perplexity, Claude and more — a practical comparison for literature review, summarization and citation work.",
+    "author": "Neha Badgujar",
+    "date": "2026-04-22",
+    "category": "Artificial Intelligence",
+    "image": "assets/images/blog/ai-research-tools.svg",
+    "tags": ["AI Tools", "Research", "NotebookLM"],
+    "readTime": 6,
+    "content": "Academic research workflows have changed dramatically. Tools like NotebookLM let you ground answers in your own uploaded papers, Perplexity is excellent for fast, cited web research, and Claude excels at long-document synthesis. This post covers how I personally use each tool in my own research on ADC/DAC design and noise cancellation, while being careful to always verify citations manually."
+  },
+  {
+    "id": "software-testing-istqb",
+    "title": "Why Every Engineering Student Should Learn Software Testing Basics",
+    "excerpt": "Software testing isn't just for CS majors. Here's why ISTQB fundamentals are a valuable addition to any engineering resume.",
+    "author": "Neha Badgujar",
+    "date": "2026-04-10",
+    "category": "Career",
+    "image": "assets/images/blog/software-testing.svg",
+    "tags": ["Software Testing", "ISTQB", "Career"],
+    "readTime": 5,
+    "content": "Quality assurance and software testing skills are transferable across almost every tech role — including embedded and hardware-adjacent roles where firmware testing is critical. This post explains the ISTQB Foundation syllabus at a high level and why I recommend it as a valuable, resume-boosting certification even for electronics students."
+  }
+]

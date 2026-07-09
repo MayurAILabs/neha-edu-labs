@@ -1,0 +1,385 @@
+[
+  {
+    "id": "ai-foundations",
+    "title": "Artificial Intelligence Foundations",
+    "category": "ai-ml",
+    "categoryLabel": "Artificial Intelligence",
+    "level": "Beginner",
+    "duration": "8 weeks",
+    "lessons": 38,
+    "image": "assets/images/courses/ai-foundations.svg",
+    "description": "A complete introduction to AI concepts, search algorithms, neural networks and real-world applications — no prior AI background needed.",
+    "instructor": "Neha Badgujar",
+    "tags": ["AI", "Neural Networks", "Python"],
+    "rating": 4.9,
+    "students": 2140,
+    "overview": "This course builds a strong conceptual and practical foundation in Artificial Intelligence. You'll learn how intelligent systems perceive, reason and learn — from classic search algorithms to modern neural networks — while writing real Python code every week.",
+    "roadmap": [
+      "Week 1-2: What is AI? Intelligent agents & search",
+      "Week 3-4: Knowledge representation & logic",
+      "Week 5-6: Introduction to Machine Learning & Neural Networks",
+      "Week 7: Natural Language Processing basics",
+      "Week 8: Capstone mini-project + review"
+    ],
+    "syllabus": [
+      { "module": "Module 1 — Foundations of AI", "topics": ["History & philosophy of AI", "Intelligent agents", "Uninformed & informed search", "Adversarial search (minimax, alpha-beta)"] },
+      { "module": "Module 2 — Knowledge & Reasoning", "topics": ["Propositional & first-order logic", "Knowledge graphs", "Probabilistic reasoning", "Bayesian networks"] },
+      { "module": "Module 3 — Learning Systems", "topics": ["Supervised vs unsupervised learning", "Perceptrons & neural networks", "Backpropagation intuition", "Overfitting & regularization"] },
+      { "module": "Module 4 — Applied AI", "topics": ["NLP basics: tokenization, embeddings", "Computer vision basics", "Ethics & responsible AI", "Capstone project"] }
+    ],
+    "downloads": [
+      { "title": "Course Handbook (PDF)", "url": "#" },
+      { "title": "Week-by-week Slides", "url": "#" },
+      { "title": "Practice Notebook Pack", "url": "#" }
+    ],
+    "faqs": [
+      { "q": "Do I need a programming background?", "a": "Basic familiarity with any programming language helps, but Week 1 includes a Python refresher." },
+      { "q": "Is a certificate provided?", "a": "Yes, a verified certificate of completion is issued after finishing all assessments." }
+    ]
+  },
+  {
+    "id": "applied-machine-learning",
+    "title": "Applied Machine Learning with Python",
+    "category": "ai-ml",
+    "categoryLabel": "Machine Learning",
+    "level": "Intermediate",
+    "duration": "10 weeks",
+    "lessons": 52,
+    "image": "assets/images/courses/applied-ml.svg",
+    "description": "Hands-on machine learning using scikit-learn and pandas — regression, classification, clustering and model evaluation with real datasets.",
+    "instructor": "Neha Badgujar",
+    "tags": ["Machine Learning", "scikit-learn", "pandas"],
+    "rating": 4.8,
+    "students": 1875,
+    "overview": "Move from theory to practice with real datasets. You'll build, evaluate and tune regression, classification and clustering models while learning the full ML workflow used in industry.",
+    "roadmap": [
+      "Week 1-2: Data wrangling with pandas & NumPy",
+      "Week 3-4: Regression models & evaluation metrics",
+      "Week 5-6: Classification algorithms",
+      "Week 7-8: Clustering & dimensionality reduction",
+      "Week 9-10: Model deployment basics + capstone"
+    ],
+    "syllabus": [
+      { "module": "Module 1 — Data Foundations", "topics": ["pandas essentials", "Data cleaning", "Exploratory data analysis", "Feature engineering"] },
+      { "module": "Module 2 — Supervised Learning", "topics": ["Linear & logistic regression", "Decision trees & random forests", "Support vector machines", "Model evaluation & cross-validation"] },
+      { "module": "Module 3 — Unsupervised Learning", "topics": ["K-Means clustering", "Hierarchical clustering", "PCA", "Anomaly detection"] },
+      { "module": "Module 4 — Real World ML", "topics": ["Pipelines & preprocessing", "Hyperparameter tuning", "Model deployment with Flask", "Capstone project presentation"] }
+    ],
+    "downloads": [
+      { "title": "Dataset Pack", "url": "#" },
+      { "title": "Jupyter Notebooks", "url": "#" }
+    ],
+    "faqs": [
+      { "q": "What tools are used?", "a": "Python, pandas, scikit-learn, Jupyter Notebook and Matplotlib." },
+      { "q": "Are datasets provided?", "a": "Yes, curated real-world datasets are provided for every module." }
+    ]
+  },
+  {
+    "id": "prompt-engineering",
+    "title": "Prompt Engineering for Everyone",
+    "category": "ai-ml",
+    "categoryLabel": "Prompt Engineering",
+    "level": "Beginner",
+    "duration": "3 weeks",
+    "lessons": 18,
+    "image": "assets/images/courses/prompt-engineering.svg",
+    "description": "Master effective prompting techniques for ChatGPT, Claude and Gemini to boost productivity in study, research and coding.",
+    "instructor": "Neha Badgujar",
+    "tags": ["Prompt Engineering", "LLMs", "Productivity"],
+    "rating": 4.7,
+    "students": 3320,
+    "overview": "Learn how large language models interpret instructions and how to craft prompts that consistently produce high-quality, reliable output for study notes, research, coding help and content creation.",
+    "roadmap": [
+      "Week 1: How LLMs work + prompting fundamentals",
+      "Week 2: Advanced techniques — chain-of-thought, few-shot, role prompts",
+      "Week 3: Tool-specific workflows (ChatGPT, Claude, Gemini) + capstone prompts library"
+    ],
+    "syllabus": [
+      { "module": "Module 1 — Fundamentals", "topics": ["How transformers generate text", "Zero-shot vs few-shot prompting", "Instruction clarity & context windows"] },
+      { "module": "Module 2 — Advanced Techniques", "topics": ["Chain-of-thought prompting", "Role & persona prompting", "Structured output prompting (JSON/tables)"] },
+      { "module": "Module 3 — Applied Workflows", "topics": ["Study & research workflows", "Coding assistant workflows", "Building a personal prompt library"] }
+    ],
+    "downloads": [
+      { "title": "Prompt Library Starter Pack", "url": "#" }
+    ],
+    "faqs": [
+      { "q": "Which AI tools are covered?", "a": "ChatGPT, Claude, Gemini, Perplexity and NotebookLM." }
+    ]
+  },
+  {
+    "id": "python-programming",
+    "title": "Python Programming — Zero to Hero",
+    "category": "programming",
+    "categoryLabel": "Programming",
+    "level": "Beginner",
+    "duration": "8 weeks",
+    "lessons": 45,
+    "image": "assets/images/courses/python.svg",
+    "description": "A complete Python course covering syntax, data structures, OOP, file handling and mini projects for engineering students.",
+    "instructor": "Neha Badgujar",
+    "tags": ["Python", "OOP", "Data Structures"],
+    "rating": 4.9,
+    "students": 4210,
+    "overview": "Designed for absolute beginners, this course takes you from Python syntax to writing clean, object-oriented programs and small automation projects.",
+    "roadmap": [
+      "Week 1-2: Syntax, variables, control flow",
+      "Week 3-4: Functions, data structures, file handling",
+      "Week 5-6: Object-Oriented Programming",
+      "Week 7: Error handling & modules",
+      "Week 8: Mini projects"
+    ],
+    "syllabus": [
+      { "module": "Module 1 — Getting Started", "topics": ["Installing Python", "Variables & data types", "Operators", "Conditionals & loops"] },
+      { "module": "Module 2 — Core Programming", "topics": ["Functions & scope", "Lists, tuples, dicts, sets", "File I/O", "String manipulation"] },
+      { "module": "Module 3 — OOP in Python", "topics": ["Classes & objects", "Inheritance & polymorphism", "Encapsulation", "Exception handling"] },
+      { "module": "Module 4 — Projects", "topics": ["Command-line to-do app", "Automated file organizer", "Simple data analysis script"] }
+    ],
+    "downloads": [
+      { "title": "Python Cheat Sheet", "url": "#" },
+      { "title": "50 Practice Problems", "url": "#" }
+    ],
+    "faqs": [
+      { "q": "Is this course beginner friendly?", "a": "Yes, it assumes zero prior programming knowledge." }
+    ]
+  },
+  {
+    "id": "sql-for-engineers",
+    "title": "SQL for Engineers & Analysts",
+    "category": "programming",
+    "categoryLabel": "SQL",
+    "level": "Beginner",
+    "duration": "5 weeks",
+    "lessons": 28,
+    "image": "assets/images/courses/sql.svg",
+    "description": "Learn database design, queries, joins and optimization using real-world engineering and academic datasets.",
+    "instructor": "Neha Badgujar",
+    "tags": ["SQL", "Databases", "Data Analysis"],
+    "rating": 4.7,
+    "students": 1650,
+    "overview": "Covers relational database fundamentals and hands-on SQL querying — from basic SELECT statements to joins, subqueries and query optimization.",
+    "roadmap": [
+      "Week 1: Database fundamentals & ER diagrams",
+      "Week 2: SELECT, WHERE, ORDER BY, GROUP BY",
+      "Week 3: Joins & subqueries",
+      "Week 4: Indexes & optimization",
+      "Week 5: Mini project — build & query a database"
+    ],
+    "syllabus": [
+      { "module": "Module 1 — Database Basics", "topics": ["Relational model", "ER diagrams", "Normalization"] },
+      { "module": "Module 2 — Querying", "topics": ["SELECT & filtering", "Aggregation & GROUP BY", "Joins (INNER, LEFT, RIGHT, FULL)"] },
+      { "module": "Module 3 — Advanced SQL", "topics": ["Subqueries & CTEs", "Views & indexes", "Query performance tuning"] }
+    ],
+    "downloads": [
+      { "title": "SQL Practice Database", "url": "#" }
+    ],
+    "faqs": [
+      { "q": "Which database is used?", "a": "MySQL and PostgreSQL examples are both covered." }
+    ]
+  },
+  {
+    "id": "power-bi-analytics",
+    "title": "Power BI for Data Analytics",
+    "category": "programming",
+    "categoryLabel": "Power BI",
+    "level": "Intermediate",
+    "duration": "4 weeks",
+    "lessons": 22,
+    "image": "assets/images/courses/powerbi.svg",
+    "description": "Build interactive dashboards, learn DAX formulas and turn raw data into compelling visual stories with Power BI.",
+    "instructor": "Neha Badgujar",
+    "tags": ["Power BI", "DAX", "Dashboards"],
+    "rating": 4.6,
+    "students": 980,
+    "overview": "Learn to import, transform and visualize data using Power BI, including DAX formulas, relationships and publishing interactive dashboards.",
+    "roadmap": [
+      "Week 1: Power BI interface & data import",
+      "Week 2: Data modeling & relationships",
+      "Week 3: DAX formulas",
+      "Week 4: Dashboard design & publishing"
+    ],
+    "syllabus": [
+      { "module": "Module 1 — Getting Started", "topics": ["Power Query basics", "Data cleaning", "Data modeling"] },
+      { "module": "Module 2 — DAX & Visuals", "topics": ["Calculated columns & measures", "Common DAX functions", "Choosing the right visual"] },
+      { "module": "Module 3 — Publishing", "topics": ["Dashboards vs reports", "Sharing & permissions", "AI-assisted data storytelling"] }
+    ],
+    "downloads": [
+      { "title": "Sample Dataset & .pbix File", "url": "#" }
+    ],
+    "faqs": [
+      { "q": "Do I need Excel experience?", "a": "Basic spreadsheet familiarity is helpful but not mandatory." }
+    ]
+  },
+  {
+    "id": "digital-electronics",
+    "title": "Digital Electronics Fundamentals",
+    "category": "electronics",
+    "categoryLabel": "Digital Electronics",
+    "level": "Beginner",
+    "duration": "10 weeks",
+    "lessons": 40,
+    "image": "assets/images/courses/digital-electronics.svg",
+    "description": "Number systems, logic gates, combinational & sequential circuits, and flip-flops explained with simulations and solved problems.",
+    "instructor": "Neha Badgujar",
+    "tags": ["Digital Electronics", "Logic Gates", "Circuits"],
+    "rating": 4.8,
+    "students": 2560,
+    "overview": "A core electronics engineering course covering number systems, Boolean algebra, combinational and sequential circuit design, essential for every ECE/EE student.",
+    "roadmap": [
+      "Week 1-2: Number systems & Boolean algebra",
+      "Week 3-4: Logic gates & K-Maps",
+      "Week 5-6: Combinational circuits",
+      "Week 7-8: Sequential circuits & flip-flops",
+      "Week 9-10: Counters, registers & lab practicals"
+    ],
+    "syllabus": [
+      { "module": "Module 1 — Number Systems", "topics": ["Binary, octal, hex", "Binary arithmetic", "Boolean algebra & De Morgan's laws"] },
+      { "module": "Module 2 — Combinational Logic", "topics": ["Logic gates", "K-Maps & simplification", "Adders, multiplexers, decoders"] },
+      { "module": "Module 3 — Sequential Logic", "topics": ["Latches & flip-flops", "Counters & shift registers", "State machines"] }
+    ],
+    "downloads": [
+      { "title": "Formula Sheet", "url": "#" },
+      { "title": "Lab Manual", "url": "#" },
+      { "title": "Previous Year Question Papers", "url": "#" }
+    ],
+    "faqs": [
+      { "q": "Is lab simulation software required?", "a": "We recommend a free circuit simulator; installation guide is provided in Week 1." }
+    ]
+  },
+  {
+    "id": "analog-electronics",
+    "title": "Analog Electronics & Circuit Design",
+    "category": "electronics",
+    "categoryLabel": "Analog Electronics",
+    "level": "Intermediate",
+    "duration": "9 weeks",
+    "lessons": 36,
+    "image": "assets/images/courses/analog-electronics.svg",
+    "description": "Diodes, transistors, op-amps, amplifiers and analog signal processing with practical circuit design examples.",
+    "instructor": "Neha Badgujar",
+    "tags": ["Analog Electronics", "Op-Amps", "Amplifiers"],
+    "rating": 4.7,
+    "students": 1420,
+    "overview": "Covers analog device physics and circuit design — from diode characteristics to transistor biasing and operational amplifier applications.",
+    "roadmap": [
+      "Week 1-2: Diodes & rectifiers",
+      "Week 3-4: BJT & MOSFET fundamentals",
+      "Week 5-6: Amplifier design & biasing",
+      "Week 7-9: Op-amps & signal processing circuits"
+    ],
+    "syllabus": [
+      { "module": "Module 1 — Devices", "topics": ["PN junction & diodes", "Rectifier circuits", "BJT & MOSFET basics"] },
+      { "module": "Module 2 — Amplifiers", "topics": ["Biasing techniques", "Small-signal analysis", "Frequency response"] },
+      { "module": "Module 3 — Op-Amp Applications", "topics": ["Inverting/non-inverting amplifiers", "Filters", "Oscillators"] }
+    ],
+    "downloads": [
+      { "title": "Circuit Design Worksheets", "url": "#" }
+    ],
+    "faqs": [
+      { "q": "Are ADC/DAC circuits covered?", "a": "Yes, ADC/DAC fundamentals are covered in the final module with solved numericals." }
+    ]
+  },
+  {
+    "id": "embedded-8051",
+    "title": "Embedded Systems with 8051 Microcontroller",
+    "category": "electronics",
+    "categoryLabel": "Embedded Systems",
+    "level": "Intermediate",
+    "duration": "10 weeks",
+    "lessons": 44,
+    "image": "assets/images/courses/embedded-8051.svg",
+    "description": "Architecture, assembly programming, interfacing and real embedded projects using the 8051 microcontroller family.",
+    "instructor": "Neha Badgujar",
+    "tags": ["Embedded Systems", "8051", "Microcontrollers"],
+    "rating": 4.9,
+    "students": 1980,
+    "overview": "A hands-on embedded systems course focused on the 8051 microcontroller — architecture, assembly & C programming, peripheral interfacing and mini projects.",
+    "roadmap": [
+      "Week 1-2: 8051 architecture & memory organization",
+      "Week 3-4: Assembly programming basics",
+      "Week 5-6: Embedded C programming",
+      "Week 7-8: Timers, interrupts & serial communication",
+      "Week 9-10: Interfacing LEDs, LCD, sensors + mini project"
+    ],
+    "syllabus": [
+      { "module": "Module 1 — Architecture", "topics": ["8051 block diagram", "Memory organization", "Registers & addressing modes"] },
+      { "module": "Module 2 — Programming", "topics": ["Assembly instruction set", "Embedded C basics", "I/O port programming"] },
+      { "module": "Module 3 — Peripherals", "topics": ["Timers & counters", "Interrupts", "Serial communication (UART)"] },
+      { "module": "Module 4 — Projects", "topics": ["LED/LCD interfacing", "Sensor-based mini project", "Motor control basics"] }
+    ],
+    "downloads": [
+      { "title": "8051 Instruction Set Reference", "url": "#" },
+      { "title": "Lab Manual", "url": "#" }
+    ],
+    "faqs": [
+      { "q": "Is hardware required?", "a": "A simulator is used for most labs; hardware kit recommendations are provided for optional hands-on practice." }
+    ]
+  },
+  {
+    "id": "vlsi-design",
+    "title": "VLSI Design — From Transistors to Chips",
+    "category": "electronics",
+    "categoryLabel": "VLSI",
+    "level": "Advanced",
+    "duration": "12 weeks",
+    "lessons": 50,
+    "image": "assets/images/courses/vlsi.svg",
+    "description": "CMOS design, digital IC design flow, Verilog HDL and an introduction to the physical design process — taught by a VLSI specialist.",
+    "instructor": "Neha Badgujar",
+    "tags": ["VLSI", "CMOS", "Verilog"],
+    "rating": 4.9,
+    "students": 1120,
+    "overview": "An advanced course covering the complete VLSI design flow — from CMOS device fundamentals to RTL design in Verilog and an introduction to physical design, taught by an educator with an M.Tech in VLSI Design.",
+    "roadmap": [
+      "Week 1-3: MOS transistor theory & CMOS fabrication basics",
+      "Week 4-6: CMOS logic design & static/dynamic circuits",
+      "Week 7-9: Verilog HDL & RTL design",
+      "Week 10-12: Design flow, verification & intro to physical design"
+    ],
+    "syllabus": [
+      { "module": "Module 1 — Device Fundamentals", "topics": ["MOSFET operation", "CMOS fabrication overview", "Scaling & technology nodes"] },
+      { "module": "Module 2 — CMOS Circuit Design", "topics": ["Static CMOS gates", "Dynamic logic", "Power & delay analysis"] },
+      { "module": "Module 3 — RTL Design", "topics": ["Verilog HDL basics", "Behavioral vs structural modeling", "Testbenches & simulation"] },
+      { "module": "Module 4 — Design Flow", "topics": ["Synthesis overview", "Static timing analysis basics", "Intro to floorplanning & place-and-route"] }
+    ],
+    "downloads": [
+      { "title": "Verilog Code Templates", "url": "#" },
+      { "title": "VLSI Design Flow Cheat Sheet", "url": "#" }
+    ],
+    "faqs": [
+      { "q": "What background is required?", "a": "Digital Electronics fundamentals and basic programming logic are recommended prerequisites." }
+    ]
+  },
+  {
+    "id": "communication-systems",
+    "title": "Analog & Digital Communication Systems",
+    "category": "electronics",
+    "categoryLabel": "Communication",
+    "level": "Intermediate",
+    "duration": "9 weeks",
+    "lessons": 34,
+    "image": "assets/images/courses/communication.svg",
+    "description": "Modulation techniques, noise analysis, sampling theory and digital communication fundamentals for ECE students.",
+    "instructor": "Neha Badgujar",
+    "tags": ["Communication", "Modulation", "Signal Processing"],
+    "rating": 4.6,
+    "students": 890,
+    "overview": "Explores the core principles of analog and digital communication systems, including modulation, noise, sampling and error control coding.",
+    "roadmap": [
+      "Week 1-3: Analog modulation (AM, FM, PM)",
+      "Week 4-5: Noise in communication systems",
+      "Week 6-7: Sampling theorem & PCM",
+      "Week 8-9: Digital modulation & error control basics"
+    ],
+    "syllabus": [
+      { "module": "Module 1 — Analog Communication", "topics": ["AM/FM/PM fundamentals", "Modulator & demodulator circuits"] },
+      { "module": "Module 2 — Noise & Sampling", "topics": ["Noise types & SNR", "Sampling theorem", "Pulse Code Modulation"] },
+      { "module": "Module 3 — Digital Communication", "topics": ["ASK, FSK, PSK", "Basic error control coding", "Intro to noise cancellation techniques"] }
+    ],
+    "downloads": [
+      { "title": "Formula Sheet", "url": "#" }
+    ],
+    "faqs": [
+      { "q": "Is this useful for GATE preparation?", "a": "Yes, the syllabus closely aligns with GATE ECE communication topics." }
+    ]
+  }
+]

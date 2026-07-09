@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Student Resources | Neha Edu Labs</title>
+<meta name="description" content="Student resources from Neha Edu Labs — a daily quiz, MCQ practice sets, coding challenges, interview questions and a career corner covering resumes, interviews, placements, internships and higher studies.">
+<meta name="keywords" content="student resources, daily quiz, MCQ practice, coding challenges, interview questions, placement preparation, resume tips, GATE preparation, internships, engineering career guidance">
+<meta name="author" content="Neha Badgujar">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.nehaedulabs.in/resources.html">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Neha Edu Labs">
+<meta property="og:title" content="Student Resources | Neha Edu Labs">
+<meta property="og:description" content="A daily quiz, MCQ practice sets, coding challenges, interview questions and a career corner for engineering students.">
+<meta property="og:url" content="https://www.nehaedulabs.in/resources.html">
+<meta property="og:image" content="https://www.nehaedulabs.in/assets/images/og-image.svg">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Student Resources | Neha Edu Labs">
+<meta name="twitter:description" content="A daily quiz, MCQ practice sets, coding challenges, interview questions and a career corner for engineering students.">
+<meta name="twitter:image" content="https://www.nehaedulabs.in/assets/images/og-image.svg">
+
+<meta name="theme-color" content="#2563EB">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icons/icon-192.svg">
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+<!-- AOS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+
+<!-- Site CSS -->
+<link rel="stylesheet" href="assets/css/style.css">
+
+<!-- JSON-LD: BreadcrumbList -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.nehaedulabs.in/" },
+    { "@type": "ListItem", "position": 2, "name": "Resources", "item": "https://www.nehaedulabs.in/resources.html" }
+  ]
+}
+</script>
+</head>
+<body data-page="resources">
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<div class="page-loader" id="pageLoader"><div class="loader-ring" role="status" aria-label="Loading"></div></div>
+
+<header class="site-header" id="site-header"></header>
+
+<main id="main-content">
+
+  <!-- PAGE HERO -->
+  <section class="page-hero">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb" data-aos="fade-up">
+        <a href="index.html">Home</a> <i class="fa-solid fa-chevron-right" style="font-size:.65em;"></i> <span>Resources</span>
+      </nav>
+      <h1 data-aos="fade-up">Student Resources</h1>
+      <p data-aos="fade-up" data-aos-delay="100">Everything outside the syllabus that still matters — a daily quiz to keep your fundamentals sharp, practice resources for interviews and placements, and honest, actionable career guidance.</p>
+    </div>
+  </section>
+
+  <!-- ===================== SECTION A: STUDENT CORNER / QUIZ ===================== -->
+  <section class="section" id="quiz">
+    <div class="container" style="max-width:820px;">
+      <div class="section-head" data-aos="fade-up">
+        <span class="eyebrow"><i class="fa-solid fa-circle-question"></i> Student Corner</span>
+        <h2>Daily Quiz</h2>
+        <p>Test yourself with a new question — covering Digital Electronics, Python, VLSI, AI fundamentals and Embedded Systems.</p>
+      </div>
+
+      <div class="card" data-aos="fade-up" style="padding:2rem;">
+        <span class="badge badge-primary mb-2" id="quizTopic" style="display:inline-block;">Digital Electronics</span>
+        <h3 id="quizQuestion" class="mb-3">Which logic gate produces a HIGH output only when all of its inputs are HIGH?</h3>
+        <div id="quizOptions">
+          <button type="button" class="quiz-option" data-correct="true">AND gate</button>
+          <button type="button" class="quiz-option" data-correct="false">OR gate</button>
+          <button type="button" class="quiz-option" data-correct="false">NAND gate</button>
+          <button type="button" class="quiz-option" data-correct="false">XOR gate</button>
+        </div>
+        <div id="quizFeedback" class="mt-3" style="font-weight:600;min-height:1.5em;"></div>
+        <div class="flex gap-md mt-3">
+          <button type="button" id="nextQuestionBtn" class="btn btn-primary">Next Question <i class="fa-solid fa-arrow-right"></i></button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRACTICE RESOURCES -->
+  <section class="section" style="background:var(--bg-muted);">
+    <div class="container">
+      <div class="section-head" data-aos="fade-up">
+        <span class="eyebrow"><i class="fa-solid fa-dumbbell"></i> Keep Practicing</span>
+        <h2>Practice resources for exams &amp; interviews</h2>
+        <p>New questions and challenges are added regularly — bookmark this page and check back often.</p>
+      </div>
+      <div class="grid grid-3">
+        <div class="card" data-aos="fade-up" style="padding:2rem;">
+          <div style="width:56px;height:56px;border-radius:16px;background:var(--gradient-brand);display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.4rem;margin-bottom:1rem;"><i class="fa-solid fa-list-check"></i></div>
+          <h3 class="mb-2">MCQ Practice Sets</h3>
+          <p class="card__desc mb-3">Topic-wise multiple choice question sets across Digital &amp; Analog Electronics, Embedded Systems, VLSI, Python and SQL — good for quick revision before exams and lab vivas. New questions added regularly.</p>
+          <a href="notes.html" class="btn btn-outline">Browse Notes &amp; Practice <i class="fa-solid fa-arrow-right"></i></a>
+        </div>
+        <div class="card" data-aos="fade-up" data-aos-delay="100" style="padding:2rem;">
+          <div style="width:56px;height:56px;border-radius:16px;background:var(--gradient-brand);display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.4rem;margin-bottom:1rem;"><i class="fa-solid fa-code"></i></div>
+          <h3 class="mb-2">Coding Challenges</h3>
+          <p class="card__desc mb-3">Hands-on Python, embedded and AI mini-projects that double as coding practice — built for applying concepts rather than just reading about them, with source code and difficulty ratings.</p>
+          <a href="projects.html" class="btn btn-outline">Explore Projects <i class="fa-solid fa-arrow-right"></i></a>
+        </div>
+        <div class="card" data-aos="fade-up" data-aos-delay="200" style="padding:2rem;">
+          <div style="width:56px;height:56px;border-radius:16px;background:var(--gradient-brand);display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.4rem;margin-bottom:1rem;"><i class="fa-solid fa-comments"></i></div>
+          <h3 class="mb-2">Interview Questions</h3>
+          <p class="card__desc mb-3">Commonly asked technical and HR interview questions for Electronics, VLSI, Embedded Systems and core CS roles, paired with guidance on how to structure a strong answer — expanding steadily.</p>
+          <a href="#career" class="btn btn-outline">See Career Corner <i class="fa-solid fa-arrow-right"></i></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== SECTION B: CAREER CORNER ===================== -->
+  <section class="section" id="career">
+    <div class="container">
+      <div class="section-head" data-aos="fade-up">
+        <span class="eyebrow"><i class="fa-solid fa-briefcase"></i> Career Corner</span>
+        <h2>Get placement-ready, not just exam-ready</h2>
+        <p>Concrete, actionable guidance on resumes, interviews, placements, internships and what comes after your degree — no generic fluff.</p>
+      </div>
+      <div class="grid grid-3">
+        <div class="card" data-aos="fade-up" style="padding:1.75rem;">
+          <i class="fa-solid fa-file-lines" style="color:var(--color-primary);font-size:1.4rem;"></i>
+          <h4 class="mt-2 mb-2">Resume Tips</h4>
+          <ul style="list-style:none;padding:0;">
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Lead with projects, not just coursework</li>
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Quantify impact where possible (accuracy, speed, users)</li>
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Keep it to one page for under 3 years of experience</li>
+          </ul>
+        </div>
+        <div class="card" data-aos="fade-up" data-aos-delay="100" style="padding:1.75rem;">
+          <i class="fa-solid fa-comments" style="color:var(--color-secondary);font-size:1.4rem;"></i>
+          <h4 class="mt-2 mb-2">Interview Tips</h4>
+          <ul style="list-style:none;padding:0;">
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Practice explaining your own projects out loud, clearly</li>
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Revise fundamentals — gates, OOPs, DBMS, OSI model</li>
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Ask thoughtful questions back at the end</li>
+          </ul>
+        </div>
+        <div class="card" data-aos="fade-up" data-aos-delay="200" style="padding:1.75rem;">
+          <i class="fa-solid fa-building" style="color:var(--color-accent);font-size:1.4rem;"></i>
+          <h4 class="mt-2 mb-2">Placement Preparation</h4>
+          <ul style="list-style:none;padding:0;">
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Start aptitude &amp; reasoning practice a semester early</li>
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Mock group discussions and technical rounds with peers</li>
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Research the company and role before every interview</li>
+          </ul>
+        </div>
+        <div class="card" data-aos="fade-up" style="padding:1.75rem;">
+          <i class="fa-solid fa-user-graduate" style="color:var(--color-primary);font-size:1.4rem;"></i>
+          <h4 class="mt-2 mb-2">Internships</h4>
+          <ul style="list-style:none;padding:0;">
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Apply early — many core-branch internships open by mid-year</li>
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; A focused 6-week internship beats an unfocused 6-month one</li>
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Document what you built — it becomes resume material</li>
+          </ul>
+        </div>
+        <div class="card" data-aos="fade-up" data-aos-delay="100" style="padding:1.75rem;">
+          <i class="fa-solid fa-graduation-cap" style="color:var(--color-secondary);font-size:1.4rem;"></i>
+          <h4 class="mt-2 mb-2">Higher Studies (GATE / M.Tech / MS Abroad)</h4>
+          <ul style="list-style:none;padding:0;">
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Decide GATE vs. MS vs. placements by 3rd year, not last minute</li>
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; For GATE, prioritize previous years' papers over passive revision</li>
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; For MS abroad, start SOP drafts and LOR conversations a year ahead</li>
+          </ul>
+        </div>
+        <div class="card" data-aos="fade-up" data-aos-delay="200" style="padding:1.75rem;">
+          <i class="fa-solid fa-layer-group" style="color:var(--color-accent);font-size:1.4rem;"></i>
+          <h4 class="mt-2 mb-2">Building a Portfolio</h4>
+          <ul style="list-style:none;padding:0;">
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Host 3-4 solid projects on GitHub with clear README files</li>
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Deploy at least one project live so recruiters can click it</li>
+            <li class="mb-2"><i class="fa-solid fa-circle-check" style="color:var(--color-success);"></i>&nbsp; Write a short post explaining the "why", not just the "what"</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CAREER CTA -->
+  <section class="section-tight">
+    <div class="container">
+      <div class="stats-strip" data-aos="zoom-in" style="text-align:center;padding:3.5rem 2rem;">
+        <h2 style="color:#fff;">Want structured guidance, not just tips?</h2>
+        <p style="color:rgba(255,255,255,.85);max-width:520px;margin:.75rem auto 1.75rem;">Explore our full courses for structured, outcome-based learning, or reach out directly for one-on-one mentorship on placements and higher studies.</p>
+        <div class="flex gap-md" style="justify-content:center;flex-wrap:wrap;">
+          <a href="courses.html" class="btn btn-white">Explore Courses <i class="fa-solid fa-arrow-right"></i></a>
+          <a href="contact.html" class="btn btn-outline" style="border-color:rgba(255,255,255,.5);color:#fff;">Get Mentorship</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer" id="site-footer"></footer>
+
+<div class="install-banner" id="installBanner">
+  <i class="fa-solid fa-download" style="font-size:1.4rem;color:var(--color-primary);"></i>
+  <div><strong>Install Neha Edu Labs</strong><p class="text-muted" style="font-size:.8rem;margin:0;">Add to your home screen for offline access.</p></div>
+  <button id="installAccept" class="btn btn-primary btn-sm">Install</button>
+  <button id="installDismiss" class="btn-icon btn-outline" aria-label="Dismiss"><i class="fa-solid fa-xmark"></i></button>
+</div>
+
+<!-- Scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script src="assets/js/components.js" defer></script>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/news.js"></script>
+<script src="assets/js/search.js"></script>
+<script src="assets/js/main.js"></script>
+<script>
+  (function () {
+    "use strict";
+
+    // Question 0 matches the markup already in the HTML above, so the
+    // page shows a real question even before this script runs.
+    var quizQuestions = [
+      {
+        topic: "Digital Electronics",
+        question: "Which logic gate produces a HIGH output only when all of its inputs are HIGH?",
+        options: [
+          { text: "AND gate", correct: true },
+          { text: "OR gate", correct: false },
+          { text: "NAND gate", correct: false },
+          { text: "XOR gate", correct: false }
+        ]
+      },
+      {
+        topic: "Python",
+        question: "What is the output of print(3 // 2) in Python?",
+        options: [
+          { text: "1", correct: true },
+          { text: "1.5", correct: false },
+          { text: "2", correct: false },
+          { text: "1.0", correct: false }
+        ]
+      },
+      {
+        topic: "VLSI",
+        question: "What is the primary advantage of CMOS logic over NMOS-only logic?",
+        options: [
+          { text: "Near-zero static power dissipation", correct: true },
+          { text: "Higher static power consumption", correct: false },
+          { text: "It requires only NMOS transistors", correct: false },
+          { text: "It cannot implement NAND gates", correct: false }
+        ]
+      },
+      {
+        topic: "AI Basics",
+        question: "In machine learning, what does “overfitting” describe?",
+        options: [
+          { text: "A model that performs well on training data but poorly on unseen data", correct: true },
+          { text: "A model that performs poorly on both training and test data", correct: false },
+          { text: "A model with too few parameters to learn patterns", correct: false },
+          { text: "A model that simply trains faster than expected", correct: false }
+        ]
+      },
+      {
+        topic: "Embedded Systems",
+        question: "How many bidirectional I/O ports does the standard 8051 microcontroller provide?",
+        options: [
+          { text: "4", correct: true },
+          { text: "2", correct: false },
+          { text: "6", correct: false },
+          { text: "8", correct: false }
+        ]
+      },
+      {
+        topic: "Digital Electronics",
+        question: "Which of these memory types is volatile, losing its stored data when power is removed?",
+        options: [
+          { text: "RAM", correct: true },
+          { text: "ROM", correct: false },
+          { text: "EEPROM", correct: false },
+          { text: "Flash memory", correct: false }
+        ]
+      }
+    ];
+
+    var currentIndex = 0;
+    var topicEl, questionEl, optionsEl, feedbackEl, nextBtn;
+
+    function renderQuestion(index) {
+      var q = quizQuestions[index];
+      topicEl.textContent = q.topic;
+      questionEl.textContent = q.question;
+      feedbackEl.textContent = "";
+      feedbackEl.style.color = "";
+      optionsEl.innerHTML = "";
+      q.options.forEach(function (opt) {
+        var btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "quiz-option";
+        btn.setAttribute("data-correct", opt.correct ? "true" : "false");
+        btn.textContent = opt.text;
+        optionsEl.appendChild(btn);
+      });
+    }
+
+    function handleOptionClick(e) {
+      var btn = e.target.closest(".quiz-option");
+      if (!btn || !optionsEl.contains(btn) || btn.disabled) return;
+
+      var allOptions = optionsEl.querySelectorAll(".quiz-option");
+      allOptions.forEach(function (b) { b.disabled = true; });
+
+      var correctBtn = optionsEl.querySelector('.quiz-option[data-correct="true"]');
+      var pickedCorrect = btn.getAttribute("data-correct") === "true";
+
+      if (pickedCorrect) {
+        btn.classList.add("correct");
+        feedbackEl.textContent = "Correct! " + btn.textContent + " is right.";
+        feedbackEl.style.color = "var(--color-success)";
+      } else {
+        btn.classList.add("incorrect");
+        if (correctBtn) correctBtn.classList.add("correct");
+        feedbackEl.textContent = "Not quite — the correct answer is “" + (correctBtn ? correctBtn.textContent : "") + "”.";
+        feedbackEl.style.color = "var(--color-danger)";
+      }
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+      topicEl = document.getElementById("quizTopic");
+      questionEl = document.getElementById("quizQuestion");
+      optionsEl = document.getElementById("quizOptions");
+      feedbackEl = document.getElementById("quizFeedback");
+      nextBtn = document.getElementById("nextQuestionBtn");
+      if (!optionsEl || !nextBtn) return;
+
+      optionsEl.addEventListener("click", handleOptionClick);
+      nextBtn.addEventListener("click", function () {
+        currentIndex = (currentIndex + 1) % quizQuestions.length;
+        renderQuestion(currentIndex);
+      });
+    });
+  })();
+</script>
+</body>
+</html>

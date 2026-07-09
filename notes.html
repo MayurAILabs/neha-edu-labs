@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Free Notes &amp; Study Resources | Neha Edu Labs</title>
+<meta name="description" content="Free semester-wise and subject-wise notes, previous year question papers, lab manuals and formula sheets for Digital Electronics, Analog Electronics, Embedded Systems, VLSI, Communication Systems, Python and SQL.">
+<meta name="keywords" content="free engineering notes, digital electronics notes, analog electronics notes, embedded systems 8051 notes, VLSI design notes, communication systems notes, python notes, SQL notes, previous year question papers, lab manuals">
+<meta name="author" content="Neha Badgujar">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.nehaedulabs.in/notes.html">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Neha Edu Labs">
+<meta property="og:title" content="Free Notes & Study Resources | Neha Edu Labs">
+<meta property="og:description" content="Free semester-wise and subject-wise notes, previous year question papers, lab manuals and formula sheets — completely free.">
+<meta property="og:url" content="https://www.nehaedulabs.in/notes.html">
+<meta property="og:image" content="https://www.nehaedulabs.in/assets/images/og-image.svg">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Free Notes & Study Resources | Neha Edu Labs">
+<meta name="twitter:description" content="Free semester-wise and subject-wise notes, previous year question papers, lab manuals and formula sheets.">
+<meta name="twitter:image" content="https://www.nehaedulabs.in/assets/images/og-image.svg">
+
+<meta name="theme-color" content="#2563EB">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icons/icon-192.svg">
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+<!-- AOS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+
+<!-- Site CSS -->
+<link rel="stylesheet" href="assets/css/style.css">
+
+<!-- JSON-LD: BreadcrumbList -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.nehaedulabs.in/" },
+    { "@type": "ListItem", "position": 2, "name": "Notes", "item": "https://www.nehaedulabs.in/notes.html" }
+  ]
+}
+</script>
+</head>
+<body data-page="notes">
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<div class="page-loader" id="pageLoader"><div class="loader-ring" role="status" aria-label="Loading"></div></div>
+
+<header class="site-header" id="site-header"></header>
+
+<main id="main-content">
+
+  <!-- PAGE HERO -->
+  <section class="page-hero">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb"><a href="index.html">Home</a><i class="fa-solid fa-chevron-right" style="font-size:.6em;"></i><span>Notes</span></nav>
+      <h1>Free Notes &amp; Study Resources</h1>
+      <p>Semester-wise, subject-wise notes, previous year question papers, lab manuals and formula sheets for Digital Electronics, Analog Electronics, Embedded Systems, VLSI Design, Communication Systems, Python and SQL — completely free, no sign-up required.</p>
+    </div>
+  </section>
+
+  <!-- NOTES BROWSER -->
+  <section class="section">
+    <div class="container">
+      <div class="grid" style="grid-template-columns: 1fr; gap: 1.5rem; max-width: 640px; margin: 0 auto 2.5rem;">
+        <label class="sr-only" for="notesSearch">Search notes</label>
+        <input type="text" id="notesSearch" class="form-control" placeholder="Search notes by subject or title...">
+      </div>
+      <div class="filter-tabs" id="notes-semester-tabs">
+        <button type="button" class="filter-tab active" data-semester="">All Semesters</button>
+        <button type="button" class="filter-tab" data-semester="Semester 2">Semester 2</button>
+        <button type="button" class="filter-tab" data-semester="Semester 3">Semester 3</button>
+        <button type="button" class="filter-tab" data-semester="Semester 4">Semester 4</button>
+        <button type="button" class="filter-tab" data-semester="Semester 5">Semester 5</button>
+        <button type="button" class="filter-tab" data-semester="Semester 6">Semester 6</button>
+        <button type="button" class="filter-tab" data-semester="Semester 7">Semester 7</button>
+      </div>
+
+      <div id="notes-container"></div>
+    </div>
+  </section>
+
+  <!-- HOW TO USE THESE NOTES -->
+  <section class="section" style="background:var(--bg-muted);">
+    <div class="container">
+      <div class="section-head" data-aos="fade-up">
+        <span class="eyebrow"><i class="fa-solid fa-lightbulb"></i> Study Tips</span>
+        <h2>How to use these notes</h2>
+        <p>A few tips to get the most out of these free resources.</p>
+      </div>
+      <div class="grid grid-3">
+        <div class="card" data-aos="fade-up" style="padding:2rem;">
+          <div style="width:56px;height:56px;border-radius:16px;background:var(--gradient-brand);display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.4rem;margin-bottom:1rem;"><i class="fa-solid fa-list-check"></i></div>
+          <h3 class="mb-2">Study unit by unit</h3>
+          <p class="text-muted">Work through notes in the order they're listed — each unit builds on the concepts from the one before it.</p>
+        </div>
+        <div class="card" data-aos="fade-up" data-aos-delay="100" style="padding:2rem;">
+          <div style="width:56px;height:56px;border-radius:16px;background:var(--gradient-brand);display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.4rem;margin-bottom:1rem;"><i class="fa-solid fa-file-circle-question"></i></div>
+          <h3 class="mb-2">Practice with question papers</h3>
+          <p class="text-muted">Use previous year question papers after finishing each subject's notes to test yourself under exam-like conditions.</p>
+        </div>
+        <div class="card" data-aos="fade-up" data-aos-delay="200" style="padding:2rem;">
+          <div style="width:56px;height:56px;border-radius:16px;background:var(--gradient-brand);display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.4rem;margin-bottom:1rem;"><i class="fa-solid fa-flask"></i></div>
+          <h3 class="mb-2">Pair with lab manuals</h3>
+          <p class="text-muted">Combine theory notes with the matching lab manual to connect concepts with hands-on implementation.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="section-tight">
+    <div class="container">
+      <div class="stats-strip" data-aos="zoom-in" style="text-align:center;padding:3.5rem 2rem;">
+        <h2 style="color:#fff;">Want a structured path instead of just notes?</h2>
+        <p style="color:rgba(255,255,255,.85);max-width:520px;margin:.75rem auto 1.75rem;">Explore our full courses for guided roadmaps, syllabi and downloadable resources built around these same subjects.</p>
+        <a href="courses.html" class="btn btn-white">Explore Courses <i class="fa-solid fa-arrow-right"></i></a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer" id="site-footer"></footer>
+
+<div class="install-banner" id="installBanner">
+  <i class="fa-solid fa-download" style="font-size:1.4rem;color:var(--color-primary);"></i>
+  <div><strong>Install Neha Edu Labs</strong><p class="text-muted" style="font-size:.8rem;margin:0;">Add to your home screen for offline access.</p></div>
+  <button id="installAccept" class="btn btn-primary btn-sm">Install</button>
+  <button id="installDismiss" class="btn-icon btn-outline" aria-label="Dismiss"><i class="fa-solid fa-xmark"></i></button>
+</div>
+
+<!-- Scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script src="assets/js/components.js" defer></script>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/news.js"></script>
+<script src="assets/js/notes.js"></script>
+<script src="assets/js/search.js"></script>
+<script src="assets/js/main.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var currentSearch = "";
+    var currentSemester = "";
+    var searchTimer = null;
+
+    NELNotes.render("notes-container", {});
+
+    function applyFilters() {
+      var opts = {};
+      if (currentSearch) opts.search = currentSearch;
+      if (currentSemester) opts.semester = currentSemester;
+      NELNotes.render("notes-container", opts);
+    }
+
+    var searchInput = document.getElementById("notesSearch");
+    if (searchInput) {
+      searchInput.addEventListener("input", function () {
+        var value = searchInput.value;
+        clearTimeout(searchTimer);
+        searchTimer = setTimeout(function () {
+          currentSearch = value.trim();
+          applyFilters();
+        }, 250);
+      });
+    }
+
+    var semesterTabs = document.getElementById("notes-semester-tabs");
+    if (semesterTabs) {
+      semesterTabs.addEventListener("click", function (e) {
+        var btn = e.target.closest(".filter-tab");
+        if (!btn) return;
+        semesterTabs.querySelectorAll(".filter-tab").forEach(function (t) { t.classList.remove("active"); });
+        btn.classList.add("active");
+        currentSemester = btn.getAttribute("data-semester") || "";
+        applyFilters();
+      });
+    }
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="gpromptengineeringsvg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#gpromptengineeringsvg)"/>
+  <g opacity=".12" fill="white"><circle cx="20" cy="180" r="3"/><circle cx="180" cy="20" r="3"/><circle cx="170" cy="175" r="2"/><circle cx="15" cy="30" r="2"/></g>
+  <g><path d="M100 40c-22 0-40 18-40 40 0 12 5 22 14 30-3 6-4 13-4 20 0 22 18 40 40 40s40-18 40-40c0-7-1-14-4-20 9-8 14-18 14-30 0-22-18-40-40-40h-20z" fill="none" stroke="white" stroke-width="4" opacity=".9"/><circle cx="80" cy="90" r="6" fill="white"/><circle cx="120" cy="90" r="6" fill="white"/><path d="M80 130q20 14 40 0" stroke="white" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M100 40v-16M70 55l-12-12M130 55l12-12" stroke="white" stroke-width="4" stroke-linecap="round"/></g>
+</svg>

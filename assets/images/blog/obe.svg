@@ -1,0 +1,11 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="gobesvg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#DB2777"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#gobesvg)"/>
+  <g opacity=".12" fill="white"><circle cx="20" cy="180" r="3"/><circle cx="180" cy="20" r="3"/><circle cx="170" cy="175" r="2"/><circle cx="15" cy="30" r="2"/></g>
+  <g><path d="M40 90 100 60l60 30-60 30z" fill="white" opacity=".95"/><path d="M70 105v30c0 8 14 16 30 16s30-8 30-16v-30" fill="none" stroke="white" stroke-width="4"/><path d="M160 90v34" stroke="white" stroke-width="4" stroke-linecap="round"/></g>
+</svg>

@@ -1,0 +1,46 @@
+name: Update News Feed
+
+# Refreshes data/news.json from the RSS feeds listed in .github/scripts/feeds.json
+# and commits the result — the entire "backend" for the breaking news ticker and
+# news sections, running on free GitHub Actions minutes with no paid services.
+
+on:
+  schedule:
+    - cron: "0 * * * *" # every hour, on the hour
+  workflow_dispatch: {} # allow manual "Run workflow" from the Actions tab
+  push:
+    paths:
+      - ".github/scripts/feeds.json"
+      - ".github/scripts/fetch_news.py"
+      - ".github/workflows/update-news.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch RSS feeds and rebuild data/news.json
+        run: python .github/scripts/fetch_news.py
+
+      - name: Commit and push if data/news.json changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update news feed [skip ci]"
+          file_pattern: "data/news.json"
+          commit_user_name: "neha-edu-labs-bot"
+          commit_user_email: "actions@github.com"
+          commit_author: "neha-edu-labs-bot <actions@github.com>"

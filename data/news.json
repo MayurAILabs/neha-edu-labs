@@ -1,0 +1,142 @@
+[
+  {
+    "id": "news-001",
+    "title": "New multimodal AI models push reasoning benchmarks higher",
+    "summary": "Leading AI labs released updated model cards showing gains in multi-step reasoning, code generation and long-context understanding — relevant reading for students building AI projects this semester.",
+    "url": "https://openai.com/news/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "AI Labs Roundup",
+    "category": "AI",
+    "publishedAt": "2026-07-08T09:00:00Z"
+  },
+  {
+    "id": "news-002",
+    "title": "AICTE releases updated model curriculum guidelines for 2026-27",
+    "summary": "The revised guidelines emphasize outcome-based education, AI literacy across all engineering branches, and mandatory internship credits.",
+    "url": "https://www.aicte-india.org/",
+    "image": "assets/images/news/cat-education.svg",
+    "source": "AICTE",
+    "category": "Education",
+    "publishedAt": "2026-07-07T11:30:00Z"
+  },
+  {
+    "id": "news-003",
+    "title": "NPTEL opens enrollment for July semester with new AI & VLSI electives",
+    "summary": "Free certification courses on Digital VLSI Design, Embedded Systems and Applied Machine Learning are now open for registration on SWAYAM.",
+    "url": "https://nptel.ac.in/",
+    "image": "assets/images/news/cat-education.svg",
+    "source": "NPTEL / SWAYAM",
+    "category": "Education",
+    "publishedAt": "2026-07-06T06:15:00Z"
+  },
+  {
+    "id": "news-004",
+    "title": "Python 3.14 adoption accelerates across data science curricula",
+    "summary": "Universities report faster classroom adoption of the latest Python release, citing improved performance and simplified typing syntax.",
+    "url": "https://www.python.org/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python.org",
+    "category": "Programming",
+    "publishedAt": "2026-07-05T14:20:00Z"
+  },
+  {
+    "id": "news-005",
+    "title": "IEEE highlights growth in student-led VLSI and chip-design chapters",
+    "summary": "A new report shows a sharp rise in undergraduate participation in silicon design competitions and open-source EDA tool contributions.",
+    "url": "https://www.ieee.org/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-04T08:45:00Z"
+  },
+  {
+    "id": "news-006",
+    "title": "GitHub Copilot adds classroom mode for verified student accounts",
+    "summary": "The update brings guided, explain-first suggestions aimed at helping students learn rather than just autocomplete assignments.",
+    "url": "https://github.blog/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-03T10:00:00Z"
+  },
+  {
+    "id": "news-007",
+    "title": "UGC pushes for AI-integrated outcome-based assessment frameworks",
+    "summary": "New draft guidelines encourage colleges to align assessments with measurable learning outcomes and responsible AI-assisted grading tools.",
+    "url": "https://www.ugc.gov.in/",
+    "image": "assets/images/news/cat-education.svg",
+    "source": "UGC",
+    "category": "Education",
+    "publishedAt": "2026-07-02T12:00:00Z"
+  },
+  {
+    "id": "news-008",
+    "title": "Google DeepMind publishes new research on efficient on-device inference",
+    "summary": "The paper explores quantization techniques enabling large models to run on embedded and edge hardware — a growing intersection with embedded systems courses.",
+    "url": "https://deepmind.google/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-07-01T09:30:00Z"
+  },
+  {
+    "id": "news-009",
+    "title": "Campus placement season sees rising demand for embedded + AI skill combo",
+    "summary": "Recruiters increasingly favor engineering graduates who can pair embedded systems fundamentals with applied machine learning skills.",
+    "url": "#",
+    "image": "assets/images/news/cat-education.svg",
+    "source": "Placement Cell Digest",
+    "category": "Education",
+    "publishedAt": "2026-06-30T07:00:00Z"
+  },
+  {
+    "id": "news-010",
+    "title": "NVIDIA expands student developer program with free GPU credits",
+    "summary": "The updated program offers cloud GPU hours for verified students working on AI, robotics and simulation coursework.",
+    "url": "https://developer.nvidia.com/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA Developer",
+    "category": "AI",
+    "publishedAt": "2026-06-29T13:15:00Z"
+  },
+  {
+    "id": "news-011",
+    "title": "Hugging Face releases lightweight models optimized for classroom labs",
+    "summary": "The new model family targets low-resource environments common in college computer labs, making hands-on NLP experiments more accessible.",
+    "url": "https://huggingface.co/blog",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-06-28T10:40:00Z"
+  },
+  {
+    "id": "news-012",
+    "title": "IIT open courseware adds new Digital Electronics lab simulations",
+    "summary": "Interactive browser-based simulators now accompany several core electronics courses, reducing dependency on physical lab time.",
+    "url": "https://nptel.ac.in/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IIT OpenCourseWare",
+    "category": "Engineering",
+    "publishedAt": "2026-06-27T05:50:00Z"
+  },
+  {
+    "id": "news-013",
+    "title": "Scholarship window opens for women in engineering and technology",
+    "summary": "Multiple state and central government scholarship schemes for women pursuing electronics, computer science and AI programs are now accepting applications.",
+    "url": "#",
+    "image": "assets/images/news/cat-education.svg",
+    "source": "Scholarship Desk",
+    "category": "Education",
+    "publishedAt": "2026-06-26T09:10:00Z"
+  },
+  {
+    "id": "news-014",
+    "title": "Microsoft AI updates Power BI with native AI-assisted data storytelling",
+    "summary": "New copilot features help analysts and students generate narrative insights directly from dashboards — a useful addition for data analytics coursework.",
+    "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Microsoft AI Blog",
+    "category": "Programming",
+    "publishedAt": "2026-06-25T15:00:00Z"
+  }
+]
