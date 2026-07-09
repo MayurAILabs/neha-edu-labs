@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T17:22:05Z"
+    "publishedAt": "2026-07-09T18:06:39Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T17:22:05Z"
+    "publishedAt": "2026-07-09T18:06:39Z"
   },
   {
     "id": "news-7ba5886deede",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T17:22:05Z"
+    "publishedAt": "2026-07-09T18:06:39Z"
   },
   {
     "id": "news-ab0d744633d3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T17:22:05Z"
+    "publishedAt": "2026-07-09T18:06:39Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T17:22:05Z"
+    "publishedAt": "2026-07-09T18:06:39Z"
   },
   {
     "id": "news-1099364f6234",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T17:22:05Z"
+    "publishedAt": "2026-07-09T18:06:39Z"
   },
   {
     "id": "news-99556ceee728",
@@ -114,6 +114,16 @@
     "title": "ChatGPT is now a partner for your most ambitious work",
     "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
     "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-09T10:00:00Z"
+  },
+  {
+    "id": "news-8fd74bd3f519",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "summary": "Details about the OpenAI Bio Bounty program",
+    "url": "https://openai.com/index/bio-bug-bounty",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -468,15 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-07-03T10:00:00Z"
-  },
-  {
-    "id": "news-0440dcf77c1c",
-    "title": "How GitHub used secret scanning to reach inbox zero",
-    "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret…",
-    "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-02T16:00:00Z"
   }
 ]
