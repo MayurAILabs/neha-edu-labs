@@ -1,5 +1,225 @@
 [
   {
+    "id": "news-6183b5967278",
+    "title": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini",
+    "summary": "On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...",
+    "url": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-09T17:19:11Z"
+  },
+  {
+    "id": "news-069ff7a9ce69",
+    "title": "We terminated a TPU mid-training and it recovered in seconds: Introduction to elastic training with MaxText",
+    "summary": "Distributed AI training is notoriously fragile because losing a single machine typically crashes the entire multi-node job, forcing a time-consuming, full-workload infrastructure restart. To address this, Google’s JAX…",
+    "url": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-09T17:19:11Z"
+  },
+  {
+    "id": "news-7ba5886deede",
+    "title": "Why we built ADK 2.0",
+    "summary": "Answering the questions of \"why we built ADK 2.0\". This explains the rationale, some of the features, and why a developer should consider upgrading. This will be published the day after ADK go 2.0 launches.",
+    "url": "https://developers.googleblog.com/why-we-built-adk-20/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-09T17:19:11Z"
+  },
+  {
+    "id": "news-ab0d744633d3",
+    "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
+    "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine…",
+    "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-09T17:19:11Z"
+  },
+  {
+    "id": "news-933ce14bd680",
+    "title": "Build agentic full-stack apps with Genkit",
+    "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single…",
+    "url": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-09T17:19:11Z"
+  },
+  {
+    "id": "news-1099364f6234",
+    "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
+    "summary": "Building AI agents often leaves developers uncertain if prompt tweaks to fix single errors will accidentally cause widespread regressions in production. To bridge this gap, Google has introduced a new developer skill…",
+    "url": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-09T17:19:11Z"
+  },
+  {
+    "id": "news-99556ceee728",
+    "title": "How GitHub gave every repository a durable owner",
+    "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for…",
+    "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-09T16:29:37Z"
+  },
+  {
+    "id": "news-ad9590b18f36",
+    "title": "Tiny robot boats build floating structures",
+    "summary": "MIT researchers developed FloatForm, a swarm of small aquatic robots that snap together like ants forming a raft, assembling into reconfigurable structures on the water.",
+    "url": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-09T15:50:00Z"
+  },
+  {
+    "id": "news-5bb297bb60d9",
+    "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+    "summary": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-09T13:00:55Z"
+  },
+  {
+    "id": "news-050324f59977",
+    "title": "The Rebirth of High Frequency",
+    "summary": "An examination of how satellite vulnerabilities, modern wideband waveforms, and automatic link establishment are driving renewed military and government investment in HF communications.What Attendees will LearnWhy HF…",
+    "url": "https://content.knowledgehub.wiley.com/the-rebirth-of-high-frequency/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-09T10:00:03Z"
+  },
+  {
+    "id": "news-54ee76ae9206",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "url": "https://openai.com/index/gpt-5-6",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-09T10:00:00Z"
+  },
+  {
+    "id": "news-5941cef110c0",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-09T10:00:00Z"
+  },
+  {
+    "id": "news-7eb481eef096",
+    "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+    "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-08T21:11:56Z"
+  },
+  {
+    "id": "news-1c059d918df5",
+    "title": "GitHub availability report: June 2026",
+    "summary": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog.",
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-08T19:35:51Z"
+  },
+  {
+    "id": "news-3bc520c2d9c4",
+    "title": "STEM Needs Leaders From Every Generation at the Table",
+    "summary": "Working in isolation, especially for leaders, is rapidly becoming an outmoded idea. The modern era is defined by rapid technological advancements and increasingly complex, collaborative global challenges. In this…",
+    "url": "https://spectrum.ieee.org/stem-leaders-ieee-ilc",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-08T18:00:01Z"
+  },
+  {
+    "id": "news-00ba61e48a5c",
+    "title": "Inside the Race to Electrify Semi Trailers for Long Haul Freight",
+    "summary": "A semi-trailer that helps propel itself entered commercial road testing in late May, when a powertrain kit developed by Nivalis Energy Europe, headquartered in Luxembourg with engineering operations in Germany, was…",
+    "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-08T17:58:34Z"
+  },
+  {
+    "id": "news-5535aeb9eb9d",
+    "title": "Data for Agents",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-08T17:16:05Z"
+  },
+  {
+    "id": "news-cbd1a2582003",
+    "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+    "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-08T16:00:00Z"
+  },
+  {
+    "id": "news-cecc787bcc8b",
+    "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+    "summary": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA…",
+    "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-08T15:00:27Z"
+  },
+  {
+    "id": "news-41b85c9cdb7a",
+    "title": "Our approach to government and national security partnerships",
+    "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-08T13:30:00Z"
+  },
+  {
+    "id": "news-eaad4cbcfa7f",
+    "title": "Separating signal from noise in coding evaluations",
+    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-08T13:00:00Z"
+  },
+  {
+    "id": "news-de9286311527",
+    "title": "Helping K–12 educators build practical AI skills",
+    "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-08T10:00:00Z"
+  },
+  {
     "id": "news-001",
     "title": "New multimodal AI models push reasoning benchmarks higher",
     "summary": "Leading AI labs released updated model cards showing gains in multi-step reasoning, code generation and long-context understanding — relevant reading for students building AI projects this semester.",
@@ -10,6 +230,96 @@
     "publishedAt": "2026-07-08T09:00:00Z"
   },
   {
+    "id": "news-d7499a6963c6",
+    "title": "Introducing GPT-Live",
+    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-08T00:00:00Z"
+  },
+  {
+    "id": "news-f2a3364a10eb",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-08T00:00:00Z"
+  },
+  {
+    "id": "news-ca9a2a21da07",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-07T21:15:33Z"
+  },
+  {
+    "id": "news-a9723771177e",
+    "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
+    "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics, writing more than 2,000 research papers and authoring several books on the field. He’s…",
+    "url": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-07T19:02:42Z"
+  },
+  {
+    "id": "news-82523f803867",
+    "title": "How novice coders can develop AI programs for military applications",
+    "summary": "A USAF cadet and a Lincoln Laboratory researcher found AI chatbots can help nontechnical service members produce viable software applications for their unique problems.",
+    "url": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-07T17:25:00Z"
+  },
+  {
+    "id": "news-a6e1d5b6564a",
+    "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+    "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is…",
+    "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-07T16:00:00Z"
+  },
+  {
+    "id": "news-024a3808c07a",
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-07T15:20:06Z"
+  },
+  {
+    "id": "news-90857c29ae6e",
+    "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+    "summary": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and…",
+    "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-07T15:00:52Z"
+  },
+  {
+    "id": "news-b0747d1c6cbd",
+    "title": "Jesse Thaler named director of the Laboratory for Nuclear Science",
+    "summary": "The professor of physics and inaugural director of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions will lead LNS and continue his research in particle physics.",
+    "url": "https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-07T14:45:00Z"
+  },
+  {
     "id": "news-002",
     "title": "AICTE releases updated model curriculum guidelines for 2026-27",
     "summary": "The revised guidelines emphasize outcome-based education, AI literacy across all engineering branches, and mandatory internship credits.",
@@ -18,6 +328,86 @@
     "source": "AICTE",
     "category": "Education",
     "publishedAt": "2026-07-07T11:30:00Z"
+  },
+  {
+    "id": "news-73fd78c4847c",
+    "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+    "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-07-07T08:54:00Z"
+  },
+  {
+    "id": "news-fbe5464e4eef",
+    "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+    "summary": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and…",
+    "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-07T06:00:26Z"
+  },
+  {
+    "id": "news-b29a21395768",
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-07T00:00:00Z"
+  },
+  {
+    "id": "news-0a1d2bd6cc12",
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/lerobot-release-v060",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-07T00:00:00Z"
+  },
+  {
+    "id": "news-f9e800841ab8",
+    "title": "Toward a future that preserves benefits of neurotechnology for all",
+    "summary": "PhD student Rachel Sava, winner of the Envisioning the Future of Computing Prize, explores transformative improvements and dystopian risks of neural technology.",
+    "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-06T19:50:00Z"
+  },
+  {
+    "id": "news-0c57e47a6db2",
+    "title": "How Open Models Are Driving AI Research",
+    "summary": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models…",
+    "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-06T16:00:00Z"
+  },
+  {
+    "id": "news-678333367e3e",
+    "title": "How Nations Are Deploying AI for Strategic Priorities",
+    "summary": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce,…",
+    "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-06T15:00:25Z"
+  },
+  {
+    "id": "news-860daa336b70",
+    "title": "VHF Propagation: What Every RF Engineer Should Know",
+    "summary": "A practical educational guide to common and uncommon VHF propagation modes, covering the physics, range implications, and real-world behaviors engineers need to understand.What Attendees will Learn1. Why “line of sight”…",
+    "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-06T13:54:01Z"
   },
   {
     "id": "news-003",
@@ -50,6 +440,26 @@
     "publishedAt": "2026-07-04T08:45:00Z"
   },
   {
+    "id": "news-0951a3e04003",
+    "title": "IEEE’s Global Museum Brings Engineering History to You",
+    "summary": "Many IEEE members who collect historical engineering artifacts often offer them to the IEEE History and Heritage group, which includes the IEEE History Center, to display. To bring these artifacts to the public, the…",
+    "url": "https://spectrum.ieee.org/ieees-global-museum-engineering-history",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-03T18:00:02Z"
+  },
+  {
+    "id": "news-e29a8bbb0a77",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-07-03T14:25:43Z"
+  },
+  {
     "id": "news-006",
     "title": "GitHub Copilot adds classroom mode for verified student accounts",
     "summary": "The update brings guided, explain-first suggestions aimed at helping students learn rather than just autocomplete assignments.",
@@ -60,83 +470,13 @@
     "publishedAt": "2026-07-03T10:00:00Z"
   },
   {
-    "id": "news-007",
-    "title": "UGC pushes for AI-integrated outcome-based assessment frameworks",
-    "summary": "New draft guidelines encourage colleges to align assessments with measurable learning outcomes and responsible AI-assisted grading tools.",
-    "url": "https://www.ugc.gov.in/",
-    "image": "assets/images/news/cat-education.svg",
-    "source": "UGC",
-    "category": "Education",
-    "publishedAt": "2026-07-02T12:00:00Z"
-  },
-  {
-    "id": "news-008",
-    "title": "Google DeepMind publishes new research on efficient on-device inference",
-    "summary": "The paper explores quantization techniques enabling large models to run on embedded and edge hardware — a growing intersection with embedded systems courses.",
-    "url": "https://deepmind.google/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-07-01T09:30:00Z"
-  },
-  {
-    "id": "news-009",
-    "title": "Campus placement season sees rising demand for embedded + AI skill combo",
-    "summary": "Recruiters increasingly favor engineering graduates who can pair embedded systems fundamentals with applied machine learning skills.",
-    "url": "#",
-    "image": "assets/images/news/cat-education.svg",
-    "source": "Placement Cell Digest",
-    "category": "Education",
-    "publishedAt": "2026-06-30T07:00:00Z"
-  },
-  {
-    "id": "news-010",
-    "title": "NVIDIA expands student developer program with free GPU credits",
-    "summary": "The updated program offers cloud GPU hours for verified students working on AI, robotics and simulation coursework.",
-    "url": "https://developer.nvidia.com/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA Developer",
-    "category": "AI",
-    "publishedAt": "2026-06-29T13:15:00Z"
-  },
-  {
-    "id": "news-011",
-    "title": "Hugging Face releases lightweight models optimized for classroom labs",
-    "summary": "The new model family targets low-resource environments common in college computer labs, making hands-on NLP experiments more accessible.",
-    "url": "https://huggingface.co/blog",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-06-28T10:40:00Z"
-  },
-  {
-    "id": "news-012",
-    "title": "IIT open courseware adds new Digital Electronics lab simulations",
-    "summary": "Interactive browser-based simulators now accompany several core electronics courses, reducing dependency on physical lab time.",
-    "url": "https://nptel.ac.in/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IIT OpenCourseWare",
-    "category": "Engineering",
-    "publishedAt": "2026-06-27T05:50:00Z"
-  },
-  {
-    "id": "news-013",
-    "title": "Scholarship window opens for women in engineering and technology",
-    "summary": "Multiple state and central government scholarship schemes for women pursuing electronics, computer science and AI programs are now accepting applications.",
-    "url": "#",
-    "image": "assets/images/news/cat-education.svg",
-    "source": "Scholarship Desk",
-    "category": "Education",
-    "publishedAt": "2026-06-26T09:10:00Z"
-  },
-  {
-    "id": "news-014",
-    "title": "Microsoft AI updates Power BI with native AI-assisted data storytelling",
-    "summary": "New copilot features help analysts and students generate narrative insights directly from dashboards — a useful addition for data analytics coursework.",
-    "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/",
+    "id": "news-0440dcf77c1c",
+    "title": "How GitHub used secret scanning to reach inbox zero",
+    "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret…",
+    "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
     "image": "assets/images/news/cat-programming.svg",
-    "source": "Microsoft AI Blog",
+    "source": "GitHub Blog",
     "category": "Programming",
-    "publishedAt": "2026-06-25T15:00:00Z"
+    "publishedAt": "2026-07-02T16:00:00Z"
   }
 ]
