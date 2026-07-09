@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T18:06:39Z"
+    "publishedAt": "2026-07-09T22:51:44Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T18:06:39Z"
+    "publishedAt": "2026-07-09T22:51:44Z"
   },
   {
     "id": "news-7ba5886deede",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T18:06:39Z"
+    "publishedAt": "2026-07-09T22:51:44Z"
   },
   {
     "id": "news-ab0d744633d3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T18:06:39Z"
+    "publishedAt": "2026-07-09T22:51:44Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -47,7 +47,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T18:06:39Z"
+    "publishedAt": "2026-07-09T22:51:44Z"
+  },
+  {
+    "id": "news-b5eb0a584ec4",
+    "title": "LiteRT.js, Google's high performance Web AI Inference",
+    "summary": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI…",
+    "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-09T22:51:44Z"
   },
   {
     "id": "news-1099364f6234",
@@ -88,6 +98,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-09T13:00:55Z"
+  },
+  {
+    "id": "news-e799563c0958",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-09T13:00:00Z"
   },
   {
     "id": "news-050324f59977",
@@ -161,8 +181,8 @@
   },
   {
     "id": "news-00ba61e48a5c",
-    "title": "Inside the Race to Electrify Semi Trailers for Long Haul Freight",
-    "summary": "A semi-trailer that helps propel itself entered commercial road testing in late May, when a powertrain kit developed by Nivalis Energy Europe, headquartered in Luxembourg with engineering operations in Germany, was…",
+    "title": "Inside the Race to Electrify Semi Trailers for Long-Haul Freight",
+    "summary": "A semitrailer that helps propel itself entered commercial road testing in late May, when a power-train kit developed by Nivalis Energy Europe, headquartered in Luxembourg with engineering operations in Germany, was…",
     "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
@@ -458,25 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-03T18:00:02Z"
-  },
-  {
-    "id": "news-e29a8bbb0a77",
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-07-03T14:25:43Z"
-  },
-  {
-    "id": "news-006",
-    "title": "GitHub Copilot adds classroom mode for verified student accounts",
-    "summary": "The update brings guided, explain-first suggestions aimed at helping students learn rather than just autocomplete assignments.",
-    "url": "https://github.blog/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-03T10:00:00Z"
   }
 ]
