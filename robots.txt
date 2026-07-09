@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mayurailabs.github.io/neha-edu-labs/sitemap.xml
+Sitemap: https://www.nehaedulabs.online/sitemap.xml

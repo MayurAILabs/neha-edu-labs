@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/index.html</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/courses.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/course-detail.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/notes.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/blog.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/blog-post.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/projects.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/ai-tools.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/resources.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/contact.html</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/privacy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://mayurailabs.github.io/neha-edu-labs/terms.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.nehaedulabs.online/index.html</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.nehaedulabs.online/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.nehaedulabs.online/courses.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.nehaedulabs.online/course-detail.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.nehaedulabs.online/notes.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.nehaedulabs.online/blog.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.nehaedulabs.online/blog-post.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.nehaedulabs.online/projects.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.nehaedulabs.online/ai-tools.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.nehaedulabs.online/resources.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.nehaedulabs.online/contact.html</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.nehaedulabs.online/privacy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.nehaedulabs.online/terms.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>

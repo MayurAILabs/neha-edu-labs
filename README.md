@@ -125,7 +125,7 @@ No paid services, no external cron provider, no server — this all runs on GitH
 - JSON-LD structured data: `EducationalOrganization`, `Person` (Neha Badgujar) and `WebSite` on the homepage; `Person`/`BreadcrumbList`-style markup on inner pages
 - Semantic HTML, descriptive `alt` text, and a logical heading hierarchy throughout
 
-**Before launch**, update every `https://mayurailabs.github.io/neha-edu-labs/...` canonical/OG URL to your real domain (a quick project-wide find-and-replace) and regenerate `sitemap.xml` if you add or remove pages.
+**Before launch**, update every `https://www.nehaedulabs.online/...` canonical/OG URL to your real domain (a quick project-wide find-and-replace) and regenerate `sitemap.xml` if you add or remove pages.
 
 ---
 
@@ -173,7 +173,7 @@ All placeholder illustrations, avatars and the hero graphic under `assets/images
 5. GitHub will publish the site at `https://<your-username>.github.io/<repo-name>/` within a minute or two — check the **Actions** tab for the "pages build and deployment" run.
 6. **(Optional) Custom domain**: add a `CNAME` file at the repo root containing your domain, and configure your DNS provider with a `CNAME` record pointing to `<your-username>.github.io` (or `A` records to GitHub Pages' IPs for an apex domain), then set the domain under **Settings → Pages → Custom domain**.
 7. **Enable the news automation**: no extra setup needed — `.github/workflows/update-news.yml` runs automatically once the repo is on GitHub (it needs `contents: write` permission, which the workflow already requests; if your organization restricts default `GITHUB_TOKEN` permissions, enable **"Read and write permissions"** under **Settings → Actions → General → Workflow permissions**).
-8. Update the canonical/OG URLs (search for `mayurailabs.github.io/neha-edu-labs`) to match your actual GitHub Pages URL or custom domain.
+8. Update the canonical/OG URLs (search for `www.nehaedulabs.online`) to match your actual GitHub Pages URL or custom domain.
 
 That's it — no build pipeline, no environment variables, no paid infrastructure.
 
