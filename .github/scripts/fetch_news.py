@@ -29,7 +29,7 @@ OUTPUT_FILE = ROOT / "data" / "news.json"
 MAX_ITEMS = 48
 PER_FEED_LIMIT = 6
 REQUEST_TIMEOUT = 12
-USER_AGENT = "NehaEduLabsNewsBot/1.0 (+https://www.nehaedulabs.in)"
+USER_AGENT = "NehaEduLabsNewsBot/1.0 (+https://mayurailabs.github.io/neha-edu-labs/)"
 
 CATEGORY_IMAGE = {
     "AI": "assets/images/news/cat-ai.svg",
