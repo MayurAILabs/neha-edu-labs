@@ -122,7 +122,7 @@
             '<li><a href="courses.html#electronics">Digital Electronics</a></li>' +
           '</ul></div>' +
           '<div><h4>Get in touch</h4><ul>' +
-            '<li><i class="fa-solid fa-envelope"></i>&nbsp; hello@nehaedulabs.in</li>' +
+            '<li><i class="fa-solid fa-envelope"></i>&nbsp; contact@nehaedulabs.online</li>' +
             '<li><i class="fa-solid fa-location-dot"></i>&nbsp; Pune, Maharashtra, India</li>' +
             '<li class="mt-2"><a href="contact.html" class="btn btn-outline btn-sm" style="border-color:rgba(255,255,255,.2);">Contact Us</a></li>' +
           '</ul></div>' +
