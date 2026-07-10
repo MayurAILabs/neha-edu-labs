@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-10T17:29:25Z"
+    "publishedAt": "2026-07-10T21:38:57Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-10T17:29:25Z"
+    "publishedAt": "2026-07-10T21:38:57Z"
   },
   {
     "id": "news-7ba5886deede",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-10T17:29:25Z"
+    "publishedAt": "2026-07-10T21:38:57Z"
   },
   {
     "id": "news-ab0d744633d3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-10T17:29:25Z"
+    "publishedAt": "2026-07-10T21:38:57Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-10T17:29:25Z"
+    "publishedAt": "2026-07-10T21:38:57Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-10T17:29:25Z"
+    "publishedAt": "2026-07-10T21:38:57Z"
+  },
+  {
+    "id": "news-84d080387f1c",
+    "title": "IEEE Remembers Pioneering Computer Scientist Peter G. Neumann",
+    "summary": "The computing community recently lost one of its enduring voices: IEEE Fellow Peter G. Neumann. The renowned computer scientist and respected risk analyst died on 17 May at the age of 93.For almost 70 years, Neumann…",
+    "url": "https://spectrum.ieee.org/ieee-remembers-peter-g-neumann",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-10T18:00:01Z"
   },
   {
     "id": "news-8f799535c0d6",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-06T13:54:01Z"
-  },
-  {
-    "id": "news-003",
-    "title": "NPTEL opens enrollment for July semester with new AI & VLSI electives",
-    "summary": "Free certification courses on Digital VLSI Design, Embedded Systems and Applied Machine Learning are now open for registration on SWAYAM.",
-    "url": "https://nptel.ac.in/",
-    "image": "assets/images/news/cat-education.svg",
-    "source": "NPTEL / SWAYAM",
-    "category": "Education",
-    "publishedAt": "2026-07-06T06:15:00Z"
   }
 ]
