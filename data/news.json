@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T22:51:44Z"
+    "publishedAt": "2026-07-10T10:36:53Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T22:51:44Z"
+    "publishedAt": "2026-07-10T10:36:53Z"
   },
   {
     "id": "news-7ba5886deede",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T22:51:44Z"
+    "publishedAt": "2026-07-10T10:36:53Z"
   },
   {
     "id": "news-ab0d744633d3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T22:51:44Z"
+    "publishedAt": "2026-07-10T10:36:53Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T22:51:44Z"
+    "publishedAt": "2026-07-10T10:36:53Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-09T22:51:44Z"
+    "publishedAt": "2026-07-10T10:36:53Z"
+  },
+  {
+    "id": "news-027b05f9d0fa",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-10T07:00:00Z"
+  },
+  {
+    "id": "news-145fbd552c75",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-10T00:00:00Z"
   },
   {
     "id": "news-1099364f6234",
@@ -458,25 +478,5 @@
     "source": "Python.org",
     "category": "Programming",
     "publishedAt": "2026-07-05T14:20:00Z"
-  },
-  {
-    "id": "news-005",
-    "title": "IEEE highlights growth in student-led VLSI and chip-design chapters",
-    "summary": "A new report shows a sharp rise in undergraduate participation in silicon design competitions and open-source EDA tool contributions.",
-    "url": "https://www.ieee.org/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-04T08:45:00Z"
-  },
-  {
-    "id": "news-0951a3e04003",
-    "title": "IEEE’s Global Museum Brings Engineering History to You",
-    "summary": "Many IEEE members who collect historical engineering artifacts often offer them to the IEEE History and Heritage group, which includes the IEEE History Center, to display. To bring these artifacts to the public, the…",
-    "url": "https://spectrum.ieee.org/ieees-global-museum-engineering-history",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-03T18:00:02Z"
   }
 ]
