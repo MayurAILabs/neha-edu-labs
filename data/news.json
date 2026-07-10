@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-10T10:36:53Z"
+    "publishedAt": "2026-07-10T17:29:25Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-10T10:36:53Z"
+    "publishedAt": "2026-07-10T17:29:25Z"
   },
   {
     "id": "news-7ba5886deede",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-10T10:36:53Z"
+    "publishedAt": "2026-07-10T17:29:25Z"
   },
   {
     "id": "news-ab0d744633d3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-10T10:36:53Z"
+    "publishedAt": "2026-07-10T17:29:25Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-10T10:36:53Z"
+    "publishedAt": "2026-07-10T17:29:25Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-10T10:36:53Z"
+    "publishedAt": "2026-07-10T17:29:25Z"
+  },
+  {
+    "id": "news-8f799535c0d6",
+    "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+    "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse.…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-10T15:57:47Z"
   },
   {
     "id": "news-027b05f9d0fa",
@@ -201,7 +211,7 @@
   },
   {
     "id": "news-00ba61e48a5c",
-    "title": "Inside the Race to Electrify Semi Trailers for Long-Haul Freight",
+    "title": "Inside the Race to Electrify Semitrailers for Long-Haul Freight",
     "summary": "A semitrailer that helps propel itself entered commercial road testing in late May, when a power-train kit developed by Nivalis Energy Europe, headquartered in Luxembourg with engineering operations in Germany, was…",
     "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
     "image": "assets/images/news/cat-engineering.svg",
@@ -468,15 +478,5 @@
     "source": "NPTEL / SWAYAM",
     "category": "Education",
     "publishedAt": "2026-07-06T06:15:00Z"
-  },
-  {
-    "id": "news-004",
-    "title": "Python 3.14 adoption accelerates across data science curricula",
-    "summary": "Universities report faster classroom adoption of the latest Python release, citing improved performance and simplified typing syntax.",
-    "url": "https://www.python.org/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python.org",
-    "category": "Programming",
-    "publishedAt": "2026-07-05T14:20:00Z"
   }
 ]
