@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-12T22:33:38Z"
+    "publishedAt": "2026-07-13T10:42:29Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-12T22:33:38Z"
+    "publishedAt": "2026-07-13T10:42:29Z"
   },
   {
     "id": "news-7ba5886deede",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-12T22:33:38Z"
+    "publishedAt": "2026-07-13T10:42:29Z"
   },
   {
     "id": "news-ab0d744633d3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-12T22:33:38Z"
+    "publishedAt": "2026-07-13T10:42:29Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-12T22:33:38Z"
+    "publishedAt": "2026-07-13T10:42:29Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-12T22:33:38Z"
+    "publishedAt": "2026-07-13T10:42:29Z"
+  },
+  {
+    "id": "news-860daa336b70",
+    "title": "VHF Propagation: What Every RF Engineer Should Know",
+    "summary": "A practical educational guide to common and uncommon VHF propagation modes, covering thephysics, range implications, and real-world behaviors engineers need to understand.What Attendees will LearnWhy “line of sight”…",
+    "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-13T10:00:01Z"
+  },
+  {
+    "id": "news-9c4356651e36",
+    "title": "New method aims to keep kids safe from illegal AI-generated content",
+    "summary": "Researchers developed an auditing technique to test generative AI models for malicious capabilities, without prompting them for illegal outputs.",
+    "url": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-13T04:00:00Z"
   },
   {
     "id": "news-84d080387f1c",
@@ -458,25 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-06T16:00:00Z"
-  },
-  {
-    "id": "news-678333367e3e",
-    "title": "How Nations Are Deploying AI for Strategic Priorities",
-    "summary": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce,…",
-    "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-06T15:00:25Z"
-  },
-  {
-    "id": "news-860daa336b70",
-    "title": "VHF Propagation: What Every RF Engineer Should Know",
-    "summary": "A practical educational guide to common and uncommon VHF propagation modes, covering the physics, range implications, and real-world behaviors engineers need to understand.What Attendees will Learn1. Why “line of sight”…",
-    "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-06T13:54:01Z"
   }
 ]
