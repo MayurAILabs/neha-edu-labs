@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T18:06:41Z"
+    "publishedAt": "2026-07-13T22:14:06Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T18:06:41Z"
+    "publishedAt": "2026-07-13T22:14:06Z"
   },
   {
     "id": "news-7ba5886deede",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T18:06:41Z"
+    "publishedAt": "2026-07-13T22:14:06Z"
   },
   {
     "id": "news-ab0d744633d3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T18:06:41Z"
+    "publishedAt": "2026-07-13T22:14:06Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T18:06:41Z"
+    "publishedAt": "2026-07-13T22:14:06Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T18:06:41Z"
+    "publishedAt": "2026-07-13T22:14:06Z"
+  },
+  {
+    "id": "news-8e0332981c3c",
+    "title": "How MIT students are helping to prevent cyberattacks",
+    "summary": "Students from the MIT Cybersecurity Clinic help local governments and other vulnerable organizations defend against digital threats.",
+    "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-13T19:10:00Z"
+  },
+  {
+    "id": "news-c4c2cd043d31",
+    "title": "AI agents create virtual playgrounds to help robots get crucial training data",
+    "summary": "“SceneSmith” system uses collaborative AI agents to create realistic 3D environments of places like kitchens, hotels, and living rooms, where robots can simulate everyday chores.",
+    "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-13T18:50:00Z"
   },
   {
     "id": "news-6925ec443632",
@@ -458,25 +478,5 @@
     "source": "AICTE",
     "category": "Education",
     "publishedAt": "2026-07-07T11:30:00Z"
-  },
-  {
-    "id": "news-73fd78c4847c",
-    "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-    "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-07-07T08:54:00Z"
-  },
-  {
-    "id": "news-fbe5464e4eef",
-    "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
-    "summary": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and…",
-    "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-07T06:00:26Z"
   }
 ]
