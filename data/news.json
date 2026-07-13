@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T10:42:29Z"
+    "publishedAt": "2026-07-13T18:06:41Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T10:42:29Z"
+    "publishedAt": "2026-07-13T18:06:41Z"
   },
   {
     "id": "news-7ba5886deede",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T10:42:29Z"
+    "publishedAt": "2026-07-13T18:06:41Z"
   },
   {
     "id": "news-ab0d744633d3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T10:42:29Z"
+    "publishedAt": "2026-07-13T18:06:41Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T10:42:29Z"
+    "publishedAt": "2026-07-13T18:06:41Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T10:42:29Z"
+    "publishedAt": "2026-07-13T18:06:41Z"
+  },
+  {
+    "id": "news-6925ec443632",
+    "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
+    "summary": "If you grew up in the 1980s or ’90s, you likely remember shaky home video footage, taken with a handheld camcorder, of family gatherings, vacations, and other events.Camcorders combined a camera with a video recorder.…",
+    "url": "https://spectrum.ieee.org/panasonic-camcorder-ieee-milstone",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-13T18:00:02Z"
+  },
+  {
+    "id": "news-ac112f9068a9",
+    "title": "Nokia’s 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
+    "summary": "In 2005, Nokia sold its billionth mobile phone, a budget-friendly device that went to a customer in Nigeria. By then, the company, based in Espoo, Finland, was making one of every three cellphones globally.But just nine…",
+    "url": "https://spectrum.ieee.org/nokia-phones-history",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-13T13:00:01Z"
+  },
+  {
+    "id": "news-b0ce4fdc4c7e",
+    "title": "Building a Foundation Stack for General-Purpose Robots",
+    "summary": "This article is brought to you by X Square Robot.Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe.…",
+    "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-13T10:19:51Z"
   },
   {
     "id": "news-860daa336b70",
@@ -116,6 +146,16 @@
     "url": "https://huggingface.co/blog/torch-attention-profile",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-10T00:00:00Z"
+  },
+  {
+    "id": "news-2c539797fe26",
+    "title": "Getting started with ChatGPT",
+    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "url": "https://openai.com/academy/getting-started",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-10T00:00:00Z"
   },
@@ -438,45 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-07T06:00:26Z"
-  },
-  {
-    "id": "news-b29a21395768",
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/skypilot-hf-storage",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-07T00:00:00Z"
-  },
-  {
-    "id": "news-0a1d2bd6cc12",
-    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/lerobot-release-v060",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-07T00:00:00Z"
-  },
-  {
-    "id": "news-f9e800841ab8",
-    "title": "Toward a future that preserves benefits of neurotechnology for all",
-    "summary": "PhD student Rachel Sava, winner of the Envisioning the Future of Computing Prize, explores transformative improvements and dystopian risks of neural technology.",
-    "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-07-06T19:50:00Z"
-  },
-  {
-    "id": "news-0c57e47a6db2",
-    "title": "How Open Models Are Driving AI Research",
-    "summary": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models…",
-    "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-06T16:00:00Z"
   }
 ]
