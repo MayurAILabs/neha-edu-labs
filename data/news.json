@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T22:14:06Z"
+    "publishedAt": "2026-07-14T06:37:38Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T22:14:06Z"
+    "publishedAt": "2026-07-14T06:37:38Z"
   },
   {
     "id": "news-7ba5886deede",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T22:14:06Z"
+    "publishedAt": "2026-07-14T06:37:38Z"
   },
   {
     "id": "news-ab0d744633d3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T22:14:06Z"
+    "publishedAt": "2026-07-14T06:37:38Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T22:14:06Z"
+    "publishedAt": "2026-07-14T06:37:38Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-13T22:14:06Z"
+    "publishedAt": "2026-07-14T06:37:38Z"
   },
   {
     "id": "news-8e0332981c3c",
@@ -98,6 +98,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-13T13:00:01Z"
+  },
+  {
+    "id": "news-66188580349f",
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-07-13T12:37:28Z"
   },
   {
     "id": "news-b0ce4fdc4c7e",
@@ -468,15 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-07-07T14:45:00Z"
-  },
-  {
-    "id": "news-002",
-    "title": "AICTE releases updated model curriculum guidelines for 2026-27",
-    "summary": "The revised guidelines emphasize outcome-based education, AI literacy across all engineering branches, and mandatory internship credits.",
-    "url": "https://www.aicte-india.org/",
-    "image": "assets/images/news/cat-education.svg",
-    "source": "AICTE",
-    "category": "Education",
-    "publishedAt": "2026-07-07T11:30:00Z"
   }
 ]
