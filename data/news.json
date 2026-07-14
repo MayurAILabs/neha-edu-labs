@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-14T12:00:33Z"
+    "publishedAt": "2026-07-14T16:56:59Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-14T12:00:33Z"
+    "publishedAt": "2026-07-14T16:56:59Z"
   },
   {
     "id": "news-7ba5886deede",
@@ -27,17 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-14T12:00:33Z"
-  },
-  {
-    "id": "news-ab0d744633d3",
-    "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
-    "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine…",
-    "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-14T12:00:33Z"
+    "publishedAt": "2026-07-14T16:56:59Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -47,13 +37,53 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-14T12:00:33Z"
+    "publishedAt": "2026-07-14T16:56:59Z"
   },
   {
     "id": "news-b5eb0a584ec4",
     "title": "LiteRT.js, Google's high performance Web AI Inference",
     "summary": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI…",
     "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-14T16:56:59Z"
+  },
+  {
+    "id": "news-2692805a8642",
+    "title": "Unlocking the Next Era of On-Device AI with Google Tensor and Pixel",
+    "summary": "At Google I/O Connect India, Google showcased the future of 100% private, on-device AI powered by the custom Tensor SoC and TPU for the new Pixel 10 family. The event debuted the lightweight Gemma 4 E2B model, which…",
+    "url": "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-14T16:56:59Z"
+  },
+  {
+    "id": "news-4a94e64db0fd",
+    "title": "Celebrating 25 years of visual search innovation",
+    "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+    "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-07-14T16:00:00Z"
+  },
+  {
+    "id": "news-43be431cc445",
+    "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+    "summary": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that…",
+    "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-14T15:00:20Z"
+  },
+  {
+    "id": "news-ab0d744633d3",
+    "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
+    "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine…",
+    "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -448,35 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-07T19:02:42Z"
-  },
-  {
-    "id": "news-82523f803867",
-    "title": "How novice coders can develop AI programs for military applications",
-    "summary": "A USAF cadet and a Lincoln Laboratory researcher found AI chatbots can help nontechnical service members produce viable software applications for their unique problems.",
-    "url": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-07-07T17:25:00Z"
-  },
-  {
-    "id": "news-a6e1d5b6564a",
-    "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
-    "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is…",
-    "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-07T16:00:00Z"
-  },
-  {
-    "id": "news-024a3808c07a",
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-07T15:20:06Z"
   }
 ]
