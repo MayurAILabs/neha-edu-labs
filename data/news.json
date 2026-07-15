@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T12:54:48Z"
+    "publishedAt": "2026-07-15T17:47:50Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T12:54:48Z"
+    "publishedAt": "2026-07-15T17:47:50Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T12:54:48Z"
+    "publishedAt": "2026-07-15T17:47:50Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T12:54:48Z"
+    "publishedAt": "2026-07-15T17:47:50Z"
   },
   {
     "id": "news-2692805a8642",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T12:54:48Z"
+    "publishedAt": "2026-07-15T17:47:50Z"
   },
   {
     "id": "news-378c934d369a",
@@ -57,17 +57,87 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T12:54:48Z"
+    "publishedAt": "2026-07-15T17:47:50Z"
+  },
+  {
+    "id": "news-53e3149d2cc1",
+    "title": "What building Shippy taught us about building agents",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-15T17:29:41Z"
+  },
+  {
+    "id": "news-54e8f35838d6",
+    "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+    "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to…",
+    "url": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-15T17:29:31Z"
+  },
+  {
+    "id": "news-5c8332d4091e",
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-15T17:27:01Z"
+  },
+  {
+    "id": "news-50290071a458",
+    "title": "The First Chatbot’s Multiple Personalities",
+    "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in…",
+    "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-15T15:35:53Z"
+  },
+  {
+    "id": "news-1e97faa490fa",
+    "title": "The US is advancing AI safety through state and federal action",
+    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-15T12:00:00Z"
   },
   {
     "id": "news-0b816fffcc50",
     "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-    "summary": "Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. NVIDIA and its partners in Japan are…",
+    "summary": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This…",
     "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
     "image": "assets/images/news/cat-ai.svg",
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-15T10:51:37Z"
+  },
+  {
+    "id": "news-ee230258f27f",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-15T10:00:00Z"
+  },
+  {
+    "id": "news-5d7569c2afe3",
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-15T00:00:00Z"
   },
   {
     "id": "news-dfa105380b32",
@@ -408,75 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-07-08T21:11:56Z"
-  },
-  {
-    "id": "news-1c059d918df5",
-    "title": "GitHub availability report: June 2026",
-    "summary": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog.",
-    "url": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-08T19:35:51Z"
-  },
-  {
-    "id": "news-3bc520c2d9c4",
-    "title": "STEM Needs Leaders From Every Generation at the Table",
-    "summary": "Working in isolation, especially for leaders, is rapidly becoming an outmoded idea. The modern era is defined by rapid technological advancements and increasingly complex, collaborative global challenges. In this…",
-    "url": "https://spectrum.ieee.org/stem-leaders-ieee-ilc",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-08T18:00:01Z"
-  },
-  {
-    "id": "news-00ba61e48a5c",
-    "title": "Inside the Race to Electrify Semitrailers for Long-Haul Freight",
-    "summary": "A semitrailer that helps propel itself entered commercial road testing in late May, when a power-train kit developed by Nivalis Energy Europe, headquartered in Luxembourg with engineering operations in Germany, was…",
-    "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-08T17:58:34Z"
-  },
-  {
-    "id": "news-5535aeb9eb9d",
-    "title": "Data for Agents",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-08T17:16:05Z"
-  },
-  {
-    "id": "news-cbd1a2582003",
-    "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-    "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-08T16:00:00Z"
-  },
-  {
-    "id": "news-cecc787bcc8b",
-    "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-    "summary": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA…",
-    "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-08T15:00:27Z"
-  },
-  {
-    "id": "news-41b85c9cdb7a",
-    "title": "Our approach to government and national security partnerships",
-    "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-    "url": "https://openai.com/index/government-national-security-partnerships",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-08T13:30:00Z"
   }
 ]
