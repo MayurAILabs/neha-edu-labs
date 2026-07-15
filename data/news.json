@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T07:30:22Z"
+    "publishedAt": "2026-07-15T12:54:48Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T07:30:22Z"
+    "publishedAt": "2026-07-15T12:54:48Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T07:30:22Z"
+    "publishedAt": "2026-07-15T12:54:48Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T07:30:22Z"
+    "publishedAt": "2026-07-15T12:54:48Z"
   },
   {
     "id": "news-2692805a8642",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T07:30:22Z"
+    "publishedAt": "2026-07-15T12:54:48Z"
   },
   {
     "id": "news-378c934d369a",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T07:30:22Z"
+    "publishedAt": "2026-07-15T12:54:48Z"
+  },
+  {
+    "id": "news-0b816fffcc50",
+    "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+    "summary": "Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. NVIDIA and its partners in Japan are…",
+    "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-15T10:51:37Z"
   },
   {
     "id": "news-dfa105380b32",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-08T13:30:00Z"
-  },
-  {
-    "id": "news-eaad4cbcfa7f",
-    "title": "Separating signal from noise in coding evaluations",
-    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-08T13:00:00Z"
   }
 ]
