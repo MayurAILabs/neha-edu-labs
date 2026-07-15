@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T17:47:50Z"
+    "publishedAt": "2026-07-15T21:31:53Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T17:47:50Z"
+    "publishedAt": "2026-07-15T21:31:53Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T17:47:50Z"
+    "publishedAt": "2026-07-15T21:31:53Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T17:47:50Z"
+    "publishedAt": "2026-07-15T21:31:53Z"
   },
   {
     "id": "news-2692805a8642",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T17:47:50Z"
+    "publishedAt": "2026-07-15T21:31:53Z"
   },
   {
     "id": "news-378c934d369a",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T17:47:50Z"
+    "publishedAt": "2026-07-15T21:31:53Z"
+  },
+  {
+    "id": "news-55349da04a7c",
+    "title": "3 Questions: Neural transparency and the future of AI design",
+    "summary": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network before their chatbot ever says a word.",
+    "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-15T20:25:00Z"
+  },
+  {
+    "id": "news-ed484814380b",
+    "title": "When Career Risks Are Worth Taking",
+    "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and…",
+    "url": "https://spectrum.ieee.org/career-risks",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-15T19:52:41Z"
+  },
+  {
+    "id": "news-cb18eefaa95a",
+    "title": "Notice to Membership",
+    "summary": "As of 21 June 2026, a Level 1 Expulsion has been imposed on IEEE Member Dr. Fei-Yue Wang, former editor-in-chief of the IEEE Transactions on Intelligent Vehicles. In accordance with IEEE Bylaw I-110.5(D)(i), Dr. Wang is…",
+    "url": "https://spectrum.ieee.org/notice-to-membership-july-2026",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-15T18:00:02Z"
   },
   {
     "id": "news-53e3149d2cc1",
@@ -134,6 +164,16 @@
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "summary": "Latest update from Hugging Face.",
     "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-15T00:00:00Z"
+  },
+  {
+    "id": "news-210f6726bf4a",
+    "title": "Welcome Inkling by Thinking Machines",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
     "category": "AI",
@@ -438,45 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-09T10:00:03Z"
-  },
-  {
-    "id": "news-54ee76ae9206",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "url": "https://openai.com/index/gpt-5-6",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-09T10:00:00Z"
-  },
-  {
-    "id": "news-5941cef110c0",
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-09T10:00:00Z"
-  },
-  {
-    "id": "news-8fd74bd3f519",
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "summary": "Details about the OpenAI Bio Bounty program",
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-09T10:00:00Z"
-  },
-  {
-    "id": "news-7eb481eef096",
-    "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
-    "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-08T21:11:56Z"
   }
 ]
