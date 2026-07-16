@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T21:31:53Z"
+    "publishedAt": "2026-07-16T06:36:43Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T21:31:53Z"
+    "publishedAt": "2026-07-16T06:36:43Z"
   },
   {
     "id": "news-933ce14bd680",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T21:31:53Z"
+    "publishedAt": "2026-07-16T06:36:43Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T21:31:53Z"
+    "publishedAt": "2026-07-16T06:36:43Z"
   },
   {
     "id": "news-2692805a8642",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T21:31:53Z"
+    "publishedAt": "2026-07-16T06:36:43Z"
   },
   {
     "id": "news-378c934d369a",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-15T21:31:53Z"
+    "publishedAt": "2026-07-16T06:36:43Z"
+  },
+  {
+    "id": "news-f92f573383c9",
+    "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
+    "summary": "Researchers developed an automated framework that helps AI models generate CAD programs more accurately and efficiently.",
+    "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-16T04:00:00Z"
+  },
+  {
+    "id": "news-dc5abc6a592c",
+    "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+    "summary": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at…",
+    "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-15T23:00:54Z"
   },
   {
     "id": "news-55349da04a7c",
@@ -458,25 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-09T13:00:55Z"
-  },
-  {
-    "id": "news-e799563c0958",
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-09T13:00:00Z"
-  },
-  {
-    "id": "news-050324f59977",
-    "title": "The Rebirth of High Frequency",
-    "summary": "An examination of how satellite vulnerabilities, modern wideband waveforms, and automatic link establishment are driving renewed military and government investment in HF communications.What Attendees will LearnWhy HF…",
-    "url": "https://content.knowledgehub.wiley.com/the-rebirth-of-high-frequency/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-09T10:00:03Z"
   }
 ]
