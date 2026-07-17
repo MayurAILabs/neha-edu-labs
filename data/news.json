@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-17T19:48:05Z"
+    "publishedAt": "2026-07-17T22:34:30Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-17T19:48:05Z"
+    "publishedAt": "2026-07-17T22:34:30Z"
   },
   {
     "id": "news-378c934d369a",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-17T19:48:05Z"
+    "publishedAt": "2026-07-17T22:34:30Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-17T19:48:05Z"
+    "publishedAt": "2026-07-17T22:34:30Z"
   },
   {
     "id": "news-97385f445f86",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-17T19:48:05Z"
+    "publishedAt": "2026-07-17T22:34:30Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-17T19:48:05Z"
+    "publishedAt": "2026-07-17T22:34:30Z"
+  },
+  {
+    "id": "news-7cbd6083bb1c",
+    "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
+    "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
+    "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-17T18:00:01Z"
   },
   {
     "id": "news-e3d56e9860e2",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-14T10:00:00Z"
-  },
-  {
-    "id": "news-cca00ce68781",
-    "title": "How data science teams use ChatGPT Work",
-    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-14T00:00:00Z"
   }
 ]
