@@ -7,17 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-16T20:14:34Z"
-  },
-  {
-    "id": "news-069ff7a9ce69",
-    "title": "We terminated a TPU mid-training and it recovered in seconds: Introduction to elastic training with MaxText",
-    "summary": "Distributed AI training is notoriously fragile because losing a single machine typically crashes the entire multi-node job, forcing a time-consuming, full-workload infrastructure restart. To address this, Google’s JAX…",
-    "url": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-16T20:14:34Z"
+    "publishedAt": "2026-07-17T00:15:55Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-16T20:14:34Z"
+    "publishedAt": "2026-07-17T00:15:55Z"
   },
   {
     "id": "news-378c934d369a",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-16T20:14:34Z"
+    "publishedAt": "2026-07-17T00:15:55Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -47,13 +37,33 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-16T20:14:34Z"
+    "publishedAt": "2026-07-17T00:15:55Z"
   },
   {
     "id": "news-97385f445f86",
     "title": "Building scalable AI agents with modular prompt transpilation",
     "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these…",
     "url": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-17T00:15:55Z"
+  },
+  {
+    "id": "news-a88b99d3742e",
+    "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
+    "summary": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command…",
+    "url": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-17T00:15:55Z"
+  },
+  {
+    "id": "news-069ff7a9ce69",
+    "title": "We terminated a TPU mid-training and it recovered in seconds: Introduction to elastic training with MaxText",
+    "summary": "Distributed AI training is notoriously fragile because losing a single machine typically crashes the entire multi-node job, forcing a time-consuming, full-workload infrastructure restart. To address this, Google’s JAX…",
+    "url": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-13T13:00:01Z"
-  },
-  {
-    "id": "news-66188580349f",
-    "title": "Empowering India’s next generation of innovators with ATL Saathi",
-    "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-07-13T12:37:28Z"
   }
 ]
