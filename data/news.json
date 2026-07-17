@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-17T09:19:11Z"
+    "publishedAt": "2026-07-17T15:01:05Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-17T09:19:11Z"
+    "publishedAt": "2026-07-17T15:01:05Z"
   },
   {
     "id": "news-378c934d369a",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-17T09:19:11Z"
+    "publishedAt": "2026-07-17T15:01:05Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-17T09:19:11Z"
+    "publishedAt": "2026-07-17T15:01:05Z"
   },
   {
     "id": "news-97385f445f86",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-17T09:19:11Z"
+    "publishedAt": "2026-07-17T15:01:05Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-17T09:19:11Z"
+    "publishedAt": "2026-07-17T15:01:05Z"
+  },
+  {
+    "id": "news-3ebda52fc80e",
+    "title": "A scorecard for the AI age",
+    "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-17T10:00:00Z"
   },
   {
     "id": "news-069ff7a9ce69",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-13T18:00:02Z"
-  },
-  {
-    "id": "news-ac112f9068a9",
-    "title": "Nokia’s 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
-    "summary": "In 2005, Nokia sold its billionth mobile phone, a budget-friendly device that went to a customer in Nigeria. By then, the company, based in Espoo, Finland, was making one of every three cellphones globally.But just nine…",
-    "url": "https://spectrum.ieee.org/nokia-phones-history",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-13T13:00:01Z"
   }
 ]
