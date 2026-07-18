@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-18T10:49:59Z"
+    "publishedAt": "2026-07-18T14:37:18Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-18T10:49:59Z"
+    "publishedAt": "2026-07-18T14:37:18Z"
   },
   {
     "id": "news-378c934d369a",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-18T10:49:59Z"
+    "publishedAt": "2026-07-18T14:37:18Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-18T10:49:59Z"
+    "publishedAt": "2026-07-18T14:37:18Z"
   },
   {
     "id": "news-97385f445f86",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-18T10:49:59Z"
+    "publishedAt": "2026-07-18T14:37:18Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-18T10:49:59Z"
+    "publishedAt": "2026-07-18T14:37:18Z"
+  },
+  {
+    "id": "news-59397dd7990d",
+    "title": "Python 3.15.0 beta 4 is here!",
+    "summary": "The final 3.15 beta is out!",
+    "url": "https://blog.python.org/2026/07/python-3150-beta-4/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-07-18T00:00:00Z"
   },
   {
     "id": "news-7cbd6083bb1c",
@@ -468,15 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-07-14T12:00:33Z"
-  },
-  {
-    "id": "news-92ab1f77dd8c",
-    "title": "How to manage AI investments in the agentic era",
-    "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-14T10:00:00Z"
   }
 ]
