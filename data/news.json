@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-20T16:17:08Z"
+    "publishedAt": "2026-07-20T20:55:33Z"
   },
   {
     "id": "news-378c934d369a",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-20T16:17:08Z"
+    "publishedAt": "2026-07-20T20:55:33Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-20T16:17:08Z"
+    "publishedAt": "2026-07-20T20:55:33Z"
   },
   {
     "id": "news-97385f445f86",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-20T16:17:08Z"
+    "publishedAt": "2026-07-20T20:55:33Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-20T16:17:08Z"
+    "publishedAt": "2026-07-20T20:55:33Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-20T16:17:08Z"
+    "publishedAt": "2026-07-20T20:55:33Z"
+  },
+  {
+    "id": "news-2d0abdda2470",
+    "title": "IEEE Program Helps Girls In India See a Future In STEM",
+    "summary": "Roughly half the world’s population is female, but the STEM fields don’t reflect that. The 2024 U.N. Global Education Monitoring Report on gender found that about 35 percent of STEM college graduates were women. The…",
+    "url": "https://spectrum.ieee.org/ieee-program-girls-india-stem",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-20T18:00:02Z"
   },
   {
     "id": "news-580ab93c01b4",
@@ -128,6 +138,16 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-07-20T10:24:32Z"
+  },
+  {
+    "id": "news-d4ff9ec891b7",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-20T10:00:00Z"
   },
   {
     "id": "news-59397dd7990d",
@@ -458,25 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-07-15T00:00:00Z"
-  },
-  {
-    "id": "news-210f6726bf4a",
-    "title": "Welcome Inkling by Thinking Machines",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-15T00:00:00Z"
-  },
-  {
-    "id": "news-dfa105380b32",
-    "title": "Helping AI models to meet the real world",
-    "summary": "Through research and entrepreneurship, Professor Devavrat Shah is helping to design methods that can handle constant decision-making using limited computational resources.",
-    "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-07-14T20:25:00Z"
   }
 ]
