@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-6183b5967278",
-    "title": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini",
-    "summary": "On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...",
-    "url": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-20T10:24:32Z"
-  },
-  {
     "id": "news-b5eb0a584ec4",
     "title": "LiteRT.js, Google's high performance Web AI Inference",
     "summary": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-20T10:24:32Z"
+    "publishedAt": "2026-07-20T16:17:08Z"
   },
   {
     "id": "news-378c934d369a",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-20T10:24:32Z"
+    "publishedAt": "2026-07-20T16:17:08Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-20T10:24:32Z"
+    "publishedAt": "2026-07-20T16:17:08Z"
   },
   {
     "id": "news-97385f445f86",
@@ -47,13 +37,93 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-20T10:24:32Z"
+    "publishedAt": "2026-07-20T16:17:08Z"
   },
   {
     "id": "news-a88b99d3742e",
     "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
     "summary": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command…",
     "url": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-20T16:17:08Z"
+  },
+  {
+    "id": "news-a545149c21c1",
+    "title": "Run Ray on TPU, Part 1: The foundations",
+    "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict…",
+    "url": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-20T16:17:08Z"
+  },
+  {
+    "id": "news-580ab93c01b4",
+    "title": "$100 million for open source: A milestone built by the community",
+    "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub…",
+    "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-20T16:00:00Z"
+  },
+  {
+    "id": "news-8030c8e0dc09",
+    "title": "Introducing Cosmos 3 Edge",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-20T15:58:51Z"
+  },
+  {
+    "id": "news-80474c9fe3f9",
+    "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+    "summary": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter…",
+    "url": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-20T15:55:00Z"
+  },
+  {
+    "id": "news-286358f33346",
+    "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+    "summary": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
+    "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-20T15:00:53Z"
+  },
+  {
+    "id": "news-812b62573106",
+    "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
+    "summary": "In the chill of a London spring night, under overcast skies, iconic Trafalgar Square opens around me. Admiral Nelson rises on his pedestal, the National Gallery rests behind, the church of St Martin-in-the-Fields sits…",
+    "url": "https://spectrum.ieee.org/led-light-pollution",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-20T13:00:01Z"
+  },
+  {
+    "id": "news-c1d126a13f15",
+    "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+    "summary": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it.…",
+    "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-20T10:59:23Z"
+  },
+  {
+    "id": "news-6183b5967278",
+    "title": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini",
+    "summary": "On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...",
+    "url": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -408,75 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-07-14T20:25:00Z"
-  },
-  {
-    "id": "news-2667bd94493a",
-    "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
-    "summary": "MIT students designed, built, and tested a jet engine with AI copilots, assessing AI’s usefulness in developing high-performance aerospace systems.",
-    "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-07-14T18:00:00Z"
-  },
-  {
-    "id": "news-7ba5886deede",
-    "title": "Why we built ADK 2.0",
-    "summary": "Answering the questions of \"why we built ADK 2.0\". This explains the rationale, some of the features, and why a developer should consider upgrading. This will be published the day after ADK go 2.0 launches.",
-    "url": "https://developers.googleblog.com/why-we-built-adk-20/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-14T16:56:59Z"
-  },
-  {
-    "id": "news-9d5925e11f31",
-    "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-    "summary": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and…",
-    "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-14T16:45:13Z"
-  },
-  {
-    "id": "news-4a94e64db0fd",
-    "title": "Celebrating 25 years of visual search innovation",
-    "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
-    "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-07-14T16:00:00Z"
-  },
-  {
-    "id": "news-2bd61bed740d",
-    "title": "How I Turned AI to the Dark Side",
-    "summary": "Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions. These exploits worked across nearly all major LLMs revealing an…",
-    "url": "https://spectrum.ieee.org/jailbreaking-llms",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-14T15:59:35Z"
-  },
-  {
-    "id": "news-43be431cc445",
-    "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-    "summary": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that…",
-    "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-14T15:00:20Z"
-  },
-  {
-    "id": "news-ab0d744633d3",
-    "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
-    "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine…",
-    "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-14T12:00:33Z"
   }
 ]
