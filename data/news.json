@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T00:15:20Z"
+    "publishedAt": "2026-07-21T10:08:12Z"
   },
   {
     "id": "news-378c934d369a",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T00:15:20Z"
+    "publishedAt": "2026-07-21T10:08:12Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T00:15:20Z"
+    "publishedAt": "2026-07-21T10:08:12Z"
   },
   {
     "id": "news-97385f445f86",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T00:15:20Z"
+    "publishedAt": "2026-07-21T10:08:12Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T00:15:20Z"
+    "publishedAt": "2026-07-21T10:08:12Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T00:15:20Z"
+    "publishedAt": "2026-07-21T10:08:12Z"
+  },
+  {
+    "id": "news-f07ea0986edc",
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/grabette",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-21T00:00:00Z"
   },
   {
     "id": "news-2d0abdda2470",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-15T10:00:00Z"
-  },
-  {
-    "id": "news-5d7569c2afe3",
-    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/real-world-voiceeq",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-15T00:00:00Z"
   }
 ]
