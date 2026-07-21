@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-b5eb0a584ec4",
-    "title": "LiteRT.js, Google's high performance Web AI Inference",
-    "summary": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI…",
-    "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-21T10:08:12Z"
-  },
-  {
     "id": "news-378c934d369a",
     "title": "Systems Engineering Playbook: Optimizing Qwen 3.5-397B MoE on Ironwood (TPU7x)",
     "summary": "To serve the 397B-parameter Qwen 3.5 Mixture-of-Experts (MoE) model on Ironwood TPUs, engineers developed a modular JAX/Pallas optimization stack that achieved up to a 4.7x inference speedup for prefill-heavy workloads.…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T10:08:12Z"
+    "publishedAt": "2026-07-21T16:06:31Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T10:08:12Z"
+    "publishedAt": "2026-07-21T16:06:31Z"
   },
   {
     "id": "news-97385f445f86",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T10:08:12Z"
+    "publishedAt": "2026-07-21T16:06:31Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -47,13 +37,73 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T10:08:12Z"
+    "publishedAt": "2026-07-21T16:06:31Z"
   },
   {
     "id": "news-a545149c21c1",
     "title": "Run Ray on TPU, Part 1: The foundations",
     "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict…",
     "url": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-21T16:06:31Z"
+  },
+  {
+    "id": "news-33a374e2e2db",
+    "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
+    "summary": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly…",
+    "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-21T16:06:31Z"
+  },
+  {
+    "id": "news-5bd2fa9899fc",
+    "title": "How to build interactive experiences with canvases",
+    "summary": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-21T16:00:00Z"
+  },
+  {
+    "id": "news-46165e640060",
+    "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+    "summary": "NVIDIA Vera Rubin is here, and it&#8217;s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning…",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-21T15:36:43Z"
+  },
+  {
+    "id": "news-8985407e5ef9",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+    "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-07-21T15:16:30Z"
+  },
+  {
+    "id": "news-a2118bad79e4",
+    "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+    "summary": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented…",
+    "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-21T15:00:20Z"
+  },
+  {
+    "id": "news-b5eb0a584ec4",
+    "title": "LiteRT.js, Google's high performance Web AI Inference",
+    "summary": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI…",
+    "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -218,6 +268,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-17T15:00:14Z"
+  },
+  {
+    "id": "news-7898549b95c3",
+    "title": "Introducing Gemini 3.5 Flash Cyber",
+    "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-07-17T15:00:11Z"
   },
   {
     "id": "news-3ebda52fc80e",
@@ -418,65 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-07-15T17:29:41Z"
-  },
-  {
-    "id": "news-54e8f35838d6",
-    "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
-    "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to…",
-    "url": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-15T17:29:31Z"
-  },
-  {
-    "id": "news-5c8332d4091e",
-    "title": "Model Routing Is Simple. Until It Isn’t.",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-15T17:27:01Z"
-  },
-  {
-    "id": "news-50290071a458",
-    "title": "The First Chatbot’s Multiple Personalities",
-    "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in…",
-    "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-15T15:35:53Z"
-  },
-  {
-    "id": "news-1e97faa490fa",
-    "title": "The US is advancing AI safety through state and federal action",
-    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-15T12:00:00Z"
-  },
-  {
-    "id": "news-0b816fffcc50",
-    "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-    "summary": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This…",
-    "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-15T10:51:37Z"
-  },
-  {
-    "id": "news-ee230258f27f",
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-15T10:00:00Z"
   }
 ]
