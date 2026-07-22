@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T10:07:21Z"
+    "publishedAt": "2026-07-22T16:07:36Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T10:07:21Z"
+    "publishedAt": "2026-07-22T16:07:36Z"
   },
   {
     "id": "news-97385f445f86",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T10:07:21Z"
+    "publishedAt": "2026-07-22T16:07:36Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T10:07:21Z"
+    "publishedAt": "2026-07-22T16:07:36Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T10:07:21Z"
+    "publishedAt": "2026-07-22T16:07:36Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -57,7 +57,77 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T10:07:21Z"
+    "publishedAt": "2026-07-22T16:07:36Z"
+  },
+  {
+    "id": "news-d2fa6f8b0d04",
+    "title": "Next chapter: Restructuring GitHub’s bug bounty program",
+    "summary": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHub&#8217;s bug…",
+    "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-22T16:00:00Z"
+  },
+  {
+    "id": "news-15eb5b1c419a",
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-07-22T13:38:54Z"
+  },
+  {
+    "id": "news-562676d43cd3",
+    "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+    "summary": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete.…",
+    "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-22T13:00:11Z"
+  },
+  {
+    "id": "news-bd6ce42035f5",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-22T13:00:00Z"
+  },
+  {
+    "id": "news-23fca7e72825",
+    "title": "3 Google updates from Galaxy Unpacked 2026",
+    "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+    "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-07-22T13:00:00Z"
+  },
+  {
+    "id": "news-fc3528d001b5",
+    "title": "Advancing the next era of national science",
+    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-22T12:00:00Z"
+  },
+  {
+    "id": "news-c54f46e53d48",
+    "title": "Introducing OpenAI Presence",
+    "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-22T05:30:00Z"
   },
   {
     "id": "news-ce1cab87367b",
@@ -408,75 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-16T13:00:34Z"
-  },
-  {
-    "id": "news-2692805a8642",
-    "title": "Unlocking the Next Era of On-Device AI with Google Tensor and Pixel",
-    "summary": "At Google I/O Connect India, Google showcased the future of 100% private, on-device AI powered by the custom Tensor SoC and TPU for the new Pixel 10 family. The event debuted the lightweight Gemma 4 E2B model, which…",
-    "url": "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-16T12:10:31Z"
-  },
-  {
-    "id": "news-d03c56bc4c24",
-    "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
-    "summary": "In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears…",
-    "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-16T12:00:01Z"
-  },
-  {
-    "id": "news-4babaf3e269b",
-    "title": "Newer Models, Same Advantage",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-16T11:49:48Z"
-  },
-  {
-    "id": "news-287800377f1b",
-    "title": "Our approach to bioresilience",
-    "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-07-16T09:30:42Z"
-  },
-  {
-    "id": "news-933ce14bd680",
-    "title": "Build agentic full-stack apps with Genkit",
-    "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single…",
-    "url": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-16T06:36:43Z"
-  },
-  {
-    "id": "news-f92f573383c9",
-    "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
-    "summary": "Researchers developed an automated framework that helps AI models generate CAD programs more accurately and efficiently.",
-    "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-07-16T04:00:00Z"
-  },
-  {
-    "id": "news-d8ed319939f5",
-    "title": "Security incident disclosure — July 2026",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/security-incident-july-2026",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-16T00:00:00Z"
   }
 ]
