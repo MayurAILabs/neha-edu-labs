@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T20:49:21Z"
+    "publishedAt": "2026-07-22T00:08:40Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T20:49:21Z"
+    "publishedAt": "2026-07-22T00:08:40Z"
   },
   {
     "id": "news-97385f445f86",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T20:49:21Z"
+    "publishedAt": "2026-07-22T00:08:40Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T20:49:21Z"
+    "publishedAt": "2026-07-22T00:08:40Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T20:49:21Z"
+    "publishedAt": "2026-07-22T00:08:40Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-21T20:49:21Z"
+    "publishedAt": "2026-07-22T00:08:40Z"
+  },
+  {
+    "id": "news-ce1cab87367b",
+    "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+    "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant…",
+    "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-21T22:35:45Z"
   },
   {
     "id": "news-eed16821fcdd",
@@ -72,7 +82,7 @@
   {
     "id": "news-b6e7fb0fa3c9",
     "title": "Why AI Needs a “Genie Coefficient”",
-    "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do, and the unspoken assumptions about how you want the AI to do it. We propose a new…",
+    "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new…",
     "url": "https://spectrum.ieee.org/ai-agent-benchmark",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
@@ -466,16 +476,6 @@
     "url": "https://huggingface.co/blog/security-incident-july-2026",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-16T00:00:00Z"
-  },
-  {
-    "id": "news-6f16a999c8dd",
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-    "url": "https://openai.com/index/cars24",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-16T00:00:00Z"
   }
