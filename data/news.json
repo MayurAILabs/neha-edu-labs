@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T16:07:36Z"
+    "publishedAt": "2026-07-22T20:45:03Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T16:07:36Z"
+    "publishedAt": "2026-07-22T20:45:03Z"
   },
   {
     "id": "news-97385f445f86",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T16:07:36Z"
+    "publishedAt": "2026-07-22T20:45:03Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T16:07:36Z"
+    "publishedAt": "2026-07-22T20:45:03Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T16:07:36Z"
+    "publishedAt": "2026-07-22T20:45:03Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T16:07:36Z"
+    "publishedAt": "2026-07-22T20:45:03Z"
+  },
+  {
+    "id": "news-b8eb1fb94832",
+    "title": "Copilot vs. raw API access: What are you actually paying for?",
+    "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-22T19:00:00Z"
+  },
+  {
+    "id": "news-6bb0b0e490a6",
+    "title": "The Computer That Helped Win World War II",
+    "summary": "One summer day in 1941, a British radio operator was monitoring German military frequencies and heard something unexpected in her headphones. A later report called it “strange new music.” Sounding unlike the familiar…",
+    "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-22T18:00:01Z"
+  },
+  {
+    "id": "news-1dea4f3bbb8a",
+    "title": "Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83",
+    "summary": "Known for his clear and elegant writing style, Bertsekas shaped fields from control and optimization to large-scale computation and artificial intelligence.",
+    "url": "https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-22T17:00:00Z"
   },
   {
     "id": "news-d2fa6f8b0d04",
@@ -106,6 +136,16 @@
     "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-07-22T13:00:00Z"
+  },
+  {
+    "id": "news-130e23c4bd2f",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-22T13:00:00Z"
   },
@@ -208,6 +248,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-21T15:00:20Z"
+  },
+  {
+    "id": "news-9195a1f4e0ca",
+    "title": "NVIDIA and Partners Build in America, for America",
+    "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific…",
+    "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-21T13:00:47Z"
   },
   {
     "id": "news-b5eb0a584ec4",
@@ -428,55 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-07-16T20:14:34Z"
-  },
-  {
-    "id": "news-ff8c14b3821e",
-    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-16T16:01:21Z"
-  },
-  {
-    "id": "news-8fe39edff791",
-    "title": "Why teens deserve access to safe AI",
-    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-16T16:00:00Z"
-  },
-  {
-    "id": "news-a564401bb829",
-    "title": "Connect more of your apps to Search",
-    "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
-    "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-07-16T16:00:00Z"
-  },
-  {
-    "id": "news-0199c9587e0b",
-    "title": "Create, edit and star in videos with two Google Vids updates",
-    "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
-    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-07-16T16:00:00Z"
-  },
-  {
-    "id": "news-62fe82c2b1f7",
-    "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
-    "summary": "Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeForce NOW officially…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-16T13:00:34Z"
   }
 ]
