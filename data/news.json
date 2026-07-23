@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T20:45:03Z"
+    "publishedAt": "2026-07-23T00:16:18Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T20:45:03Z"
+    "publishedAt": "2026-07-23T00:16:18Z"
   },
   {
     "id": "news-97385f445f86",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T20:45:03Z"
+    "publishedAt": "2026-07-23T00:16:18Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T20:45:03Z"
+    "publishedAt": "2026-07-23T00:16:18Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T20:45:03Z"
+    "publishedAt": "2026-07-23T00:16:18Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-22T20:45:03Z"
+    "publishedAt": "2026-07-23T00:16:18Z"
   },
   {
     "id": "news-b8eb1fb94832",
@@ -168,6 +168,16 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-22T05:30:00Z"
+  },
+  {
+    "id": "news-ce627deb9928",
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+    "url": "https://openai.com/index/ntt-data",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-22T00:00:00Z"
   },
   {
     "id": "news-ce1cab87367b",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-17T10:00:00Z"
-  },
-  {
-    "id": "news-069ff7a9ce69",
-    "title": "We terminated a TPU mid-training and it recovered in seconds: Introduction to elastic training with MaxText",
-    "summary": "Distributed AI training is notoriously fragile because losing a single machine typically crashes the entire multi-node job, forcing a time-consuming, full-workload infrastructure restart. To address this, Google’s JAX…",
-    "url": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-16T20:14:34Z"
   }
 ]
