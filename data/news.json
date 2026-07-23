@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-23T10:04:58Z"
+    "publishedAt": "2026-07-23T16:16:16Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-23T10:04:58Z"
+    "publishedAt": "2026-07-23T16:16:16Z"
   },
   {
     "id": "news-97385f445f86",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-23T10:04:58Z"
+    "publishedAt": "2026-07-23T16:16:16Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-23T10:04:58Z"
+    "publishedAt": "2026-07-23T16:16:16Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-23T10:04:58Z"
+    "publishedAt": "2026-07-23T16:16:16Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-23T10:04:58Z"
+    "publishedAt": "2026-07-23T16:16:16Z"
+  },
+  {
+    "id": "news-ab3c6b3534f0",
+    "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+    "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why…",
+    "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-23T16:00:00Z"
+  },
+  {
+    "id": "news-7c941d34eecc",
+    "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
+    "summary": "Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail in Path of Exile: Curse of the Allflame and charge in Battlefield 6 Season 4…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-23T13:00:16Z"
+  },
+  {
+    "id": "news-f857d320a928",
+    "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
+    "summary": "Initial research projects advance national priorities across natural resources, manufacturing, nuclear physics, and more.",
+    "url": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-23T12:00:00Z"
   },
   {
     "id": "news-6479bbc6ab8b",
@@ -448,35 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-07-17T17:25:00Z"
-  },
-  {
-    "id": "news-ed5e95854641",
-    "title": "The cost of saying yes has changed",
-    "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog.",
-    "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-17T16:46:47Z"
-  },
-  {
-    "id": "news-a0bbc2c6e6f2",
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-17T15:57:54Z"
-  },
-  {
-    "id": "news-3cc85d0a4ad9",
-    "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
-    "summary": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
-    "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-17T15:00:14Z"
   }
 ]
