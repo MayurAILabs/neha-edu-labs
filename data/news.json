@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-23T16:16:16Z"
+    "publishedAt": "2026-07-23T20:39:50Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-23T16:16:16Z"
+    "publishedAt": "2026-07-23T20:39:50Z"
   },
   {
     "id": "news-97385f445f86",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-23T16:16:16Z"
+    "publishedAt": "2026-07-23T20:39:50Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-23T16:16:16Z"
+    "publishedAt": "2026-07-23T20:39:50Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-23T16:16:16Z"
+    "publishedAt": "2026-07-23T20:39:50Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-23T16:16:16Z"
+    "publishedAt": "2026-07-23T20:39:50Z"
   },
   {
     "id": "news-ab3c6b3534f0",
@@ -107,6 +107,26 @@
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
     "category": "AI",
+    "publishedAt": "2026-07-23T00:00:00Z"
+  },
+  {
+    "id": "news-7569338ee0d3",
+    "title": "Launching Health in ChatGPT",
+    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-23T00:00:00Z"
+  },
+  {
+    "id": "news-d06d75a712df",
+    "title": "Get Ready: 2026 Python Packaging Council Nominations Opening Soon!",
+    "summary": "The inaugural Python Packaging Council election nomination period opens on Tuesday, July 28th, 2:00 pm UTC and closes on Tuesday, August 11th, 2:00 pm UTC.",
+    "url": "https://blog.python.org/2026/07/2026-packaging-council-nominations/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
     "publishedAt": "2026-07-23T00:00:00Z"
   },
   {
@@ -458,25 +478,5 @@
     "source": "Python Insider",
     "category": "Programming",
     "publishedAt": "2026-07-18T00:00:00Z"
-  },
-  {
-    "id": "news-7cbd6083bb1c",
-    "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
-    "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
-    "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-17T18:00:01Z"
-  },
-  {
-    "id": "news-e3d56e9860e2",
-    "title": "Following the questions where they lead",
-    "summary": "Assistant Professor Bailey Flanigan has arrived at complex computational methods for helping democracy thrive.",
-    "url": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-07-17T17:25:00Z"
   }
 ]
