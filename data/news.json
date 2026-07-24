@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-24T00:14:11Z"
+    "publishedAt": "2026-07-24T09:41:44Z"
   },
   {
     "id": "news-cafe5962f6ec",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-24T00:14:11Z"
+    "publishedAt": "2026-07-24T09:41:44Z"
   },
   {
     "id": "news-97385f445f86",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-24T00:14:11Z"
+    "publishedAt": "2026-07-24T09:41:44Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-24T00:14:11Z"
+    "publishedAt": "2026-07-24T09:41:44Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-24T00:14:11Z"
+    "publishedAt": "2026-07-24T09:41:44Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-24T00:14:11Z"
+    "publishedAt": "2026-07-24T09:41:44Z"
+  },
+  {
+    "id": "news-7a9ded228ecc",
+    "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+    "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress.…",
+    "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-24T04:34:27Z"
+  },
+  {
+    "id": "news-c3407e6014e1",
+    "title": "Working to automate nuclear plant operations",
+    "summary": "PhD student Lauren Fortier is building on the experience she gained operating a nuclear plant for the Navy to solve a critical hurdle in the wider adoption of the energy source.",
+    "url": "https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-24T04:00:00Z"
   },
   {
     "id": "news-ab3c6b3534f0",
@@ -458,25 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-07-20T10:24:32Z"
-  },
-  {
-    "id": "news-d4ff9ec891b7",
-    "title": "Safety and alignment in an era of long-horizon models",
-    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-20T10:00:00Z"
-  },
-  {
-    "id": "news-59397dd7990d",
-    "title": "Python 3.15.0 beta 4 is here!",
-    "summary": "The final 3.15 beta is out!",
-    "url": "https://blog.python.org/2026/07/python-3150-beta-4/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-07-18T00:00:00Z"
   }
 ]
