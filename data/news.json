@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-25T11:03:01Z"
+    "publishedAt": "2026-07-25T14:50:03Z"
   },
   {
     "id": "news-97385f445f86",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-25T11:03:01Z"
+    "publishedAt": "2026-07-25T14:50:03Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-25T11:03:01Z"
+    "publishedAt": "2026-07-25T14:50:03Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-25T11:03:01Z"
+    "publishedAt": "2026-07-25T14:50:03Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-25T11:03:01Z"
+    "publishedAt": "2026-07-25T14:50:03Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-25T11:03:01Z"
+    "publishedAt": "2026-07-25T14:50:03Z"
+  },
+  {
+    "id": "news-4c19f3c403c5",
+    "title": "Poetry for Engineers: A Martian Rover Sends a Postcard Home",
+    "summary": "Already, I’ve almost forgotten rain;I know I will never know that again.I move forward with the powers you gave meto live up to my name, Curiosity.This is a land without leaves, fronds, or spines.If there are plants,…",
+    "url": "https://spectrum.ieee.org/poem-martian-rover",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-25T13:00:01Z"
   },
   {
     "id": "news-07503d367808",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-20T15:00:53Z"
-  },
-  {
-    "id": "news-812b62573106",
-    "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
-    "summary": "In the chill of a London spring night, under overcast skies, iconic Trafalgar Square opens around me. Admiral Nelson rises on his pedestal, the National Gallery rests behind, the church of St Martin-in-the-Fields sits…",
-    "url": "https://spectrum.ieee.org/led-light-pollution",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-20T13:00:01Z"
   }
 ]
