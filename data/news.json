@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-26T15:47:13Z"
+    "publishedAt": "2026-07-26T20:15:35Z"
   },
   {
     "id": "news-97385f445f86",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-26T15:47:13Z"
+    "publishedAt": "2026-07-26T20:15:35Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-26T15:47:13Z"
+    "publishedAt": "2026-07-26T20:15:35Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-26T15:47:13Z"
+    "publishedAt": "2026-07-26T20:15:35Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-26T15:47:13Z"
+    "publishedAt": "2026-07-26T20:15:35Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-26T15:47:13Z"
+    "publishedAt": "2026-07-26T20:15:35Z"
   },
   {
     "id": "news-4c19f3c403c5",
@@ -352,7 +352,7 @@
   {
     "id": "news-46165e640060",
     "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-    "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+…",
+    "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius. Spanning…",
     "url": "https://blogs.nvidia.com/blog/vera-rubin/",
     "image": "assets/images/news/cat-ai.svg",
     "source": "NVIDIA",
