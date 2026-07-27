@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-26T20:15:35Z"
+    "publishedAt": "2026-07-27T08:59:18Z"
   },
   {
     "id": "news-97385f445f86",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-26T20:15:35Z"
+    "publishedAt": "2026-07-27T08:59:18Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-26T20:15:35Z"
+    "publishedAt": "2026-07-27T08:59:18Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-26T20:15:35Z"
+    "publishedAt": "2026-07-27T08:59:18Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-26T20:15:35Z"
+    "publishedAt": "2026-07-27T08:59:18Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-26T20:15:35Z"
+    "publishedAt": "2026-07-27T08:59:18Z"
+  },
+  {
+    "id": "news-974f35f6c57c",
+    "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+    "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry…",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-27T00:45:42Z"
   },
   {
     "id": "news-4c19f3c403c5",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-20T15:55:00Z"
-  },
-  {
-    "id": "news-286358f33346",
-    "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-    "summary": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
-    "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-20T15:00:53Z"
   }
 ]
