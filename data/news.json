@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-27T08:59:18Z"
+    "publishedAt": "2026-07-27T16:50:13Z"
   },
   {
     "id": "news-97385f445f86",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-27T08:59:18Z"
+    "publishedAt": "2026-07-27T16:50:13Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-27T08:59:18Z"
+    "publishedAt": "2026-07-27T16:50:13Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-27T08:59:18Z"
+    "publishedAt": "2026-07-27T16:50:13Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-27T08:59:18Z"
+    "publishedAt": "2026-07-27T16:50:13Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-27T08:59:18Z"
+    "publishedAt": "2026-07-27T16:50:13Z"
+  },
+  {
+    "id": "news-7310f03f0754",
+    "title": "GitHub Copilot app for Beginners: Getting started",
+    "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-27T16:00:00Z"
+  },
+  {
+    "id": "news-9101339b1ac2",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-27T09:32:20Z"
+  },
+  {
+    "id": "news-338eb622f724",
+    "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+    "summary": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and…",
+    "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-27T09:00:07Z"
+  },
+  {
+    "id": "news-f143efbfe201",
+    "title": "How AI is expanding what people do at work",
+    "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-27T03:30:00Z"
   },
   {
     "id": "news-974f35f6c57c",
@@ -380,6 +420,16 @@
     "publishedAt": "2026-07-21T15:16:30Z"
   },
   {
+    "id": "news-edd884e3eb65",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-07-21T15:16:30Z"
+  },
+  {
     "id": "news-a2118bad79e4",
     "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
     "summary": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented…",
@@ -428,55 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-07-21T00:00:00Z"
-  },
-  {
-    "id": "news-40359dbf5a24",
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-21T00:00:00Z"
-  },
-  {
-    "id": "news-2d0abdda2470",
-    "title": "IEEE Program Helps Girls In India See a Future In STEM",
-    "summary": "Roughly half the world’s population is female, but the STEM fields don’t reflect that. The 2024 U.N. Global Education Monitoring Report on gender found that about 35 percent of STEM college graduates were women. The…",
-    "url": "https://spectrum.ieee.org/ieee-program-girls-india-stem",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-20T18:00:02Z"
-  },
-  {
-    "id": "news-580ab93c01b4",
-    "title": "$100 million for open source: A milestone built by the community",
-    "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub…",
-    "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-20T16:00:00Z"
-  },
-  {
-    "id": "news-8030c8e0dc09",
-    "title": "Introducing Cosmos 3 Edge",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-20T15:58:51Z"
-  },
-  {
-    "id": "news-80474c9fe3f9",
-    "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
-    "summary": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter…",
-    "url": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-20T15:55:00Z"
   }
 ]
