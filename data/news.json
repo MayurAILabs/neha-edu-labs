@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-27T16:50:13Z"
+    "publishedAt": "2026-07-27T20:56:24Z"
   },
   {
     "id": "news-97385f445f86",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-27T16:50:13Z"
+    "publishedAt": "2026-07-27T20:56:24Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-27T16:50:13Z"
+    "publishedAt": "2026-07-27T20:56:24Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-27T16:50:13Z"
+    "publishedAt": "2026-07-27T20:56:24Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-27T16:50:13Z"
+    "publishedAt": "2026-07-27T20:56:24Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-27T16:50:13Z"
+    "publishedAt": "2026-07-27T20:56:24Z"
+  },
+  {
+    "id": "news-c82b7e99cb9c",
+    "title": "The harness is all you need (mostly)",
+    "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog.",
+    "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-27T18:00:00Z"
+  },
+  {
+    "id": "news-30bf676a35a5",
+    "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
+    "summary": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures.What Attendees will LearnWhy mode-agile threats render…",
+    "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-27T17:54:07Z"
   },
   {
     "id": "news-7310f03f0754",
@@ -458,25 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-07-21T10:08:12Z"
-  },
-  {
-    "id": "news-20b0eb2d5c14",
-    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-21T07:00:00Z"
-  },
-  {
-    "id": "news-f07ea0986edc",
-    "title": "Grabette: an open system to record robot-manipulation data",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/grabette",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-21T00:00:00Z"
   }
 ]
