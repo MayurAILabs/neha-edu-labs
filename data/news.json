@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-28T16:53:37Z"
+    "publishedAt": "2026-07-28T20:48:39Z"
   },
   {
     "id": "news-97385f445f86",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-28T16:53:37Z"
+    "publishedAt": "2026-07-28T20:48:39Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-28T16:53:37Z"
+    "publishedAt": "2026-07-28T20:48:39Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-28T16:53:37Z"
+    "publishedAt": "2026-07-28T20:48:39Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-28T16:53:37Z"
+    "publishedAt": "2026-07-28T20:48:39Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-28T16:53:37Z"
+    "publishedAt": "2026-07-28T20:48:39Z"
+  },
+  {
+    "id": "news-5d849d197358",
+    "title": "Laboratoria’s Mariana Costa Empowers Women in Tech",
+    "summary": "In shaping her career, Peru native Mariana Costa has asked herself a question: What can I do to make life better for women in Latin America?The answer she landed on was training them for tech jobs.Mariana CostaEmployer…",
+    "url": "https://spectrum.ieee.org/mariana-costa-women-in-tech",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-28T18:00:01Z"
+  },
+  {
+    "id": "news-df22037e3e0f",
+    "title": "Scientific computing in the age of agentic AI",
+    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-28T17:00:00Z"
   },
   {
     "id": "news-92e866603de3",
@@ -208,6 +228,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-27T00:45:42Z"
+  },
+  {
+    "id": "news-8ff67d77127c",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-27T00:00:00Z"
   },
   {
     "id": "news-4c19f3c403c5",
@@ -448,35 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-22T00:00:00Z"
-  },
-  {
-    "id": "news-ce1cab87367b",
-    "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
-    "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant…",
-    "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-21T22:35:45Z"
-  },
-  {
-    "id": "news-eed16821fcdd",
-    "title": "The State of Simulation for Physical AI: An Overview",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-21T20:00:27Z"
-  },
-  {
-    "id": "news-b6e7fb0fa3c9",
-    "title": "Why AI Needs a “Genie Coefficient”",
-    "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new…",
-    "url": "https://spectrum.ieee.org/ai-agent-benchmark",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-21T17:41:11Z"
   }
 ]
