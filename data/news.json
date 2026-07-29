@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-29T21:57:20Z"
+    "publishedAt": "2026-07-29T23:00:13Z"
   },
   {
     "id": "news-97385f445f86",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-29T21:57:20Z"
+    "publishedAt": "2026-07-29T23:00:13Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-29T21:57:20Z"
+    "publishedAt": "2026-07-29T23:00:13Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-29T21:57:20Z"
+    "publishedAt": "2026-07-29T23:00:13Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-29T21:57:20Z"
+    "publishedAt": "2026-07-29T23:00:13Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-29T21:57:20Z"
+    "publishedAt": "2026-07-29T23:00:13Z"
   },
   {
     "id": "news-705bd6c095e8",
@@ -78,6 +78,16 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-07-29T16:00:00Z"
+  },
+  {
+    "id": "news-cc8e132c6199",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-29T15:00:00Z"
   },
   {
     "id": "news-c26de8837023",
@@ -468,15 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-07-22T17:00:00Z"
-  },
-  {
-    "id": "news-d2fa6f8b0d04",
-    "title": "Next chapter: Restructuring GitHub’s bug bounty program",
-    "summary": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHub&#8217;s bug…",
-    "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-22T16:00:00Z"
   }
 ]
