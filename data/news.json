@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-29T10:48:55Z"
+    "publishedAt": "2026-07-29T16:11:46Z"
   },
   {
     "id": "news-97385f445f86",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-29T10:48:55Z"
+    "publishedAt": "2026-07-29T16:11:46Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-29T10:48:55Z"
+    "publishedAt": "2026-07-29T16:11:46Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-29T10:48:55Z"
+    "publishedAt": "2026-07-29T16:11:46Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-29T10:48:55Z"
+    "publishedAt": "2026-07-29T16:11:46Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -57,7 +57,67 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-29T10:48:55Z"
+    "publishedAt": "2026-07-29T16:11:46Z"
+  },
+  {
+    "id": "news-705bd6c095e8",
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-07-29T16:02:10Z"
+  },
+  {
+    "id": "news-3216ea2ac56a",
+    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+    "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft…",
+    "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-29T16:00:00Z"
+  },
+  {
+    "id": "news-c26de8837023",
+    "title": "Negotiating Your Salary Is About More Than Money",
+    "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and…",
+    "url": "https://spectrum.ieee.org/how-to-negotiate-your-salary",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-29T14:55:45Z"
+  },
+  {
+    "id": "news-3181c11c8b28",
+    "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
+    "summary": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for…",
+    "url": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-29T14:00:02Z"
+  },
+  {
+    "id": "news-9bca82a43b8d",
+    "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
+    "summary": "The visionary PhysioNet platform launched 25 years ago, based on a system developed at MIT in the 1970s. It has become one of the most comprehensive biomedical and clinical data repositories in existence.",
+    "url": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-29T14:00:00Z"
+  },
+  {
+    "id": "news-ef7466e860af",
+    "title": "AI Is Hyper-Scaling Digital Inequality",
+    "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being…",
+    "url": "https://spectrum.ieee.org/ai-digital-divide",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-29T11:00:04Z"
   },
   {
     "id": "news-5d849d197358",
@@ -418,65 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-22T13:00:11Z"
-  },
-  {
-    "id": "news-bd6ce42035f5",
-    "title": "Building AI infrastructure with the Effingham County community",
-    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-22T13:00:00Z"
-  },
-  {
-    "id": "news-23fca7e72825",
-    "title": "3 Google updates from Galaxy Unpacked 2026",
-    "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
-    "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-07-22T13:00:00Z"
-  },
-  {
-    "id": "news-130e23c4bd2f",
-    "title": "How news organizations are using AI to advance their vital missions",
-    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-22T13:00:00Z"
-  },
-  {
-    "id": "news-fc3528d001b5",
-    "title": "Advancing the next era of national science",
-    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-22T12:00:00Z"
-  },
-  {
-    "id": "news-c54f46e53d48",
-    "title": "Introducing OpenAI Presence",
-    "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-    "url": "https://openai.com/index/introducing-openai-presence",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-22T05:30:00Z"
-  },
-  {
-    "id": "news-ce627deb9928",
-    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-    "url": "https://openai.com/index/ntt-data",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-22T00:00:00Z"
   }
 ]
