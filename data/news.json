@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-cafe5962f6ec",
-    "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
-    "summary": "Google Cloud has partnered with Parallel Web Systems to natively integrate Parallel's search infrastructure as a web grounding provider on the Gemini Enterprise Agent Platform. This integration enables developers to…",
-    "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-30T15:49:36Z"
-  },
-  {
     "id": "news-97385f445f86",
     "title": "Building scalable AI agents with modular prompt transpilation",
     "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T15:49:36Z"
+    "publishedAt": "2026-07-30T17:22:31Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T15:49:36Z"
+    "publishedAt": "2026-07-30T17:22:31Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T15:49:36Z"
+    "publishedAt": "2026-07-30T17:22:31Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -47,13 +37,33 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T15:49:36Z"
+    "publishedAt": "2026-07-30T17:22:31Z"
   },
   {
     "id": "news-981ebeccef5f",
     "title": "Run Ray on TPU, Part 2: Ray AI libraries",
     "summary": "This second installment explores how Ray’s higher-level libraries—Serve, Data, and Train—abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to…",
     "url": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-30T17:22:31Z"
+  },
+  {
+    "id": "news-ea8591c205cb",
+    "title": "How to use Google microbenchmarks for evaluating TPU performance",
+    "summary": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By…",
+    "url": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-30T17:22:31Z"
+  },
+  {
+    "id": "news-cafe5962f6ec",
+    "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
+    "summary": "Google Cloud has partnered with Parallel Web Systems to natively integrate Parallel's search infrastructure as a web grounding provider on the Gemini Enterprise Agent Platform. This integration enables developers to…",
+    "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -108,6 +118,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-30T13:00:01Z"
+  },
+  {
+    "id": "news-fc362ba711f5",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-30T10:00:00Z"
   },
   {
     "id": "news-705bd6c095e8",
@@ -458,25 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-23T13:00:16Z"
-  },
-  {
-    "id": "news-f857d320a928",
-    "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
-    "summary": "Initial research projects advance national priorities across natural resources, manufacturing, nuclear physics, and more.",
-    "url": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-07-23T12:00:00Z"
-  },
-  {
-    "id": "news-6479bbc6ab8b",
-    "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
-    "summary": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for…",
-    "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-23T02:00:46Z"
   }
 ]
