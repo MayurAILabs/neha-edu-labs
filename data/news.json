@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T11:49:05Z"
+    "publishedAt": "2026-07-30T13:50:32Z"
   },
   {
     "id": "news-97385f445f86",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T11:49:05Z"
+    "publishedAt": "2026-07-30T13:50:32Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T11:49:05Z"
+    "publishedAt": "2026-07-30T13:50:32Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T11:49:05Z"
+    "publishedAt": "2026-07-30T13:50:32Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T11:49:05Z"
+    "publishedAt": "2026-07-30T13:50:32Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T11:49:05Z"
+    "publishedAt": "2026-07-30T13:50:32Z"
+  },
+  {
+    "id": "news-734a3d20137a",
+    "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
+    "summary": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-07-30T13:00:20Z"
+  },
+  {
+    "id": "news-99ae4777cadd",
+    "title": "A Remote Indigenous Community Built One of Canada’s Fastest Fiber Networks",
+    "summary": "In February 2024, a young man lay somewhere on the frozen shore of James Bay, Canada, surrounded by snow and darkness, succumbing to hypothermia. When he failed to get home on time, his frantic mother sent a Facebook…",
+    "url": "https://spectrum.ieee.org/indigenous-fiber-network",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-30T13:00:01Z"
   },
   {
     "id": "news-705bd6c095e8",
@@ -458,25 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-07-22T19:00:00Z"
-  },
-  {
-    "id": "news-6bb0b0e490a6",
-    "title": "The Computer That Helped Win World War II",
-    "summary": "One summer day in 1941, a British radio operator was monitoring German military frequencies and heard something unexpected in her headphones. A later report called it “strange new music.” Sounding unlike the familiar…",
-    "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-22T18:00:01Z"
-  },
-  {
-    "id": "news-1dea4f3bbb8a",
-    "title": "Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83",
-    "summary": "Known for his clear and elegant writing style, Bertsekas shaped fields from control and optimization to large-scale computation and artificial intelligence.",
-    "url": "https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-07-22T17:00:00Z"
   }
 ]
