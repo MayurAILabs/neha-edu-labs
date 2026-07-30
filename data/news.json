@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T19:19:40Z"
+    "publishedAt": "2026-07-30T21:04:41Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T19:19:40Z"
+    "publishedAt": "2026-07-30T21:04:41Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T19:19:40Z"
+    "publishedAt": "2026-07-30T21:04:41Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T19:19:40Z"
+    "publishedAt": "2026-07-30T21:04:41Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T19:19:40Z"
+    "publishedAt": "2026-07-30T21:04:41Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T19:19:40Z"
+    "publishedAt": "2026-07-30T21:04:41Z"
+  },
+  {
+    "id": "news-ee2acf199b45",
+    "title": "Connecting research to policy on Capitol Hill",
+    "summary": "MIT students and postdocs discussed science funding and research with policymakers in Washington during the MIT Science Policy Initiative’s annual Congressional Visit Days.",
+    "url": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-07-30T20:35:00Z"
   },
   {
     "id": "news-b2edbb644f8b",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-24T04:34:27Z"
-  },
-  {
-    "id": "news-c3407e6014e1",
-    "title": "Working to automate nuclear plant operations",
-    "summary": "PhD student Lauren Fortier is building on the experience she gained operating a nuclear plant for the Navy to solve a critical hurdle in the wider adoption of the energy source.",
-    "url": "https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-07-24T04:00:00Z"
   }
 ]
