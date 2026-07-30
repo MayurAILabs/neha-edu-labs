@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T13:50:32Z"
+    "publishedAt": "2026-07-30T15:49:36Z"
   },
   {
     "id": "news-97385f445f86",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T13:50:32Z"
+    "publishedAt": "2026-07-30T15:49:36Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T13:50:32Z"
+    "publishedAt": "2026-07-30T15:49:36Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T13:50:32Z"
+    "publishedAt": "2026-07-30T15:49:36Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T13:50:32Z"
+    "publishedAt": "2026-07-30T15:49:36Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T13:50:32Z"
+    "publishedAt": "2026-07-30T15:49:36Z"
+  },
+  {
+    "id": "news-f684c3a66a25",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-07-30T15:09:09Z"
+  },
+  {
+    "id": "news-06b8d0ad6f63",
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-07-30T15:00:59Z"
+  },
+  {
+    "id": "news-1c43930da007",
+    "title": "Detect Dark Matter’s Mark From Your Backyard",
+    "summary": "If you’re wondering what dark matter is, you’re not alone. Astronomers don’t know. But they’ve determined that this invisible material must be far more abundant than the stars and nebulas that they can see. They’ve…",
+    "url": "https://spectrum.ieee.org/dark-matter",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-07-30T14:00:03Z"
   },
   {
     "id": "news-734a3d20137a",
@@ -238,6 +268,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-28T15:00:19Z"
+  },
+  {
+    "id": "news-7909c613945e",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-07-28T13:21:37Z"
   },
   {
     "id": "news-78b74f84e1d1",
@@ -438,45 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-23T02:00:46Z"
-  },
-  {
-    "id": "news-37c9890bc32e",
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nunchaku-diffusers",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-23T00:00:00Z"
-  },
-  {
-    "id": "news-7569338ee0d3",
-    "title": "Launching Health in ChatGPT",
-    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-    "url": "https://openai.com/index/health-in-chatgpt",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-23T00:00:00Z"
-  },
-  {
-    "id": "news-d06d75a712df",
-    "title": "Get Ready: 2026 Python Packaging Council Nominations Opening Soon!",
-    "summary": "The inaugural Python Packaging Council election nomination period opens on Tuesday, July 28th, 2:00 pm UTC and closes on Tuesday, August 11th, 2:00 pm UTC.",
-    "url": "https://blog.python.org/2026/07/2026-packaging-council-nominations/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-07-23T00:00:00Z"
-  },
-  {
-    "id": "news-b8eb1fb94832",
-    "title": "Copilot vs. raw API access: What are you actually paying for?",
-    "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-22T19:00:00Z"
   }
 ]
