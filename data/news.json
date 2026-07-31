@@ -1,9 +1,99 @@
 [
   {
+    "id": "news-c5ad624a6ffb",
+    "title": "Disrupting a Criminal Scam Operation",
+    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-04T00:00:00Z"
+  },
+  {
+    "id": "news-a545149c21c1",
+    "title": "Run Ray on TPU, Part 1: The foundations",
+    "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict…",
+    "url": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-31T16:42:31Z"
+  },
+  {
+    "id": "news-33a374e2e2db",
+    "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
+    "summary": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly…",
+    "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-31T16:42:31Z"
+  },
+  {
+    "id": "news-981ebeccef5f",
+    "title": "Run Ray on TPU, Part 2: Ray AI libraries",
+    "summary": "This second installment explores how Ray’s higher-level libraries—Serve, Data, and Train—abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to…",
+    "url": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-31T16:42:31Z"
+  },
+  {
+    "id": "news-ea8591c205cb",
+    "title": "How to use Google microbenchmarks for evaluating TPU performance",
+    "summary": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By…",
+    "url": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-31T16:42:31Z"
+  },
+  {
+    "id": "news-90065eb7e6ae",
+    "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
+    "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can…",
+    "url": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-31T16:42:31Z"
+  },
+  {
+    "id": "news-b648486212dd",
+    "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
+    "summary": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references…",
+    "url": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-07-31T16:42:31Z"
+  },
+  {
+    "id": "news-7ead1fcb72df",
+    "title": "Don’t stop early: Case-folding source code at memory speed",
+    "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at 45 GiB/s on a single core. The post Don&#8217;t stop early: Case-folding source code at memory speed appeared first on…",
+    "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-07-31T16:00:00Z"
+  },
+  {
     "id": "news-b86dc435d64a",
     "title": "Advancing responsible AI across Europe",
     "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
     "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-31T15:00:00Z"
+  },
+  {
+    "id": "news-6e145b017b5a",
+    "title": "Building abundant intelligence",
+    "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "url": "https://openai.com/index/building-abundant-intelligence",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -24,46 +114,6 @@
     "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
     "summary": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command…",
     "url": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-31T14:03:06Z"
-  },
-  {
-    "id": "news-a545149c21c1",
-    "title": "Run Ray on TPU, Part 1: The foundations",
-    "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict…",
-    "url": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-31T14:03:06Z"
-  },
-  {
-    "id": "news-33a374e2e2db",
-    "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
-    "summary": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly…",
-    "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-31T14:03:06Z"
-  },
-  {
-    "id": "news-981ebeccef5f",
-    "title": "Run Ray on TPU, Part 2: Ray AI libraries",
-    "summary": "This second installment explores how Ray’s higher-level libraries—Serve, Data, and Train—abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to…",
-    "url": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-31T14:03:06Z"
-  },
-  {
-    "id": "news-ea8591c205cb",
-    "title": "How to use Google microbenchmarks for evaluating TPU performance",
-    "summary": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By…",
-    "url": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -428,55 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-07-27T16:00:00Z"
-  },
-  {
-    "id": "news-9101339b1ac2",
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-27T09:32:20Z"
-  },
-  {
-    "id": "news-338eb622f724",
-    "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-    "summary": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and…",
-    "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-27T09:00:07Z"
-  },
-  {
-    "id": "news-f143efbfe201",
-    "title": "How AI is expanding what people do at work",
-    "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-27T03:30:00Z"
-  },
-  {
-    "id": "news-974f35f6c57c",
-    "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
-    "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry…",
-    "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-27T00:45:42Z"
-  },
-  {
-    "id": "news-8ff67d77127c",
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-27T00:00:00Z"
   }
 ]
