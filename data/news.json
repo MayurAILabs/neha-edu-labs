@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T23:01:56Z"
+    "publishedAt": "2026-07-31T02:28:08Z"
   },
   {
     "id": "news-a88b99d3742e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T23:01:56Z"
+    "publishedAt": "2026-07-31T02:28:08Z"
   },
   {
     "id": "news-a545149c21c1",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T23:01:56Z"
+    "publishedAt": "2026-07-31T02:28:08Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T23:01:56Z"
+    "publishedAt": "2026-07-31T02:28:08Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T23:01:56Z"
+    "publishedAt": "2026-07-31T02:28:08Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-30T23:01:56Z"
+    "publishedAt": "2026-07-31T02:28:08Z"
   },
   {
     "id": "news-ba87a82bd978",
@@ -168,6 +168,16 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-30T10:00:00Z"
+  },
+  {
+    "id": "news-9146ff1756af",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+    "url": "https://openai.com/index/avatarin",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-30T00:00:00Z"
   },
   {
     "id": "news-705bd6c095e8",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-24T18:00:01Z"
-  },
-  {
-    "id": "news-378c934d369a",
-    "title": "Systems Engineering Playbook: Optimizing Qwen 3.5-397B MoE on Ironwood (TPU7x)",
-    "summary": "To serve the 397B-parameter Qwen 3.5 Mixture-of-Experts (MoE) model on Ironwood TPUs, engineers developed a modular JAX/Pallas optimization stack that achieved up to a 4.7x inference speedup for prefill-heavy workloads.…",
-    "url": "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-24T15:18:12Z"
   }
 ]
