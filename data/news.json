@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-c5ad624a6ffb",
-    "title": "Disrupting a Criminal Scam Operation",
-    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-04T00:00:00Z"
-  },
-  {
     "id": "news-a545149c21c1",
     "title": "Run Ray on TPU, Part 1: The foundations",
     "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-31T20:16:51Z"
+    "publishedAt": "2026-07-31T22:01:55Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-31T20:16:51Z"
+    "publishedAt": "2026-07-31T22:01:55Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-31T20:16:51Z"
+    "publishedAt": "2026-07-31T22:01:55Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -47,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-31T20:16:51Z"
+    "publishedAt": "2026-07-31T22:01:55Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -57,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-31T20:16:51Z"
+    "publishedAt": "2026-07-31T22:01:55Z"
   },
   {
     "id": "news-b648486212dd",
@@ -67,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-07-31T20:16:51Z"
+    "publishedAt": "2026-07-31T22:01:55Z"
   },
   {
     "id": "news-7ead1fcb72df",
@@ -128,6 +118,16 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-31T07:00:00Z"
+  },
+  {
+    "id": "news-c5ad624a6ffb",
+    "title": "Disrupting a Criminal Scam Operation",
+    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-07-31T00:00:00Z"
   },
   {
     "id": "news-ba87a82bd978",
