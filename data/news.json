@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-01T06:25:20Z"
+    "publishedAt": "2026-08-01T09:02:52Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-01T06:25:20Z"
+    "publishedAt": "2026-08-01T09:02:52Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-01T06:25:20Z"
+    "publishedAt": "2026-08-01T09:02:52Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-01T06:25:20Z"
+    "publishedAt": "2026-08-01T09:02:52Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-01T06:25:20Z"
+    "publishedAt": "2026-08-01T09:02:52Z"
   },
   {
     "id": "news-b648486212dd",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-01T06:25:20Z"
+    "publishedAt": "2026-08-01T09:02:52Z"
+  },
+  {
+    "id": "news-6d58997b466c",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+    "url": "https://openai.com/index/ten-advances-in-mathematics",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-01T00:00:00Z"
   },
   {
     "id": "news-7ead1fcb72df",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-27T17:54:07Z"
-  },
-  {
-    "id": "news-7310f03f0754",
-    "title": "GitHub Copilot app for Beginners: Getting started",
-    "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-27T16:00:00Z"
   }
 ]
