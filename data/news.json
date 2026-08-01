@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-01T11:13:29Z"
+    "publishedAt": "2026-08-01T13:11:13Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-01T11:13:29Z"
+    "publishedAt": "2026-08-01T13:11:13Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-01T11:13:29Z"
+    "publishedAt": "2026-08-01T13:11:13Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-01T11:13:29Z"
+    "publishedAt": "2026-08-01T13:11:13Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-01T11:13:29Z"
+    "publishedAt": "2026-08-01T13:11:13Z"
   },
   {
     "id": "news-b648486212dd",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-01T11:13:29Z"
+    "publishedAt": "2026-08-01T13:11:13Z"
+  },
+  {
+    "id": "news-fb0636aa3da7",
+    "title": "Fridays With Bob",
+    "summary": "When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one…",
+    "url": "https://spectrum.ieee.org/risk",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-01T12:00:01Z"
   },
   {
     "id": "news-6d58997b466c",
@@ -468,15 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-07-27T18:00:00Z"
-  },
-  {
-    "id": "news-30bf676a35a5",
-    "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
-    "summary": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures.What Attendees will LearnWhy mode-agile threats render…",
-    "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-27T17:54:07Z"
   }
 ]
