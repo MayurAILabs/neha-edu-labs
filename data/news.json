@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-03T10:39:12Z"
+    "publishedAt": "2026-08-03T13:38:08Z"
   },
   {
     "id": "news-33a374e2e2db",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-03T10:39:12Z"
+    "publishedAt": "2026-08-03T13:38:08Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-03T10:39:12Z"
+    "publishedAt": "2026-08-03T13:38:08Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-03T10:39:12Z"
+    "publishedAt": "2026-08-03T13:38:08Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-03T10:39:12Z"
+    "publishedAt": "2026-08-03T13:38:08Z"
   },
   {
     "id": "news-b648486212dd",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-03T10:39:12Z"
+    "publishedAt": "2026-08-03T13:38:08Z"
+  },
+  {
+    "id": "news-ebb83a7a4f38",
+    "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+    "summary": "This article is brought to you by COMSOL.In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this…",
+    "url": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-03T11:38:22Z"
   },
   {
     "id": "news-593221c1dc28",
@@ -464,16 +474,6 @@
     "title": "5 ways AI Mode in Search helps you enjoy the real world",
     "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
     "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-07-28T13:00:00Z"
-  },
-  {
-    "id": "news-61b149676fcb",
-    "title": "5 ways to host the ultimate dinner party with Google Search",
-    "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-    "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Google AI Blog",
     "category": "AI",
