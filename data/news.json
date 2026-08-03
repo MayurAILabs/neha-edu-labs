@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-a545149c21c1",
-    "title": "Run Ray on TPU, Part 1: The foundations",
-    "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict…",
-    "url": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-03T16:20:36Z"
-  },
-  {
     "id": "news-33a374e2e2db",
     "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
     "summary": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-03T16:20:36Z"
+    "publishedAt": "2026-08-03T18:48:01Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-03T16:20:36Z"
+    "publishedAt": "2026-08-03T18:48:01Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-03T16:20:36Z"
+    "publishedAt": "2026-08-03T18:48:01Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -47,13 +37,43 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-03T16:20:36Z"
+    "publishedAt": "2026-08-03T18:48:01Z"
   },
   {
     "id": "news-b648486212dd",
     "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
     "summary": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references…",
     "url": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-03T18:48:01Z"
+  },
+  {
+    "id": "news-fbaa61926640",
+    "title": "Scaling real-time AI agents with session-aware load balancing",
+    "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement…",
+    "url": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-03T18:48:01Z"
+  },
+  {
+    "id": "news-e39fc33517dd",
+    "title": "The System That Turned Paper Charts Into Digital Medical Records",
+    "summary": "Most hospitals and health care providers use electronic health records instead of paper charts to note patient vaccinations, diagnoses, and procedures. AthenaOne, Epic, and Oracle Health are some of the systems employed…",
+    "url": "https://spectrum.ieee.org/ieee-milestone-digital-medical-records",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-03T18:00:02Z"
+  },
+  {
+    "id": "news-a545149c21c1",
+    "title": "Run Ray on TPU, Part 1: The foundations",
+    "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict…",
+    "url": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -458,25 +478,5 @@
     "source": "Google DeepMind",
     "category": "AI",
     "publishedAt": "2026-07-28T13:21:37Z"
-  },
-  {
-    "id": "news-78b74f84e1d1",
-    "title": "Why NIST Researchers Spent 10 Years Measuring Gravity",
-    "summary": "Physicists have been trying to measure the fundamental gravitational constant for well over two centuries. The current accepted value of big G, as it’s known, is 6.67430 × 10-11 cubic meters per kilogram per square…",
-    "url": "https://spectrum.ieee.org/universal-gravitational-constant-nist-schlamminger",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-28T13:00:01Z"
-  },
-  {
-    "id": "news-7c8ae2784e8b",
-    "title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
-    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-07-28T13:00:00Z"
   }
 ]
