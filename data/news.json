@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T12:58:29Z"
+    "publishedAt": "2026-08-04T15:26:43Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T12:58:29Z"
+    "publishedAt": "2026-08-04T15:26:43Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T12:58:29Z"
+    "publishedAt": "2026-08-04T15:26:43Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T12:58:29Z"
+    "publishedAt": "2026-08-04T15:26:43Z"
   },
   {
     "id": "news-b648486212dd",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T12:58:29Z"
+    "publishedAt": "2026-08-04T15:26:43Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -57,7 +57,67 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T12:58:29Z"
+    "publishedAt": "2026-08-04T15:26:43Z"
+  },
+  {
+    "id": "news-bac8cf8c63f2",
+    "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+    "summary": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events…",
+    "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-04T15:00:49Z"
+  },
+  {
+    "id": "news-caaa8a69287e",
+    "title": "As AI Increases Demands on Memory, Storage Steps Up",
+    "summary": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is…",
+    "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-04T15:00:47Z"
+  },
+  {
+    "id": "news-b798e7a46b86",
+    "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
+    "summary": "This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well.What Attendees will LearnWhere R&D budget is lost. More than a third of organizations spend 25…",
+    "url": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-04T14:51:55Z"
+  },
+  {
+    "id": "news-ea7f6df3de1a",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-04T13:58:29Z"
+  },
+  {
+    "id": "news-e45661ea0011",
+    "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
+    "summary": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The…",
+    "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-04T13:00:47Z"
+  },
+  {
+    "id": "news-2a0a27605453",
+    "title": "The latest AI news we announced in July 2026",
+    "summary": "Here are Google’s latest AI updates from July 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-08-04T13:00:00Z"
   },
   {
     "id": "news-e72169530bcd",
@@ -68,6 +128,16 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-08-04T09:00:00Z"
+  },
+  {
+    "id": "news-a513e2436979",
+    "title": "Python 3.15.0 candidate 1 is here!",
+    "summary": "Get those wheels rolling!",
+    "url": "https://blog.python.org/2026/08/python-3150-rc1/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-08-04T00:00:00Z"
   },
   {
     "id": "news-2163b413300d",
@@ -108,6 +178,16 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-08-03T16:20:36Z"
+  },
+  {
+    "id": "news-928c08785b29",
+    "title": "Inside our 353,000-person vibe coding course",
+    "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-08-03T15:00:00Z"
   },
   {
     "id": "news-ebb83a7a4f38",
@@ -398,85 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-29T14:55:45Z"
-  },
-  {
-    "id": "news-3181c11c8b28",
-    "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
-    "summary": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for…",
-    "url": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-29T14:00:02Z"
-  },
-  {
-    "id": "news-9bca82a43b8d",
-    "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
-    "summary": "The visionary PhysioNet platform launched 25 years ago, based on a system developed at MIT in the 1970s. It has become one of the most comprehensive biomedical and clinical data repositories in existence.",
-    "url": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-07-29T14:00:00Z"
-  },
-  {
-    "id": "news-ef7466e860af",
-    "title": "AI Is Hyper-Scaling Digital Inequality",
-    "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being…",
-    "url": "https://spectrum.ieee.org/ai-digital-divide",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-29T11:00:04Z"
-  },
-  {
-    "id": "news-14fd05ad34f9",
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-29T10:00:00Z"
-  },
-  {
-    "id": "news-6d964f10c333",
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-29T00:00:00Z"
-  },
-  {
-    "id": "news-5d849d197358",
-    "title": "Laboratoria’s Mariana Costa Empowers Women in Tech",
-    "summary": "In shaping her career, Peru native Mariana Costa has asked herself a question: What can I do to make life better for women in Latin America?The answer she landed on was training them for tech jobs.Mariana CostaEmployer…",
-    "url": "https://spectrum.ieee.org/mariana-costa-women-in-tech",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-28T18:00:01Z"
-  },
-  {
-    "id": "news-df22037e3e0f",
-    "title": "Scientific computing in the age of agentic AI",
-    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-    "url": "https://openai.com/index/scientific-computing-agentic-ai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-28T17:00:00Z"
-  },
-  {
-    "id": "news-92e866603de3",
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-28T16:27:42Z"
   }
 ]
