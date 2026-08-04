@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T04:09:46Z"
+    "publishedAt": "2026-08-04T07:35:21Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T04:09:46Z"
+    "publishedAt": "2026-08-04T07:35:21Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T04:09:46Z"
+    "publishedAt": "2026-08-04T07:35:21Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T04:09:46Z"
+    "publishedAt": "2026-08-04T07:35:21Z"
   },
   {
     "id": "news-b648486212dd",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T04:09:46Z"
+    "publishedAt": "2026-08-04T07:35:21Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T04:09:46Z"
+    "publishedAt": "2026-08-04T07:35:21Z"
+  },
+  {
+    "id": "news-2163b413300d",
+    "title": "Apple is getting this wrong",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-03T22:00:00Z"
   },
   {
     "id": "news-65bd07859d40",
@@ -467,16 +477,6 @@
     "image": "assets/images/news/cat-ai.svg",
     "source": "Google AI Blog",
     "category": "AI",
-    "publishedAt": "2026-07-28T16:00:00Z"
-  },
-  {
-    "id": "news-37c0e3e1926b",
-    "title": "Disrupting supply chain attacks on npm and GitHub Actions",
-    "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub…",
-    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
     "publishedAt": "2026-07-28T16:00:00Z"
   }
 ]
