@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T07:35:21Z"
+    "publishedAt": "2026-08-04T10:33:52Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T07:35:21Z"
+    "publishedAt": "2026-08-04T10:33:52Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T07:35:21Z"
+    "publishedAt": "2026-08-04T10:33:52Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T07:35:21Z"
+    "publishedAt": "2026-08-04T10:33:52Z"
   },
   {
     "id": "news-b648486212dd",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T07:35:21Z"
+    "publishedAt": "2026-08-04T10:33:52Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T07:35:21Z"
+    "publishedAt": "2026-08-04T10:33:52Z"
+  },
+  {
+    "id": "news-e72169530bcd",
+    "title": "The benefits of medical AI assistance vary based on user expertise",
+    "summary": "Study finds non-experts deferred to LLM-based diagnostic assistance, even when it was wrong, while clinicians caught AI errors.",
+    "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-08-04T09:00:00Z"
   },
   {
     "id": "news-2163b413300d",
@@ -468,15 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-07-28T16:27:42Z"
-  },
-  {
-    "id": "news-be3ca53745f6",
-    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-07-28T16:00:00Z"
   }
 ]
