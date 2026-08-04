@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T19:26:18Z"
+    "publishedAt": "2026-08-04T21:07:53Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T19:26:18Z"
+    "publishedAt": "2026-08-04T21:07:53Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T19:26:18Z"
+    "publishedAt": "2026-08-04T21:07:53Z"
   },
   {
     "id": "news-b648486212dd",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T19:26:18Z"
+    "publishedAt": "2026-08-04T21:07:53Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T19:26:18Z"
+    "publishedAt": "2026-08-04T21:07:53Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T19:26:18Z"
+    "publishedAt": "2026-08-04T21:07:53Z"
   },
   {
     "id": "news-849e4175eab0",
@@ -68,6 +68,16 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-08-04T19:02:34Z"
+  },
+  {
+    "id": "news-977f60f7e5e3",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-04T19:00:00Z"
   },
   {
     "id": "news-98f7083fea10",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-07-30T13:00:20Z"
-  },
-  {
-    "id": "news-99ae4777cadd",
-    "title": "A Remote Indigenous Community Built One of Canada’s Fastest Fiber Networks",
-    "summary": "In February 2024, a young man lay somewhere on the frozen shore of James Bay, Canada, surrounded by snow and darkness, succumbing to hypothermia. When he failed to get home on time, his frantic mother sent a Facebook…",
-    "url": "https://spectrum.ieee.org/indigenous-fiber-network",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-30T13:00:01Z"
   }
 ]
