@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T00:05:32Z"
+    "publishedAt": "2026-08-04T04:09:46Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T00:05:32Z"
+    "publishedAt": "2026-08-04T04:09:46Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T00:05:32Z"
+    "publishedAt": "2026-08-04T04:09:46Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T00:05:32Z"
+    "publishedAt": "2026-08-04T04:09:46Z"
   },
   {
     "id": "news-b648486212dd",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T00:05:32Z"
+    "publishedAt": "2026-08-04T04:09:46Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T00:05:32Z"
+    "publishedAt": "2026-08-04T04:09:46Z"
   },
   {
     "id": "news-65bd07859d40",
@@ -108,6 +108,16 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-03T07:00:00Z"
+  },
+  {
+    "id": "news-54e616a32e5e",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "url": "https://openai.com/index/circles",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-03T00:00:00Z"
   },
   {
     "id": "news-593221c1dc28",
@@ -468,15 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-07-28T16:00:00Z"
-  },
-  {
-    "id": "news-85dd02699b25",
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-28T15:01:45Z"
   }
 ]
