@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T17:43:40Z"
+    "publishedAt": "2026-08-04T19:26:18Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T17:43:40Z"
+    "publishedAt": "2026-08-04T19:26:18Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T17:43:40Z"
+    "publishedAt": "2026-08-04T19:26:18Z"
   },
   {
     "id": "news-b648486212dd",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T17:43:40Z"
+    "publishedAt": "2026-08-04T19:26:18Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T17:43:40Z"
+    "publishedAt": "2026-08-04T19:26:18Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T17:43:40Z"
+    "publishedAt": "2026-08-04T19:26:18Z"
+  },
+  {
+    "id": "news-849e4175eab0",
+    "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+    "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog.",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-04T19:02:34Z"
+  },
+  {
+    "id": "news-98f7083fea10",
+    "title": "Solving the solvent problem",
+    "summary": "By focusing on electrolytes, MIT scientists are making sodium-metal batteries a more practical energy storage option.",
+    "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-08-04T18:50:00Z"
   },
   {
     "id": "news-1dd7108ee5ba",
@@ -458,25 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-30T13:00:01Z"
-  },
-  {
-    "id": "news-fc362ba711f5",
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-30T10:00:00Z"
-  },
-  {
-    "id": "news-9146ff1756af",
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-    "url": "https://openai.com/index/avatarin",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-30T00:00:00Z"
   }
 ]
