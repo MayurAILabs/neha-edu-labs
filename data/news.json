@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-33a374e2e2db",
-    "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
-    "summary": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly…",
-    "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-04T15:26:43Z"
-  },
-  {
     "id": "news-981ebeccef5f",
     "title": "Run Ray on TPU, Part 2: Ray AI libraries",
     "summary": "This second installment explores how Ray’s higher-level libraries—Serve, Data, and Train—abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T15:26:43Z"
+    "publishedAt": "2026-08-04T17:43:40Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T15:26:43Z"
+    "publishedAt": "2026-08-04T17:43:40Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T15:26:43Z"
+    "publishedAt": "2026-08-04T17:43:40Z"
   },
   {
     "id": "news-b648486212dd",
@@ -47,13 +37,53 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-04T15:26:43Z"
+    "publishedAt": "2026-08-04T17:43:40Z"
   },
   {
     "id": "news-fbaa61926640",
     "title": "Scaling real-time AI agents with session-aware load balancing",
     "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement…",
     "url": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-04T17:43:40Z"
+  },
+  {
+    "id": "news-8ce73aa4361b",
+    "title": "A unified API for AI model routing",
+    "summary": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing…",
+    "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-04T17:43:40Z"
+  },
+  {
+    "id": "news-1dd7108ee5ba",
+    "title": "Turn one giant AI-generated pull request to a reviewable stack",
+    "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable…",
+    "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-04T16:47:18Z"
+  },
+  {
+    "id": "news-8eba6f149846",
+    "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+    "summary": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data,…",
+    "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-04T16:00:56Z"
+  },
+  {
+    "id": "news-33a374e2e2db",
+    "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
+    "summary": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly…",
+    "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -137,6 +167,16 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Python Insider",
     "category": "Programming",
+    "publishedAt": "2026-08-04T00:00:00Z"
+  },
+  {
+    "id": "news-b274d6785ee9",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
     "publishedAt": "2026-08-04T00:00:00Z"
   },
   {
@@ -438,45 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-30T00:00:00Z"
-  },
-  {
-    "id": "news-705bd6c095e8",
-    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-07-29T16:02:10Z"
-  },
-  {
-    "id": "news-3216ea2ac56a",
-    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
-    "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft…",
-    "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-29T16:00:00Z"
-  },
-  {
-    "id": "news-cc8e132c6199",
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-29T15:00:00Z"
-  },
-  {
-    "id": "news-c26de8837023",
-    "title": "Negotiating Your Salary Is About More Than Money",
-    "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and…",
-    "url": "https://spectrum.ieee.org/how-to-negotiate-your-salary",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-29T14:55:45Z"
   }
 ]
