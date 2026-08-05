@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-05T16:28:58Z"
+    "publishedAt": "2026-08-05T18:17:48Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-05T16:28:58Z"
+    "publishedAt": "2026-08-05T18:17:48Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-05T16:28:58Z"
+    "publishedAt": "2026-08-05T18:17:48Z"
   },
   {
     "id": "news-b648486212dd",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-05T16:28:58Z"
+    "publishedAt": "2026-08-05T18:17:48Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-05T16:28:58Z"
+    "publishedAt": "2026-08-05T18:17:48Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-05T16:28:58Z"
+    "publishedAt": "2026-08-05T18:17:48Z"
+  },
+  {
+    "id": "news-9195a1f4e0ca",
+    "title": "NVIDIA and Partners Build in America, for America",
+    "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific…",
+    "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-05T13:00:47Z"
   },
   {
     "id": "news-01ad8e873ee8",
@@ -468,15 +478,5 @@
     "source": "Google DeepMind",
     "category": "AI",
     "publishedAt": "2026-07-30T15:00:59Z"
-  },
-  {
-    "id": "news-1c43930da007",
-    "title": "Detect Dark Matter’s Mark From Your Backyard",
-    "summary": "If you’re wondering what dark matter is, you’re not alone. Astronomers don’t know. But they’ve determined that this invisible material must be far more abundant than the stars and nebulas that they can see. They’ve…",
-    "url": "https://spectrum.ieee.org/dark-matter",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-30T14:00:03Z"
   }
 ]
