@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-05T14:08:10Z"
+    "publishedAt": "2026-08-05T16:28:58Z"
   },
   {
     "id": "news-ea8591c205cb",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-05T14:08:10Z"
+    "publishedAt": "2026-08-05T16:28:58Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-05T14:08:10Z"
+    "publishedAt": "2026-08-05T16:28:58Z"
   },
   {
     "id": "news-b648486212dd",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-05T14:08:10Z"
+    "publishedAt": "2026-08-05T16:28:58Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-05T14:08:10Z"
+    "publishedAt": "2026-08-05T16:28:58Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-05T14:08:10Z"
+    "publishedAt": "2026-08-05T16:28:58Z"
+  },
+  {
+    "id": "news-01ad8e873ee8",
+    "title": "Python 3.14.7 and 3.13.15 are now available!",
+    "summary": "A pair of bug fix releases await your upgrade.",
+    "url": "https://blog.python.org/2026/08/python-3147-31315/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-08-05T00:00:00Z"
   },
   {
     "id": "news-849e4175eab0",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-30T14:00:03Z"
-  },
-  {
-    "id": "news-734a3d20137a",
-    "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
-    "summary": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-07-30T13:00:20Z"
   }
 ]
