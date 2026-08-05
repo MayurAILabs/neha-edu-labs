@@ -1,5 +1,65 @@
 [
   {
+    "id": "news-ea8591c205cb",
+    "title": "How to use Google microbenchmarks for evaluating TPU performance",
+    "summary": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By…",
+    "url": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-05T20:23:33Z"
+  },
+  {
+    "id": "news-90065eb7e6ae",
+    "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
+    "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can…",
+    "url": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-05T20:23:33Z"
+  },
+  {
+    "id": "news-b648486212dd",
+    "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
+    "summary": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references…",
+    "url": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-05T20:23:33Z"
+  },
+  {
+    "id": "news-fbaa61926640",
+    "title": "Scaling real-time AI agents with session-aware load balancing",
+    "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement…",
+    "url": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-05T20:23:33Z"
+  },
+  {
+    "id": "news-8ce73aa4361b",
+    "title": "A unified API for AI model routing",
+    "summary": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing…",
+    "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-05T20:23:33Z"
+  },
+  {
+    "id": "news-3f3db147ccbf",
+    "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
+    "summary": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load…",
+    "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-05T20:23:33Z"
+  },
+  {
     "id": "news-981ebeccef5f",
     "title": "Run Ray on TPU, Part 2: Ray AI libraries",
     "summary": "This second installment explores how Ray’s higher-level libraries—Serve, Data, and Train—abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to…",
@@ -10,54 +70,14 @@
     "publishedAt": "2026-08-05T18:17:48Z"
   },
   {
-    "id": "news-ea8591c205cb",
-    "title": "How to use Google microbenchmarks for evaluating TPU performance",
-    "summary": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By…",
-    "url": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-05T18:17:48Z"
-  },
-  {
-    "id": "news-90065eb7e6ae",
-    "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
-    "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can…",
-    "url": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-05T18:17:48Z"
-  },
-  {
-    "id": "news-b648486212dd",
-    "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
-    "summary": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references…",
-    "url": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-05T18:17:48Z"
-  },
-  {
-    "id": "news-fbaa61926640",
-    "title": "Scaling real-time AI agents with session-aware load balancing",
-    "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement…",
-    "url": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-05T18:17:48Z"
-  },
-  {
-    "id": "news-8ce73aa4361b",
-    "title": "A unified API for AI model routing",
-    "summary": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing…",
-    "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-05T18:17:48Z"
+    "id": "news-f06a2fedf8b1",
+    "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
+    "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity…",
+    "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-05T18:00:03Z"
   },
   {
     "id": "news-9195a1f4e0ca",
@@ -458,25 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-07-30T15:49:36Z"
-  },
-  {
-    "id": "news-f684c3a66a25",
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-07-30T15:09:09Z"
-  },
-  {
-    "id": "news-06b8d0ad6f63",
-    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-    "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-07-30T15:00:59Z"
   }
 ]
