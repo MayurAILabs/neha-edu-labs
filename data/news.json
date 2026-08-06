@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-06T11:19:26Z"
+    "publishedAt": "2026-08-06T13:57:29Z"
   },
   {
     "id": "news-90065eb7e6ae",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-06T11:19:26Z"
+    "publishedAt": "2026-08-06T13:57:29Z"
   },
   {
     "id": "news-b648486212dd",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-06T11:19:26Z"
+    "publishedAt": "2026-08-06T13:57:29Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-06T11:19:26Z"
+    "publishedAt": "2026-08-06T13:57:29Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-06T11:19:26Z"
+    "publishedAt": "2026-08-06T13:57:29Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-06T11:19:26Z"
+    "publishedAt": "2026-08-06T13:57:29Z"
+  },
+  {
+    "id": "news-c75c3d1d35f3",
+    "title": "GeForce NOW Shakes Up August With 26 New Games",
+    "summary": "August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-06T13:00:11Z"
+  },
+  {
+    "id": "news-56145e6440ad",
+    "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+    "summary": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by…",
+    "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-06T13:00:00Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -458,25 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-07-30T18:00:03Z"
-  },
-  {
-    "id": "news-998361c2bd3c",
-    "title": "Stacked sessions and pull requests in the GitHub Copilot app",
-    "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
-    "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-30T17:30:24Z"
-  },
-  {
-    "id": "news-cafe5962f6ec",
-    "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
-    "summary": "Google Cloud has partnered with Parallel Web Systems to natively integrate Parallel's search infrastructure as a web grounding provider on the Gemini Enterprise Agent Platform. This integration enables developers to…",
-    "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-30T15:49:36Z"
   }
 ]
