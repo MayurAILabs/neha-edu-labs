@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T16:50:39Z"
+    "publishedAt": "2026-08-07T17:45:10Z"
   },
   {
     "id": "news-b648486212dd",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T16:50:39Z"
+    "publishedAt": "2026-08-07T17:45:10Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T16:50:39Z"
+    "publishedAt": "2026-08-07T17:45:10Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T16:50:39Z"
+    "publishedAt": "2026-08-07T17:45:10Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T16:50:39Z"
+    "publishedAt": "2026-08-07T17:45:10Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T16:50:39Z"
+    "publishedAt": "2026-08-07T17:45:10Z"
   },
   {
     "id": "news-833934ee3b25",
@@ -72,7 +72,7 @@
   {
     "id": "news-2e73808acccb",
     "title": "Cars Communicating Badly Is an Already-Solved Problem",
-    "summary": "The history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back in part to a team of Australian radio astronomers trying to detect signals from…",
+    "summary": "The history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back, in part, to a team of Australian radio astronomers trying to detect signals…",
     "url": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
