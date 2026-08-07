@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-ea8591c205cb",
-    "title": "How to use Google microbenchmarks for evaluating TPU performance",
-    "summary": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By…",
-    "url": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-06T13:57:29Z"
-  },
-  {
     "id": "news-90065eb7e6ae",
     "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
     "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-06T13:57:29Z"
+    "publishedAt": "2026-08-07T00:39:09Z"
   },
   {
     "id": "news-b648486212dd",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-06T13:57:29Z"
+    "publishedAt": "2026-08-07T00:39:09Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-06T13:57:29Z"
+    "publishedAt": "2026-08-07T00:39:09Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -47,13 +37,63 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-06T13:57:29Z"
+    "publishedAt": "2026-08-07T00:39:09Z"
   },
   {
     "id": "news-3f3db147ccbf",
     "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
     "summary": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load…",
     "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-07T00:39:09Z"
+  },
+  {
+    "id": "news-0ed85870bc68",
+    "title": "Agent Plugins package your skills, tools, and more",
+    "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest…",
+    "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-07T00:39:09Z"
+  },
+  {
+    "id": "news-fc2a0caab938",
+    "title": "A guide to slash commands in the GitHub Copilot app",
+    "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-06T19:49:34Z"
+  },
+  {
+    "id": "news-5805f2a62da9",
+    "title": "How we took malware advisories beyond npm",
+    "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond…",
+    "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-06T16:51:12Z"
+  },
+  {
+    "id": "news-7fa201e30c7e",
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-08-06T15:06:15Z"
+  },
+  {
+    "id": "news-ea8591c205cb",
+    "title": "How to use Google microbenchmarks for evaluating TPU performance",
+    "summary": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By…",
+    "url": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -78,6 +118,46 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-08-06T13:00:00Z"
+  },
+  {
+    "id": "news-0f0c1961f93e",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-06T10:00:00Z"
+  },
+  {
+    "id": "news-6da5f2d271da",
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-06T06:00:00Z"
+  },
+  {
+    "id": "news-fea9ae47ebf2",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-06T00:00:00Z"
+  },
+  {
+    "id": "news-72ea094fa822",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/baseten",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-06T00:00:00Z"
   },
   {
     "id": "news-981ebeccef5f",
@@ -398,85 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-07-31T15:00:00Z"
-  },
-  {
-    "id": "news-6e145b017b5a",
-    "title": "Building abundant intelligence",
-    "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-    "url": "https://openai.com/index/building-abundant-intelligence",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-31T15:00:00Z"
-  },
-  {
-    "id": "news-97385f445f86",
-    "title": "Building scalable AI agents with modular prompt transpilation",
-    "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these…",
-    "url": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-31T14:03:06Z"
-  },
-  {
-    "id": "news-a88b99d3742e",
-    "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
-    "summary": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command…",
-    "url": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-07-31T14:03:06Z"
-  },
-  {
-    "id": "news-487981959078",
-    "title": "Univé builds an AI-ready workforce",
-    "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-    "url": "https://openai.com/index/unive",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-31T07:00:00Z"
-  },
-  {
-    "id": "news-c5ad624a6ffb",
-    "title": "Disrupting a Criminal Scam Operation",
-    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-07-31T00:00:00Z"
-  },
-  {
-    "id": "news-ba87a82bd978",
-    "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
-    "summary": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems.",
-    "url": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-07-30T21:00:00Z"
-  },
-  {
-    "id": "news-ee2acf199b45",
-    "title": "Connecting research to policy on Capitol Hill",
-    "summary": "MIT students and postdocs discussed science funding and research with policymakers in Washington during the MIT Science Policy Initiative’s annual Congressional Visit Days.",
-    "url": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-07-30T20:35:00Z"
-  },
-  {
-    "id": "news-b2edbb644f8b",
-    "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
-    "summary": "Given a rising number of publishing misconduct allegations, IEEE in 2022 created the Publishing Ethics Team as a centralized department to assist in handling claims. The group also works to increase the organization’s…",
-    "url": "https://spectrum.ieee.org/ieee-publishing-ethics-research-integrity",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-07-30T18:00:03Z"
   }
 ]
