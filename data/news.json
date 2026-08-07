@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T17:45:10Z"
+    "publishedAt": "2026-08-07T18:50:22Z"
   },
   {
     "id": "news-b648486212dd",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T17:45:10Z"
+    "publishedAt": "2026-08-07T18:50:22Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T17:45:10Z"
+    "publishedAt": "2026-08-07T18:50:22Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T17:45:10Z"
+    "publishedAt": "2026-08-07T18:50:22Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T17:45:10Z"
+    "publishedAt": "2026-08-07T18:50:22Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T17:45:10Z"
+    "publishedAt": "2026-08-07T18:50:22Z"
+  },
+  {
+    "id": "news-6edeef6bd28d",
+    "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
+    "summary": "The transition from a purely technical expert or individual contributor position to a broader leadership role is one of the most challenging phases in a STEM career. It requires moving away from relying solely on…",
+    "url": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-07T18:00:01Z"
+  },
+  {
+    "id": "news-fd5b733b3580",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/allenai/tutormoments",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-07T17:53:32Z"
   },
   {
     "id": "news-833934ee3b25",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-03T00:00:00Z"
-  },
-  {
-    "id": "news-593221c1dc28",
-    "title": "This Hi-Fi Tape Recorder Changed Radio Forever",
-    "summary": "A German engineer wanted a cheaper cigarette. The popular crooner Bing Crosby wanted a vacation. Satisfying both desires inadvertently led to the invention of the laugh track. Along the way there were Nazis, spoils of…",
-    "url": "https://spectrum.ieee.org/magnetophon-laugh-track",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-02T13:00:01Z"
-  },
-  {
-    "id": "news-fb0636aa3da7",
-    "title": "Fridays With Bob",
-    "summary": "When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one…",
-    "url": "https://spectrum.ieee.org/risk",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-01T12:00:01Z"
   }
 ]
