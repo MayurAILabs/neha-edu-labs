@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T15:52:26Z"
+    "publishedAt": "2026-08-07T16:50:39Z"
   },
   {
     "id": "news-b648486212dd",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T15:52:26Z"
+    "publishedAt": "2026-08-07T16:50:39Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T15:52:26Z"
+    "publishedAt": "2026-08-07T16:50:39Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T15:52:26Z"
+    "publishedAt": "2026-08-07T16:50:39Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T15:52:26Z"
+    "publishedAt": "2026-08-07T16:50:39Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T15:52:26Z"
+    "publishedAt": "2026-08-07T16:50:39Z"
+  },
+  {
+    "id": "news-833934ee3b25",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-07T15:20:00Z"
   },
   {
     "id": "news-2e73808acccb",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-01T12:00:01Z"
-  },
-  {
-    "id": "news-6d58997b466c",
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "url": "https://openai.com/index/ten-advances-in-mathematics",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-01T00:00:00Z"
   }
 ]
