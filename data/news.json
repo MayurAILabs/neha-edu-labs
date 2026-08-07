@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T12:54:32Z"
+    "publishedAt": "2026-08-07T14:10:53Z"
   },
   {
     "id": "news-b648486212dd",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T12:54:32Z"
+    "publishedAt": "2026-08-07T14:10:53Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T12:54:32Z"
+    "publishedAt": "2026-08-07T14:10:53Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T12:54:32Z"
+    "publishedAt": "2026-08-07T14:10:53Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T12:54:32Z"
+    "publishedAt": "2026-08-07T14:10:53Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-07T12:54:32Z"
+    "publishedAt": "2026-08-07T14:10:53Z"
+  },
+  {
+    "id": "news-2e73808acccb",
+    "title": "Cars Communicating Badly Is an Already-Solved Problem",
+    "summary": "The history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back in part to a team of Australian radio astronomers trying to detect signals from…",
+    "url": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-07T13:00:01Z"
   },
   {
     "id": "news-2ee94000fec4",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-01T00:00:00Z"
-  },
-  {
-    "id": "news-7ead1fcb72df",
-    "title": "Don’t stop early: Case-folding source code at memory speed",
-    "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at 45 GiB/s on a single core. The post Don&#8217;t stop early: Case-folding source code at memory speed appeared first on…",
-    "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-07-31T16:00:00Z"
   }
 ]
