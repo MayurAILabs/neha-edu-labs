@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-7a678e9a26d7",
-    "title": "What building an AI-native finance function taught me",
-    "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-    "url": "https://openai.com/index/building-an-ai-native-finance-function",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-10T17:00:00Z"
-  },
-  {
     "id": "news-90065eb7e6ae",
     "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
     "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T16:54:17Z"
+    "publishedAt": "2026-08-10T17:48:38Z"
   },
   {
     "id": "news-b648486212dd",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T16:54:17Z"
+    "publishedAt": "2026-08-10T17:48:38Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T16:54:17Z"
+    "publishedAt": "2026-08-10T17:48:38Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -47,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T16:54:17Z"
+    "publishedAt": "2026-08-10T17:48:38Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -57,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T16:54:17Z"
+    "publishedAt": "2026-08-10T17:48:38Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -67,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T16:54:17Z"
+    "publishedAt": "2026-08-10T17:48:38Z"
+  },
+  {
+    "id": "news-7a678e9a26d7",
+    "title": "What building an AI-native finance function taught me",
+    "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-10T17:00:00Z"
   },
   {
     "id": "news-e5b664a37aa3",
@@ -118,6 +118,16 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-08-10T10:05:36Z"
+  },
+  {
+    "id": "news-7f776d7829d0",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-10T10:00:00Z"
   },
   {
     "id": "news-0da6fb777e33",
@@ -468,15 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-08-04T09:00:00Z"
-  },
-  {
-    "id": "news-a513e2436979",
-    "title": "Python 3.15.0 candidate 1 is here!",
-    "summary": "Get those wheels rolling!",
-    "url": "https://blog.python.org/2026/08/python-3150-rc1/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-08-04T00:00:00Z"
   }
 ]
