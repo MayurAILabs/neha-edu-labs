@@ -1,5 +1,15 @@
 [
   {
+    "id": "news-7a678e9a26d7",
+    "title": "What building an AI-native finance function taught me",
+    "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-10T17:00:00Z"
+  },
+  {
     "id": "news-90065eb7e6ae",
     "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
     "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can…",
@@ -7,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T15:56:56Z"
+    "publishedAt": "2026-08-10T16:54:17Z"
   },
   {
     "id": "news-b648486212dd",
@@ -17,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T15:56:56Z"
+    "publishedAt": "2026-08-10T16:54:17Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -27,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T15:56:56Z"
+    "publishedAt": "2026-08-10T16:54:17Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -37,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T15:56:56Z"
+    "publishedAt": "2026-08-10T16:54:17Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -47,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T15:56:56Z"
+    "publishedAt": "2026-08-10T16:54:17Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -57,7 +67,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T15:56:56Z"
+    "publishedAt": "2026-08-10T16:54:17Z"
+  },
+  {
+    "id": "news-e5b664a37aa3",
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-10T16:25:36Z"
   },
   {
     "id": "news-ae2292bf453d",
@@ -106,6 +126,16 @@
     "url": "https://huggingface.co/blog/muse-glimmer",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-10T00:00:00Z"
+  },
+  {
+    "id": "news-ee449db47d8d",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-10T00:00:00Z"
   },
@@ -448,35 +478,5 @@
     "source": "Python Insider",
     "category": "Programming",
     "publishedAt": "2026-08-04T00:00:00Z"
-  },
-  {
-    "id": "news-b274d6785ee9",
-    "title": "New ways to learn and teach with ChatGPT Work and Codex",
-    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-04T00:00:00Z"
-  },
-  {
-    "id": "news-2163b413300d",
-    "title": "Apple is getting this wrong",
-    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-    "url": "https://openai.com/index/apple-is-getting-this-wrong",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-03T22:00:00Z"
-  },
-  {
-    "id": "news-65bd07859d40",
-    "title": "Alexander Rakhlin named director of the MIT Statistics and Data Science Center",
-    "summary": "An expert in machine learning, statistics, and computation, Rakhlin succeeds Professor Ankur Moitra.",
-    "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-08-03T19:50:00Z"
   }
 ]
