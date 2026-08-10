@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T17:48:38Z"
+    "publishedAt": "2026-08-10T18:51:42Z"
   },
   {
     "id": "news-b648486212dd",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T17:48:38Z"
+    "publishedAt": "2026-08-10T18:51:42Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T17:48:38Z"
+    "publishedAt": "2026-08-10T18:51:42Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T17:48:38Z"
+    "publishedAt": "2026-08-10T18:51:42Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T17:48:38Z"
+    "publishedAt": "2026-08-10T18:51:42Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T17:48:38Z"
+    "publishedAt": "2026-08-10T18:51:42Z"
   },
   {
     "id": "news-7a678e9a26d7",
@@ -124,6 +124,16 @@
     "title": "Putting frontier cyber models in more trusted hands",
     "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
     "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-10T10:00:00Z"
+  },
+  {
+    "id": "news-3a8585570cab",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -468,15 +478,5 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-08-04T13:00:00Z"
-  },
-  {
-    "id": "news-e72169530bcd",
-    "title": "The benefits of medical AI assistance vary based on user expertise",
-    "summary": "Study finds non-experts deferred to LLM-based diagnostic assistance, even when it was wrong, while clinicians caught AI errors.",
-    "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-08-04T09:00:00Z"
   }
 ]
