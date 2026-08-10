@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T09:15:24Z"
+    "publishedAt": "2026-08-10T11:04:31Z"
   },
   {
     "id": "news-b648486212dd",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T09:15:24Z"
+    "publishedAt": "2026-08-10T11:04:31Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T09:15:24Z"
+    "publishedAt": "2026-08-10T11:04:31Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T09:15:24Z"
+    "publishedAt": "2026-08-10T11:04:31Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T09:15:24Z"
+    "publishedAt": "2026-08-10T11:04:31Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-10T09:15:24Z"
+    "publishedAt": "2026-08-10T11:04:31Z"
+  },
+  {
+    "id": "news-90d59cd2b4ce",
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-10T10:05:36Z"
+  },
+  {
+    "id": "news-0da6fb777e33",
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/muse-glimmer",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-10T00:00:00Z"
   },
   {
     "id": "news-831d74e969cf",
@@ -458,25 +478,5 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-08-03T15:00:00Z"
-  },
-  {
-    "id": "news-ebb83a7a4f38",
-    "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
-    "summary": "This article is brought to you by COMSOL.In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this…",
-    "url": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-03T11:38:22Z"
-  },
-  {
-    "id": "news-d04cc35bd3cc",
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-03T07:00:00Z"
   }
 ]
