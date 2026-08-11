@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-b648486212dd",
-    "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
-    "summary": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references…",
-    "url": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-11T15:57:19Z"
-  },
-  {
     "id": "news-fbaa61926640",
     "title": "Scaling real-time AI agents with session-aware load balancing",
     "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T15:57:19Z"
+    "publishedAt": "2026-08-11T16:58:21Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T15:57:19Z"
+    "publishedAt": "2026-08-11T16:58:21Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T15:57:19Z"
+    "publishedAt": "2026-08-11T16:58:21Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -47,13 +37,33 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T15:57:19Z"
+    "publishedAt": "2026-08-11T16:58:21Z"
   },
   {
     "id": "news-4a07fe20d246",
     "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
     "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4,…",
     "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-11T16:58:21Z"
+  },
+  {
+    "id": "news-e29a45fb4b3c",
+    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+    "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses…",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-11T16:58:21Z"
+  },
+  {
+    "id": "news-b648486212dd",
+    "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
+    "summary": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references…",
+    "url": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -128,6 +138,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-11T13:00:01Z"
+  },
+  {
+    "id": "news-de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-11T10:00:00Z"
   },
   {
     "id": "news-56256fe3bcc1",
@@ -458,25 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-08-04T19:02:34Z"
-  },
-  {
-    "id": "news-977f60f7e5e3",
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-04T19:00:00Z"
-  },
-  {
-    "id": "news-98f7083fea10",
-    "title": "Solving the solvent problem",
-    "summary": "By focusing on electrolytes, MIT scientists are making sodium-metal batteries a more practical energy storage option.",
-    "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-08-04T18:50:00Z"
   }
 ]
