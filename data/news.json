@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T16:58:21Z"
+    "publishedAt": "2026-08-11T17:59:06Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T16:58:21Z"
+    "publishedAt": "2026-08-11T17:59:06Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T16:58:21Z"
+    "publishedAt": "2026-08-11T17:59:06Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T16:58:21Z"
+    "publishedAt": "2026-08-11T17:59:06Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T16:58:21Z"
+    "publishedAt": "2026-08-11T17:59:06Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T16:58:21Z"
+    "publishedAt": "2026-08-11T17:59:06Z"
+  },
+  {
+    "id": "news-dbc30e861442",
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-08-11T17:00:00Z"
   },
   {
     "id": "news-b648486212dd",
@@ -468,15 +478,5 @@
     "source": "Python Insider",
     "category": "Programming",
     "publishedAt": "2026-08-05T00:00:00Z"
-  },
-  {
-    "id": "news-849e4175eab0",
-    "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-    "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog.",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-04T19:02:34Z"
   }
 ]
