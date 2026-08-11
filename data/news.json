@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T17:59:06Z"
+    "publishedAt": "2026-08-11T19:11:16Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T17:59:06Z"
+    "publishedAt": "2026-08-11T19:11:16Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T17:59:06Z"
+    "publishedAt": "2026-08-11T19:11:16Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T17:59:06Z"
+    "publishedAt": "2026-08-11T19:11:16Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T17:59:06Z"
+    "publishedAt": "2026-08-11T19:11:16Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T17:59:06Z"
+    "publishedAt": "2026-08-11T19:11:16Z"
+  },
+  {
+    "id": "news-a41dba9fb719",
+    "title": "From coder to orchestrator: How agents shift the role of a developer",
+    "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator:…",
+    "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-11T18:38:17Z"
   },
   {
     "id": "news-dbc30e861442",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-08-05T13:00:47Z"
-  },
-  {
-    "id": "news-01ad8e873ee8",
-    "title": "Python 3.14.7 and 3.13.15 are now available!",
-    "summary": "A pair of bug fix releases await your upgrade.",
-    "url": "https://blog.python.org/2026/08/python-3147-31315/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-08-05T00:00:00Z"
   }
 ]
