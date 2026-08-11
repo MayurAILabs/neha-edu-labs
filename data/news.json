@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T12:55:09Z"
+    "publishedAt": "2026-08-11T14:17:18Z"
   },
   {
     "id": "news-b648486212dd",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T12:55:09Z"
+    "publishedAt": "2026-08-11T14:17:18Z"
   },
   {
     "id": "news-fbaa61926640",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T12:55:09Z"
+    "publishedAt": "2026-08-11T14:17:18Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T12:55:09Z"
+    "publishedAt": "2026-08-11T14:17:18Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T12:55:09Z"
+    "publishedAt": "2026-08-11T14:17:18Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T12:55:09Z"
+    "publishedAt": "2026-08-11T14:17:18Z"
+  },
+  {
+    "id": "news-5eb3c49c6262",
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-11T13:37:10Z"
+  },
+  {
+    "id": "news-afeff8f47f93",
+    "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+    "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source…",
+    "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-11T13:00:25Z"
+  },
+  {
+    "id": "news-d8e27ee66251",
+    "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+    "summary": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with…",
+    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-11T13:00:05Z"
+  },
+  {
+    "id": "news-a3f1b10540e9",
+    "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
+    "summary": "In a tranquil Boston suburb, on the far edge of a horse farm, where pasture gives way to woods, a crane lowers an enormous electrode into a borehole. The electrode, a half-meter-long cylinder with copper-tipped arms to…",
+    "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-11T13:00:01Z"
   },
   {
     "id": "news-56256fe3bcc1",
@@ -438,45 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-08-04T15:26:43Z"
-  },
-  {
-    "id": "news-bac8cf8c63f2",
-    "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-    "summary": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events…",
-    "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-04T15:00:49Z"
-  },
-  {
-    "id": "news-caaa8a69287e",
-    "title": "As AI Increases Demands on Memory, Storage Steps Up",
-    "summary": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is…",
-    "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-04T15:00:47Z"
-  },
-  {
-    "id": "news-b798e7a46b86",
-    "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
-    "summary": "This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well.What Attendees will LearnWhere R&D budget is lost. More than a third of organizations spend 25…",
-    "url": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-04T14:51:55Z"
-  },
-  {
-    "id": "news-ea7f6df3de1a",
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-04T13:58:29Z"
   }
 ]
