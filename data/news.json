@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T19:11:16Z"
+    "publishedAt": "2026-08-11T20:38:57Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T19:11:16Z"
+    "publishedAt": "2026-08-11T20:38:57Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T19:11:16Z"
+    "publishedAt": "2026-08-11T20:38:57Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T19:11:16Z"
+    "publishedAt": "2026-08-11T20:38:57Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T19:11:16Z"
+    "publishedAt": "2026-08-11T20:38:57Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-11T19:11:16Z"
+    "publishedAt": "2026-08-11T20:38:57Z"
+  },
+  {
+    "id": "news-2914c49ea9e9",
+    "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
+    "summary": "In collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit.Held on 9 and 10 June in Paro, in the eastern Himalayas, the event was designed…",
+    "url": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-11T19:50:54Z"
   },
   {
     "id": "news-a41dba9fb719",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-05T18:00:03Z"
-  },
-  {
-    "id": "news-9195a1f4e0ca",
-    "title": "NVIDIA and Partners Build in America, for America",
-    "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific…",
-    "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-05T13:00:47Z"
   }
 ]
