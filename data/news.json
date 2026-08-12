@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T12:59:58Z"
+    "publishedAt": "2026-08-12T14:23:11Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T12:59:58Z"
+    "publishedAt": "2026-08-12T14:23:11Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T12:59:58Z"
+    "publishedAt": "2026-08-12T14:23:11Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T12:59:58Z"
+    "publishedAt": "2026-08-12T14:23:11Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T12:59:58Z"
+    "publishedAt": "2026-08-12T14:23:11Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T12:59:58Z"
+    "publishedAt": "2026-08-12T14:23:11Z"
+  },
+  {
+    "id": "news-f5d9b5f669dc",
+    "title": "Putting sign language AI into users’ hands",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-08-12T14:01:59Z"
+  },
+  {
+    "id": "news-ab799e9da743",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-12T14:00:51Z"
+  },
+  {
+    "id": "news-26f2e836225d",
+    "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+    "summary": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees.…",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-12T14:00:00Z"
+  },
+  {
+    "id": "news-fb21820d806b",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-12T06:00:00Z"
   },
   {
     "id": "news-b0169fd78a22",
@@ -438,45 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-08-06T13:00:00Z"
-  },
-  {
-    "id": "news-0f0c1961f93e",
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-06T10:00:00Z"
-  },
-  {
-    "id": "news-6da5f2d271da",
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-06T06:00:00Z"
-  },
-  {
-    "id": "news-fea9ae47ebf2",
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-06T00:00:00Z"
-  },
-  {
-    "id": "news-72ea094fa822",
-    "title": "Baseten on Hugging Face Inference Providers 🔥",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/baseten",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-06T00:00:00Z"
   }
 ]
