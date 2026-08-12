@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T18:57:56Z"
+    "publishedAt": "2026-08-12T20:01:04Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T18:57:56Z"
+    "publishedAt": "2026-08-12T20:01:04Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T18:57:56Z"
+    "publishedAt": "2026-08-12T20:01:04Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T18:57:56Z"
+    "publishedAt": "2026-08-12T20:01:04Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T18:57:56Z"
+    "publishedAt": "2026-08-12T20:01:04Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T18:57:56Z"
+    "publishedAt": "2026-08-12T20:01:04Z"
+  },
+  {
+    "id": "news-57803b26113b",
+    "title": "Write your first prompt with the GitHub Copilot app",
+    "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-12T19:00:00Z"
   },
   {
     "id": "news-528173278550",
@@ -468,15 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-08-06T16:51:12Z"
-  },
-  {
-    "id": "news-7fa201e30c7e",
-    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-08-06T15:06:15Z"
   }
 ]
