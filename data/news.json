@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T21:41:00Z"
+    "publishedAt": "2026-08-12T22:36:28Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T21:41:00Z"
+    "publishedAt": "2026-08-12T22:36:28Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T21:41:00Z"
+    "publishedAt": "2026-08-12T22:36:28Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T21:41:00Z"
+    "publishedAt": "2026-08-12T22:36:28Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T21:41:00Z"
+    "publishedAt": "2026-08-12T22:36:28Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T21:41:00Z"
+    "publishedAt": "2026-08-12T22:36:28Z"
+  },
+  {
+    "id": "news-b07daedacd7d",
+    "title": "GitHub availability report: July 2026",
+    "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog.",
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-12T22:17:32Z"
   },
   {
     "id": "news-57803b26113b",
@@ -148,6 +158,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-08-12T00:38:21Z"
+  },
+  {
+    "id": "news-cad35e6294fe",
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "url": "https://openai.com/index/ringcentral",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-12T00:00:00Z"
   },
   {
     "id": "news-2914c49ea9e9",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-07T09:00:00Z"
-  },
-  {
-    "id": "news-fc2a0caab938",
-    "title": "A guide to slash commands in the GitHub Copilot app",
-    "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-06T19:49:34Z"
-  },
-  {
-    "id": "news-5805f2a62da9",
-    "title": "How we took malware advisories beyond npm",
-    "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond…",
-    "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-06T16:51:12Z"
   }
 ]
