@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T14:23:11Z"
+    "publishedAt": "2026-08-12T15:55:57Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T14:23:11Z"
+    "publishedAt": "2026-08-12T15:55:57Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T14:23:11Z"
+    "publishedAt": "2026-08-12T15:55:57Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T14:23:11Z"
+    "publishedAt": "2026-08-12T15:55:57Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T14:23:11Z"
+    "publishedAt": "2026-08-12T15:55:57Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T14:23:11Z"
+    "publishedAt": "2026-08-12T15:55:57Z"
+  },
+  {
+    "id": "news-bcd90835f43e",
+    "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
+    "summary": "A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production.Download this free whitepaper now!",
+    "url": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-12T14:18:05Z"
   },
   {
     "id": "news-f5d9b5f669dc",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-08-06T13:00:11Z"
-  },
-  {
-    "id": "news-56145e6440ad",
-    "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
-    "summary": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by…",
-    "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-06T13:00:00Z"
   }
 ]
