@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-13T18:58:22Z"
+    "publishedAt": "2026-08-13T19:57:07Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-13T18:58:22Z"
+    "publishedAt": "2026-08-13T19:57:07Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-13T18:58:22Z"
+    "publishedAt": "2026-08-13T19:57:07Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-13T18:58:22Z"
+    "publishedAt": "2026-08-13T19:57:07Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-13T18:58:22Z"
+    "publishedAt": "2026-08-13T19:57:07Z"
   },
   {
     "id": "news-8699442de093",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-13T18:58:22Z"
+    "publishedAt": "2026-08-13T19:57:07Z"
+  },
+  {
+    "id": "news-6ef7cdf287aa",
+    "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+    "summary": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 2026 is here: The…",
+    "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-13T19:00:00Z"
   },
   {
     "id": "news-c1c988556190",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-10T17:00:00Z"
-  },
-  {
-    "id": "news-e5b664a37aa3",
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-10T16:25:36Z"
   }
 ]
