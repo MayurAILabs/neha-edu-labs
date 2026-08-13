@@ -1,5 +1,75 @@
 [
   {
+    "id": "news-3f3db147ccbf",
+    "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
+    "summary": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load…",
+    "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-13T16:54:09Z"
+  },
+  {
+    "id": "news-0ed85870bc68",
+    "title": "Agent Plugins package your skills, tools, and more",
+    "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest…",
+    "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-13T16:54:09Z"
+  },
+  {
+    "id": "news-4a07fe20d246",
+    "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+    "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4,…",
+    "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-13T16:54:09Z"
+  },
+  {
+    "id": "news-e29a45fb4b3c",
+    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+    "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses…",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-13T16:54:09Z"
+  },
+  {
+    "id": "news-d0bfa1373a84",
+    "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
+    "summary": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By…",
+    "url": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-13T16:54:09Z"
+  },
+  {
+    "id": "news-8699442de093",
+    "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
+    "summary": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a…",
+    "url": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-13T16:54:09Z"
+  },
+  {
+    "id": "news-b70411f0873d",
+    "title": "What 50 open source projects taught us about security in the AI era",
+    "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security.…",
+    "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-13T16:00:00Z"
+  },
+  {
     "id": "news-fbaa61926640",
     "title": "Scaling real-time AI agents with session-aware load balancing",
     "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement…",
@@ -14,46 +84,6 @@
     "title": "Model routing with Google Cloud API Gateway",
     "summary": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing…",
     "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-13T15:55:47Z"
-  },
-  {
-    "id": "news-3f3db147ccbf",
-    "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
-    "summary": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load…",
-    "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-13T15:55:47Z"
-  },
-  {
-    "id": "news-0ed85870bc68",
-    "title": "Agent Plugins package your skills, tools, and more",
-    "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest…",
-    "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-13T15:55:47Z"
-  },
-  {
-    "id": "news-4a07fe20d246",
-    "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
-    "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4,…",
-    "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-13T15:55:47Z"
-  },
-  {
-    "id": "news-e29a45fb4b3c",
-    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-    "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses…",
-    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -78,6 +108,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-08-13T13:00:33Z"
+  },
+  {
+    "id": "news-9e022b7caa78",
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-13T09:00:00Z"
   },
   {
     "id": "news-71ee4253a5fd",
@@ -438,45 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-10T10:00:00Z"
-  },
-  {
-    "id": "news-0da6fb777e33",
-    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/muse-glimmer",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-10T00:00:00Z"
-  },
-  {
-    "id": "news-ee449db47d8d",
-    "title": "Premium seats are coming to ChatGPT Business",
-    "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-10T00:00:00Z"
-  },
-  {
-    "id": "news-831d74e969cf",
-    "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
-    "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA…",
-    "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-08T10:24:54Z"
-  },
-  {
-    "id": "news-6edeef6bd28d",
-    "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
-    "summary": "The transition from a purely technical expert or individual contributor position to a broader leadership role is one of the most challenging phases in a STEM career. It requires moving away from relying solely on…",
-    "url": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-07T18:00:01Z"
   }
 ]
