@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T23:36:40Z"
+    "publishedAt": "2026-08-13T01:40:18Z"
   },
   {
     "id": "news-8ce73aa4361b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T23:36:40Z"
+    "publishedAt": "2026-08-13T01:40:18Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T23:36:40Z"
+    "publishedAt": "2026-08-13T01:40:18Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T23:36:40Z"
+    "publishedAt": "2026-08-13T01:40:18Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T23:36:40Z"
+    "publishedAt": "2026-08-13T01:40:18Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-12T23:36:40Z"
+    "publishedAt": "2026-08-13T01:40:18Z"
   },
   {
     "id": "news-b07daedacd7d",
@@ -167,6 +167,16 @@
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
+    "publishedAt": "2026-08-12T00:00:00Z"
+  },
+  {
+    "id": "news-8f84f9ab93b5",
+    "title": "Python 3.12.14, 3.11.16 and 3.10.21 are now available!",
+    "summary": "[Python Releases Eclipse Your Security!](https://discuss.python.org/t/python-3-12-14-3-11-16-and-3-10-21-are-now-available/108537) New security releases for 3.10, 3.11 and 3.12 are now available.",
+    "url": "https://blog.python.org/2026/08/python-31214-31116-31021/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
     "publishedAt": "2026-08-12T00:00:00Z"
   },
   {
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-07T13:00:01Z"
-  },
-  {
-    "id": "news-2ee94000fec4",
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-    "url": "https://openai.com/index/hsp-gruppe",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-07T09:00:00Z"
   }
 ]
