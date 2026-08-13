@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-13T16:54:09Z"
+    "publishedAt": "2026-08-13T17:54:43Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-13T16:54:09Z"
+    "publishedAt": "2026-08-13T17:54:43Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-13T16:54:09Z"
+    "publishedAt": "2026-08-13T17:54:43Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-13T16:54:09Z"
+    "publishedAt": "2026-08-13T17:54:43Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-13T16:54:09Z"
+    "publishedAt": "2026-08-13T17:54:43Z"
   },
   {
     "id": "news-8699442de093",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-13T16:54:09Z"
+    "publishedAt": "2026-08-13T17:54:43Z"
+  },
+  {
+    "id": "news-c1c988556190",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-13T17:16:04Z"
+  },
+  {
+    "id": "news-068e562e0512",
+    "title": "Introducing Gemini 3.7 Flash",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-08-13T17:04:18Z"
+  },
+  {
+    "id": "news-4cbb438f4fdf",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-08-13T16:45:00Z"
   },
   {
     "id": "news-b70411f0873d",
@@ -110,6 +140,16 @@
     "publishedAt": "2026-08-13T13:00:33Z"
   },
   {
+    "id": "news-6357d7795d21",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-13T10:00:00Z"
+  },
+  {
     "id": "news-9e022b7caa78",
     "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
     "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
@@ -127,6 +167,16 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Python Insider",
     "category": "Programming",
+    "publishedAt": "2026-08-13T00:00:00Z"
+  },
+  {
+    "id": "news-5fa28c256021",
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
     "publishedAt": "2026-08-13T00:00:00Z"
   },
   {
@@ -428,55 +478,5 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-08-10T14:30:00Z"
-  },
-  {
-    "id": "news-61282b7420ed",
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-10T14:00:00Z"
-  },
-  {
-    "id": "news-c7b962b1d9ef",
-    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-    "url": "https://openai.com/index/model-ml",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-10T12:00:00Z"
-  },
-  {
-    "id": "news-90d59cd2b4ce",
-    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-10T10:05:36Z"
-  },
-  {
-    "id": "news-7f776d7829d0",
-    "title": "Putting frontier cyber models in more trusted hands",
-    "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-10T10:00:00Z"
-  },
-  {
-    "id": "news-3a8585570cab",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-10T10:00:00Z"
   }
 ]
