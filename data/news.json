@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-14T14:15:54Z"
+    "publishedAt": "2026-08-14T15:47:06Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-14T14:15:54Z"
+    "publishedAt": "2026-08-14T15:47:06Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-14T14:15:54Z"
+    "publishedAt": "2026-08-14T15:47:06Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-14T14:15:54Z"
+    "publishedAt": "2026-08-14T15:47:06Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-14T14:15:54Z"
+    "publishedAt": "2026-08-14T15:47:06Z"
   },
   {
     "id": "news-8699442de093",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-14T14:15:54Z"
+    "publishedAt": "2026-08-14T15:47:06Z"
+  },
+  {
+    "id": "news-d556a48bace2",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-14T00:00:00Z"
   },
   {
     "id": "news-6ef7cdf287aa",
@@ -468,15 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-08-10T19:25:00Z"
-  },
-  {
-    "id": "news-7a678e9a26d7",
-    "title": "What building an AI-native finance function taught me",
-    "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-    "url": "https://openai.com/index/building-an-ai-native-finance-function",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-10T17:00:00Z"
   }
 ]
