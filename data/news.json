@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-14T15:47:06Z"
+    "publishedAt": "2026-08-14T16:48:33Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-14T15:47:06Z"
+    "publishedAt": "2026-08-14T16:48:33Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-14T15:47:06Z"
+    "publishedAt": "2026-08-14T16:48:33Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-14T15:47:06Z"
+    "publishedAt": "2026-08-14T16:48:33Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-14T15:47:06Z"
+    "publishedAt": "2026-08-14T16:48:33Z"
   },
   {
     "id": "news-8699442de093",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-14T15:47:06Z"
+    "publishedAt": "2026-08-14T16:48:33Z"
+  },
+  {
+    "id": "news-0bb7c760ba82",
+    "title": "How to bring your software delivery workflow into GitHub with agent apps",
+    "summary": "See how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-14T16:00:00Z"
   },
   {
     "id": "news-d556a48bace2",
@@ -468,15 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-08-10T19:30:00Z"
-  },
-  {
-    "id": "news-4610d2d935ba",
-    "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
-    "summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water more efficiently and accurately.",
-    "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-08-10T19:25:00Z"
   }
 ]
