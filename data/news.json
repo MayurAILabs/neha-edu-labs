@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T19:23:59Z"
+    "publishedAt": "2026-08-17T20:21:27Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T19:23:59Z"
+    "publishedAt": "2026-08-17T20:21:27Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T19:23:59Z"
+    "publishedAt": "2026-08-17T20:21:27Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T19:23:59Z"
+    "publishedAt": "2026-08-17T20:21:27Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T19:23:59Z"
+    "publishedAt": "2026-08-17T20:21:27Z"
   },
   {
     "id": "news-8699442de093",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T19:23:59Z"
+    "publishedAt": "2026-08-17T20:21:27Z"
+  },
+  {
+    "id": "news-0cc43372f70f",
+    "title": "Q&A: Rethinking how innovation happens",
+    "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
+    "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-08-17T19:50:00Z"
+  },
+  {
+    "id": "news-b597a3d03ee7",
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-17T19:46:21Z"
+  },
+  {
+    "id": "news-fa8a799c2691",
+    "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
+    "summary": "About 16 percent of the global population—more than 1 billion people—live with some form of disability, according to the World Health Organization. Many of the disabilities affect independence and mobility.Three high…",
+    "url": "https://spectrum.ieee.org/ieee-presidents-scholarship-2026",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-17T18:00:04Z"
   },
   {
     "id": "news-78d3666d8b6a",
@@ -448,35 +478,5 @@
     "source": "Python Insider",
     "category": "Programming",
     "publishedAt": "2026-08-12T00:00:00Z"
-  },
-  {
-    "id": "news-2914c49ea9e9",
-    "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
-    "summary": "In collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit.Held on 9 and 10 June in Paro, in the eastern Himalayas, the event was designed…",
-    "url": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-11T19:50:54Z"
-  },
-  {
-    "id": "news-a41dba9fb719",
-    "title": "From coder to orchestrator: How agents shift the role of a developer",
-    "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator:…",
-    "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-11T18:38:17Z"
-  },
-  {
-    "id": "news-dbc30e861442",
-    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-    "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-08-11T17:00:00Z"
   }
 ]
