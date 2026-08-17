@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-3f3db147ccbf",
-    "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
-    "summary": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load…",
-    "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-17T22:19:53Z"
-  },
-  {
     "id": "news-0ed85870bc68",
     "title": "Agent Plugins package your skills, tools, and more",
     "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T22:19:53Z"
+    "publishedAt": "2026-08-17T23:18:50Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T22:19:53Z"
+    "publishedAt": "2026-08-17T23:18:50Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T22:19:53Z"
+    "publishedAt": "2026-08-17T23:18:50Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -47,13 +37,33 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T22:19:53Z"
+    "publishedAt": "2026-08-17T23:18:50Z"
   },
   {
     "id": "news-8699442de093",
     "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
     "summary": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a…",
     "url": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-17T23:18:50Z"
+  },
+  {
+    "id": "news-fe161a4b6daf",
+    "title": "Build zero-trust AI agents with Google's Agent Development Kit",
+    "summary": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections…",
+    "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-17T23:18:50Z"
+  },
+  {
+    "id": "news-3f3db147ccbf",
+    "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
+    "summary": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load…",
+    "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -467,16 +477,6 @@
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
-    "publishedAt": "2026-08-12T00:00:00Z"
-  },
-  {
-    "id": "news-8f84f9ab93b5",
-    "title": "Python 3.12.14, 3.11.16 and 3.10.21 are now available!",
-    "summary": "[Python Releases Eclipse Your Security!](https://discuss.python.org/t/python-3-12-14-3-11-16-and-3-10-21-are-now-available/108537) New security releases for 3.10, 3.11 and 3.12 are now available.",
-    "url": "https://blog.python.org/2026/08/python-31214-31116-31021/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
     "publishedAt": "2026-08-12T00:00:00Z"
   }
 ]
