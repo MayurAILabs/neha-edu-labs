@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T13:36:25Z"
+    "publishedAt": "2026-08-17T14:22:49Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T13:36:25Z"
+    "publishedAt": "2026-08-17T14:22:49Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T13:36:25Z"
+    "publishedAt": "2026-08-17T14:22:49Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T13:36:25Z"
+    "publishedAt": "2026-08-17T14:22:49Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T13:36:25Z"
+    "publishedAt": "2026-08-17T14:22:49Z"
   },
   {
     "id": "news-8699442de093",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T13:36:25Z"
+    "publishedAt": "2026-08-17T14:22:49Z"
+  },
+  {
+    "id": "news-8c42db092e68",
+    "title": "From AI Copilots to Agent Swarms",
+    "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software…",
+    "url": "https://spectrum.ieee.org/amd-agent-swarms",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-17T14:00:01Z"
   },
   {
     "id": "news-b10672c70cf0",
@@ -468,15 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-08-11T15:57:19Z"
-  },
-  {
-    "id": "news-f6940e39353b",
-    "title": "Simulating Lunar Regolith with COMSOL for Mission Safety and Space Infrastructure",
-    "summary": "Current space exploration aims to establish permanent structures on the Moon, Mars, and eventually other planetary bodies. Successful lunar missions depend on understanding lunar regolith, the granular material covering…",
-    "url": "https://event.on24.com/wcc/r/5448154/155DDEC4F86810CBBC908D85D2D88569?utm_source=IEEE",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-11T15:03:07Z"
   }
 ]
