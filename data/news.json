@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T12:35:44Z"
+    "publishedAt": "2026-08-17T13:36:25Z"
   },
   {
     "id": "news-0ed85870bc68",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T12:35:44Z"
+    "publishedAt": "2026-08-17T13:36:25Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T12:35:44Z"
+    "publishedAt": "2026-08-17T13:36:25Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T12:35:44Z"
+    "publishedAt": "2026-08-17T13:36:25Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T12:35:44Z"
+    "publishedAt": "2026-08-17T13:36:25Z"
   },
   {
     "id": "news-8699442de093",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T12:35:44Z"
+    "publishedAt": "2026-08-17T13:36:25Z"
+  },
+  {
+    "id": "news-b10672c70cf0",
+    "title": "Securing the Infrastructure of Intelligence",
+    "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI…",
+    "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-17T12:34:51Z"
   },
   {
     "id": "news-ef87e3b0ab28",
@@ -68,6 +78,26 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-08-17T08:00:00Z"
+  },
+  {
+    "id": "news-f137d9ea2f9f",
+    "title": "The Defender’s Window",
+    "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "url": "https://openai.com/index/the-defenders-window",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-17T05:30:00Z"
+  },
+  {
+    "id": "news-ad5623d5cc70",
+    "title": "OpenAI joins PORTS-Pike project",
+    "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-17T05:00:00Z"
   },
   {
     "id": "news-96670aeff66e",
@@ -84,6 +114,16 @@
     "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
     "summary": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91.Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze,…",
     "url": "https://spectrum.ieee.org/digital-signal-processing",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-14T18:00:02Z"
+  },
+  {
+    "id": "news-068d18a19dca",
+    "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
+    "summary": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91.Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze,…",
+    "url": "https://spectrum.ieee.org/digital-signal-processing-pioneer-bede-liu",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
     "category": "Engineering",
@@ -438,45 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-11T15:03:07Z"
-  },
-  {
-    "id": "news-fda742a5dcd7",
-    "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-    "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just…",
-    "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-11T15:00:06Z"
-  },
-  {
-    "id": "news-90065eb7e6ae",
-    "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
-    "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can…",
-    "url": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-11T14:17:18Z"
-  },
-  {
-    "id": "news-5eb3c49c6262",
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-11T13:37:10Z"
-  },
-  {
-    "id": "news-afeff8f47f93",
-    "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-    "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source…",
-    "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-11T13:00:25Z"
   }
 ]
