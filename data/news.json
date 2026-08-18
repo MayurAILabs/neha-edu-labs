@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T22:18:51Z"
+    "publishedAt": "2026-08-18T23:17:39Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T22:18:51Z"
+    "publishedAt": "2026-08-18T23:17:39Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T22:18:51Z"
+    "publishedAt": "2026-08-18T23:17:39Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T22:18:51Z"
+    "publishedAt": "2026-08-18T23:17:39Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T22:18:51Z"
+    "publishedAt": "2026-08-18T23:17:39Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T22:18:51Z"
+    "publishedAt": "2026-08-18T23:17:39Z"
   },
   {
     "id": "news-67f37d861d34",
@@ -146,6 +146,16 @@
     "url": "https://huggingface.co/blog/multi-vector-encoder",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-18T00:00:00Z"
+  },
+  {
+    "id": "news-dfcf73efa3a6",
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-18T00:00:00Z"
   },
@@ -468,15 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-08-13T00:00:00Z"
-  },
-  {
-    "id": "news-b07daedacd7d",
-    "title": "GitHub availability report: July 2026",
-    "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog.",
-    "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-12T22:17:32Z"
   }
 ]
