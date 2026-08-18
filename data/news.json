@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T14:28:58Z"
+    "publishedAt": "2026-08-18T15:27:11Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T14:28:58Z"
+    "publishedAt": "2026-08-18T15:27:11Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T14:28:58Z"
+    "publishedAt": "2026-08-18T15:27:11Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T14:28:58Z"
+    "publishedAt": "2026-08-18T15:27:11Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T14:28:58Z"
+    "publishedAt": "2026-08-18T15:27:11Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T14:28:58Z"
+    "publishedAt": "2026-08-18T15:27:11Z"
   },
   {
     "id": "news-9765648ad527",
@@ -114,6 +114,16 @@
     "title": "Q&A: Rethinking how innovation happens",
     "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
     "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-08-17T19:50:00Z"
+  },
+  {
+    "id": "news-7e0541cfd331",
+    "title": "Q&A: Rethinking how innovation happens",
+    "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
+    "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817",
     "image": "assets/images/news/cat-ai.svg",
     "source": "MIT News — AI",
     "category": "AI",
@@ -468,15 +478,5 @@
     "source": "Google DeepMind",
     "category": "AI",
     "publishedAt": "2026-08-12T14:01:59Z"
-  },
-  {
-    "id": "news-ab799e9da743",
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-12T14:00:51Z"
   }
 ]
