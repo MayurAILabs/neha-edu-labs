@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T18:32:06Z"
+    "publishedAt": "2026-08-18T19:24:02Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T18:32:06Z"
+    "publishedAt": "2026-08-18T19:24:02Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T18:32:06Z"
+    "publishedAt": "2026-08-18T19:24:02Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T18:32:06Z"
+    "publishedAt": "2026-08-18T19:24:02Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T18:32:06Z"
+    "publishedAt": "2026-08-18T19:24:02Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T18:32:06Z"
+    "publishedAt": "2026-08-18T19:24:02Z"
   },
   {
     "id": "news-5ce8103476b1",
@@ -104,6 +104,16 @@
     "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
     "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
     "url": "https://openai.com/index/chatgpt-for-teens",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-18T11:00:00Z"
+  },
+  {
+    "id": "news-68c52c81310f",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -468,15 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-08-12T19:00:00Z"
-  },
-  {
-    "id": "news-528173278550",
-    "title": "Your contributors are AI-first now. Is your project?",
-    "summary": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your…",
-    "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-12T18:00:08Z"
   }
 ]
