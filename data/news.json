@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T10:23:33Z"
+    "publishedAt": "2026-08-18T11:21:04Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T10:23:33Z"
+    "publishedAt": "2026-08-18T11:21:04Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T10:23:33Z"
+    "publishedAt": "2026-08-18T11:21:04Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T10:23:33Z"
+    "publishedAt": "2026-08-18T11:21:04Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T10:23:33Z"
+    "publishedAt": "2026-08-18T11:21:04Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T10:23:33Z"
+    "publishedAt": "2026-08-18T11:21:04Z"
+  },
+  {
+    "id": "news-9765648ad527",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-18T11:00:00Z"
+  },
+  {
+    "id": "news-d80040e4a9ed",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-18T11:00:00Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-12T06:00:00Z"
-  },
-  {
-    "id": "news-b0169fd78a22",
-    "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-    "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the…",
-    "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-12T00:38:21Z"
-  },
-  {
-    "id": "news-cad35e6294fe",
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "url": "https://openai.com/index/ringcentral",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-12T00:00:00Z"
   }
 ]
