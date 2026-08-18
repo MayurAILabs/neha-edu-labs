@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T23:18:50Z"
+    "publishedAt": "2026-08-18T00:59:42Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T23:18:50Z"
+    "publishedAt": "2026-08-18T00:59:42Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T23:18:50Z"
+    "publishedAt": "2026-08-18T00:59:42Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T23:18:50Z"
+    "publishedAt": "2026-08-18T00:59:42Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T23:18:50Z"
+    "publishedAt": "2026-08-18T00:59:42Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-17T23:18:50Z"
+    "publishedAt": "2026-08-18T00:59:42Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -381,8 +381,8 @@
   },
   {
     "id": "news-57803b26113b",
-    "title": "Write your first prompt with the GitHub Copilot app",
-    "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first…",
+    "title": "GitHub Copilot app for Beginners: Write your first prompt",
+    "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post GitHub Copilot app for Beginners: Write your first prompt appeared…",
     "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "GitHub Blog",
