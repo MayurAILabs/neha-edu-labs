@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T11:21:04Z"
+    "publishedAt": "2026-08-18T12:36:58Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T11:21:04Z"
+    "publishedAt": "2026-08-18T12:36:58Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T11:21:04Z"
+    "publishedAt": "2026-08-18T12:36:58Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T11:21:04Z"
+    "publishedAt": "2026-08-18T12:36:58Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T11:21:04Z"
+    "publishedAt": "2026-08-18T12:36:58Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T11:21:04Z"
+    "publishedAt": "2026-08-18T12:36:58Z"
   },
   {
     "id": "news-9765648ad527",
@@ -74,6 +74,16 @@
     "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
     "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
     "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-18T11:00:00Z"
+  },
+  {
+    "id": "news-01003c6680bc",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "url": "https://openai.com/index/chatgpt-for-teens",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-08-12T14:00:00Z"
-  },
-  {
-    "id": "news-fb21820d806b",
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-12T06:00:00Z"
   }
 ]
