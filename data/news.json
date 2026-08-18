@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T13:38:24Z"
+    "publishedAt": "2026-08-18T14:28:58Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T13:38:24Z"
+    "publishedAt": "2026-08-18T14:28:58Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T13:38:24Z"
+    "publishedAt": "2026-08-18T14:28:58Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T13:38:24Z"
+    "publishedAt": "2026-08-18T14:28:58Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T13:38:24Z"
+    "publishedAt": "2026-08-18T14:28:58Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T13:38:24Z"
+    "publishedAt": "2026-08-18T14:28:58Z"
   },
   {
     "id": "news-9765648ad527",
@@ -88,6 +88,16 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-18T11:00:00Z"
+  },
+  {
+    "id": "news-e520424e436f",
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-18T00:00:00Z"
   },
   {
     "id": "news-3f3db147ccbf",
@@ -468,15 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-08-12T14:00:51Z"
-  },
-  {
-    "id": "news-26f2e836225d",
-    "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
-    "summary": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees.…",
-    "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-12T14:00:00Z"
   }
 ]
