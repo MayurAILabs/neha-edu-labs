@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T16:26:02Z"
+    "publishedAt": "2026-08-18T17:22:23Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T16:26:02Z"
+    "publishedAt": "2026-08-18T17:22:23Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T16:26:02Z"
+    "publishedAt": "2026-08-18T17:22:23Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T16:26:02Z"
+    "publishedAt": "2026-08-18T17:22:23Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T16:26:02Z"
+    "publishedAt": "2026-08-18T17:22:23Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-18T16:26:02Z"
+    "publishedAt": "2026-08-18T17:22:23Z"
+  },
+  {
+    "id": "news-b48c2a5a69f4",
+    "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
+    "summary": "A new method for surgically removing training examples from a model reveals that as datasets grow, the link between what a model learns and what it produces dissolves.",
+    "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-08-18T16:35:00Z"
   },
   {
     "id": "news-9765648ad527",
@@ -88,6 +98,16 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-18T11:00:00Z"
+  },
+  {
+    "id": "news-7d7eacff40aa",
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+    "url": "https://openai.com/index/asana",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-18T07:00:00Z"
   },
   {
     "id": "news-e520424e436f",
@@ -458,25 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-08-12T16:14:36Z"
-  },
-  {
-    "id": "news-bcd90835f43e",
-    "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
-    "summary": "A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production.Download this free whitepaper now!",
-    "url": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-12T14:18:05Z"
-  },
-  {
-    "id": "news-f5d9b5f669dc",
-    "title": "Putting sign language AI into users’ hands",
-    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-08-12T14:01:59Z"
   }
 ]
