@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T13:40:21Z"
+    "publishedAt": "2026-08-19T14:28:41Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T13:40:21Z"
+    "publishedAt": "2026-08-19T14:28:41Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T13:40:21Z"
+    "publishedAt": "2026-08-19T14:28:41Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T13:40:21Z"
+    "publishedAt": "2026-08-19T14:28:41Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T13:40:21Z"
+    "publishedAt": "2026-08-19T14:28:41Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T13:40:21Z"
+    "publishedAt": "2026-08-19T14:28:41Z"
+  },
+  {
+    "id": "news-22e214c52569",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-19T13:48:49Z"
+  },
+  {
+    "id": "news-9ac0643f2427",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "url": "https://openai.com/index/replit",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-19T07:00:00Z"
   },
   {
     "id": "news-e4563871866d",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-13T10:00:00Z"
-  },
-  {
-    "id": "news-9e022b7caa78",
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-13T09:00:00Z"
-  },
-  {
-    "id": "news-71ee4253a5fd",
-    "title": "Announcing the Packaging Council Election Candidates for 2026!",
-    "summary": "Announcing the 17 nominees for the inaugural Python Packaging Council election, and how to vote in the election.",
-    "url": "https://blog.python.org/2026/08/2026-packaging-council-nominees/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-08-13T00:00:00Z"
   }
 ]
