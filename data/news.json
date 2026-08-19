@@ -1,5 +1,15 @@
 [
   {
+    "id": "news-e396b6baa03e",
+    "title": "Offering Zero Data Retention for frontier models",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-19T19:00:00Z"
+  },
+  {
     "id": "news-0ed85870bc68",
     "title": "Agent Plugins package your skills, tools, and more",
     "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest…",
@@ -7,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T16:26:10Z"
+    "publishedAt": "2026-08-19T17:22:50Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T16:26:10Z"
+    "publishedAt": "2026-08-19T17:22:50Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T16:26:10Z"
+    "publishedAt": "2026-08-19T17:22:50Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T16:26:10Z"
+    "publishedAt": "2026-08-19T17:22:50Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T16:26:10Z"
+    "publishedAt": "2026-08-19T17:22:50Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +67,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T16:26:10Z"
+    "publishedAt": "2026-08-19T17:22:50Z"
   },
   {
     "id": "news-22e214c52569",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-13T11:00:00Z"
-  },
-  {
-    "id": "news-6357d7795d21",
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-    "url": "https://openai.com/index/previewing-ultrafast",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-13T10:00:00Z"
   }
 ]
