@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T04:32:39Z"
+    "publishedAt": "2026-08-19T05:24:55Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T04:32:39Z"
+    "publishedAt": "2026-08-19T05:24:55Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T04:32:39Z"
+    "publishedAt": "2026-08-19T05:24:55Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T04:32:39Z"
+    "publishedAt": "2026-08-19T05:24:55Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T04:32:39Z"
+    "publishedAt": "2026-08-19T05:24:55Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T04:32:39Z"
+    "publishedAt": "2026-08-19T05:24:55Z"
+  },
+  {
+    "id": "news-e4563871866d",
+    "title": "ChatGPT Ads expands across Europe",
+    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-18T22:00:00Z"
   },
   {
     "id": "news-67f37d861d34",
@@ -467,16 +477,6 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Python Insider",
     "category": "Programming",
-    "publishedAt": "2026-08-13T00:00:00Z"
-  },
-  {
-    "id": "news-5fa28c256021",
-    "title": "What We Learned by Reproducing 2,200 papers from ICML",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
     "publishedAt": "2026-08-13T00:00:00Z"
   }
 ]
