@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T19:21:23Z"
+    "publishedAt": "2026-08-19T20:21:51Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T19:21:23Z"
+    "publishedAt": "2026-08-19T20:21:51Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T19:21:23Z"
+    "publishedAt": "2026-08-19T20:21:51Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T19:21:23Z"
+    "publishedAt": "2026-08-19T20:21:51Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T19:21:23Z"
+    "publishedAt": "2026-08-19T20:21:51Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T19:21:23Z"
+    "publishedAt": "2026-08-19T20:21:51Z"
   },
   {
     "id": "news-e396b6baa03e",
@@ -76,6 +76,16 @@
     "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-08-19T19:00:00Z"
+  },
+  {
+    "id": "news-ef913e9fdabc",
+    "title": "Offering Zero Data Retention for frontier models",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-19T19:00:00Z"
   },
@@ -464,16 +474,6 @@
     "title": "Scaling real-time AI agents with session-aware load balancing",
     "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement…",
     "url": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-13T15:55:47Z"
-  },
-  {
-    "id": "news-8ce73aa4361b",
-    "title": "Model routing with Google Cloud API Gateway",
-    "summary": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing…",
-    "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
