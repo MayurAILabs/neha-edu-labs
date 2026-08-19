@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T17:22:50Z"
+    "publishedAt": "2026-08-19T18:28:46Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T17:22:50Z"
+    "publishedAt": "2026-08-19T18:28:46Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T17:22:50Z"
+    "publishedAt": "2026-08-19T18:28:46Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T17:22:50Z"
+    "publishedAt": "2026-08-19T18:28:46Z"
   },
   {
     "id": "news-8699442de093",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T17:22:50Z"
+    "publishedAt": "2026-08-19T18:28:46Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -67,7 +67,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-19T17:22:50Z"
+    "publishedAt": "2026-08-19T18:28:46Z"
+  },
+  {
+    "id": "news-aa9c1a1cdf42",
+    "title": "Gaining Leadership Backing for Your Innovations",
+    "summary": "This article is part of our exclusive career advice series in partnership with the IEEE Technology and Engineering Management Society.Imagine this: You have a strong idea for a new product for your company. Your…",
+    "url": "https://spectrum.ieee.org/leadership-backing-innovation",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-19T18:00:02Z"
+  },
+  {
+    "id": "news-b5a1511da6d9",
+    "title": "GitHub Copilot app for Beginners: Managing your work",
+    "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-19T17:50:23Z"
   },
   {
     "id": "news-22e214c52569",
@@ -458,25 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-13T14:44:50Z"
-  },
-  {
-    "id": "news-3aa4e23378c6",
-    "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-    "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-13T13:00:33Z"
-  },
-  {
-    "id": "news-855fa77e93e1",
-    "title": "The builder’s guide to GPT‑5.6",
-    "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-13T11:00:00Z"
   }
 ]
