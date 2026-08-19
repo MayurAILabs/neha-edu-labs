@@ -1,5 +1,65 @@
 [
   {
+    "id": "news-0ed85870bc68",
+    "title": "Agent Plugins package your skills, tools, and more",
+    "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest…",
+    "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-19T19:21:23Z"
+  },
+  {
+    "id": "news-4a07fe20d246",
+    "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+    "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4,…",
+    "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-19T19:21:23Z"
+  },
+  {
+    "id": "news-e29a45fb4b3c",
+    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+    "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses…",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-19T19:21:23Z"
+  },
+  {
+    "id": "news-d0bfa1373a84",
+    "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
+    "summary": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By…",
+    "url": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-19T19:21:23Z"
+  },
+  {
+    "id": "news-8699442de093",
+    "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
+    "summary": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a…",
+    "url": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-19T19:21:23Z"
+  },
+  {
+    "id": "news-fe161a4b6daf",
+    "title": "Build zero-trust AI agents with Google's Agent Development Kit",
+    "summary": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections…",
+    "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-19T19:21:23Z"
+  },
+  {
     "id": "news-e396b6baa03e",
     "title": "Offering Zero Data Retention for frontier models",
     "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
@@ -10,64 +70,14 @@
     "publishedAt": "2026-08-19T19:00:00Z"
   },
   {
-    "id": "news-0ed85870bc68",
-    "title": "Agent Plugins package your skills, tools, and more",
-    "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest…",
-    "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-19T18:28:46Z"
-  },
-  {
-    "id": "news-4a07fe20d246",
-    "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
-    "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4,…",
-    "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-19T18:28:46Z"
-  },
-  {
-    "id": "news-e29a45fb4b3c",
-    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-    "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses…",
-    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-19T18:28:46Z"
-  },
-  {
-    "id": "news-d0bfa1373a84",
-    "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
-    "summary": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By…",
-    "url": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-19T18:28:46Z"
-  },
-  {
-    "id": "news-8699442de093",
-    "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
-    "summary": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a…",
-    "url": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-19T18:28:46Z"
-  },
-  {
-    "id": "news-fe161a4b6daf",
-    "title": "Build zero-trust AI agents with Google's Agent Development Kit",
-    "summary": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections…",
-    "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-19T18:28:46Z"
+    "id": "news-a87414927489",
+    "title": "5 new ways to level up your learning with Search",
+    "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-08-19T19:00:00Z"
   },
   {
     "id": "news-aa9c1a1cdf42",
@@ -468,15 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-08-13T15:55:47Z"
-  },
-  {
-    "id": "news-33427f312c28",
-    "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
-    "summary": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer (as the name…",
-    "url": "https://spectrum.ieee.org/product-engineer",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-13T14:44:50Z"
   }
 ]
