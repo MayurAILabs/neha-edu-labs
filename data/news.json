@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T16:30:07Z"
+    "publishedAt": "2026-08-20T17:24:33Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T16:30:07Z"
+    "publishedAt": "2026-08-20T17:24:33Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T16:30:07Z"
+    "publishedAt": "2026-08-20T17:24:33Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T16:30:07Z"
+    "publishedAt": "2026-08-20T17:24:33Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T16:30:07Z"
+    "publishedAt": "2026-08-20T17:24:33Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T16:30:07Z"
+    "publishedAt": "2026-08-20T17:24:33Z"
+  },
+  {
+    "id": "news-c7cdb6722fd8",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-20T16:52:57Z"
   },
   {
     "id": "news-cce517cb8665",
@@ -468,15 +478,5 @@
     "source": "Google DeepMind",
     "category": "AI",
     "publishedAt": "2026-08-13T17:04:18Z"
-  },
-  {
-    "id": "news-4cbb438f4fdf",
-    "title": "Bring your spreadsheet data to life with Sheets canvas",
-    "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
-    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-08-13T16:45:00Z"
   }
 ]
