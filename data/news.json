@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T12:39:20Z"
+    "publishedAt": "2026-08-20T13:42:05Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T12:39:20Z"
+    "publishedAt": "2026-08-20T13:42:05Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T12:39:20Z"
+    "publishedAt": "2026-08-20T13:42:05Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T12:39:20Z"
+    "publishedAt": "2026-08-20T13:42:05Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T12:39:20Z"
+    "publishedAt": "2026-08-20T13:42:05Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T12:39:20Z"
+    "publishedAt": "2026-08-20T13:42:05Z"
+  },
+  {
+    "id": "news-cce517cb8665",
+    "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+    "summary": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-20T13:00:24Z"
   },
   {
     "id": "news-e396b6baa03e",
@@ -468,15 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-08-13T16:00:00Z"
-  },
-  {
-    "id": "news-fbaa61926640",
-    "title": "Scaling real-time AI agents with session-aware load balancing",
-    "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement…",
-    "url": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-13T15:55:47Z"
   }
 ]
