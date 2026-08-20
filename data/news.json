@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T18:33:02Z"
+    "publishedAt": "2026-08-20T19:32:38Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T18:33:02Z"
+    "publishedAt": "2026-08-20T19:32:38Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T18:33:02Z"
+    "publishedAt": "2026-08-20T19:32:38Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T18:33:02Z"
+    "publishedAt": "2026-08-20T19:32:38Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T18:33:02Z"
+    "publishedAt": "2026-08-20T19:32:38Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-20T18:33:02Z"
+    "publishedAt": "2026-08-20T19:32:38Z"
+  },
+  {
+    "id": "news-247c8b7c218f",
+    "title": "Paving the way for greener ammonia production",
+    "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertilizer and other products.",
+    "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-08-20T18:45:00Z"
+  },
+  {
+    "id": "news-ba7ef830fa2a",
+    "title": "The August 17 outage, and the work ahead",
+    "summary": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
+    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-20T18:36:11Z"
   },
   {
     "id": "news-c7cdb6722fd8",
@@ -458,25 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-08-13T19:00:00Z"
-  },
-  {
-    "id": "news-c1c988556190",
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-13T17:16:04Z"
-  },
-  {
-    "id": "news-068e562e0512",
-    "title": "Introducing Gemini 3.7 Flash",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-08-13T17:04:18Z"
   }
 ]
