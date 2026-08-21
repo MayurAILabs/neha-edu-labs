@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-21T14:30:40Z"
+    "publishedAt": "2026-08-21T15:28:35Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-21T14:30:40Z"
+    "publishedAt": "2026-08-21T15:28:35Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-21T14:30:40Z"
+    "publishedAt": "2026-08-21T15:28:35Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-21T14:30:40Z"
+    "publishedAt": "2026-08-21T15:28:35Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-21T14:30:40Z"
+    "publishedAt": "2026-08-21T15:28:35Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-21T14:30:40Z"
+    "publishedAt": "2026-08-21T15:28:35Z"
+  },
+  {
+    "id": "news-f151f9b1c68d",
+    "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
+    "summary": "About this WebinarTurn Yield Excursions into Faster, More Confident Root Cause AnalysisWhen a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool…",
+    "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-21T14:32:37Z"
   },
   {
     "id": "news-06daba08af15",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-14T17:27:12Z"
-  },
-  {
-    "id": "news-fd1ced386b36",
-    "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-    "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM…",
-    "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-14T17:13:05Z"
   }
 ]
