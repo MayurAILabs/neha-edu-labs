@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-21T12:38:15Z"
+    "publishedAt": "2026-08-21T13:41:41Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-21T12:38:15Z"
+    "publishedAt": "2026-08-21T13:41:41Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-21T12:38:15Z"
+    "publishedAt": "2026-08-21T13:41:41Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-21T12:38:15Z"
+    "publishedAt": "2026-08-21T13:41:41Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-21T12:38:15Z"
+    "publishedAt": "2026-08-21T13:41:41Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-21T12:38:15Z"
+    "publishedAt": "2026-08-21T13:41:41Z"
   },
   {
     "id": "news-06daba08af15",
@@ -68,6 +68,16 @@
     "source": "Google DeepMind",
     "category": "AI",
     "publishedAt": "2026-08-21T11:59:48Z"
+  },
+  {
+    "id": "news-68e9fb1705e1",
+    "title": "Measuring benchmark optimization in speech recognition",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-21T00:00:00Z"
   },
   {
     "id": "news-247c8b7c218f",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-08-14T17:13:05Z"
-  },
-  {
-    "id": "news-0bb7c760ba82",
-    "title": "How to bring your software delivery workflow into GitHub with agent apps",
-    "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-14T16:00:00Z"
   }
 ]
