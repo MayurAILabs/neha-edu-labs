@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-22T15:16:29Z"
+    "publishedAt": "2026-08-22T16:18:43Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-22T15:16:29Z"
+    "publishedAt": "2026-08-22T16:18:43Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-22T15:16:29Z"
+    "publishedAt": "2026-08-22T16:18:43Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-22T15:16:29Z"
+    "publishedAt": "2026-08-22T16:18:43Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-22T15:16:29Z"
+    "publishedAt": "2026-08-22T16:18:43Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-22T15:16:29Z"
+    "publishedAt": "2026-08-22T16:18:43Z"
+  },
+  {
+    "id": "news-aabfc544d84e",
+    "title": "The Python documentation is now available in Russian!",
+    "summary": "Latest update from Python Insider.",
+    "url": "https://blog.python.org/2026/08/the-python-documentation-is-now-available-in-russian/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-08-22T00:00:00Z"
   },
   {
     "id": "news-f151f9b1c68d",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-14T18:00:02Z"
-  },
-  {
-    "id": "news-7896ec127bab",
-    "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
-    "summary": "Learn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.Download this free…",
-    "url": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-14T17:27:12Z"
   }
 ]
