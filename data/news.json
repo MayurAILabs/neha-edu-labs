@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-23T12:31:26Z"
+    "publishedAt": "2026-08-23T13:28:26Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-23T12:31:26Z"
+    "publishedAt": "2026-08-23T13:28:26Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-23T12:31:26Z"
+    "publishedAt": "2026-08-23T13:28:26Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-23T12:31:26Z"
+    "publishedAt": "2026-08-23T13:28:26Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-23T12:31:26Z"
+    "publishedAt": "2026-08-23T13:28:26Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-23T12:31:26Z"
+    "publishedAt": "2026-08-23T13:28:26Z"
   },
   {
     "id": "news-aabfc544d84e",
@@ -68,6 +68,16 @@
     "source": "Python Insider",
     "category": "Programming",
     "publishedAt": "2026-08-22T00:00:00Z"
+  },
+  {
+    "id": "news-aef8aa1a9be5",
+    "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+    "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch…",
+    "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-21T18:00:01Z"
   },
   {
     "id": "news-f151f9b1c68d",
@@ -464,16 +474,6 @@
     "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
     "summary": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91.Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze,…",
     "url": "https://spectrum.ieee.org/digital-signal-processing",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-14T18:00:02Z"
-  },
-  {
-    "id": "news-068d18a19dca",
-    "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
-    "summary": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91.Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze,…",
-    "url": "https://spectrum.ieee.org/digital-signal-processing-pioneer-bede-liu",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
     "category": "Engineering",
