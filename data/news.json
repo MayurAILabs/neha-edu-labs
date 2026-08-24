@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T20:25:03Z"
+    "publishedAt": "2026-08-24T21:24:18Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T20:25:03Z"
+    "publishedAt": "2026-08-24T21:24:18Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T20:25:03Z"
+    "publishedAt": "2026-08-24T21:24:18Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T20:25:03Z"
+    "publishedAt": "2026-08-24T21:24:18Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T20:25:03Z"
+    "publishedAt": "2026-08-24T21:24:18Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T20:25:03Z"
+    "publishedAt": "2026-08-24T21:24:18Z"
+  },
+  {
+    "id": "news-7d07036b604d",
+    "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+    "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good.…",
+    "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-24T20:56:32Z"
   },
   {
     "id": "news-3fa6206d4fef",
@@ -468,15 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-08-17T22:19:53Z"
-  },
-  {
-    "id": "news-0cc43372f70f",
-    "title": "Q&A: Rethinking how innovation happens",
-    "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
-    "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-08-17T19:50:00Z"
   }
 ]
