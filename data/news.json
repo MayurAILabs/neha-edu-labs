@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T11:23:37Z"
+    "publishedAt": "2026-08-24T12:40:40Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T11:23:37Z"
+    "publishedAt": "2026-08-24T12:40:40Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T11:23:37Z"
+    "publishedAt": "2026-08-24T12:40:40Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T11:23:37Z"
+    "publishedAt": "2026-08-24T12:40:40Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T11:23:37Z"
+    "publishedAt": "2026-08-24T12:40:40Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T11:23:37Z"
+    "publishedAt": "2026-08-24T12:40:40Z"
+  },
+  {
+    "id": "news-d44f93deeed0",
+    "title": "Poetry for Engineers: Safe Distance",
+    "summary": "How do I touch youacross the ocean,across cold depthswhere light travels through glass.Not copper—fibers. Optical. Through liquid glass, through flickering lightthat carries you in fragments. Light broken into pulses.…",
+    "url": "https://spectrum.ieee.org/poetry-for-engineers-safe-distance",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-23T13:00:01Z"
   },
   {
     "id": "news-aabfc544d84e",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-17T03:15:00Z"
-  },
-  {
-    "id": "news-e57b54a0b37e",
-    "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
-    "summary": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91.Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze,…",
-    "url": "https://spectrum.ieee.org/digital-signal-processing",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-14T18:00:02Z"
   }
 ]
