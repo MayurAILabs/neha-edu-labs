@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T18:34:08Z"
+    "publishedAt": "2026-08-24T19:25:34Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T18:34:08Z"
+    "publishedAt": "2026-08-24T19:25:34Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T18:34:08Z"
+    "publishedAt": "2026-08-24T19:25:34Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T18:34:08Z"
+    "publishedAt": "2026-08-24T19:25:34Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T18:34:08Z"
+    "publishedAt": "2026-08-24T19:25:34Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T18:34:08Z"
+    "publishedAt": "2026-08-24T19:25:34Z"
+  },
+  {
+    "id": "news-3fa6206d4fef",
+    "title": "IEEE Senior Membership Demystified",
+    "summary": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library, which I underutilized. I didn’t…",
+    "url": "https://spectrum.ieee.org/ieee-senior-membership-demystified",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-24T18:00:01Z"
   },
   {
     "id": "news-e8e03f68c1ba",
@@ -128,6 +138,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-24T11:37:02Z"
+  },
+  {
+    "id": "news-e4efc6a513fe",
+    "title": "RISC-V is now officially supported by CPython!",
+    "summary": "I’m happy to announce that RISC-V platforms are now officially supported by CPython. 🎉 🚀",
+    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-08-24T00:00:00Z"
   },
   {
     "id": "news-d44f93deeed0",
@@ -458,25 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-08-17T19:50:00Z"
-  },
-  {
-    "id": "news-b597a3d03ee7",
-    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-17T19:46:21Z"
-  },
-  {
-    "id": "news-fa8a799c2691",
-    "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
-    "summary": "About 16 percent of the global population—more than 1 billion people—live with some form of disability, according to the World Health Organization. Many of the disabilities affect independence and mobility.Three high…",
-    "url": "https://spectrum.ieee.org/ieee-presidents-scholarship-2026",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-17T18:00:04Z"
   }
 ]
