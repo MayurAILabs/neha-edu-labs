@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T13:47:27Z"
+    "publishedAt": "2026-08-24T14:37:19Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T13:47:27Z"
+    "publishedAt": "2026-08-24T14:37:19Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T13:47:27Z"
+    "publishedAt": "2026-08-24T14:37:19Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T13:47:27Z"
+    "publishedAt": "2026-08-24T14:37:19Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T13:47:27Z"
+    "publishedAt": "2026-08-24T14:37:19Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T13:47:27Z"
+    "publishedAt": "2026-08-24T14:37:19Z"
+  },
+  {
+    "id": "news-5760a8490193",
+    "title": "What It Takes to Be an Adaptable Engineer",
+    "summary": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it…",
+    "url": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-24T14:00:01Z"
   },
   {
     "id": "news-ab71197cd8f2",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-17T05:30:00Z"
-  },
-  {
-    "id": "news-ad5623d5cc70",
-    "title": "OpenAI joins PORTS-Pike project",
-    "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-    "url": "https://openai.com/index/openai-joins-ports-pike-project",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-17T05:00:00Z"
   }
 ]
