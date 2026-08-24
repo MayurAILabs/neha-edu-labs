@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T14:37:19Z"
+    "publishedAt": "2026-08-24T15:35:03Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T14:37:19Z"
+    "publishedAt": "2026-08-24T15:35:03Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T14:37:19Z"
+    "publishedAt": "2026-08-24T15:35:03Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T14:37:19Z"
+    "publishedAt": "2026-08-24T15:35:03Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T14:37:19Z"
+    "publishedAt": "2026-08-24T15:35:03Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T14:37:19Z"
+    "publishedAt": "2026-08-24T15:35:03Z"
+  },
+  {
+    "id": "news-351f6de6e45a",
+    "title": "How XPUs Meet a World-Class AI Factory",
+    "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI…",
+    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-24T15:00:54Z"
+  },
+  {
+    "id": "news-f8d700746f2a",
+    "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+    "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with…",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-24T15:00:41Z"
+  },
+  {
+    "id": "news-8c476d21c2ee",
+    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+    "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries…",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-24T15:00:19Z"
   },
   {
     "id": "news-5760a8490193",
@@ -448,35 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-17T14:00:01Z"
-  },
-  {
-    "id": "news-b10672c70cf0",
-    "title": "Securing the Infrastructure of Intelligence",
-    "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI…",
-    "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-17T12:34:51Z"
-  },
-  {
-    "id": "news-ef87e3b0ab28",
-    "title": "Get closer to the game with Gemini and Pixel",
-    "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
-    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-08-17T08:00:00Z"
-  },
-  {
-    "id": "news-f137d9ea2f9f",
-    "title": "The Defender’s Window",
-    "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-    "url": "https://openai.com/index/the-defenders-window",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-17T05:30:00Z"
   }
 ]
