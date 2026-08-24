@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-0ed85870bc68",
-    "title": "Agent Plugins package your skills, tools, and more",
-    "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest…",
-    "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-24T17:26:59Z"
-  },
-  {
     "id": "news-4a07fe20d246",
     "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
     "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4,…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T17:26:59Z"
+    "publishedAt": "2026-08-24T18:34:08Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T17:26:59Z"
+    "publishedAt": "2026-08-24T18:34:08Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T17:26:59Z"
+    "publishedAt": "2026-08-24T18:34:08Z"
   },
   {
     "id": "news-8699442de093",
@@ -47,13 +37,43 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T17:26:59Z"
+    "publishedAt": "2026-08-24T18:34:08Z"
   },
   {
     "id": "news-fe161a4b6daf",
     "title": "Build zero-trust AI agents with Google's Agent Development Kit",
     "summary": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections…",
     "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-24T18:34:08Z"
+  },
+  {
+    "id": "news-cb10774c02e7",
+    "title": "How to Evaluate Live & Voice Agents in ADK",
+    "summary": "Moving live voice agents from demo to production requires rigorous, automated testing to handle the unpredictability of real multi-turn conversations. ADK now provides native live evaluation, allowing developers to test…",
+    "url": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-24T18:34:08Z"
+  },
+  {
+    "id": "news-e8e03f68c1ba",
+    "title": "Generating scenarios for extreme events, without extreme data",
+    "summary": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least prepared for.",
+    "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-08-24T18:00:00Z"
+  },
+  {
+    "id": "news-0ed85870bc68",
+    "title": "Agent Plugins package your skills, tools, and more",
+    "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest…",
+    "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -458,25 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-17T18:00:04Z"
-  },
-  {
-    "id": "news-78d3666d8b6a",
-    "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-    "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible,…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-17T16:00:00Z"
-  },
-  {
-    "id": "news-8c42db092e68",
-    "title": "From AI Copilots to Agent Swarms",
-    "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software…",
-    "url": "https://spectrum.ieee.org/amd-agent-swarms",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-17T14:00:01Z"
   }
 ]
