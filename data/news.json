@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T19:25:34Z"
+    "publishedAt": "2026-08-24T20:25:03Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T19:25:34Z"
+    "publishedAt": "2026-08-24T20:25:03Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T19:25:34Z"
+    "publishedAt": "2026-08-24T20:25:03Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T19:25:34Z"
+    "publishedAt": "2026-08-24T20:25:03Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T19:25:34Z"
+    "publishedAt": "2026-08-24T20:25:03Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-24T19:25:34Z"
+    "publishedAt": "2026-08-24T20:25:03Z"
   },
   {
     "id": "news-3fa6206d4fef",
@@ -128,6 +128,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-24T14:00:01Z"
+  },
+  {
+    "id": "news-df015003760c",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-24T12:00:00Z"
   },
   {
     "id": "news-ab71197cd8f2",
@@ -464,16 +474,6 @@
     "title": "Q&A: Rethinking how innovation happens",
     "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
     "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-08-17T19:50:00Z"
-  },
-  {
-    "id": "news-7e0541cfd331",
-    "title": "Q&A: Rethinking how innovation happens",
-    "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
-    "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817",
     "image": "assets/images/news/cat-ai.svg",
     "source": "MIT News — AI",
     "category": "AI",
