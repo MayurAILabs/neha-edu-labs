@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T08:36:51Z"
+    "publishedAt": "2026-08-25T09:31:01Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T08:36:51Z"
+    "publishedAt": "2026-08-25T09:31:01Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T08:36:51Z"
+    "publishedAt": "2026-08-25T09:31:01Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T08:36:51Z"
+    "publishedAt": "2026-08-25T09:31:01Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T08:36:51Z"
+    "publishedAt": "2026-08-25T09:31:01Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T08:36:51Z"
+    "publishedAt": "2026-08-25T09:31:01Z"
   },
   {
     "id": "news-2983dbf79834",
@@ -66,6 +66,16 @@
     "url": "https://huggingface.co/blog/gradio-workflow-guide",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-25T00:00:00Z"
+  },
+  {
+    "id": "news-da55f7d7bd9d",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-25T00:00:00Z"
   },
@@ -466,16 +476,6 @@
     "url": "https://huggingface.co/blog/multi-vector-encoder",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-18T00:00:00Z"
-  },
-  {
-    "id": "news-dfcf73efa3a6",
-    "title": "How NVIDIA scales expertise with ChatGPT Work",
-    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-    "url": "https://openai.com/index/nvidia/chatgpt-work",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-18T00:00:00Z"
   }
