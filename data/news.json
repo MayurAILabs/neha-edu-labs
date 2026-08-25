@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T14:40:22Z"
+    "publishedAt": "2026-08-25T15:38:12Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T14:40:22Z"
+    "publishedAt": "2026-08-25T15:38:12Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T14:40:22Z"
+    "publishedAt": "2026-08-25T15:38:12Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T14:40:22Z"
+    "publishedAt": "2026-08-25T15:38:12Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T14:40:22Z"
+    "publishedAt": "2026-08-25T15:38:12Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T14:40:22Z"
+    "publishedAt": "2026-08-25T15:38:12Z"
+  },
+  {
+    "id": "news-67c0d574508d",
+    "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+    "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark…",
+    "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-25T15:30:48Z"
+  },
+  {
+    "id": "news-74043a2c13e4",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-25T15:14:14Z"
   },
   {
     "id": "news-cc574d6ca9bf",
@@ -88,6 +108,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-25T10:00:03Z"
+  },
+  {
+    "id": "news-9ad99bb5f40a",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-25T07:00:00Z"
   },
   {
     "id": "news-2983dbf79834",
@@ -448,35 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-08-18T18:09:38Z"
-  },
-  {
-    "id": "news-b48c2a5a69f4",
-    "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
-    "summary": "A new method for surgically removing training examples from a model reveals that as datasets grow, the link between what a model learns and what it produces dissolves.",
-    "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-08-18T16:35:00Z"
-  },
-  {
-    "id": "news-9765648ad527",
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-    "url": "https://openai.com/index/partnering-with-codeai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-18T11:00:00Z"
-  },
-  {
-    "id": "news-d80040e4a9ed",
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-    "url": "https://openai.com/index/introducing-chatgpt-for-teens",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-18T11:00:00Z"
   }
 ]
