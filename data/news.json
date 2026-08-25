@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T15:38:12Z"
+    "publishedAt": "2026-08-25T16:32:05Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T15:38:12Z"
+    "publishedAt": "2026-08-25T16:32:05Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T15:38:12Z"
+    "publishedAt": "2026-08-25T16:32:05Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T15:38:12Z"
+    "publishedAt": "2026-08-25T16:32:05Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T15:38:12Z"
+    "publishedAt": "2026-08-25T16:32:05Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T15:38:12Z"
+    "publishedAt": "2026-08-25T16:32:05Z"
+  },
+  {
+    "id": "news-5f0b03166bf1",
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+    "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-08-25T16:00:00Z"
   },
   {
     "id": "news-67c0d574508d",
@@ -108,6 +118,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-25T10:00:03Z"
+  },
+  {
+    "id": "news-829e237a888d",
+    "title": "The full stack behind abundant intelligence",
+    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-25T07:05:00Z"
   },
   {
     "id": "news-9ad99bb5f40a",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-18T22:00:00Z"
-  },
-  {
-    "id": "news-67f37d861d34",
-    "title": "Strengthening democratic oversight in national security",
-    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-18T19:00:00Z"
-  },
-  {
-    "id": "news-5ce8103476b1",
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-18T18:09:38Z"
   }
 ]
