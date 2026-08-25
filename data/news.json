@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T17:27:43Z"
+    "publishedAt": "2026-08-25T18:34:03Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T17:27:43Z"
+    "publishedAt": "2026-08-25T18:34:03Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T17:27:43Z"
+    "publishedAt": "2026-08-25T18:34:03Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T17:27:43Z"
+    "publishedAt": "2026-08-25T18:34:03Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T17:27:43Z"
+    "publishedAt": "2026-08-25T18:34:03Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T17:27:43Z"
+    "publishedAt": "2026-08-25T18:34:03Z"
   },
   {
     "id": "news-5f0b03166bf1",
@@ -154,6 +154,16 @@
     "title": "Disrupting a new covert influence campaign from Russia",
     "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-25T00:00:00Z"
+  },
+  {
+    "id": "news-cfc376addf8c",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "url": "https://openai.com/index/introducing-admin-plugin",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-19T07:00:00Z"
-  },
-  {
-    "id": "news-e4563871866d",
-    "title": "ChatGPT Ads expands across Europe",
-    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-18T22:00:00Z"
   }
 ]
