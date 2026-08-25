@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T02:54:35Z"
+    "publishedAt": "2026-08-25T03:44:05Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T02:54:35Z"
+    "publishedAt": "2026-08-25T03:44:05Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T02:54:35Z"
+    "publishedAt": "2026-08-25T03:44:05Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T02:54:35Z"
+    "publishedAt": "2026-08-25T03:44:05Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T02:54:35Z"
+    "publishedAt": "2026-08-25T03:44:05Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T02:54:35Z"
+    "publishedAt": "2026-08-25T03:44:05Z"
+  },
+  {
+    "id": "news-2983dbf79834",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-25T00:00:00Z"
   },
   {
     "id": "news-7d07036b604d",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-18T00:00:00Z"
-  },
-  {
-    "id": "news-3f3db147ccbf",
-    "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
-    "summary": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load…",
-    "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-17T22:19:53Z"
   }
 ]
