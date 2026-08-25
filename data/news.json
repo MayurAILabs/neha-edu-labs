@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T12:39:37Z"
+    "publishedAt": "2026-08-25T13:45:15Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T12:39:37Z"
+    "publishedAt": "2026-08-25T13:45:15Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T12:39:37Z"
+    "publishedAt": "2026-08-25T13:45:15Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T12:39:37Z"
+    "publishedAt": "2026-08-25T13:45:15Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T12:39:37Z"
+    "publishedAt": "2026-08-25T13:45:15Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T12:39:37Z"
+    "publishedAt": "2026-08-25T13:45:15Z"
+  },
+  {
+    "id": "news-cc574d6ca9bf",
+    "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
+    "summary": "At the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the U.S. National…",
+    "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-25T13:00:01Z"
   },
   {
     "id": "news-f6b26e55a489",
@@ -464,16 +474,6 @@
     "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
     "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
     "url": "https://openai.com/index/introducing-chatgpt-for-teens",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-18T11:00:00Z"
-  },
-  {
-    "id": "news-01003c6680bc",
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-    "url": "https://openai.com/index/chatgpt-for-teens",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
