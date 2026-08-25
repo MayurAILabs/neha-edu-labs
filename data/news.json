@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T21:23:37Z"
+    "publishedAt": "2026-08-25T22:22:06Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T21:23:37Z"
+    "publishedAt": "2026-08-25T22:22:06Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T21:23:37Z"
+    "publishedAt": "2026-08-25T22:22:06Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T21:23:37Z"
+    "publishedAt": "2026-08-25T22:22:06Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T21:23:37Z"
+    "publishedAt": "2026-08-25T22:22:06Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-25T21:23:37Z"
+    "publishedAt": "2026-08-25T22:22:06Z"
+  },
+  {
+    "id": "news-7414ec688271",
+    "title": "How to evaluate LLMs before production",
+    "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog.",
+    "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-25T21:35:11Z"
   },
   {
     "id": "news-5f0b03166bf1",
@@ -468,15 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-08-19T13:48:49Z"
-  },
-  {
-    "id": "news-9ac0643f2427",
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-    "url": "https://openai.com/index/replit",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-19T07:00:00Z"
   }
 ]
