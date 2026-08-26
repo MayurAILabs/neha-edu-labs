@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T11:25:03Z"
+    "publishedAt": "2026-08-26T12:43:03Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T11:25:03Z"
+    "publishedAt": "2026-08-26T12:43:03Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T11:25:03Z"
+    "publishedAt": "2026-08-26T12:43:03Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T11:25:03Z"
+    "publishedAt": "2026-08-26T12:43:03Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T11:25:03Z"
+    "publishedAt": "2026-08-26T12:43:03Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T11:25:03Z"
+    "publishedAt": "2026-08-26T12:43:03Z"
+  },
+  {
+    "id": "news-6f4eba3d5694",
+    "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
+    "summary": "The biggest threat to any crewed expedition to Mars is time. NASA’s shortest blueprint for sending people to the Red Planet and back requires spending 620 days in space and 30 days on Mars. Even setting aside the…",
+    "url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-26T12:00:01Z"
   },
   {
     "id": "news-82377b191bcd",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-19T19:00:00Z"
-  },
-  {
-    "id": "news-aa9c1a1cdf42",
-    "title": "Gaining Leadership Backing for Your Innovations",
-    "summary": "This article is part of our exclusive career advice series in partnership with the IEEE Technology and Engineering Management Society.Imagine this: You have a strong idea for a new product for your company. Your…",
-    "url": "https://spectrum.ieee.org/leadership-backing-innovation",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-19T18:00:02Z"
   }
 ]
