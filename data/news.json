@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T12:43:03Z"
+    "publishedAt": "2026-08-26T13:51:39Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T12:43:03Z"
+    "publishedAt": "2026-08-26T13:51:39Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T12:43:03Z"
+    "publishedAt": "2026-08-26T13:51:39Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T12:43:03Z"
+    "publishedAt": "2026-08-26T13:51:39Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T12:43:03Z"
+    "publishedAt": "2026-08-26T13:51:39Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T12:43:03Z"
+    "publishedAt": "2026-08-26T13:51:39Z"
   },
   {
     "id": "news-6f4eba3d5694",
@@ -86,6 +86,16 @@
     "url": "https://openai.com/index/loveholidays",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-26T00:00:00Z"
+  },
+  {
+    "id": "news-5309d9655463",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-08-26T00:00:00Z"
   },
@@ -466,16 +476,6 @@
     "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-08-19T19:00:00Z"
-  },
-  {
-    "id": "news-ef913e9fdabc",
-    "title": "Offering Zero Data Retention for frontier models",
-    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-19T19:00:00Z"
   }
