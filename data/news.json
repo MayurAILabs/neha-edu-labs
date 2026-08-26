@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T09:36:14Z"
+    "publishedAt": "2026-08-26T10:30:48Z"
   },
   {
     "id": "news-e29a45fb4b3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T09:36:14Z"
+    "publishedAt": "2026-08-26T10:30:48Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T09:36:14Z"
+    "publishedAt": "2026-08-26T10:30:48Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T09:36:14Z"
+    "publishedAt": "2026-08-26T10:30:48Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T09:36:14Z"
+    "publishedAt": "2026-08-26T10:30:48Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T09:36:14Z"
+    "publishedAt": "2026-08-26T10:30:48Z"
   },
   {
     "id": "news-82377b191bcd",
@@ -68,6 +68,16 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "id": "news-d34e82eae2f2",
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+    "url": "https://openai.com/index/loveholidays",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-26T00:00:00Z"
   },
   {
     "id": "news-7414ec688271",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-19T18:00:02Z"
-  },
-  {
-    "id": "news-b5a1511da6d9",
-    "title": "GitHub Copilot app for Beginners: Managing your work",
-    "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-19T17:50:23Z"
   }
 ]
