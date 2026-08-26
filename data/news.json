@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T18:56:13Z"
+    "publishedAt": "2026-08-26T21:38:53Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T18:56:13Z"
+    "publishedAt": "2026-08-26T21:38:53Z"
   },
   {
     "id": "news-8699442de093",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T18:56:13Z"
+    "publishedAt": "2026-08-26T21:38:53Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T18:56:13Z"
+    "publishedAt": "2026-08-26T21:38:53Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T18:56:13Z"
+    "publishedAt": "2026-08-26T21:38:53Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T18:56:13Z"
+    "publishedAt": "2026-08-26T21:38:53Z"
+  },
+  {
+    "id": "news-b32d9ad97343",
+    "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+    "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute,…",
+    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-26T21:05:30Z"
+  },
+  {
+    "id": "news-7cef2b0b38a0",
+    "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+    "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-26T20:12:53Z"
+  },
+  {
+    "id": "news-11038694f70d",
+    "title": "IEEE Student Conference Provides Visibility to Budding Authors",
+    "summary": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November.The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate…",
+    "url": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-26T20:00:04Z"
   },
   {
     "id": "news-83abfc082897",
@@ -82,7 +112,7 @@
   {
     "id": "news-6f4eba3d5694",
     "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
-    "summary": "The biggest threat to any crewed expedition to Mars is time. NASA’s shortest blueprint for sending people to the Red Planet and back requires spending 620 days in space and 30 days on Mars. Even setting aside the…",
+    "summary": "Summary NASA and industry engineers propose a synchronal bimodal nuclear rocket (S‑BNR) to dramatically cut transit times to destinations around the solar system, such as Mars, by combining nuclear thermal and electric…",
     "url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
@@ -136,6 +166,16 @@
     "url": "https://huggingface.co/blog/train-multi-vector-encoder",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-08-26T00:00:00Z"
+  },
+  {
+    "id": "news-504dd1ec9508",
+    "title": "The Hugging Face incident and the road ahead",
+    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-26T00:00:00Z"
   },
@@ -438,45 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-08-21T00:00:00Z"
-  },
-  {
-    "id": "news-247c8b7c218f",
-    "title": "Paving the way for greener ammonia production",
-    "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertilizer and other products.",
-    "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-08-20T18:45:00Z"
-  },
-  {
-    "id": "news-ba7ef830fa2a",
-    "title": "The August 17 outage, and the work ahead",
-    "summary": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
-    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-20T18:36:11Z"
-  },
-  {
-    "id": "news-c7cdb6722fd8",
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-20T16:52:57Z"
-  },
-  {
-    "id": "news-cce517cb8665",
-    "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
-    "summary": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-20T13:00:24Z"
   }
 ]
