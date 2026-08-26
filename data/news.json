@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-4a07fe20d246",
-    "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
-    "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4,…",
-    "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-26T14:39:32Z"
-  },
-  {
     "id": "news-e29a45fb4b3c",
     "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
     "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T14:39:32Z"
+    "publishedAt": "2026-08-26T16:14:43Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T14:39:32Z"
+    "publishedAt": "2026-08-26T16:14:43Z"
   },
   {
     "id": "news-8699442de093",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T14:39:32Z"
+    "publishedAt": "2026-08-26T16:14:43Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -47,13 +37,33 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T14:39:32Z"
+    "publishedAt": "2026-08-26T16:14:43Z"
   },
   {
     "id": "news-cb10774c02e7",
     "title": "How to Evaluate Live & Voice Agents in ADK",
     "summary": "Moving live voice agents from demo to production requires rigorous, automated testing to handle the unpredictability of real multi-turn conversations. ADK now provides native live evaluation, allowing developers to test…",
     "url": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-26T16:14:43Z"
+  },
+  {
+    "id": "news-6bf1b0f2ff30",
+    "title": "Enterprise-Grade Precision for Long-Context Multimodal Embedding Inference on Cloud TPU",
+    "summary": "Google Cloud has natively integrated TPU support into the vLLM serving engine, allowing developers to elastically scale high-demand embedding pipelines using Google Kubernetes Engine (GKE). To handle massive 15K+ token…",
+    "url": "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-26T16:14:43Z"
+  },
+  {
+    "id": "news-4a07fe20d246",
+    "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+    "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4,…",
+    "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -466,16 +476,6 @@
     "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-19T19:00:00Z"
-  },
-  {
-    "id": "news-a87414927489",
-    "title": "5 new ways to level up your learning with Search",
-    "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
-    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-08-19T19:00:00Z"
   }
