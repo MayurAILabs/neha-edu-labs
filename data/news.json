@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T16:14:43Z"
+    "publishedAt": "2026-08-26T18:56:13Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T16:14:43Z"
+    "publishedAt": "2026-08-26T18:56:13Z"
   },
   {
     "id": "news-8699442de093",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T16:14:43Z"
+    "publishedAt": "2026-08-26T18:56:13Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T16:14:43Z"
+    "publishedAt": "2026-08-26T18:56:13Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T16:14:43Z"
+    "publishedAt": "2026-08-26T18:56:13Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-26T16:14:43Z"
+    "publishedAt": "2026-08-26T18:56:13Z"
+  },
+  {
+    "id": "news-83abfc082897",
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-08-26T17:01:00Z"
   },
   {
     "id": "news-4a07fe20d246",
@@ -78,6 +88,26 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-26T12:00:01Z"
+  },
+  {
+    "id": "news-d6bb1031e66b",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "id": "news-cdfc10030b4b",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "url": "https://openai.com/index/learning-never-stops",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-26T10:00:00Z"
   },
   {
     "id": "news-82377b191bcd",
@@ -448,35 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-08-20T13:00:24Z"
-  },
-  {
-    "id": "news-027379c08484",
-    "title": "Introducing AI Futures",
-    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-    "url": "https://openai.com/index/introducing-ai-futures",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-20T07:00:00Z"
-  },
-  {
-    "id": "news-cb030de2dd94",
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-    "url": "https://openai.com/index/stampli",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-20T00:00:00Z"
-  },
-  {
-    "id": "news-e396b6baa03e",
-    "title": "Offering Zero Data Retention for frontier models",
-    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-    "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-19T19:00:00Z"
   }
 ]
