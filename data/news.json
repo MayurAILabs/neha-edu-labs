@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-27T02:51:11Z"
+    "publishedAt": "2026-08-27T13:41:47Z"
   },
   {
     "id": "news-d0bfa1373a84",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-27T02:51:11Z"
+    "publishedAt": "2026-08-27T13:41:47Z"
   },
   {
     "id": "news-8699442de093",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-27T02:51:11Z"
+    "publishedAt": "2026-08-27T13:41:47Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-27T02:51:11Z"
+    "publishedAt": "2026-08-27T13:41:47Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-27T02:51:11Z"
+    "publishedAt": "2026-08-27T13:41:47Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-27T02:51:11Z"
+    "publishedAt": "2026-08-27T13:41:47Z"
+  },
+  {
+    "id": "news-73eb408ca7bd",
+    "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
+    "summary": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-27T13:00:33Z"
+  },
+  {
+    "id": "news-ae61ed145d23",
+    "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+    "summary": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-08-27T13:00:17Z"
+  },
+  {
+    "id": "news-d9b2bc36ffdf",
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "summary": "Piloting the world's first double-blind AI evaluations",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-08-27T12:59:16Z"
+  },
+  {
+    "id": "news-57e276283c19",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-27T03:00:00Z"
   },
   {
     "id": "news-b32d9ad97343",
@@ -438,45 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-21T18:00:01Z"
-  },
-  {
-    "id": "news-f151f9b1c68d",
-    "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
-    "summary": "About this WebinarTurn Yield Excursions into Faster, More Confident Root Cause AnalysisWhen a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool…",
-    "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-21T14:32:37Z"
-  },
-  {
-    "id": "news-06daba08af15",
-    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-08-21T11:59:48Z"
-  },
-  {
-    "id": "news-68e9fb1705e1",
-    "title": "Measuring benchmark optimization in speech recognition",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-21T00:00:00Z"
-  },
-  {
-    "id": "news-bcd3314d2ba2",
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/pwc-search",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-21T00:00:00Z"
   }
 ]
