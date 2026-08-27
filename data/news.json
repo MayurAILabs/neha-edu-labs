@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-e29a45fb4b3c",
-    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-    "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses…",
-    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-27T13:41:47Z"
-  },
-  {
     "id": "news-d0bfa1373a84",
     "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
     "summary": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-27T13:41:47Z"
+    "publishedAt": "2026-08-27T23:32:18Z"
   },
   {
     "id": "news-8699442de093",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-27T13:41:47Z"
+    "publishedAt": "2026-08-27T23:32:18Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-27T13:41:47Z"
+    "publishedAt": "2026-08-27T23:32:18Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -47,13 +37,83 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-27T13:41:47Z"
+    "publishedAt": "2026-08-27T23:32:18Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
     "title": "Enterprise-Grade Precision for Long-Context Multimodal Embedding Inference on Cloud TPU",
     "summary": "Google Cloud has natively integrated TPU support into the vLLM serving engine, allowing developers to elastically scale high-demand embedding pipelines using Google Kubernetes Engine (GKE). To handle massive 15K+ token…",
     "url": "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-27T23:32:18Z"
+  },
+  {
+    "id": "news-8af5f2c60a37",
+    "title": "Decoding cosmic signals with deep learning and Keras",
+    "summary": "Astroparticle physics sits at the exciting intersection of astrophysics and particle physics and stu...",
+    "url": "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-08-27T23:32:18Z"
+  },
+  {
+    "id": "news-9f44453224e4",
+    "title": "Looking beyond natural sequences",
+    "summary": "A new machine-learning framework aims to improve the success rate of computational protein design while moving away from results that reproduce sequences found in nature.",
+    "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-08-27T19:20:00Z"
+  },
+  {
+    "id": "news-a13e39d4fa54",
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-08-27T16:11:32Z"
+  },
+  {
+    "id": "news-5a6b85529262",
+    "title": "3 new ways to plan and book travel in Search",
+    "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+    "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-08-27T16:00:00Z"
+  },
+  {
+    "id": "news-471ea8bf94e6",
+    "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+    "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building…",
+    "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-08-27T16:00:00Z"
+  },
+  {
+    "id": "news-a571fe86db6f",
+    "title": "Make a Portable Wide-screen Mechanical TV",
+    "summary": "I never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me to the Scanwheel, a…",
+    "url": "https://spectrum.ieee.org/mechanical-tv-2677767814",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-27T14:46:56Z"
+  },
+  {
+    "id": "news-e29a45fb4b3c",
+    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+    "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses…",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -88,6 +148,16 @@
     "source": "Google DeepMind",
     "category": "AI",
     "publishedAt": "2026-08-27T12:59:16Z"
+  },
+  {
+    "id": "news-3062d8cdad5f",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-27T09:00:00Z"
   },
   {
     "id": "news-57e276283c19",
@@ -408,75 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-08-24T15:00:19Z"
-  },
-  {
-    "id": "news-5760a8490193",
-    "title": "What It Takes to Be an Adaptable Engineer",
-    "summary": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it…",
-    "url": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-24T14:00:01Z"
-  },
-  {
-    "id": "news-df015003760c",
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-    "url": "https://openai.com/index/gpt-5-6-in-kiro",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-24T12:00:00Z"
-  },
-  {
-    "id": "news-ab71197cd8f2",
-    "title": "Building Technology People Can Trust",
-    "summary": "This article is brought to you by Emerson.I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation…",
-    "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-24T11:37:02Z"
-  },
-  {
-    "id": "news-e4efc6a513fe",
-    "title": "RISC-V is now officially supported by CPython!",
-    "summary": "I’m happy to announce that RISC-V platforms are now officially supported by CPython. 🎉 🚀",
-    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-08-24T00:00:00Z"
-  },
-  {
-    "id": "news-d44f93deeed0",
-    "title": "Poetry for Engineers: Safe Distance",
-    "summary": "How do I touch youacross the ocean,across cold depthswhere light travels through glass.Not copper—fibers. Optical. Through liquid glass, through flickering lightthat carries you in fragments. Light broken into pulses.…",
-    "url": "https://spectrum.ieee.org/poetry-for-engineers-safe-distance",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-23T13:00:01Z"
-  },
-  {
-    "id": "news-aabfc544d84e",
-    "title": "The Python documentation is now available in Russian!",
-    "summary": "Latest update from Python Insider.",
-    "url": "https://blog.python.org/2026/08/the-python-documentation-is-now-available-in-russian/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-08-22T00:00:00Z"
-  },
-  {
-    "id": "news-aef8aa1a9be5",
-    "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
-    "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch…",
-    "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-21T18:00:01Z"
   }
 ]
