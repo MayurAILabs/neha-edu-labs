@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-28T08:51:19Z"
+    "publishedAt": "2026-08-28T20:39:55Z"
   },
   {
     "id": "news-8699442de093",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-28T08:51:19Z"
+    "publishedAt": "2026-08-28T20:39:55Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-28T08:51:19Z"
+    "publishedAt": "2026-08-28T20:39:55Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-28T08:51:19Z"
+    "publishedAt": "2026-08-28T20:39:55Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-28T08:51:19Z"
+    "publishedAt": "2026-08-28T20:39:55Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-28T08:51:19Z"
+    "publishedAt": "2026-08-28T20:39:55Z"
+  },
+  {
+    "id": "news-902b97feadaa",
+    "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
+    "summary": "While walking to school as a child, Jernej Barbič would marvel at how beautiful his home was. He was born and raised in a picturesque village in northwestern Slovenia (formerly Yugoslavia), located in the European Alps.…",
+    "url": "https://spectrum.ieee.org/oscar-winner-jernej-barbic",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-28T18:00:04Z"
+  },
+  {
+    "id": "news-0b00c80d502c",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-28T02:00:00Z"
   },
   {
     "id": "news-9f44453224e4",
@@ -458,25 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-08-24T15:00:54Z"
-  },
-  {
-    "id": "news-f8d700746f2a",
-    "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
-    "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with…",
-    "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-24T15:00:41Z"
-  },
-  {
-    "id": "news-8c476d21c2ee",
-    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-    "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries…",
-    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-24T15:00:19Z"
   }
 ]
