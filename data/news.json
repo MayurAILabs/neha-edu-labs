@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-29T15:26:45Z"
+    "publishedAt": "2026-08-29T19:08:23Z"
   },
   {
     "id": "news-8699442de093",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-29T15:26:45Z"
+    "publishedAt": "2026-08-29T19:08:23Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-29T15:26:45Z"
+    "publishedAt": "2026-08-29T19:08:23Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-29T15:26:45Z"
+    "publishedAt": "2026-08-29T19:08:23Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-29T15:26:45Z"
+    "publishedAt": "2026-08-29T19:08:23Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-29T15:26:45Z"
+    "publishedAt": "2026-08-29T19:08:23Z"
+  },
+  {
+    "id": "news-2e658d0484d4",
+    "title": "Noodling on Nuclear Engines",
+    "summary": "One day in 1982, Joseph “Rod” Canion and two colleagues from Texas Instruments sat down at the House of Pies in Houston and used a napkin to sketch out what would become Compaq’s portable PC. In 1996, Felix Zandman,…",
+    "url": "https://spectrum.ieee.org/bimodal-nuclear-engine",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-29T15:35:01Z"
   },
   {
     "id": "news-902b97feadaa",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-24T18:00:01Z"
-  },
-  {
-    "id": "news-e8e03f68c1ba",
-    "title": "Generating scenarios for extreme events, without extreme data",
-    "summary": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least prepared for.",
-    "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-08-24T18:00:00Z"
   }
 ]
