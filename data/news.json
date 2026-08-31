@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-31T10:26:59Z"
+    "publishedAt": "2026-08-31T17:50:15Z"
   },
   {
     "id": "news-8699442de093",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-31T10:26:59Z"
+    "publishedAt": "2026-08-31T17:50:15Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-31T10:26:59Z"
+    "publishedAt": "2026-08-31T17:50:15Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-31T10:26:59Z"
+    "publishedAt": "2026-08-31T17:50:15Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-31T10:26:59Z"
+    "publishedAt": "2026-08-31T17:50:15Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-31T10:26:59Z"
+    "publishedAt": "2026-08-31T17:50:15Z"
+  },
+  {
+    "id": "news-b015f53a9da7",
+    "title": "The EU’s AI Drive Undermines Its ​Own Chip Strategy",
+    "summary": "This story was originally published by Tech Policy Press.The European Union’s push for technological sovereignty faces an uncomfortable contradiction.As the EU rolls out AI factories, gigafactories, and new data…",
+    "url": "https://spectrum.ieee.org/europes-ai-drive",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-31T14:00:04Z"
+  },
+  {
+    "id": "news-0c2fd6b13151",
+    "title": "The First Battery Was Inspired By a Dead Frog",
+    "summary": "In a display case on the lower level of the Faraday Museum at the Royal Institution in London, there’s an unassuming stack of gray metal discs and blotting paper. It’s not at all obvious that this humble object is the…",
+    "url": "https://spectrum.ieee.org/voltaic-pile-first-battery",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-08-31T12:00:01Z"
   },
   {
     "id": "news-684febbb94eb",
@@ -66,6 +86,16 @@
     "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
     "image": "assets/images/news/cat-ai.svg",
     "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-08-31T04:00:00Z"
+  },
+  {
+    "id": "news-44f61163770f",
+    "title": "A milestone in expanding access to AI",
+    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-31T04:00:00Z"
   },
@@ -448,35 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-08-25T00:00:00Z"
-  },
-  {
-    "id": "news-da55f7d7bd9d",
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-25T00:00:00Z"
-  },
-  {
-    "id": "news-cfc376addf8c",
-    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-    "url": "https://openai.com/index/introducing-admin-plugin",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-25T00:00:00Z"
-  },
-  {
-    "id": "news-7d07036b604d",
-    "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
-    "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good.…",
-    "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-24T20:56:32Z"
   }
 ]
