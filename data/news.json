@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T01:35:32Z"
+    "publishedAt": "2026-09-01T07:10:44Z"
   },
   {
     "id": "news-8699442de093",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T01:35:32Z"
+    "publishedAt": "2026-09-01T07:10:44Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T01:35:32Z"
+    "publishedAt": "2026-09-01T07:10:44Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T01:35:32Z"
+    "publishedAt": "2026-09-01T07:10:44Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T01:35:32Z"
+    "publishedAt": "2026-09-01T07:10:44Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T01:35:32Z"
+    "publishedAt": "2026-09-01T07:10:44Z"
+  },
+  {
+    "id": "news-6fe323e48c55",
+    "title": "Ila Kumar: Innovating with communities",
+    "summary": "The PhD student works to give young people an active role in shaping digital technologies that can support their own well-being.",
+    "url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-01T04:00:00Z"
   },
   {
     "id": "news-f4d129304bdd",
@@ -81,8 +91,8 @@
   },
   {
     "id": "news-b015f53a9da7",
-    "title": "The EU’s AI Drive Undermines Its ​Own Chip Strategy",
-    "summary": "This story was originally published by Tech Policy Press.The European Union’s push for technological sovereignty faces an uncomfortable contradiction.As the EU rolls out AI factories, gigafactories, and new data…",
+    "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
+    "summary": "This story was originally published by Tech Policy Press.The European Union’s push for technological sovereignty faces an uncomfortable contradiction.As the E.U. rolls out AI factories, gigafactories, and new data…",
     "url": "https://spectrum.ieee.org/europes-ai-drive",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
@@ -104,6 +114,16 @@
     "title": "Polimill builds Japan's next-generation public AI infrastructure",
     "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
     "url": "https://openai.com/index/polimill",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-31T07:00:00Z"
+  },
+  {
+    "id": "news-0703988e3a33",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -458,25 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-25T13:00:01Z"
-  },
-  {
-    "id": "news-f6b26e55a489",
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-25T11:39:24Z"
-  },
-  {
-    "id": "news-0eda3d476c59",
-    "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
-    "summary": "This article is brought to you by Ollobot.From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to…",
-    "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-25T10:00:03Z"
   }
 ]
