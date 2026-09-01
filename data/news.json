@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T17:33:15Z"
+    "publishedAt": "2026-09-01T20:28:38Z"
   },
   {
     "id": "news-8699442de093",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T17:33:15Z"
+    "publishedAt": "2026-09-01T20:28:38Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T17:33:15Z"
+    "publishedAt": "2026-09-01T20:28:38Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T17:33:15Z"
+    "publishedAt": "2026-09-01T20:28:38Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T17:33:15Z"
+    "publishedAt": "2026-09-01T20:28:38Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T17:33:15Z"
+    "publishedAt": "2026-09-01T20:28:38Z"
+  },
+  {
+    "id": "news-aa8d65736396",
+    "title": "IEEE President’s Note: Technology for Social Good",
+    "summary": "Across IEEE, our strength lies not only in the excellence of our individual communities but also in our ability to bring them together around shared problems that demand interdisciplinary solutions. Our mission as a…",
+    "url": "https://spectrum.ieee.org/president-ieee-note-september-2026",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-01T18:00:04Z"
   },
   {
     "id": "news-dfd1ea2e5518",
@@ -88,6 +98,16 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-09-01T16:00:00Z"
+  },
+  {
+    "id": "news-309be27bdcfe",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "url": "https://openai.com/index/path-to-astra",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-01T13:00:00Z"
   },
   {
     "id": "news-50e05f9b472e",
@@ -458,25 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-08-26T09:00:00Z"
-  },
-  {
-    "id": "news-d34e82eae2f2",
-    "title": "How loveholidays is making everyone a builder with Codex",
-    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-    "url": "https://openai.com/index/loveholidays",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-26T00:00:00Z"
-  },
-  {
-    "id": "news-5309d9655463",
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-26T00:00:00Z"
   }
 ]
