@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T07:10:44Z"
+    "publishedAt": "2026-09-01T13:01:30Z"
   },
   {
     "id": "news-8699442de093",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T07:10:44Z"
+    "publishedAt": "2026-09-01T13:01:30Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T07:10:44Z"
+    "publishedAt": "2026-09-01T13:01:30Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T07:10:44Z"
+    "publishedAt": "2026-09-01T13:01:30Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T07:10:44Z"
+    "publishedAt": "2026-09-01T13:01:30Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T07:10:44Z"
+    "publishedAt": "2026-09-01T13:01:30Z"
   },
   {
     "id": "news-6fe323e48c55",
@@ -68,6 +68,16 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-09-01T04:00:00Z"
+  },
+  {
+    "id": "news-8cac14a0ba23",
+    "title": "Python 3.15.0 candidate 2 is here!",
+    "summary": "Last chance to test before the big day!",
+    "url": "https://blog.python.org/2026/09/python-3150-rc2/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-09-01T00:00:00Z"
   },
   {
     "id": "news-f4d129304bdd",
@@ -468,15 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-08-25T15:14:14Z"
-  },
-  {
-    "id": "news-cc574d6ca9bf",
-    "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
-    "summary": "At the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the U.S. National…",
-    "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-25T13:00:01Z"
   }
 ]
