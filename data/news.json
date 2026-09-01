@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-31T22:22:19Z"
+    "publishedAt": "2026-09-01T01:35:32Z"
   },
   {
     "id": "news-8699442de093",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-31T22:22:19Z"
+    "publishedAt": "2026-09-01T01:35:32Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-31T22:22:19Z"
+    "publishedAt": "2026-09-01T01:35:32Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-31T22:22:19Z"
+    "publishedAt": "2026-09-01T01:35:32Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-31T22:22:19Z"
+    "publishedAt": "2026-09-01T01:35:32Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-08-31T22:22:19Z"
+    "publishedAt": "2026-09-01T01:35:32Z"
   },
   {
     "id": "news-f4d129304bdd",
@@ -98,6 +98,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-31T12:00:01Z"
+  },
+  {
+    "id": "news-7bc341571432",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "url": "https://openai.com/index/polimill",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-08-31T07:00:00Z"
   },
   {
     "id": "news-684febbb94eb",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-08-25T10:00:03Z"
-  },
-  {
-    "id": "news-829e237a888d",
-    "title": "The full stack behind abundant intelligence",
-    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-25T07:05:00Z"
   }
 ]
