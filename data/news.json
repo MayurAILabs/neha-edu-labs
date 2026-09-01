@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T13:01:30Z"
+    "publishedAt": "2026-09-01T17:33:15Z"
   },
   {
     "id": "news-8699442de093",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T13:01:30Z"
+    "publishedAt": "2026-09-01T17:33:15Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T13:01:30Z"
+    "publishedAt": "2026-09-01T17:33:15Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T13:01:30Z"
+    "publishedAt": "2026-09-01T17:33:15Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T13:01:30Z"
+    "publishedAt": "2026-09-01T17:33:15Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-01T13:01:30Z"
+    "publishedAt": "2026-09-01T17:33:15Z"
+  },
+  {
+    "id": "news-dfd1ea2e5518",
+    "title": "Introducing agentic video understanding with Gemini",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-09-01T17:08:51Z"
+  },
+  {
+    "id": "news-3b5f2688fec1",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-01T17:00:00Z"
+  },
+  {
+    "id": "news-77cd2a6a82f1",
+    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+    "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-01T16:00:00Z"
+  },
+  {
+    "id": "news-50e05f9b472e",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-01T12:00:00Z"
   },
   {
     "id": "news-6fe323e48c55",
@@ -77,6 +117,16 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Python Insider",
     "category": "Programming",
+    "publishedAt": "2026-09-01T00:00:00Z"
+  },
+  {
+    "id": "news-85562dc16345",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
     "publishedAt": "2026-09-01T00:00:00Z"
   },
   {
@@ -428,55 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-08-26T00:00:00Z"
-  },
-  {
-    "id": "news-504dd1ec9508",
-    "title": "The Hugging Face incident and the road ahead",
-    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-26T00:00:00Z"
-  },
-  {
-    "id": "news-7414ec688271",
-    "title": "How to evaluate LLMs before production",
-    "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog.",
-    "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-25T21:35:11Z"
-  },
-  {
-    "id": "news-5f0b03166bf1",
-    "title": "5 ways to upgrade your home decor with Google Search",
-    "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-    "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-08-25T16:00:00Z"
-  },
-  {
-    "id": "news-67c0d574508d",
-    "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-    "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark…",
-    "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-25T15:30:48Z"
-  },
-  {
-    "id": "news-74043a2c13e4",
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-08-25T15:14:14Z"
   }
 ]
