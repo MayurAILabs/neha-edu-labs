@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-d0bfa1373a84",
-    "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
-    "summary": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By…",
-    "url": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-02T14:55:55Z"
-  },
-  {
     "id": "news-8699442de093",
     "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
     "summary": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T14:55:55Z"
+    "publishedAt": "2026-09-02T18:25:36Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T14:55:55Z"
+    "publishedAt": "2026-09-02T18:25:36Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T14:55:55Z"
+    "publishedAt": "2026-09-02T18:25:36Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -47,13 +37,93 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T14:55:55Z"
+    "publishedAt": "2026-09-02T18:25:36Z"
   },
   {
     "id": "news-8af5f2c60a37",
     "title": "Decoding cosmic signals with deep learning and Keras",
     "summary": "Astroparticle physics sits at the exciting intersection of astrophysics and particle physics and stu...",
     "url": "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-02T18:25:36Z"
+  },
+  {
+    "id": "news-3df8a8664e91",
+    "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
+    "summary": "The recent Google for Startups AI Agents Challenge revealed that the most successful multi-agent systems rely on foundational software engineering patterns rather than just raw model power. Winning architectures…",
+    "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-02T18:25:36Z"
+  },
+  {
+    "id": "news-5b079050e8ad",
+    "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
+    "summary": "In the 1960s NASA began developing a system of reusable space shuttles to make its work more efficient and to reduce costs. The shuttles could launch like rockets, maneuver in Earth’s orbit, and land like airplanes.…",
+    "url": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-02T18:00:03Z"
+  },
+  {
+    "id": "news-0461be447f8d",
+    "title": "How we make AI coding more cost efficient without sacrificing task quality",
+    "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-02T18:00:00Z"
+  },
+  {
+    "id": "news-383dbcd782ab",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-09-02T16:24:24Z"
+  },
+  {
+    "id": "news-18ef68f77655",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-09-02T16:18:31Z"
+  },
+  {
+    "id": "news-28b149c75e15",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-02T15:40:00Z"
+  },
+  {
+    "id": "news-12bff037b7e7",
+    "title": "System helps humans predict when self-driving cars will make mistakes",
+    "summary": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts that explain its behavior.",
+    "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-02T15:00:00Z"
+  },
+  {
+    "id": "news-d0bfa1373a84",
+    "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
+    "summary": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By…",
+    "url": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -72,7 +142,7 @@
   {
     "id": "news-99ce2b43767a",
     "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
-    "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern…",
+    "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern…",
     "url": "https://spectrum.ieee.org/ai-engineer-skills",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
@@ -408,75 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-08-27T13:41:47Z"
-  },
-  {
-    "id": "news-73eb408ca7bd",
-    "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
-    "summary": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-27T13:00:33Z"
-  },
-  {
-    "id": "news-ae61ed145d23",
-    "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
-    "summary": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
-    "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-27T13:00:17Z"
-  },
-  {
-    "id": "news-d9b2bc36ffdf",
-    "title": "Piloting the world's first double-blind AI evaluations",
-    "summary": "Piloting the world's first double-blind AI evaluations",
-    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-08-27T12:59:16Z"
-  },
-  {
-    "id": "news-3062d8cdad5f",
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-27T09:00:00Z"
-  },
-  {
-    "id": "news-57e276283c19",
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-27T03:00:00Z"
-  },
-  {
-    "id": "news-b32d9ad97343",
-    "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-    "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute,…",
-    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-08-26T21:05:30Z"
-  },
-  {
-    "id": "news-7cef2b0b38a0",
-    "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-    "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-26T20:12:53Z"
   }
 ]
