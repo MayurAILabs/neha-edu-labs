@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T10:32:12Z"
+    "publishedAt": "2026-09-02T14:55:55Z"
   },
   {
     "id": "news-8699442de093",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T10:32:12Z"
+    "publishedAt": "2026-09-02T14:55:55Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T10:32:12Z"
+    "publishedAt": "2026-09-02T14:55:55Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T10:32:12Z"
+    "publishedAt": "2026-09-02T14:55:55Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T10:32:12Z"
+    "publishedAt": "2026-09-02T14:55:55Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T10:32:12Z"
+    "publishedAt": "2026-09-02T14:55:55Z"
+  },
+  {
+    "id": "news-22915ca8a273",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-02T13:49:14Z"
+  },
+  {
+    "id": "news-99ce2b43767a",
+    "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
+    "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern…",
+    "url": "https://spectrum.ieee.org/ai-engineer-skills",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-02T13:00:04Z"
   },
   {
     "id": "news-23bdbfdbd061",
@@ -458,25 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-08-26T20:12:53Z"
-  },
-  {
-    "id": "news-11038694f70d",
-    "title": "IEEE Student Conference Provides Visibility to Budding Authors",
-    "summary": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November.The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate…",
-    "url": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-26T20:00:04Z"
-  },
-  {
-    "id": "news-83abfc082897",
-    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-08-26T17:01:00Z"
   }
 ]
