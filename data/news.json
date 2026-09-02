@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T00:53:54Z"
+    "publishedAt": "2026-09-02T05:24:25Z"
   },
   {
     "id": "news-8699442de093",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T00:53:54Z"
+    "publishedAt": "2026-09-02T05:24:25Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T00:53:54Z"
+    "publishedAt": "2026-09-02T05:24:25Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T00:53:54Z"
+    "publishedAt": "2026-09-02T05:24:25Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T00:53:54Z"
+    "publishedAt": "2026-09-02T05:24:25Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T00:53:54Z"
+    "publishedAt": "2026-09-02T05:24:25Z"
   },
   {
     "id": "news-23bdbfdbd061",
@@ -168,6 +168,16 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-09-01T04:00:00Z"
+  },
+  {
+    "id": "news-631a857c7a24",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-01T01:00:00Z"
   },
   {
     "id": "news-8cac14a0ba23",
@@ -468,15 +478,5 @@
     "source": "Google DeepMind",
     "category": "AI",
     "publishedAt": "2026-08-26T17:01:00Z"
-  },
-  {
-    "id": "news-4a07fe20d246",
-    "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
-    "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4,…",
-    "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-26T14:39:32Z"
   }
 ]
