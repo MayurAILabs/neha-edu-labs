@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T18:25:36Z"
+    "publishedAt": "2026-09-02T21:33:11Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T18:25:36Z"
+    "publishedAt": "2026-09-02T21:33:11Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T18:25:36Z"
+    "publishedAt": "2026-09-02T21:33:11Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T18:25:36Z"
+    "publishedAt": "2026-09-02T21:33:11Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T18:25:36Z"
+    "publishedAt": "2026-09-02T21:33:11Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-02T18:25:36Z"
+    "publishedAt": "2026-09-02T21:33:11Z"
+  },
+  {
+    "id": "news-271f803af092",
+    "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+    "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill…",
+    "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-02T21:00:00Z"
+  },
+  {
+    "id": "news-569889965fd0",
+    "title": "From MIT to IBM, expediting AI and quantum deployment",
+    "summary": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems.",
+    "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-02T20:25:00Z"
+  },
+  {
+    "id": "news-35ce915052fc",
+    "title": "Applying Different Forms of Mentorship",
+    "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and…",
+    "url": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-02T19:45:58Z"
   },
   {
     "id": "news-5b079050e8ad",
@@ -448,35 +478,5 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-08-27T16:00:00Z"
-  },
-  {
-    "id": "news-471ea8bf94e6",
-    "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
-    "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building…",
-    "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-08-27T16:00:00Z"
-  },
-  {
-    "id": "news-a571fe86db6f",
-    "title": "Make a Portable Wide-screen Mechanical TV",
-    "summary": "I never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me to the Scanwheel, a…",
-    "url": "https://spectrum.ieee.org/mechanical-tv-2677767814",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-27T14:46:56Z"
-  },
-  {
-    "id": "news-e29a45fb4b3c",
-    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-    "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses…",
-    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-08-27T13:41:47Z"
   }
 ]
