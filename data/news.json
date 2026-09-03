@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-03T12:32:46Z"
+    "publishedAt": "2026-09-03T16:53:25Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-03T12:32:46Z"
+    "publishedAt": "2026-09-03T16:53:25Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-03T12:32:46Z"
+    "publishedAt": "2026-09-03T16:53:25Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-03T12:32:46Z"
+    "publishedAt": "2026-09-03T16:53:25Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-03T12:32:46Z"
+    "publishedAt": "2026-09-03T16:53:25Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -57,7 +57,57 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-03T12:32:46Z"
+    "publishedAt": "2026-09-03T16:53:25Z"
+  },
+  {
+    "id": "news-7765da697e6b",
+    "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+    "summary": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New…",
+    "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-03T16:00:59Z"
+  },
+  {
+    "id": "news-c18b3bb292c9",
+    "title": "GitHub Copilot app for Beginners: Run several agents at once",
+    "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-03T16:00:00Z"
+  },
+  {
+    "id": "news-56da2c8ef803",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-09-03T15:02:08Z"
+  },
+  {
+    "id": "news-96a3500c5a4b",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-03T13:13:48Z"
+  },
+  {
+    "id": "news-838b591aeb10",
+    "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+    "summary": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-03T13:00:35Z"
   },
   {
     "id": "news-c44bf13fec8f",
@@ -77,7 +127,7 @@
     "image": "assets/images/news/cat-ai.svg",
     "source": "NVIDIA",
     "category": "AI",
-    "publishedAt": "2026-09-03T11:59:49Z"
+    "publishedAt": "2026-09-03T11:56:49Z"
   },
   {
     "id": "news-45020768fad9",
@@ -428,55 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-08-31T07:00:00Z"
-  },
-  {
-    "id": "news-0703988e3a33",
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-31T07:00:00Z"
-  },
-  {
-    "id": "news-684febbb94eb",
-    "title": "How an MIT research project became a global programming language",
-    "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.",
-    "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-08-31T04:00:00Z"
-  },
-  {
-    "id": "news-44f61163770f",
-    "title": "A milestone in expanding access to AI",
-    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-31T04:00:00Z"
-  },
-  {
-    "id": "news-2e658d0484d4",
-    "title": "Noodling on Nuclear Engines",
-    "summary": "One day in 1982, Joseph “Rod” Canion and two colleagues from Texas Instruments sat down at the House of Pies in Houston and used a napkin to sketch out what would become Compaq’s portable PC. In 1996, Felix Zandman,…",
-    "url": "https://spectrum.ieee.org/bimodal-nuclear-engine",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-29T15:35:01Z"
-  },
-  {
-    "id": "news-902b97feadaa",
-    "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
-    "summary": "While walking to school as a child, Jernej Barbič would marvel at how beautiful his home was. He was born and raised in a picturesque village in northwestern Slovenia (formerly Yugoslavia), located in the European Alps.…",
-    "url": "https://spectrum.ieee.org/oscar-winner-jernej-barbic",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-28T18:00:04Z"
   }
 ]
