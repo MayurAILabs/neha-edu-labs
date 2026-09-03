@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-03T19:36:51Z"
+    "publishedAt": "2026-09-03T22:12:59Z"
   },
   {
     "id": "news-fe161a4b6daf",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-03T19:36:51Z"
+    "publishedAt": "2026-09-03T22:12:59Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-03T19:36:51Z"
+    "publishedAt": "2026-09-03T22:12:59Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-03T19:36:51Z"
+    "publishedAt": "2026-09-03T22:12:59Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-03T19:36:51Z"
+    "publishedAt": "2026-09-03T22:12:59Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-03T19:36:51Z"
+    "publishedAt": "2026-09-03T22:12:59Z"
   },
   {
     "id": "news-7765da697e6b",
@@ -90,6 +90,16 @@
     "publishedAt": "2026-09-03T15:02:08Z"
   },
   {
+    "id": "news-5190d2a1dccd",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-03T13:15:00Z"
+  },
+  {
     "id": "news-96a3500c5a4b",
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
     "summary": "Latest update from Hugging Face.",
@@ -118,6 +128,26 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-03T12:18:21Z"
+  },
+  {
+    "id": "news-be4a3c542626",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-03T12:00:00Z"
+  },
+  {
+    "id": "news-7a45b185cff5",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-03T12:00:00Z"
   },
   {
     "id": "news-ea8b14faf08e",
@@ -156,6 +186,16 @@
     "url": "https://huggingface.co/blog/train-to-paint-with-code",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-03T00:00:00Z"
+  },
+  {
+    "id": "news-2e155b11d809",
+    "title": "Safety overview: GPT-6 Astra",
+    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-03T00:00:00Z"
   },
@@ -438,45 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-08-31T19:30:00Z"
-  },
-  {
-    "id": "news-9c31e78f813e",
-    "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
-    "summary": "For many high school students, summer vacation is a time to unplug. For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South, in New Jersey, the break allows her to ramp up her extracurricular…",
-    "url": "https://spectrum.ieee.org/ruchira-shree-ham-radio",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-31T18:00:01Z"
-  },
-  {
-    "id": "news-b015f53a9da7",
-    "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
-    "summary": "This story was originally published by Tech Policy Press.The European Union’s push for technological sovereignty faces an uncomfortable contradiction.As the E.U. rolls out AI factories, gigafactories, and new data…",
-    "url": "https://spectrum.ieee.org/europes-ai-drive",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-31T14:00:04Z"
-  },
-  {
-    "id": "news-0c2fd6b13151",
-    "title": "The First Battery Was Inspired By a Dead Frog",
-    "summary": "In a display case on the lower level of the Faraday Museum at the Royal Institution in London, there’s an unassuming stack of gray metal discs and blotting paper. It’s not at all obvious that this humble object is the…",
-    "url": "https://spectrum.ieee.org/voltaic-pile-first-battery",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-08-31T12:00:01Z"
-  },
-  {
-    "id": "news-7bc341571432",
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-    "url": "https://openai.com/index/polimill",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-08-31T07:00:00Z"
   }
 ]
