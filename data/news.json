@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-8699442de093",
-    "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
-    "summary": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a…",
-    "url": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-04T14:44:38Z"
-  },
-  {
     "id": "news-fe161a4b6daf",
     "title": "Build zero-trust AI agents with Google's Agent Development Kit",
     "summary": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-04T14:44:38Z"
+    "publishedAt": "2026-09-04T18:02:22Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-04T14:44:38Z"
+    "publishedAt": "2026-09-04T18:02:22Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-04T14:44:38Z"
+    "publishedAt": "2026-09-04T18:02:22Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -47,13 +37,43 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-04T14:44:38Z"
+    "publishedAt": "2026-09-04T18:02:22Z"
   },
   {
     "id": "news-3df8a8664e91",
     "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
     "summary": "The recent Google for Startups AI Agents Challenge revealed that the most successful multi-agent systems rely on foundational software engineering patterns rather than just raw model power. Winning architectures…",
     "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-04T18:02:22Z"
+  },
+  {
+    "id": "news-cd24f5cb24c7",
+    "title": "Driving Developer Excellence: Inside the Program Sprints",
+    "summary": "The Gemini Enterprise Developer Experience (DevEx) program conducts ongoing sprint testing of end-to-end developer workflows to identify and rapidly resolve friction points without relying on internal shortcuts. This…",
+    "url": "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-04T18:02:22Z"
+  },
+  {
+    "id": "news-87ef5c15d39b",
+    "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+    "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-04T16:04:14Z"
+  },
+  {
+    "id": "news-8699442de093",
+    "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
+    "summary": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a…",
+    "url": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -458,25 +478,5 @@
     "source": "Python Insider",
     "category": "Programming",
     "publishedAt": "2026-09-01T00:00:00Z"
-  },
-  {
-    "id": "news-85562dc16345",
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/webgpu-kernels",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-01T00:00:00Z"
-  },
-  {
-    "id": "news-f4d129304bdd",
-    "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
-    "summary": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
-    "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-08-31T19:30:00Z"
   }
 ]
