@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-06T14:51:51Z"
+    "publishedAt": "2026-09-06T17:28:52Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-06T14:51:51Z"
+    "publishedAt": "2026-09-06T17:28:52Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-06T14:51:51Z"
+    "publishedAt": "2026-09-06T17:28:52Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-06T14:51:51Z"
+    "publishedAt": "2026-09-06T17:28:52Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-06T14:51:51Z"
+    "publishedAt": "2026-09-06T17:28:52Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-06T14:51:51Z"
+    "publishedAt": "2026-09-06T17:28:52Z"
+  },
+  {
+    "id": "news-a8e8f9dc895a",
+    "title": "An Alien Mind",
+    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "url": "https://openai.com/index/an-alien-mind",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-06T09:00:00Z"
+  },
+  {
+    "id": "news-19672c4832d4",
+    "title": "Research acceleration: The view inside OpenAI",
+    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-06T08:00:00Z"
   },
   {
     "id": "news-87ef5c15d39b",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-01T12:00:00Z"
-  },
-  {
-    "id": "news-6fe323e48c55",
-    "title": "Ila Kumar: Innovating with communities",
-    "summary": "The PhD student works to give young people an active role in shaping digital technologies that can support their own well-being.",
-    "url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-01T04:00:00Z"
-  },
-  {
-    "id": "news-631a857c7a24",
-    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-    "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-    "url": "https://openai.com/index/gilbert-tobin",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-01T01:00:00Z"
   }
 ]
