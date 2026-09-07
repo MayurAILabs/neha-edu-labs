@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-07T02:41:14Z"
+    "publishedAt": "2026-09-07T07:52:17Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-07T02:41:14Z"
+    "publishedAt": "2026-09-07T07:52:17Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-07T02:41:14Z"
+    "publishedAt": "2026-09-07T07:52:17Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-07T02:41:14Z"
+    "publishedAt": "2026-09-07T07:52:17Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-07T02:41:14Z"
+    "publishedAt": "2026-09-07T07:52:17Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-07T02:41:14Z"
+    "publishedAt": "2026-09-07T07:52:17Z"
+  },
+  {
+    "id": "news-e02ae19def6b",
+    "title": "Supporting independent journalism in Ukraine",
+    "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-07T00:00:00Z"
   },
   {
     "id": "news-a8e8f9dc895a",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-01T13:00:00Z"
-  },
-  {
-    "id": "news-50e05f9b472e",
-    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-    "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-01T12:00:00Z"
   }
 ]
