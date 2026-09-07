@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-07T13:56:12Z"
+    "publishedAt": "2026-09-07T18:36:02Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-07T13:56:12Z"
+    "publishedAt": "2026-09-07T18:36:02Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-07T13:56:12Z"
+    "publishedAt": "2026-09-07T18:36:02Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-07T13:56:12Z"
+    "publishedAt": "2026-09-07T18:36:02Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-07T13:56:12Z"
+    "publishedAt": "2026-09-07T18:36:02Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-07T13:56:12Z"
+    "publishedAt": "2026-09-07T18:36:02Z"
+  },
+  {
+    "id": "news-ee3dca8998b1",
+    "title": "Workshops Educate African Researchers On How to Publish With IEEE",
+    "summary": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research…",
+    "url": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-07T18:00:03Z"
   },
   {
     "id": "news-e02ae19def6b",
@@ -468,15 +478,5 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-09-01T16:00:00Z"
-  },
-  {
-    "id": "news-309be27bdcfe",
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-    "url": "https://openai.com/index/path-to-astra",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-01T13:00:00Z"
   }
 ]
