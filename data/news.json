@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T13:16:19Z"
+    "publishedAt": "2026-09-08T17:43:38Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T13:16:19Z"
+    "publishedAt": "2026-09-08T17:43:38Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T13:16:19Z"
+    "publishedAt": "2026-09-08T17:43:38Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T13:16:19Z"
+    "publishedAt": "2026-09-08T17:43:38Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T13:16:19Z"
+    "publishedAt": "2026-09-08T17:43:38Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T13:16:19Z"
+    "publishedAt": "2026-09-08T17:43:38Z"
+  },
+  {
+    "id": "news-4f420d1c5cd0",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-08T14:23:07Z"
+  },
+  {
+    "id": "news-80d284f58871",
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-09-08T14:00:15Z"
   },
   {
     "id": "news-e253cef84f6b",
@@ -88,6 +108,26 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-08T12:59:04Z"
+  },
+  {
+    "id": "news-99c22bc85dd5",
+    "title": "Funding grants for new research into AI and teen development",
+    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-08T09:00:00Z"
+  },
+  {
+    "id": "news-671a9fed35e2",
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-08T00:00:00Z"
   },
   {
     "id": "news-ee3dca8998b1",
@@ -438,45 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-09-01T21:39:07Z"
-  },
-  {
-    "id": "news-aaaa8fc91eb9",
-    "title": "Walter Torous named executive director of MIT Center for Real Estate",
-    "summary": "The senior lecturer, already director of the degree program, will now oversee all aspects of the center’s activities and operations.",
-    "url": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-01T21:25:00Z"
-  },
-  {
-    "id": "news-d235e1f23d69",
-    "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-    "summary": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO…",
-    "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-01T21:19:20Z"
-  },
-  {
-    "id": "news-66eabab6976f",
-    "title": "The latest AI news we announced in August 2026",
-    "summary": "Here are Google’s latest AI updates from August 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-01T20:45:00Z"
-  },
-  {
-    "id": "news-aa8d65736396",
-    "title": "IEEE President’s Note: Technology for Social Good",
-    "summary": "Across IEEE, our strength lies not only in the excellence of our individual communities but also in our ability to bring them together around shared problems that demand interdisciplinary solutions. Our mission as a…",
-    "url": "https://spectrum.ieee.org/president-ieee-note-september-2026",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-01T18:00:04Z"
   }
 ]
