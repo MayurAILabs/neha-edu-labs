@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T08:32:43Z"
+    "publishedAt": "2026-09-08T13:16:19Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T08:32:43Z"
+    "publishedAt": "2026-09-08T13:16:19Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T08:32:43Z"
+    "publishedAt": "2026-09-08T13:16:19Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T08:32:43Z"
+    "publishedAt": "2026-09-08T13:16:19Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T08:32:43Z"
+    "publishedAt": "2026-09-08T13:16:19Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T08:32:43Z"
+    "publishedAt": "2026-09-08T13:16:19Z"
+  },
+  {
+    "id": "news-e253cef84f6b",
+    "title": "Rivian’s Gambit for Full Autonomy",
+    "summary": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. At one point I pass the landmark HP Garage, the one-car workshop…",
+    "url": "https://spectrum.ieee.org/rivian-self-driving",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-08T13:00:04Z"
+  },
+  {
+    "id": "news-aaada63e998e",
+    "title": "The Work Now Within Reach",
+    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-08T13:00:00Z"
+  },
+  {
+    "id": "news-0b06c749b548",
+    "title": "The Growing Proof That Autonomous Cars Save Lives",
+    "summary": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t…",
+    "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-08T12:59:04Z"
   },
   {
     "id": "news-ee3dca8998b1",
@@ -448,35 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-01T18:00:04Z"
-  },
-  {
-    "id": "news-dfd1ea2e5518",
-    "title": "Introducing agentic video understanding with Gemini",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-09-01T17:08:51Z"
-  },
-  {
-    "id": "news-3b5f2688fec1",
-    "title": "How AI-native companies turn workflows into operating capability",
-    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-    "url": "https://openai.com/index/ai-native-company-workflows",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-01T17:00:00Z"
-  },
-  {
-    "id": "news-77cd2a6a82f1",
-    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-    "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-    "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-01T16:00:00Z"
   }
 ]
