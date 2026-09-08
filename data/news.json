@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T17:43:38Z"
+    "publishedAt": "2026-09-08T20:39:21Z"
   },
   {
     "id": "news-cb10774c02e7",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T17:43:38Z"
+    "publishedAt": "2026-09-08T20:39:21Z"
   },
   {
     "id": "news-6bf1b0f2ff30",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T17:43:38Z"
+    "publishedAt": "2026-09-08T20:39:21Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T17:43:38Z"
+    "publishedAt": "2026-09-08T20:39:21Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T17:43:38Z"
+    "publishedAt": "2026-09-08T20:39:21Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-08T17:43:38Z"
+    "publishedAt": "2026-09-08T20:39:21Z"
+  },
+  {
+    "id": "news-167bce5d47e7",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-08T17:00:00Z"
   },
   {
     "id": "news-4f420d1c5cd0",
@@ -82,7 +92,7 @@
   {
     "id": "news-e253cef84f6b",
     "title": "Rivian’s Gambit for Full Autonomy",
-    "summary": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. At one point I pass the landmark HP Garage, the one-car workshop…",
+    "summary": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage, the one-car workshop where…",
     "url": "https://spectrum.ieee.org/rivian-self-driving",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
@@ -108,6 +118,26 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-08T12:59:04Z"
+  },
+  {
+    "id": "news-305f03a4aa6a",
+    "title": "Introducing ChatGPT Images 2.5",
+    "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-08T11:30:00Z"
+  },
+  {
+    "id": "news-fbb79928f7d9",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-08T10:00:00Z"
   },
   {
     "id": "news-99c22bc85dd5",
@@ -448,35 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-09-02T13:49:14Z"
-  },
-  {
-    "id": "news-99ce2b43767a",
-    "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
-    "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern…",
-    "url": "https://spectrum.ieee.org/ai-engineer-skills",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-02T13:00:04Z"
-  },
-  {
-    "id": "news-b07b0b2b4d66",
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-    "url": "https://openai.com/index/atv-big-air-tour",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-02T12:00:00Z"
-  },
-  {
-    "id": "news-23bdbfdbd061",
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/allenai/benchmirt",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-01T21:39:07Z"
   }
 ]
