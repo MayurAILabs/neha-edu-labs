@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-09T19:40:56Z"
+    "publishedAt": "2026-09-09T22:13:40Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-09T19:40:56Z"
+    "publishedAt": "2026-09-09T22:13:40Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-09T19:40:56Z"
+    "publishedAt": "2026-09-09T22:13:40Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-09T19:40:56Z"
+    "publishedAt": "2026-09-09T22:13:40Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-09T19:40:56Z"
+    "publishedAt": "2026-09-09T22:13:40Z"
   },
   {
     "id": "news-44877dae650a",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-09T19:40:56Z"
+    "publishedAt": "2026-09-09T22:13:40Z"
+  },
+  {
+    "id": "news-21197f2a6420",
+    "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+    "summary": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.",
+    "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-09T20:40:00Z"
   },
   {
     "id": "news-534907e0d31e",
@@ -138,6 +148,16 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-09-09T12:41:32Z"
+  },
+  {
+    "id": "news-587a70348a73",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-09T11:00:00Z"
   },
   {
     "id": "news-167bce5d47e7",
@@ -458,25 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-09-02T21:00:00Z"
-  },
-  {
-    "id": "news-569889965fd0",
-    "title": "From MIT to IBM, expediting AI and quantum deployment",
-    "summary": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems.",
-    "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-02T20:25:00Z"
-  },
-  {
-    "id": "news-35ce915052fc",
-    "title": "Applying Different Forms of Mentorship",
-    "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and…",
-    "url": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-02T19:45:58Z"
   }
 ]
