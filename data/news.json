@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-09T16:59:56Z"
+    "publishedAt": "2026-09-09T19:40:56Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-09T16:59:56Z"
+    "publishedAt": "2026-09-09T19:40:56Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-09T16:59:56Z"
+    "publishedAt": "2026-09-09T19:40:56Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-09T16:59:56Z"
+    "publishedAt": "2026-09-09T19:40:56Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-09T16:59:56Z"
+    "publishedAt": "2026-09-09T19:40:56Z"
   },
   {
     "id": "news-44877dae650a",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-09T16:59:56Z"
+    "publishedAt": "2026-09-09T19:40:56Z"
+  },
+  {
+    "id": "news-534907e0d31e",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-09T17:00:00Z"
   },
   {
     "id": "news-29c19642921e",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-02T19:45:58Z"
-  },
-  {
-    "id": "news-5b079050e8ad",
-    "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
-    "summary": "In the 1960s NASA began developing a system of reusable space shuttles to make its work more efficient and to reduce costs. The shuttles could launch like rockets, maneuver in Earth’s orbit, and land like airplanes.…",
-    "url": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-02T18:00:03Z"
   }
 ]
