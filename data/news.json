@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T00:47:45Z"
+    "publishedAt": "2026-09-10T05:32:30Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T00:47:45Z"
+    "publishedAt": "2026-09-10T05:32:30Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T00:47:45Z"
+    "publishedAt": "2026-09-10T05:32:30Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T00:47:45Z"
+    "publishedAt": "2026-09-10T05:32:30Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T00:47:45Z"
+    "publishedAt": "2026-09-10T05:32:30Z"
   },
   {
     "id": "news-44877dae650a",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T00:47:45Z"
+    "publishedAt": "2026-09-10T05:32:30Z"
+  },
+  {
+    "id": "news-a105b3ce5041",
+    "title": "GitHub availability report: August 2026",
+    "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog.",
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-10T02:05:17Z"
   },
   {
     "id": "news-21197f2a6420",
@@ -466,16 +476,6 @@
     "url": "https://huggingface.co/blog/train-to-paint-with-code",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-03T00:00:00Z"
-  },
-  {
-    "id": "news-2e155b11d809",
-    "title": "Safety overview: GPT-6 Astra",
-    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-03T00:00:00Z"
   }
