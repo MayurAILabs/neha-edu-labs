@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T21:21:50Z"
+    "publishedAt": "2026-09-10T23:40:00Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T21:21:50Z"
+    "publishedAt": "2026-09-10T23:40:00Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T21:21:50Z"
+    "publishedAt": "2026-09-10T23:40:00Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T21:21:50Z"
+    "publishedAt": "2026-09-10T23:40:00Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T21:21:50Z"
+    "publishedAt": "2026-09-10T23:40:00Z"
   },
   {
     "id": "news-44877dae650a",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T21:21:50Z"
+    "publishedAt": "2026-09-10T23:40:00Z"
+  },
+  {
+    "id": "news-aa97fe2ce391",
+    "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+    "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners:…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-10T21:31:19Z"
   },
   {
     "id": "news-7a24127ce834",
@@ -468,15 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-09-04T14:44:38Z"
-  },
-  {
-    "id": "news-7765da697e6b",
-    "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-    "summary": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New…",
-    "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-03T16:00:59Z"
   }
 ]
