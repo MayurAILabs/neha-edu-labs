@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T14:46:11Z"
+    "publishedAt": "2026-09-10T18:02:23Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T14:46:11Z"
+    "publishedAt": "2026-09-10T18:02:23Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T14:46:11Z"
+    "publishedAt": "2026-09-10T18:02:23Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T14:46:11Z"
+    "publishedAt": "2026-09-10T18:02:23Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T14:46:11Z"
+    "publishedAt": "2026-09-10T18:02:23Z"
   },
   {
     "id": "news-44877dae650a",
@@ -57,7 +57,57 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T14:46:11Z"
+    "publishedAt": "2026-09-10T18:02:23Z"
+  },
+  {
+    "id": "news-683b94332d9b",
+    "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+    "summary": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot…",
+    "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-10T16:30:35Z"
+  },
+  {
+    "id": "news-1adb809c884f",
+    "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+    "summary": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
+    "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-10T16:00:04Z"
+  },
+  {
+    "id": "news-014159943e4d",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-10T16:00:00Z"
+  },
+  {
+    "id": "news-1852061b5cf6",
+    "title": "3 ways to prep for your next big race with Search",
+    "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+    "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-10T16:00:00Z"
+  },
+  {
+    "id": "news-4d4e7920d8a7",
+    "title": "Now everyone can put data to work",
+    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+    "url": "https://openai.com/index/put-data-to-work",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-10T15:00:00Z"
   },
   {
     "id": "news-ed5ac5e67af5",
@@ -80,6 +130,16 @@
     "publishedAt": "2026-09-10T13:00:18Z"
   },
   {
+    "id": "news-1ef5285e671d",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+    "url": "https://openai.com/index/expanding-ai-access-us-government",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-10T07:00:00Z"
+  },
+  {
     "id": "news-a105b3ce5041",
     "title": "GitHub availability report: August 2026",
     "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog.",
@@ -96,6 +156,16 @@
     "url": "https://huggingface.co/blog/gradio-workflow-1111",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-10T00:00:00Z"
+  },
+  {
+    "id": "news-4e410dad70fb",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-10T00:00:00Z"
   },
@@ -408,75 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-03T13:15:00Z"
-  },
-  {
-    "id": "news-96a3500c5a4b",
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/Hcompany/neomme",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-03T13:13:48Z"
-  },
-  {
-    "id": "news-838b591aeb10",
-    "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
-    "summary": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-03T13:00:35Z"
-  },
-  {
-    "id": "news-c44bf13fec8f",
-    "title": "Protecting Dynamic Industrial Robot Cable Carriers",
-    "summary": "This article is brought to you by Tsubaki KabelSchlepp.In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as robot…",
-    "url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-03T12:18:21Z"
-  },
-  {
-    "id": "news-be4a3c542626",
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-03T12:00:00Z"
-  },
-  {
-    "id": "news-7a45b185cff5",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-03T12:00:00Z"
-  },
-  {
-    "id": "news-ea8b14faf08e",
-    "title": "NVIDIA to Acquire Hugging Face",
-    "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and…",
-    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-03T11:56:49Z"
-  },
-  {
-    "id": "news-0f3b76bc480d",
-    "title": "GPT-6 Astra: A new generation of intelligence",
-    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-    "url": "https://openai.com/index/gpt-6-astra",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-03T11:00:00Z"
   }
 ]
