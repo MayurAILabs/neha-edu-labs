@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T18:02:23Z"
+    "publishedAt": "2026-09-10T21:21:50Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T18:02:23Z"
+    "publishedAt": "2026-09-10T21:21:50Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T18:02:23Z"
+    "publishedAt": "2026-09-10T21:21:50Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T18:02:23Z"
+    "publishedAt": "2026-09-10T21:21:50Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T18:02:23Z"
+    "publishedAt": "2026-09-10T21:21:50Z"
   },
   {
     "id": "news-44877dae650a",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T18:02:23Z"
+    "publishedAt": "2026-09-10T21:21:50Z"
+  },
+  {
+    "id": "news-7a24127ce834",
+    "title": "Codeveloper of Ethernet Predecessor Dies at 91",
+    "summary": "Franklin “Frank” KuoCodeveloper of ALOHAnetFellow, 91; died 14 AprilKuo helped develop ALOHAnet, a pioneering computer system at the University of Hawaii at Mānoa, in Honolulu. The system went online in 1971 and…",
+    "url": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-10T20:00:04Z"
   },
   {
     "id": "news-683b94332d9b",
@@ -140,6 +150,16 @@
     "publishedAt": "2026-09-10T07:00:00Z"
   },
   {
+    "id": "news-016c3ec9b775",
+    "title": "Introducing ChatGPT for Financial Services",
+    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-10T07:00:00Z"
+  },
+  {
     "id": "news-a105b3ce5041",
     "title": "GitHub availability report: August 2026",
     "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog.",
@@ -164,6 +184,16 @@
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
     "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
     "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-10T00:00:00Z"
+  },
+  {
+    "id": "news-2b26a8066576",
+    "title": "Introducing the Agents API",
+    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "url": "https://openai.com/index/introducing-the-agents-api",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -448,35 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-09-03T16:00:59Z"
-  },
-  {
-    "id": "news-c18b3bb292c9",
-    "title": "GitHub Copilot app for Beginners: Run several agents at once",
-    "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-03T16:00:00Z"
-  },
-  {
-    "id": "news-56da2c8ef803",
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-09-03T15:02:08Z"
-  },
-  {
-    "id": "news-5190d2a1dccd",
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-03T13:15:00Z"
   }
 ]
