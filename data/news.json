@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T10:31:02Z"
+    "publishedAt": "2026-09-10T14:46:11Z"
   },
   {
     "id": "news-8af5f2c60a37",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T10:31:02Z"
+    "publishedAt": "2026-09-10T14:46:11Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T10:31:02Z"
+    "publishedAt": "2026-09-10T14:46:11Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T10:31:02Z"
+    "publishedAt": "2026-09-10T14:46:11Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T10:31:02Z"
+    "publishedAt": "2026-09-10T14:46:11Z"
   },
   {
     "id": "news-44877dae650a",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-10T10:31:02Z"
+    "publishedAt": "2026-09-10T14:46:11Z"
+  },
+  {
+    "id": "news-ed5ac5e67af5",
+    "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+    "summary": "AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By…",
+    "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-10T13:00:21Z"
+  },
+  {
+    "id": "news-f3468ea93aa3",
+    "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
+    "summary": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North update and Bus Simulator 27 — part of…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-10T13:00:18Z"
   },
   {
     "id": "news-a105b3ce5041",
@@ -68,6 +88,16 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-09-10T02:05:17Z"
+  },
+  {
+    "id": "news-cb50b0c3c856",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/gradio-workflow-1111",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-10T00:00:00Z"
   },
   {
     "id": "news-21197f2a6420",
@@ -448,35 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-03T11:00:00Z"
-  },
-  {
-    "id": "news-45020768fad9",
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-03T00:00:00Z"
-  },
-  {
-    "id": "news-86b47b47cb74",
-    "title": "Give Your Coding Agents a Memory You Own",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/funes",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-03T00:00:00Z"
-  },
-  {
-    "id": "news-b844bdeeb825",
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/train-to-paint-with-code",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-03T00:00:00Z"
   }
 ]
