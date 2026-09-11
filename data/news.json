@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T16:52:36Z"
+    "publishedAt": "2026-09-11T19:25:01Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T16:52:36Z"
+    "publishedAt": "2026-09-11T19:25:01Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T16:52:36Z"
+    "publishedAt": "2026-09-11T19:25:01Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T16:52:36Z"
+    "publishedAt": "2026-09-11T19:25:01Z"
   },
   {
     "id": "news-44877dae650a",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T16:52:36Z"
+    "publishedAt": "2026-09-11T19:25:01Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T16:52:36Z"
+    "publishedAt": "2026-09-11T19:25:01Z"
+  },
+  {
+    "id": "news-c44b2451dba4",
+    "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+    "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-11T18:26:10Z"
+  },
+  {
+    "id": "news-d1671fc9fd90",
+    "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
+    "summary": "For this year’s IEEE annual election, the IEEE Tellers Committee will recognize the Sections with the highest voter turnout (based on total eligible voters) in each Region with an incentive reward after the election…",
+    "url": "https://spectrum.ieee.org/ieee-to-reward-sections",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-11T18:00:02Z"
   },
   {
     "id": "news-75ddcd67e5aa",
@@ -78,6 +98,16 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-09-11T12:33:11Z"
+  },
+  {
+    "id": "news-c7d3c8aeae42",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-11T10:00:00Z"
   },
   {
     "id": "news-aa97fe2ce391",
@@ -152,7 +182,7 @@
   {
     "id": "news-ed5ac5e67af5",
     "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-    "summary": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of partners building on the NVIDIA…",
+    "summary": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting…",
     "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
     "image": "assets/images/news/cat-ai.svg",
     "source": "NVIDIA",
@@ -448,35 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-07T18:00:03Z"
-  },
-  {
-    "id": "news-e02ae19def6b",
-    "title": "Supporting independent journalism in Ukraine",
-    "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-07T00:00:00Z"
-  },
-  {
-    "id": "news-a8e8f9dc895a",
-    "title": "An Alien Mind",
-    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-    "url": "https://openai.com/index/an-alien-mind",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-06T09:00:00Z"
-  },
-  {
-    "id": "news-19672c4832d4",
-    "title": "Research acceleration: The view inside OpenAI",
-    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-06T08:00:00Z"
   }
 ]
