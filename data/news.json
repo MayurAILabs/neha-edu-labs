@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-6bf1b0f2ff30",
-    "title": "Enterprise-Grade Precision for Long-Context Multimodal Embedding Inference on Cloud TPU",
-    "summary": "Google Cloud has natively integrated TPU support into the vLLM serving engine, allowing developers to elastically scale high-demand embedding pipelines using Google Kubernetes Engine (GKE). To handle massive 15K+ token…",
-    "url": "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-11T12:33:11Z"
-  },
-  {
     "id": "news-8af5f2c60a37",
     "title": "Decoding cosmic signals with deep learning and Keras",
     "summary": "Astroparticle physics sits at the exciting intersection of astrophysics and particle physics and stu...",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T12:33:11Z"
+    "publishedAt": "2026-09-11T16:52:36Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T12:33:11Z"
+    "publishedAt": "2026-09-11T16:52:36Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T12:33:11Z"
+    "publishedAt": "2026-09-11T16:52:36Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -47,13 +37,43 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T12:33:11Z"
+    "publishedAt": "2026-09-11T16:52:36Z"
   },
   {
     "id": "news-44877dae650a",
     "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond",
     "summary": "Google has officially released version 1.0 of the Agent Development Kit (ADK) for Kotlin, achieving full feature parity with the Python and Java ADK cores to enable idiomatic, multi-agent AI development. Built on Kotlin…",
     "url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-11T16:52:36Z"
+  },
+  {
+    "id": "news-8ab7cc76bcc5",
+    "title": "Autonomous LLM post-training with Tunix on TPUs",
+    "summary": "Imagine going to sleep after writing a single Markdown specification and waking up to find that an A...",
+    "url": "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-11T16:52:36Z"
+  },
+  {
+    "id": "news-75ddcd67e5aa",
+    "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
+    "summary": "The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts General Hospital, promises improved health outcomes for injured service members and civilians.",
+    "url": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-11T13:45:00Z"
+  },
+  {
+    "id": "news-6bf1b0f2ff30",
+    "title": "Enterprise-Grade Precision for Long-Context Multimodal Embedding Inference on Cloud TPU",
+    "summary": "Google Cloud has natively integrated TPU support into the vLLM serving engine, allowing developers to elastically scale high-demand embedding pipelines using Google Kubernetes Engine (GKE). To handle massive 15K+ token…",
+    "url": "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-06T08:00:00Z"
-  },
-  {
-    "id": "news-87ef5c15d39b",
-    "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-    "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-04T16:04:14Z"
-  },
-  {
-    "id": "news-8699442de093",
-    "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
-    "summary": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a…",
-    "url": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-04T14:44:38Z"
   }
 ]
