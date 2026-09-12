@@ -1,5 +1,15 @@
 [
   {
+    "id": "news-12e9dd685180",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-14T00:00:00Z"
+  },
+  {
     "id": "news-8af5f2c60a37",
     "title": "Decoding cosmic signals with deep learning and Keras",
     "summary": "Astroparticle physics sits at the exciting intersection of astrophysics and particle physics and stu...",
@@ -7,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T22:11:56Z"
+    "publishedAt": "2026-09-12T00:52:16Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -17,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T22:11:56Z"
+    "publishedAt": "2026-09-12T00:52:16Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -27,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T22:11:56Z"
+    "publishedAt": "2026-09-12T00:52:16Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -37,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T22:11:56Z"
+    "publishedAt": "2026-09-12T00:52:16Z"
   },
   {
     "id": "news-44877dae650a",
@@ -47,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T22:11:56Z"
+    "publishedAt": "2026-09-12T00:52:16Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -57,7 +67,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-11T22:11:56Z"
+    "publishedAt": "2026-09-12T00:52:16Z"
   },
   {
     "id": "news-c44b2451dba4",
@@ -78,6 +88,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-11T18:00:02Z"
+  },
+  {
+    "id": "news-c3aa33826442",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-11T16:00:00Z"
   },
   {
     "id": "news-75ddcd67e5aa",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-08T09:00:00Z"
-  },
-  {
-    "id": "news-671a9fed35e2",
-    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-    "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-08T00:00:00Z"
-  },
-  {
-    "id": "news-ee3dca8998b1",
-    "title": "Workshops Educate African Researchers On How to Publish With IEEE",
-    "summary": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research…",
-    "url": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-07T18:00:03Z"
   }
 ]
