@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T05:43:37Z"
+    "publishedAt": "2026-09-14T11:40:26Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T05:43:37Z"
+    "publishedAt": "2026-09-14T11:40:26Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T05:43:37Z"
+    "publishedAt": "2026-09-14T11:40:26Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T05:43:37Z"
+    "publishedAt": "2026-09-14T11:40:26Z"
   },
   {
     "id": "news-44877dae650a",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T05:43:37Z"
+    "publishedAt": "2026-09-14T11:40:26Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T05:43:37Z"
+    "publishedAt": "2026-09-14T11:40:26Z"
   },
   {
     "id": "news-1ccfa6a4e947",
@@ -300,6 +300,16 @@
     "publishedAt": "2026-09-10T00:00:00Z"
   },
   {
+    "id": "news-d4e55a9164f4",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-10T00:00:00Z"
+  },
+  {
     "id": "news-21197f2a6420",
     "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
     "summary": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-08T12:59:04Z"
-  },
-  {
-    "id": "news-305f03a4aa6a",
-    "title": "Introducing ChatGPT Images 2.5",
-    "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-08T11:30:00Z"
   }
 ]
