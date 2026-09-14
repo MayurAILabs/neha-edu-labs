@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T11:40:26Z"
+    "publishedAt": "2026-09-14T17:34:57Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T11:40:26Z"
+    "publishedAt": "2026-09-14T17:34:57Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T11:40:26Z"
+    "publishedAt": "2026-09-14T17:34:57Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T11:40:26Z"
+    "publishedAt": "2026-09-14T17:34:57Z"
   },
   {
     "id": "news-44877dae650a",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T11:40:26Z"
+    "publishedAt": "2026-09-14T17:34:57Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T11:40:26Z"
+    "publishedAt": "2026-09-14T17:34:57Z"
+  },
+  {
+    "id": "news-bf70dc826a65",
+    "title": "DevFest is back",
+    "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-14T16:00:00Z"
+  },
+  {
+    "id": "news-1a974e5655c8",
+    "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+    "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans…",
+    "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-14T15:00:52Z"
+  },
+  {
+    "id": "news-9fe82e237d64",
+    "title": "Responsible AI for Higher Education",
+    "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals,…",
+    "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-14T14:18:11Z"
+  },
+  {
+    "id": "news-296d33defd03",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "url": "https://openai.com/index/fyxer",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-14T12:00:00Z"
   },
   {
     "id": "news-1ccfa6a4e947",
@@ -438,45 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-09-08T14:23:07Z"
-  },
-  {
-    "id": "news-80d284f58871",
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-09-08T14:00:15Z"
-  },
-  {
-    "id": "news-e253cef84f6b",
-    "title": "Rivian’s Gambit for Full Autonomy",
-    "summary": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage, the one-car workshop where…",
-    "url": "https://spectrum.ieee.org/rivian-self-driving",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-08T13:00:04Z"
-  },
-  {
-    "id": "news-aaada63e998e",
-    "title": "The Work Now Within Reach",
-    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-    "url": "https://openai.com/index/the-work-now-within-reach",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-08T13:00:00Z"
-  },
-  {
-    "id": "news-0b06c749b548",
-    "title": "The Growing Proof That Autonomous Cars Save Lives",
-    "summary": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t…",
-    "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-08T12:59:04Z"
   }
 ]
