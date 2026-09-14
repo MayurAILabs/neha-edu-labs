@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T00:40:00Z"
+    "publishedAt": "2026-09-14T05:43:37Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T00:40:00Z"
+    "publishedAt": "2026-09-14T05:43:37Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T00:40:00Z"
+    "publishedAt": "2026-09-14T05:43:37Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T00:40:00Z"
+    "publishedAt": "2026-09-14T05:43:37Z"
   },
   {
     "id": "news-44877dae650a",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T00:40:00Z"
+    "publishedAt": "2026-09-14T05:43:37Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T00:40:00Z"
+    "publishedAt": "2026-09-14T05:43:37Z"
+  },
+  {
+    "id": "news-1ccfa6a4e947",
+    "title": "New method enables AI for safety-critical situations",
+    "summary": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
+    "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-14T04:00:00Z"
+  },
+  {
+    "id": "news-66754acdaab8",
+    "title": "MIT spinout turns plastic waste into resilient building materials",
+    "summary": "Atlas Building Composites is commercializing MIT research to turn plastic waste into parts for buildings and other infrastructure.",
+    "url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-14T04:00:00Z"
   },
   {
     "id": "news-12e9dd685180",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-08T11:30:00Z"
-  },
-  {
-    "id": "news-fbb79928f7d9",
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-    "url": "https://openai.com/index/navier-stokes-solution",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-08T10:00:00Z"
-  },
-  {
-    "id": "news-99c22bc85dd5",
-    "title": "Funding grants for new research into AI and teen development",
-    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-    "url": "https://openai.com/index/teen-development-research-grants",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-08T09:00:00Z"
   }
 ]
