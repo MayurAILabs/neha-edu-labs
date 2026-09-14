@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T17:34:57Z"
+    "publishedAt": "2026-09-14T21:23:54Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T17:34:57Z"
+    "publishedAt": "2026-09-14T21:23:54Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T17:34:57Z"
+    "publishedAt": "2026-09-14T21:23:54Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T17:34:57Z"
+    "publishedAt": "2026-09-14T21:23:54Z"
   },
   {
     "id": "news-44877dae650a",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T17:34:57Z"
+    "publishedAt": "2026-09-14T21:23:54Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-14T17:34:57Z"
+    "publishedAt": "2026-09-14T21:23:54Z"
+  },
+  {
+    "id": "news-b49b47db0b35",
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-14T19:00:00Z"
+  },
+  {
+    "id": "news-01e068e63701",
+    "title": "Countries Seek to Curb Social Media Addiction for Kids",
+    "summary": "Social media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves.The benefits, however, are accompanied by risks that can…",
+    "url": "https://spectrum.ieee.org/countries-seek-to-curb-social-media-addiction-for-kids",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-14T18:00:04Z"
   },
   {
     "id": "news-bf70dc826a65",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-09T11:00:00Z"
-  },
-  {
-    "id": "news-167bce5d47e7",
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-    "url": "https://openai.com/index/codex-quantum-computing-experiments",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-08T17:00:00Z"
-  },
-  {
-    "id": "news-4f420d1c5cd0",
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-08T14:23:07Z"
   }
 ]
