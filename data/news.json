@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-15T05:45:06Z"
+    "publishedAt": "2026-09-15T10:58:25Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-15T05:45:06Z"
+    "publishedAt": "2026-09-15T10:58:25Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-15T05:45:06Z"
+    "publishedAt": "2026-09-15T10:58:25Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-15T05:45:06Z"
+    "publishedAt": "2026-09-15T10:58:25Z"
   },
   {
     "id": "news-44877dae650a",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-15T05:45:06Z"
+    "publishedAt": "2026-09-15T10:58:25Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-15T05:45:06Z"
+    "publishedAt": "2026-09-15T10:58:25Z"
+  },
+  {
+    "id": "news-1537042228c9",
+    "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+    "summary": "Latest update from NVIDIA.",
+    "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-15T09:00:42Z"
   },
   {
     "id": "news-b49b47db0b35",
@@ -468,15 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-09-09T12:41:32Z"
-  },
-  {
-    "id": "news-587a70348a73",
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-09T11:00:00Z"
   }
 ]
