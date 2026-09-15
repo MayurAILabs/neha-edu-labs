@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-8af5f2c60a37",
-    "title": "Decoding cosmic signals with deep learning and Keras",
-    "summary": "Astroparticle physics sits at the exciting intersection of astrophysics and particle physics and stu...",
-    "url": "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-15T15:29:35Z"
-  },
-  {
     "id": "news-3df8a8664e91",
     "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
     "summary": "The recent Google for Startups AI Agents Challenge revealed that the most successful multi-agent systems rely on foundational software engineering patterns rather than just raw model power. Winning architectures…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-15T15:29:35Z"
+    "publishedAt": "2026-09-15T19:29:40Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-15T15:29:35Z"
+    "publishedAt": "2026-09-15T19:29:40Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-15T15:29:35Z"
+    "publishedAt": "2026-09-15T19:29:40Z"
   },
   {
     "id": "news-44877dae650a",
@@ -47,13 +37,103 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-15T15:29:35Z"
+    "publishedAt": "2026-09-15T19:29:40Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
     "title": "Autonomous LLM post-training with Tunix on TPUs",
     "summary": "Imagine going to sleep after writing a single Markdown specification and waking up to find that an A...",
     "url": "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-15T19:29:40Z"
+  },
+  {
+    "id": "news-c6261c24278f",
+    "title": "Build zero-trust AI agents that judge intent, not just syntax",
+    "summary": "This blog post explores how to transition AI agents from static, build-time security controls to dynamic runtime governance using the Gemini Enterprise Agent Platform. It highlights three primary managed defenses: Model…",
+    "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-15T19:29:40Z"
+  },
+  {
+    "id": "news-f4c3141ce9f2",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-09-15T17:05:57Z"
+  },
+  {
+    "id": "news-4433f378b957",
+    "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+    "summary": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on…",
+    "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-15T16:55:59Z"
+  },
+  {
+    "id": "news-9cc025c501e9",
+    "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+    "summary": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella…",
+    "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-15T16:55:40Z"
+  },
+  {
+    "id": "news-16a7b27ed0ae",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-15T16:00:44Z"
+  },
+  {
+    "id": "news-18592959ad29",
+    "title": "AI for Societal Impact",
+    "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-15T16:00:00Z"
+  },
+  {
+    "id": "news-b86d9a766fb7",
+    "title": "Building AI to accelerate science and improve lives",
+    "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-15T16:00:00Z"
+  },
+  {
+    "id": "news-a243976a4aef",
+    "title": "AI for everyone in every language",
+    "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-15T16:00:00Z"
+  },
+  {
+    "id": "news-8af5f2c60a37",
+    "title": "Decoding cosmic signals with deep learning and Keras",
+    "summary": "Astroparticle physics sits at the exciting intersection of astrophysics and particle physics and stu...",
+    "url": "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -398,85 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-10T00:00:00Z"
-  },
-  {
-    "id": "news-d4e55a9164f4",
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-10T00:00:00Z"
-  },
-  {
-    "id": "news-21197f2a6420",
-    "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
-    "summary": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.",
-    "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-09T20:40:00Z"
-  },
-  {
-    "id": "news-534907e0d31e",
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-09T17:00:00Z"
-  },
-  {
-    "id": "news-29c19642921e",
-    "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-    "summary": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
-    "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-09T16:00:42Z"
-  },
-  {
-    "id": "news-b0dd0e34ba0b",
-    "title": "Get ready for the game with new football features in Search",
-    "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-    "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-09T16:00:00Z"
-  },
-  {
-    "id": "news-e8269fc9a109",
-    "title": "Recreating a 70-year love story frame by frame",
-    "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-09T16:00:00Z"
-  },
-  {
-    "id": "news-e8608e40b722",
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-09T15:36:24Z"
-  },
-  {
-    "id": "news-6685112da35d",
-    "title": "An Engineer’s Guide to Surviving a Layoff",
-    "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and…",
-    "url": "https://spectrum.ieee.org/how-to-survive-a-layoff",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-09T15:03:38Z"
   }
 ]
