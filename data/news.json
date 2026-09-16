@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-3df8a8664e91",
-    "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-    "summary": "The recent Google for Startups AI Agents Challenge revealed that the most successful multi-agent systems rely on foundational software engineering patterns rather than just raw model power. Winning architectures…",
-    "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-16T17:55:33Z"
-  },
-  {
     "id": "news-cd24f5cb24c7",
     "title": "Driving Developer Excellence: Inside the Program Sprints",
     "summary": "The Gemini Enterprise Developer Experience (DevEx) program conducts ongoing sprint testing of end-to-end developer workflows to identify and rapidly resolve friction points without relying on internal shortcuts. This…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T17:55:33Z"
+    "publishedAt": "2026-09-16T20:51:02Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T17:55:33Z"
+    "publishedAt": "2026-09-16T20:51:02Z"
   },
   {
     "id": "news-44877dae650a",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T17:55:33Z"
+    "publishedAt": "2026-09-16T20:51:02Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -47,13 +37,33 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T17:55:33Z"
+    "publishedAt": "2026-09-16T20:51:02Z"
   },
   {
     "id": "news-c6261c24278f",
     "title": "Build zero-trust AI agents that judge intent, not just syntax",
     "summary": "This blog post explores how to transition AI agents from static, build-time security controls to dynamic runtime governance using the Gemini Enterprise Agent Platform. It highlights three primary managed defenses: Model…",
     "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-16T20:51:02Z"
+  },
+  {
+    "id": "news-f10ecafae009",
+    "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
+    "summary": "Agent Anomaly Detection is a new, out-of-band oversight layer for the Gemini Enterprise Agent Platform that analyzes OpenTelemetry traces and tool calls to catch behavioral risks without adding runtime latency to live…",
+    "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-16T20:51:02Z"
+  },
+  {
+    "id": "news-3df8a8664e91",
+    "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
+    "summary": "The recent Google for Startups AI Agents Challenge revealed that the most successful multi-agent systems rely on foundational software engineering patterns rather than just raw model power. Winning architectures…",
+    "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -118,6 +128,16 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-16T13:00:00Z"
+  },
+  {
+    "id": "news-5f7e182a53f2",
+    "title": "How to connect AI usage to business value",
+    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-16T12:00:00Z"
   },
   {
     "id": "news-71646fffd914",
@@ -458,25 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-09-10T16:30:35Z"
-  },
-  {
-    "id": "news-1adb809c884f",
-    "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-    "summary": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
-    "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-10T16:00:04Z"
-  },
-  {
-    "id": "news-014159943e4d",
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-10T16:00:00Z"
   }
 ]
