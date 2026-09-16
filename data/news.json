@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T13:03:53Z"
+    "publishedAt": "2026-09-16T17:55:33Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T13:03:53Z"
+    "publishedAt": "2026-09-16T17:55:33Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T13:03:53Z"
+    "publishedAt": "2026-09-16T17:55:33Z"
   },
   {
     "id": "news-44877dae650a",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T13:03:53Z"
+    "publishedAt": "2026-09-16T17:55:33Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T13:03:53Z"
+    "publishedAt": "2026-09-16T17:55:33Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -57,7 +57,77 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T13:03:53Z"
+    "publishedAt": "2026-09-16T17:55:33Z"
+  },
+  {
+    "id": "news-69225883189e",
+    "title": "Rethinking Robot Safety in the Age of AI",
+    "summary": "This article is brought to you by VicOne.Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker…",
+    "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-16T16:51:02Z"
+  },
+  {
+    "id": "news-027811ca1632",
+    "title": "Helping older adults use AI in everyday life",
+    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-16T16:00:00Z"
+  },
+  {
+    "id": "news-a425146e5e22",
+    "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+    "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher…",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-16T15:00:48Z"
+  },
+  {
+    "id": "news-3a5713cd1d21",
+    "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+    "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery.",
+    "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-16T15:00:00Z"
+  },
+  {
+    "id": "news-22653b4ecc69",
+    "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+    "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the…",
+    "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-16T13:00:33Z"
+  },
+  {
+    "id": "news-52752974efc0",
+    "title": "Reimagining advertising with AI",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-16T13:00:00Z"
+  },
+  {
+    "id": "news-71646fffd914",
+    "title": "How workers are unlocking new ways of working",
+    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-16T09:00:00Z"
   },
   {
     "id": "news-88fd26958a90",
@@ -408,75 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-10T16:00:00Z"
-  },
-  {
-    "id": "news-1852061b5cf6",
-    "title": "3 ways to prep for your next big race with Search",
-    "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-    "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-10T16:00:00Z"
-  },
-  {
-    "id": "news-4d4e7920d8a7",
-    "title": "Now everyone can put data to work",
-    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-    "url": "https://openai.com/index/put-data-to-work",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-10T15:00:00Z"
-  },
-  {
-    "id": "news-ed5ac5e67af5",
-    "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-    "summary": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting…",
-    "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-10T13:00:21Z"
-  },
-  {
-    "id": "news-f3468ea93aa3",
-    "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
-    "summary": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North update and Bus Simulator 27 — part of…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-10T13:00:18Z"
-  },
-  {
-    "id": "news-1ef5285e671d",
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-    "url": "https://openai.com/index/expanding-ai-access-us-government",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-10T07:00:00Z"
-  },
-  {
-    "id": "news-016c3ec9b775",
-    "title": "Introducing ChatGPT for Financial Services",
-    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-10T07:00:00Z"
-  },
-  {
-    "id": "news-a105b3ce5041",
-    "title": "GitHub availability report: August 2026",
-    "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog.",
-    "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-10T02:05:17Z"
   }
 ]
