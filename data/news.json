@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T01:01:56Z"
+    "publishedAt": "2026-09-16T07:09:04Z"
   },
   {
     "id": "news-cd24f5cb24c7",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T01:01:56Z"
+    "publishedAt": "2026-09-16T07:09:04Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T01:01:56Z"
+    "publishedAt": "2026-09-16T07:09:04Z"
   },
   {
     "id": "news-44877dae650a",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T01:01:56Z"
+    "publishedAt": "2026-09-16T07:09:04Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T01:01:56Z"
+    "publishedAt": "2026-09-16T07:09:04Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T01:01:56Z"
+    "publishedAt": "2026-09-16T07:09:04Z"
+  },
+  {
+    "id": "news-88fd26958a90",
+    "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+    "summary": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is…",
+    "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-16T05:00:42Z"
+  },
+  {
+    "id": "news-fce5c946628f",
+    "title": "Measure by measure, studying society accurately",
+    "summary": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.",
+    "url": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-16T04:00:00Z"
   },
   {
     "id": "news-1fec8bc66a00",
@@ -458,25 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-09-10T02:05:17Z"
-  },
-  {
-    "id": "news-cb50b0c3c856",
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/gradio-workflow-1111",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-10T00:00:00Z"
-  },
-  {
-    "id": "news-4e410dad70fb",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-10T00:00:00Z"
   }
 ]
