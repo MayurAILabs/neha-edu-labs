@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T20:51:02Z"
+    "publishedAt": "2026-09-16T23:30:48Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T20:51:02Z"
+    "publishedAt": "2026-09-16T23:30:48Z"
   },
   {
     "id": "news-44877dae650a",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T20:51:02Z"
+    "publishedAt": "2026-09-16T23:30:48Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T20:51:02Z"
+    "publishedAt": "2026-09-16T23:30:48Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T20:51:02Z"
+    "publishedAt": "2026-09-16T23:30:48Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T20:51:02Z"
+    "publishedAt": "2026-09-16T23:30:48Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -68,6 +68,16 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-09-16T17:55:33Z"
+  },
+  {
+    "id": "news-bbe6c30a33c9",
+    "title": "Our framework for reporting model misalignment",
+    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-16T17:00:00Z"
   },
   {
     "id": "news-69225883189e",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-10T20:00:04Z"
-  },
-  {
-    "id": "news-683b94332d9b",
-    "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-    "summary": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot…",
-    "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-10T16:30:35Z"
   }
 ]
