@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T09:09:13Z"
+    "publishedAt": "2026-09-17T14:38:20Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T09:09:13Z"
+    "publishedAt": "2026-09-17T14:38:20Z"
   },
   {
     "id": "news-44877dae650a",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T09:09:13Z"
+    "publishedAt": "2026-09-17T14:38:20Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T09:09:13Z"
+    "publishedAt": "2026-09-17T14:38:20Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T09:09:13Z"
+    "publishedAt": "2026-09-17T14:38:20Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T09:09:13Z"
+    "publishedAt": "2026-09-17T14:38:20Z"
+  },
+  {
+    "id": "news-04812389539e",
+    "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
+    "summary": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-17T13:00:55Z"
   },
   {
     "id": "news-6e4c7787bb9e",
@@ -128,6 +138,16 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-09-16T15:00:00Z"
+  },
+  {
+    "id": "news-12ca34c6db85",
+    "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
+    "summary": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches.Download this free whitepaper now!",
+    "url": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-16T13:24:18Z"
   },
   {
     "id": "news-22653b4ecc69",
@@ -458,25 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-09-11T12:33:11Z"
-  },
-  {
-    "id": "news-c7d3c8aeae42",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-11T10:00:00Z"
-  },
-  {
-    "id": "news-aa97fe2ce391",
-    "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-    "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners:…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-10T21:31:19Z"
   }
 ]
