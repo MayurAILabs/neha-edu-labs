@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T23:30:48Z"
+    "publishedAt": "2026-09-17T03:13:14Z"
   },
   {
     "id": "news-4258e443d36b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T23:30:48Z"
+    "publishedAt": "2026-09-17T03:13:14Z"
   },
   {
     "id": "news-44877dae650a",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T23:30:48Z"
+    "publishedAt": "2026-09-17T03:13:14Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T23:30:48Z"
+    "publishedAt": "2026-09-17T03:13:14Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T23:30:48Z"
+    "publishedAt": "2026-09-17T03:13:14Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-16T23:30:48Z"
+    "publishedAt": "2026-09-17T03:13:14Z"
+  },
+  {
+    "id": "news-6e4c7787bb9e",
+    "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+    "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot…",
+    "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-17T00:26:43Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -468,15 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-09-10T21:31:19Z"
-  },
-  {
-    "id": "news-7a24127ce834",
-    "title": "Codeveloper of Ethernet Predecessor Dies at 91",
-    "summary": "Franklin “Frank” KuoCodeveloper of ALOHAnetFellow, 91; died 14 AprilKuo helped develop ALOHAnet, a pioneering computer system at the University of Hawaii at Mānoa, in Honolulu. The system went online in 1971 and…",
-    "url": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-10T20:00:04Z"
   }
 ]
