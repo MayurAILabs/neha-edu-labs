@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-cd24f5cb24c7",
-    "title": "Driving Developer Excellence: Inside the Program Sprints",
-    "summary": "The Gemini Enterprise Developer Experience (DevEx) program conducts ongoing sprint testing of end-to-end developer workflows to identify and rapidly resolve friction points without relying on internal shortcuts. This…",
-    "url": "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-17T18:46:47Z"
-  },
-  {
     "id": "news-4258e443d36b",
     "title": "The Anatomy of Harness Engineering: How to Evaluate, Iterate, and Guard AI Coding Agents",
     "summary": "While end-to-end benchmarks like SWE-bench provide broad performance scores for AI agents, they are often expensive, slow, and lack the root-cause diagnostics needed to explain exactly where an agent's logic broke down.…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T18:46:47Z"
+    "publishedAt": "2026-09-17T21:53:29Z"
   },
   {
     "id": "news-44877dae650a",
@@ -27,17 +17,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T18:46:47Z"
+    "publishedAt": "2026-09-17T21:53:29Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
     "title": "Autonomous LLM post-training with Tunix on TPUs",
-    "summary": "Imagine going to sleep after writing a single Markdown specification and waking up to find that an A...",
+    "summary": "The \"autofinetune\" project introduces an autonomous research loop that fully automates LLM post-training workflows, including Supervised Fine-Tuning (SFT) and Reinforcement Learning via GRPO. By defining boundary…",
     "url": "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T18:46:47Z"
+    "publishedAt": "2026-09-17T21:53:29Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -47,13 +37,43 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T18:46:47Z"
+    "publishedAt": "2026-09-17T21:53:29Z"
   },
   {
     "id": "news-f10ecafae009",
     "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
     "summary": "Agent Anomaly Detection is a new, out-of-band oversight layer for the Gemini Enterprise Agent Platform that analyzes OpenTelemetry traces and tool calls to catch behavioral risks without adding runtime latency to live…",
     "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-17T21:53:29Z"
+  },
+  {
+    "id": "news-02bf3648b3ab",
+    "title": "Why client SDK generation belongs in the open",
+    "summary": "Google has partnered with Speakeasy to open-source their OpenAPI code generation suite under the AGPLv3 license, a strategic move prompted by the sudden shutdown of Google's previous proprietary SDK provider. The newly…",
+    "url": "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-17T21:53:29Z"
+  },
+  {
+    "id": "news-e7b9d12d1b3a",
+    "title": "Making global data easier to explore",
+    "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-17T20:00:00Z"
+  },
+  {
+    "id": "news-cd24f5cb24c7",
+    "title": "Driving Developer Excellence: Inside the Program Sprints",
+    "summary": "The Gemini Enterprise Developer Experience (DevEx) program conducts ongoing sprint testing of end-to-end developer workflows to identify and rapidly resolve friction points without relying on internal shortcuts. This…",
+    "url": "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -78,6 +98,16 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-09-17T00:26:43Z"
+  },
+  {
+    "id": "news-363bbead77de",
+    "title": "Introducing Astra for Law",
+    "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "url": "https://openai.com/index/astra-for-law",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-17T00:00:00Z"
   },
   {
     "id": "news-3df8a8664e91",
@@ -448,35 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-11T18:00:02Z"
-  },
-  {
-    "id": "news-c3aa33826442",
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-11T16:00:00Z"
-  },
-  {
-    "id": "news-75ddcd67e5aa",
-    "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
-    "summary": "The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts General Hospital, promises improved health outcomes for injured service members and civilians.",
-    "url": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-11T13:45:00Z"
-  },
-  {
-    "id": "news-6bf1b0f2ff30",
-    "title": "Enterprise-Grade Precision for Long-Context Multimodal Embedding Inference on Cloud TPU",
-    "summary": "Google Cloud has natively integrated TPU support into the vLLM serving engine, allowing developers to elastically scale high-demand embedding pipelines using Google Kubernetes Engine (GKE). To handle massive 15K+ token…",
-    "url": "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-11T12:33:11Z"
   }
 ]
