@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T20:20:32Z"
+    "publishedAt": "2026-09-18T22:59:15Z"
   },
   {
     "id": "news-44877dae650a",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T20:20:32Z"
+    "publishedAt": "2026-09-18T22:59:15Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T20:20:32Z"
+    "publishedAt": "2026-09-18T22:59:15Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T20:20:32Z"
+    "publishedAt": "2026-09-18T22:59:15Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T20:20:32Z"
+    "publishedAt": "2026-09-18T22:59:15Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T20:20:32Z"
+    "publishedAt": "2026-09-18T22:59:15Z"
   },
   {
     "id": "news-6eef3b56f56d",
@@ -270,6 +270,16 @@
     "publishedAt": "2026-09-16T12:00:00Z"
   },
   {
+    "id": "news-973a91148c50",
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+    "url": "https://openai.com/index/hex-gpt-6-astra",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-16T12:00:00Z"
+  },
+  {
     "id": "news-71646fffd914",
     "title": "How workers are unlocking new ways of working",
     "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-09-14T15:00:52Z"
-  },
-  {
-    "id": "news-9fe82e237d64",
-    "title": "Responsible AI for Higher Education",
-    "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals,…",
-    "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-14T14:18:11Z"
   }
 ]
