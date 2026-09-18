@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T23:52:38Z"
+    "publishedAt": "2026-09-18T02:59:59Z"
   },
   {
     "id": "news-44877dae650a",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T23:52:38Z"
+    "publishedAt": "2026-09-18T02:59:59Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T23:52:38Z"
+    "publishedAt": "2026-09-18T02:59:59Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T23:52:38Z"
+    "publishedAt": "2026-09-18T02:59:59Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T23:52:38Z"
+    "publishedAt": "2026-09-18T02:59:59Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-17T23:52:38Z"
+    "publishedAt": "2026-09-18T02:59:59Z"
   },
   {
     "id": "news-e7b9d12d1b3a",
@@ -88,6 +88,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-09-17T13:00:55Z"
+  },
+  {
+    "id": "news-964ae1dd0fac",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+    "url": "https://openai.com/index/cooley-gopublic",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-17T12:00:00Z"
   },
   {
     "id": "news-6e4c7787bb9e",
@@ -468,15 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-09-11T18:26:10Z"
-  },
-  {
-    "id": "news-d1671fc9fd90",
-    "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
-    "summary": "For this year’s IEEE annual election, the IEEE Tellers Committee will recognize the Sections with the highest voter turnout (based on total eligible voters) in each Region with an incentive reward after the election…",
-    "url": "https://spectrum.ieee.org/ieee-to-reward-sections",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-11T18:00:02Z"
   }
 ]
