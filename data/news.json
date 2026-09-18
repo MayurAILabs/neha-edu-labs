@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T17:26:42Z"
+    "publishedAt": "2026-09-18T20:20:32Z"
   },
   {
     "id": "news-44877dae650a",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T17:26:42Z"
+    "publishedAt": "2026-09-18T20:20:32Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T17:26:42Z"
+    "publishedAt": "2026-09-18T20:20:32Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T17:26:42Z"
+    "publishedAt": "2026-09-18T20:20:32Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T17:26:42Z"
+    "publishedAt": "2026-09-18T20:20:32Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T17:26:42Z"
+    "publishedAt": "2026-09-18T20:20:32Z"
+  },
+  {
+    "id": "news-6eef3b56f56d",
+    "title": "Turning Tech Talent Into Leadership Legacy",
+    "summary": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to…",
+    "url": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-18T18:00:04Z"
   },
   {
     "id": "news-0cf2be2f0ba1",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-14T14:18:11Z"
-  },
-  {
-    "id": "news-296d33defd03",
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-    "url": "https://openai.com/index/fyxer",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-14T12:00:00Z"
   }
 ]
