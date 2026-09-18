@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T13:20:50Z"
+    "publishedAt": "2026-09-18T17:26:42Z"
   },
   {
     "id": "news-44877dae650a",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T13:20:50Z"
+    "publishedAt": "2026-09-18T17:26:42Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T13:20:50Z"
+    "publishedAt": "2026-09-18T17:26:42Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T13:20:50Z"
+    "publishedAt": "2026-09-18T17:26:42Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T13:20:50Z"
+    "publishedAt": "2026-09-18T17:26:42Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-18T13:20:50Z"
+    "publishedAt": "2026-09-18T17:26:42Z"
+  },
+  {
+    "id": "news-0cf2be2f0ba1",
+    "title": "A new chapter for MIT Reads",
+    "summary": "A new focus on fiction and memoir aims to help the MIT community celebrate the power of storytelling and strengthen social connection.",
+    "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-18T16:30:00Z"
+  },
+  {
+    "id": "news-76df97b15d12",
+    "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+    "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog.",
+    "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-18T15:00:00Z"
+  },
+  {
+    "id": "news-079e661c04ce",
+    "title": "New experts join Google’s AI & Economy team",
+    "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-18T14:00:00Z"
   },
   {
     "id": "news-13d62ca6fcfd",
@@ -448,35 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-14T12:00:00Z"
-  },
-  {
-    "id": "news-1ccfa6a4e947",
-    "title": "New method enables AI for safety-critical situations",
-    "summary": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
-    "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-14T04:00:00Z"
-  },
-  {
-    "id": "news-66754acdaab8",
-    "title": "MIT spinout turns plastic waste into resilient building materials",
-    "summary": "Atlas Building Composites is commercializing MIT research to turn plastic waste into parts for buildings and other infrastructure.",
-    "url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-14T04:00:00Z"
-  },
-  {
-    "id": "news-12e9dd685180",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-14T00:00:00Z"
   }
 ]
