@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-19T01:04:46Z"
+    "publishedAt": "2026-09-19T06:58:37Z"
   },
   {
     "id": "news-44877dae650a",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-19T01:04:46Z"
+    "publishedAt": "2026-09-19T06:58:37Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-19T01:04:46Z"
+    "publishedAt": "2026-09-19T06:58:37Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-19T01:04:46Z"
+    "publishedAt": "2026-09-19T06:58:37Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-19T01:04:46Z"
+    "publishedAt": "2026-09-19T06:58:37Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-19T01:04:46Z"
+    "publishedAt": "2026-09-19T06:58:37Z"
   },
   {
     "id": "news-6eef3b56f56d",
@@ -108,6 +108,16 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-09-18T13:00:00Z"
+  },
+  {
+    "id": "news-559b0cf11197",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-18T12:00:00Z"
   },
   {
     "id": "news-e7b9d12d1b3a",
@@ -468,15 +478,5 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-09-14T16:00:00Z"
-  },
-  {
-    "id": "news-1a974e5655c8",
-    "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-    "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans…",
-    "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-14T15:00:52Z"
   }
 ]
