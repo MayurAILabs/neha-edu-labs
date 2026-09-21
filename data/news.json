@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-21T11:53:23Z"
+    "publishedAt": "2026-09-21T17:47:51Z"
   },
   {
     "id": "news-44877dae650a",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-21T11:53:23Z"
+    "publishedAt": "2026-09-21T17:47:51Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-21T11:53:23Z"
+    "publishedAt": "2026-09-21T17:47:51Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-21T11:53:23Z"
+    "publishedAt": "2026-09-21T17:47:51Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-21T11:53:23Z"
+    "publishedAt": "2026-09-21T17:47:51Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -57,7 +57,57 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-21T11:53:23Z"
+    "publishedAt": "2026-09-21T17:47:51Z"
+  },
+  {
+    "id": "news-173eb9a2ab25",
+    "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+    "summary": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million…",
+    "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-21T16:00:46Z"
+  },
+  {
+    "id": "news-2776c8ddc12b",
+    "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+    "summary": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
+    "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-21T16:00:10Z"
+  },
+  {
+    "id": "news-dd63189f99f4",
+    "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+    "summary": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security…",
+    "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-21T14:51:34Z"
+  },
+  {
+    "id": "news-c701b57089c5",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-21T13:44:34Z"
+  },
+  {
+    "id": "news-302637180583",
+    "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+    "summary": "Shortwave radios offer a way to connect one location on Earth to practically anywhere else with minimal infrastructure. But these radios come with some drawbacks—a significant one being that, unlike satellite…",
+    "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-21T13:00:04Z"
   },
   {
     "id": "news-405872456e62",
@@ -68,6 +118,56 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-09-21T10:00:35Z"
+  },
+  {
+    "id": "news-2c9792fbb14a",
+    "title": "Building standards for the next phase of AI",
+    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "url": "https://openai.com/index/building-standards-next-phase-ai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-21T10:00:00Z"
+  },
+  {
+    "id": "news-530db518a73a",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-21T07:00:00Z"
+  },
+  {
+    "id": "news-d1749ba76a98",
+    "title": "How V7 gives AI agents institutional memory",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "url": "https://openai.com/index/v7",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-21T00:00:00Z"
+  },
+  {
+    "id": "news-eb792e0fc342",
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/tokenizers-v1",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-21T00:00:00Z"
+  },
+  {
+    "id": "news-c433ef20551b",
+    "title": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
+    "summary": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication times, and why…",
+    "url": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-18T18:29:50Z"
   },
   {
     "id": "news-6eef3b56f56d",
@@ -378,105 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-09-15T16:00:44Z"
-  },
-  {
-    "id": "news-18592959ad29",
-    "title": "AI for Societal Impact",
-    "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-15T16:00:00Z"
-  },
-  {
-    "id": "news-b86d9a766fb7",
-    "title": "Building AI to accelerate science and improve lives",
-    "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-15T16:00:00Z"
-  },
-  {
-    "id": "news-a243976a4aef",
-    "title": "AI for everyone in every language",
-    "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-15T16:00:00Z"
-  },
-  {
-    "id": "news-8af5f2c60a37",
-    "title": "Decoding cosmic signals with deep learning and Keras",
-    "summary": "Astroparticle physics sits at the exciting intersection of astrophysics and particle physics and stu...",
-    "url": "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-15T15:29:35Z"
-  },
-  {
-    "id": "news-f8ac31063bfd",
-    "title": "The AI Inference Revolution Is Here",
-    "summary": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s…",
-    "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-15T13:00:05Z"
-  },
-  {
-    "id": "news-00e29a681a6f",
-    "title": "New insights from Google’s AI & Economy ATLAS",
-    "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-15T13:00:00Z"
-  },
-  {
-    "id": "news-3724b8e08a5d",
-    "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
-    "summary": "In 2003, Martin Eberhard, a cofounder of Tesla Motors, decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero,…",
-    "url": "https://spectrum.ieee.org/elon-musk-tesla",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-15T12:13:58Z"
-  },
-  {
-    "id": "news-1537042228c9",
-    "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-    "summary": "Latest update from NVIDIA.",
-    "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-15T09:00:42Z"
-  },
-  {
-    "id": "news-b49b47db0b35",
-    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-    "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-14T19:00:00Z"
-  },
-  {
-    "id": "news-01e068e63701",
-    "title": "Countries Seek to Curb Social Media Addiction for Kids",
-    "summary": "Social media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves.The benefits, however, are accompanied by risks that can…",
-    "url": "https://spectrum.ieee.org/countries-seek-to-curb-social-media-addiction-for-kids",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-14T18:00:04Z"
   }
 ]
