@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-21T05:50:50Z"
+    "publishedAt": "2026-09-21T11:53:23Z"
   },
   {
     "id": "news-44877dae650a",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-21T05:50:50Z"
+    "publishedAt": "2026-09-21T11:53:23Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-21T05:50:50Z"
+    "publishedAt": "2026-09-21T11:53:23Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-21T05:50:50Z"
+    "publishedAt": "2026-09-21T11:53:23Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-21T05:50:50Z"
+    "publishedAt": "2026-09-21T11:53:23Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-21T05:50:50Z"
+    "publishedAt": "2026-09-21T11:53:23Z"
+  },
+  {
+    "id": "news-405872456e62",
+    "title": "5 Companies Using NVIDIA AI for Clean Energy",
+    "summary": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
+    "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-21T10:00:35Z"
   },
   {
     "id": "news-6eef3b56f56d",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-14T18:00:04Z"
-  },
-  {
-    "id": "news-bf70dc826a65",
-    "title": "DevFest is back",
-    "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-14T16:00:00Z"
   }
 ]
