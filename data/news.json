@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-4258e443d36b",
-    "title": "The Anatomy of Harness Engineering: How to Evaluate, Iterate, and Guard AI Coding Agents",
-    "summary": "While end-to-end benchmarks like SWE-bench provide broad performance scores for AI agents, they are often expensive, slow, and lack the root-cause diagnostics needed to explain exactly where an agent's logic broke down.…",
-    "url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-22T15:23:38Z"
-  },
-  {
     "id": "news-44877dae650a",
     "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond",
     "summary": "Google has officially released version 1.0 of the Agent Development Kit (ADK) for Kotlin, achieving full feature parity with the Python and Java ADK cores to enable idiomatic, multi-agent AI development. Built on Kotlin…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-22T15:23:38Z"
+    "publishedAt": "2026-09-22T19:31:57Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-22T15:23:38Z"
+    "publishedAt": "2026-09-22T19:31:57Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-22T15:23:38Z"
+    "publishedAt": "2026-09-22T19:31:57Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -47,13 +37,63 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-22T15:23:38Z"
+    "publishedAt": "2026-09-22T19:31:57Z"
   },
   {
     "id": "news-02bf3648b3ab",
     "title": "Why client SDK generation belongs in the open",
     "summary": "Google has partnered with Speakeasy to open-source their OpenAPI code generation suite under the AGPLv3 license, a strategic move prompted by the sudden shutdown of Google's previous proprietary SDK provider. The newly…",
     "url": "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-22T19:31:57Z"
+  },
+  {
+    "id": "news-900e6225644e",
+    "title": "Colab is now part of your Google AI plan",
+    "summary": "Unlock premium Google Colab compute with Google AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs.",
+    "url": "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-22T19:31:57Z"
+  },
+  {
+    "id": "news-1500813625f0",
+    "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
+    "summary": "Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research.",
+    "url": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-22T19:00:00Z"
+  },
+  {
+    "id": "news-2edeb55f72eb",
+    "title": "Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member",
+    "summary": "Many youngsters fascinated by exploring outer space dream of becoming an astronaut, but few do. One who had the right stuff is Pedro Duque, who was Spain’s first astronaut. The aeronautics engineer flew aboard the space…",
+    "url": "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-22T18:00:05Z"
+  },
+  {
+    "id": "news-3d48e529ad7a",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-22T18:00:00Z"
+  },
+  {
+    "id": "news-4258e443d36b",
+    "title": "The Anatomy of Harness Engineering: How to Evaluate, Iterate, and Guard AI Coding Agents",
+    "summary": "While end-to-end benchmarks like SWE-bench provide broad performance scores for AI agents, they are often expensive, slow, and lack the root-cause diagnostics needed to explain exactly where an agent's logic broke down.…",
+    "url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -72,7 +112,7 @@
   {
     "id": "news-6dabcc16bb8a",
     "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
-    "summary": "This article is brought to you by CoolIT.Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling…",
+    "summary": "This article is brought to you by CoolIT, an Ecolab Company.Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load.…",
     "url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
@@ -104,6 +144,26 @@
     "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
     "summary": "Latest update from Hugging Face.",
     "url": "https://huggingface.co/blog/omlx",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-22T00:00:00Z"
+  },
+  {
+    "id": "news-b4fb82cc1313",
+    "title": "Priorities and principles for effective third party assessments",
+    "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-22T00:00:00Z"
+  },
+  {
+    "id": "news-2960c64a019e",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/evaleval-aisi",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
     "category": "AI",
@@ -418,65 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-09-16T15:00:48Z"
-  },
-  {
-    "id": "news-3a5713cd1d21",
-    "title": "New AI technique could make minimally invasive surgeries safer and more precise",
-    "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery.",
-    "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-16T15:00:00Z"
-  },
-  {
-    "id": "news-12ca34c6db85",
-    "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
-    "summary": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches.Download this free whitepaper now!",
-    "url": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-16T13:24:18Z"
-  },
-  {
-    "id": "news-22653b4ecc69",
-    "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-    "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the…",
-    "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-16T13:00:33Z"
-  },
-  {
-    "id": "news-52752974efc0",
-    "title": "Reimagining advertising with AI",
-    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-    "url": "https://openai.com/index/reimagining-advertising-with-ai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-16T13:00:00Z"
-  },
-  {
-    "id": "news-5f7e182a53f2",
-    "title": "How to connect AI usage to business value",
-    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-16T12:00:00Z"
-  },
-  {
-    "id": "news-973a91148c50",
-    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-    "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-    "url": "https://openai.com/index/hex-gpt-6-astra",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-16T12:00:00Z"
   }
 ]
