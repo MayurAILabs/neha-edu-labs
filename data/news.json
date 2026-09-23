@@ -1,13 +1,13 @@
 [
   {
-    "id": "news-44877dae650a",
-    "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond",
-    "summary": "Google has officially released version 1.0 of the Agent Development Kit (ADK) for Kotlin, achieving full feature parity with the Python and Java ADK cores to enable idiomatic, multi-agent AI development. Built on Kotlin…",
-    "url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-23T13:18:32Z"
+    "id": "news-7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+    "url": "https://openai.com/index/ringg",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-24T12:00:00Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T13:18:32Z"
+    "publishedAt": "2026-09-23T18:12:56Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T13:18:32Z"
+    "publishedAt": "2026-09-23T18:12:56Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T13:18:32Z"
+    "publishedAt": "2026-09-23T18:12:56Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -47,13 +47,103 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T13:18:32Z"
+    "publishedAt": "2026-09-23T18:12:56Z"
   },
   {
     "id": "news-900e6225644e",
     "title": "Colab is now part of your Google AI plan",
     "summary": "Unlock premium Google Colab compute with Google AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs.",
     "url": "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-23T18:12:56Z"
+  },
+  {
+    "id": "news-bc7ae535a1e3",
+    "title": "Introducing Support for Local AI Models in the Antigravity SDK",
+    "summary": "The Google Antigravity SDK now empowers developers to execute offline, agentic workflows locally using models like Gemma 4 26B A4B via LiteRT. This update facilitates powerful hybrid orchestration architectures,…",
+    "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-23T18:12:56Z"
+  },
+  {
+    "id": "news-db5062bc8a0f",
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-expansion/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-23T18:00:00Z"
+  },
+  {
+    "id": "news-4c4abcff4acd",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-09-23T16:00:57Z"
+  },
+  {
+    "id": "news-9d02eeb8cef1",
+    "title": "Two years of OpenAI Academy",
+    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-23T16:00:00Z"
+  },
+  {
+    "id": "news-7248e2b7cd78",
+    "title": "3 Skills That Will Matter More in the Age of AI",
+    "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and…",
+    "url": "https://spectrum.ieee.org/top-engineering-skills",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-23T15:40:04Z"
+  },
+  {
+    "id": "news-931c28839e38",
+    "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
+    "summary": "Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery.",
+    "url": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-23T15:30:00Z"
+  },
+  {
+    "id": "news-be2314c62992",
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-09-23T15:25:14Z"
+  },
+  {
+    "id": "news-a1700d1f6b37",
+    "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+    "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a…",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-23T15:00:32Z"
+  },
+  {
+    "id": "news-44877dae650a",
+    "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond",
+    "summary": "Google has officially released version 1.0 of the Agent Development Kit (ADK) for Kotlin, achieving full feature parity with the Python and Java ADK cores to enable idiomatic, multi-agent AI development. Built on Kotlin…",
+    "url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -107,6 +197,16 @@
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
+    "publishedAt": "2026-09-23T00:00:00Z"
+  },
+  {
+    "id": "news-d0797dca1269",
+    "title": "The Python documentation is now available in Persian",
+    "summary": "Latest update from Python Insider.",
+    "url": "https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
     "publishedAt": "2026-09-23T00:00:00Z"
   },
   {
@@ -378,105 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-18T18:29:50Z"
-  },
-  {
-    "id": "news-6eef3b56f56d",
-    "title": "Turning Tech Talent Into Leadership Legacy",
-    "summary": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to…",
-    "url": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-18T18:00:04Z"
-  },
-  {
-    "id": "news-0cf2be2f0ba1",
-    "title": "A new chapter for MIT Reads",
-    "summary": "A new focus on fiction and memoir aims to help the MIT community celebrate the power of storytelling and strengthen social connection.",
-    "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-18T16:30:00Z"
-  },
-  {
-    "id": "news-76df97b15d12",
-    "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-    "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog.",
-    "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-18T15:00:00Z"
-  },
-  {
-    "id": "news-079e661c04ce",
-    "title": "New experts join Google’s AI & Economy team",
-    "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-18T14:00:00Z"
-  },
-  {
-    "id": "news-13d62ca6fcfd",
-    "title": "Co-creating the future of fashion with Google",
-    "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-18T13:00:00Z"
-  },
-  {
-    "id": "news-559b0cf11197",
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-    "url": "https://openai.com/index/australian-youth-safety-blueprint",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-18T12:00:00Z"
-  },
-  {
-    "id": "news-e7b9d12d1b3a",
-    "title": "Making global data easier to explore",
-    "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-17T20:00:00Z"
-  },
-  {
-    "id": "news-cd24f5cb24c7",
-    "title": "Driving Developer Excellence: Inside the Program Sprints",
-    "summary": "The Gemini Enterprise Developer Experience (DevEx) program conducts ongoing sprint testing of end-to-end developer workflows to identify and rapidly resolve friction points without relying on internal shortcuts. This…",
-    "url": "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-17T18:46:47Z"
-  },
-  {
-    "id": "news-04812389539e",
-    "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
-    "summary": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-17T13:00:55Z"
-  },
-  {
-    "id": "news-964ae1dd0fac",
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-    "url": "https://openai.com/index/cooley-gopublic",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-17T12:00:00Z"
   }
 ]
