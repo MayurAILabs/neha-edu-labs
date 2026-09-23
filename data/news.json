@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T07:16:24Z"
+    "publishedAt": "2026-09-23T13:18:32Z"
   },
   {
     "id": "news-8ab7cc76bcc5",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T07:16:24Z"
+    "publishedAt": "2026-09-23T13:18:32Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T07:16:24Z"
+    "publishedAt": "2026-09-23T13:18:32Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T07:16:24Z"
+    "publishedAt": "2026-09-23T13:18:32Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T07:16:24Z"
+    "publishedAt": "2026-09-23T13:18:32Z"
   },
   {
     "id": "news-900e6225644e",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T07:16:24Z"
+    "publishedAt": "2026-09-23T13:18:32Z"
+  },
+  {
+    "id": "news-a4dec25709f4",
+    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-23T13:17:01Z"
+  },
+  {
+    "id": "news-1d77064cbebb",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-23T13:00:00Z"
+  },
+  {
+    "id": "news-cded7a7a02c2",
+    "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+    "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more…",
+    "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-23T13:00:00Z"
   },
   {
     "id": "news-301ba2c6df75",
@@ -68,6 +98,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-09-23T02:30:22Z"
+  },
+  {
+    "id": "news-09a0c6dbf1c6",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-23T00:00:00Z"
   },
   {
     "id": "news-b6b1e4118cdb",
@@ -438,45 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-17T12:00:00Z"
-  },
-  {
-    "id": "news-6e4c7787bb9e",
-    "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-    "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot…",
-    "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-17T00:26:43Z"
-  },
-  {
-    "id": "news-363bbead77de",
-    "title": "Introducing Astra for Law",
-    "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-    "url": "https://openai.com/index/astra-for-law",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-17T00:00:00Z"
-  },
-  {
-    "id": "news-3df8a8664e91",
-    "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-    "summary": "The recent Google for Startups AI Agents Challenge revealed that the most successful multi-agent systems rely on foundational software engineering patterns rather than just raw model power. Winning architectures…",
-    "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-16T17:55:33Z"
-  },
-  {
-    "id": "news-bbe6c30a33c9",
-    "title": "Our framework for reporting model misalignment",
-    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-    "url": "https://openai.com/index/model-misalignment-reporting-framework",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-16T17:00:00Z"
   }
 ]
