@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-    "url": "https://openai.com/index/ringg",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-24T12:00:00Z"
-  },
-  {
     "id": "news-8ab7cc76bcc5",
     "title": "Autonomous LLM post-training with Tunix on TPUs",
     "summary": "The \"autofinetune\" project introduces an autonomous research loop that fully automates LLM post-training workflows, including Supervised Fine-Tuning (SFT) and Reinforcement Learning via GRPO. By defining boundary…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T18:12:56Z"
+    "publishedAt": "2026-09-23T22:00:30Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T18:12:56Z"
+    "publishedAt": "2026-09-23T22:00:30Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T18:12:56Z"
+    "publishedAt": "2026-09-23T22:00:30Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -47,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T18:12:56Z"
+    "publishedAt": "2026-09-23T22:00:30Z"
   },
   {
     "id": "news-900e6225644e",
@@ -57,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T18:12:56Z"
+    "publishedAt": "2026-09-23T22:00:30Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -67,13 +57,43 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-23T18:12:56Z"
+    "publishedAt": "2026-09-23T22:00:30Z"
+  },
+  {
+    "id": "news-a70f8ac64edf",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-23T18:41:40Z"
+  },
+  {
+    "id": "news-078c955aa93d",
+    "title": "Rendering huge pull requests in the GitHub Copilot app",
+    "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on…",
+    "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-23T18:29:49Z"
   },
   {
     "id": "news-db5062bc8a0f",
     "title": "Google Beam expands with new regions, partners, and customers",
     "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-expansion/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-23T18:00:00Z"
+  },
+  {
+    "id": "news-8a86c97089bb",
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Google AI Blog",
     "category": "AI",
@@ -178,6 +198,46 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-09-23T13:00:00Z"
+  },
+  {
+    "id": "news-7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+    "url": "https://openai.com/index/ringg",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-23T12:00:00Z"
+  },
+  {
+    "id": "news-01d4e543c941",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-23T12:00:00Z"
+  },
+  {
+    "id": "news-f7558dc5c9de",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-23T12:00:00Z"
+  },
+  {
+    "id": "news-7357353a1f1d",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-23T12:00:00Z"
   },
   {
     "id": "news-301ba2c6df75",
@@ -418,65 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-21T12:00:00Z"
-  },
-  {
-    "id": "news-405872456e62",
-    "title": "5 Companies Using NVIDIA AI for Clean Energy",
-    "summary": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
-    "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-21T10:00:35Z"
-  },
-  {
-    "id": "news-2c9792fbb14a",
-    "title": "Building standards for the next phase of AI",
-    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-    "url": "https://openai.com/index/building-standards-next-phase-ai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-21T10:00:00Z"
-  },
-  {
-    "id": "news-530db518a73a",
-    "title": "Expanding OpenAI Academy with new learning paths",
-    "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-21T07:00:00Z"
-  },
-  {
-    "id": "news-d1749ba76a98",
-    "title": "How V7 gives AI agents institutional memory",
-    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-    "url": "https://openai.com/index/v7",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-21T00:00:00Z"
-  },
-  {
-    "id": "news-eb792e0fc342",
-    "title": "tokenizers v1: encode, decode and scaling, measured",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/tokenizers-v1",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-21T00:00:00Z"
-  },
-  {
-    "id": "news-c433ef20551b",
-    "title": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
-    "summary": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication times, and why…",
-    "url": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-18T18:29:50Z"
   }
 ]
