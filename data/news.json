@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T18:07:39Z"
+    "publishedAt": "2026-09-24T21:55:46Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T18:07:39Z"
+    "publishedAt": "2026-09-24T21:55:46Z"
   },
   {
     "id": "news-900e6225644e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T18:07:39Z"
+    "publishedAt": "2026-09-24T21:55:46Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T18:07:39Z"
+    "publishedAt": "2026-09-24T21:55:46Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T18:07:39Z"
+    "publishedAt": "2026-09-24T21:55:46Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T18:07:39Z"
+    "publishedAt": "2026-09-24T21:55:46Z"
+  },
+  {
+    "id": "news-2d3921d846c7",
+    "title": "Estimating suicide risk from text",
+    "summary": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions.",
+    "url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-24T21:00:00Z"
+  },
+  {
+    "id": "news-234391b377f9",
+    "title": "When chat is the wrong UI",
+    "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog.",
+    "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-24T20:00:00Z"
+  },
+  {
+    "id": "news-5d810621a5e7",
+    "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+    "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on…",
+    "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-24T18:26:12Z"
   },
   {
     "id": "news-902d7ede2d3e",
@@ -281,7 +311,7 @@
   },
   {
     "id": "news-cded7a7a02c2",
-    "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+    "title": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
     "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more…",
     "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
     "image": "assets/images/news/cat-programming.svg",
@@ -448,35 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-22T12:00:00Z"
-  },
-  {
-    "id": "news-98acfe91fd30",
-    "title": "Transformers now runs llama.cpp quants",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-22T00:00:00Z"
-  },
-  {
-    "id": "news-fb8ad85c459c",
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/omlx",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-22T00:00:00Z"
-  },
-  {
-    "id": "news-b4fb82cc1313",
-    "title": "Priorities and principles for effective third party assessments",
-    "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-22T00:00:00Z"
   }
 ]
