@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T07:06:30Z"
+    "publishedAt": "2026-09-24T13:07:50Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T07:06:30Z"
+    "publishedAt": "2026-09-24T13:07:50Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T07:06:30Z"
+    "publishedAt": "2026-09-24T13:07:50Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T07:06:30Z"
+    "publishedAt": "2026-09-24T13:07:50Z"
   },
   {
     "id": "news-900e6225644e",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T07:06:30Z"
+    "publishedAt": "2026-09-24T13:07:50Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T07:06:30Z"
+    "publishedAt": "2026-09-24T13:07:50Z"
+  },
+  {
+    "id": "news-7a97ef45ef5f",
+    "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
+    "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-24T13:00:36Z"
+  },
+  {
+    "id": "news-463f4def331b",
+    "title": "Measure Distant Asteroids With a DIY Rig",
+    "summary": "I’ve seen two total solar eclipses and have been duly impressed by what happens as the moon casts its shadow on Earth. But recently I’ve become even more intrigued by a similar phenomenon that doesn’t involve the sun or…",
+    "url": "https://spectrum.ieee.org/asteroid-shadow",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-24T13:00:04Z"
+  },
+  {
+    "id": "news-f1318fe4943f",
+    "title": "Engineering the Substation Exit for Reliability, Capacity, and Expansion",
+    "summary": "This white paper gives distribution engineers and utility teams a practical overview of the substation exit, the short and high-consequence section where station capacity divides into individual feeders. It explains how…",
+    "url": "https://content.knowledgehub.wiley.com/aerial-cable-systems-for-substation-exit-construction/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-24T10:00:06Z"
   },
   {
     "id": "news-f6fad453b0cd",
@@ -448,35 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-09-21T14:51:34Z"
-  },
-  {
-    "id": "news-c701b57089c5",
-    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-21T13:44:34Z"
-  },
-  {
-    "id": "news-302637180583",
-    "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
-    "summary": "Shortwave radios offer a way to connect one location on Earth to practically anywhere else with minimal infrastructure. But these radios come with some drawbacks—a significant one being that, unlike satellite…",
-    "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-21T13:00:04Z"
-  },
-  {
-    "id": "news-a7ca59844a94",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-21T12:00:00Z"
   }
 ]
