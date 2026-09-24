@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T01:01:02Z"
+    "publishedAt": "2026-09-24T07:06:30Z"
   },
   {
     "id": "news-c6261c24278f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T01:01:02Z"
+    "publishedAt": "2026-09-24T07:06:30Z"
   },
   {
     "id": "news-f10ecafae009",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T01:01:02Z"
+    "publishedAt": "2026-09-24T07:06:30Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T01:01:02Z"
+    "publishedAt": "2026-09-24T07:06:30Z"
   },
   {
     "id": "news-900e6225644e",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T01:01:02Z"
+    "publishedAt": "2026-09-24T07:06:30Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T01:01:02Z"
+    "publishedAt": "2026-09-24T07:06:30Z"
+  },
+  {
+    "id": "news-f6fad453b0cd",
+    "title": "The promise and peril of using visual AI to study cities",
+    "summary": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
+    "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-24T04:00:00Z"
   },
   {
     "id": "news-a70f8ac64edf",
@@ -464,16 +474,6 @@
     "title": "Advisory Group on Mathematics and Artificial Intelligence",
     "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
     "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-21T12:00:00Z"
-  },
-  {
-    "id": "news-d37f5b2c5927",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
