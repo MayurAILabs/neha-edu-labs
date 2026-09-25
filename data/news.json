@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-25T20:12:45Z"
+    "publishedAt": "2026-09-25T23:46:21Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-25T20:12:45Z"
+    "publishedAt": "2026-09-25T23:46:21Z"
   },
   {
     "id": "news-900e6225644e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-25T20:12:45Z"
+    "publishedAt": "2026-09-25T23:46:21Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-25T20:12:45Z"
+    "publishedAt": "2026-09-25T23:46:21Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-25T20:12:45Z"
+    "publishedAt": "2026-09-25T23:46:21Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-25T20:12:45Z"
+    "publishedAt": "2026-09-25T23:46:21Z"
+  },
+  {
+    "id": "news-e3aa7d4c7b11",
+    "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
+    "summary": "The PKG Center for Social Impact expands Code.Tulsa experiential learning program.",
+    "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-25T20:15:00Z"
   },
   {
     "id": "news-d2d497e5eee4",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-22T18:00:05Z"
-  },
-  {
-    "id": "news-3d48e529ad7a",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-22T18:00:00Z"
   }
 ]
