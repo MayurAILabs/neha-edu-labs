@@ -1,5 +1,65 @@
 [
   {
+    "id": "news-f10ecafae009",
+    "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
+    "summary": "Agent Anomaly Detection is a new, out-of-band oversight layer for the Gemini Enterprise Agent Platform that analyzes OpenTelemetry traces and tool calls to catch behavioral risks without adding runtime latency to live…",
+    "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-25T20:12:45Z"
+  },
+  {
+    "id": "news-02bf3648b3ab",
+    "title": "Why client SDK generation belongs in the open",
+    "summary": "Google has partnered with Speakeasy to open-source their OpenAPI code generation suite under the AGPLv3 license, a strategic move prompted by the sudden shutdown of Google's previous proprietary SDK provider. The newly…",
+    "url": "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-25T20:12:45Z"
+  },
+  {
+    "id": "news-900e6225644e",
+    "title": "Colab is now part of your Google AI plan",
+    "summary": "Unlock premium Google Colab compute with Google AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs.",
+    "url": "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-25T20:12:45Z"
+  },
+  {
+    "id": "news-bc7ae535a1e3",
+    "title": "Introducing Support for Local AI Models in the Antigravity SDK",
+    "summary": "The Google Antigravity SDK now empowers developers to execute offline, agentic workflows locally using models like Gemma 4 26B A4B via LiteRT. This update facilitates powerful hybrid orchestration architectures,…",
+    "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-25T20:12:45Z"
+  },
+  {
+    "id": "news-ee2118ecc143",
+    "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
+    "summary": "Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific…",
+    "url": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-25T20:12:45Z"
+  },
+  {
+    "id": "news-d5cff23622a2",
+    "title": "Reproducing OLMo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
+    "summary": "The MaxText team successfully reproduced AI2’s OLMo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, precisely matching the original PyTorch-on-GPU reference across pre-training and mid-training…",
+    "url": "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-25T20:12:45Z"
+  },
+  {
     "id": "news-d2d497e5eee4",
     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
@@ -10,69 +70,19 @@
     "publishedAt": "2026-09-25T19:00:00Z"
   },
   {
-    "id": "news-f10ecafae009",
-    "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
-    "summary": "Agent Anomaly Detection is a new, out-of-band oversight layer for the Gemini Enterprise Agent Platform that analyzes OpenTelemetry traces and tool calls to catch behavioral risks without adding runtime latency to live…",
-    "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
+    "id": "news-aabbcb7a3a47",
+    "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+    "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
     "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
+    "source": "GitHub Blog",
     "category": "Programming",
-    "publishedAt": "2026-09-25T16:25:33Z"
-  },
-  {
-    "id": "news-02bf3648b3ab",
-    "title": "Why client SDK generation belongs in the open",
-    "summary": "Google has partnered with Speakeasy to open-source their OpenAPI code generation suite under the AGPLv3 license, a strategic move prompted by the sudden shutdown of Google's previous proprietary SDK provider. The newly…",
-    "url": "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-25T16:25:33Z"
-  },
-  {
-    "id": "news-900e6225644e",
-    "title": "Colab is now part of your Google AI plan",
-    "summary": "Unlock premium Google Colab compute with Google AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs.",
-    "url": "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-25T16:25:33Z"
-  },
-  {
-    "id": "news-bc7ae535a1e3",
-    "title": "Introducing Support for Local AI Models in the Antigravity SDK",
-    "summary": "The Google Antigravity SDK now empowers developers to execute offline, agentic workflows locally using models like Gemma 4 26B A4B via LiteRT. This update facilitates powerful hybrid orchestration architectures,…",
-    "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-25T16:25:33Z"
-  },
-  {
-    "id": "news-ee2118ecc143",
-    "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
-    "summary": "Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific…",
-    "url": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-25T16:25:33Z"
-  },
-  {
-    "id": "news-d5cff23622a2",
-    "title": "Reproducing OLMo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
-    "summary": "The MaxText team successfully reproduced AI2’s OLMo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, precisely matching the original PyTorch-on-GPU reference across pre-training and mid-training…",
-    "url": "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-25T16:25:33Z"
+    "publishedAt": "2026-09-25T18:00:00Z"
   },
   {
     "id": "news-4b83598dbd94",
     "title": "Improving site performance by shipping more CSS",
-    "summary": "A look at how a design system shipped major changes without breaking the world. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog.",
+    "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog.",
     "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "GitHub Blog",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-22T18:00:00Z"
-  },
-  {
-    "id": "news-4258e443d36b",
-    "title": "The Anatomy of Harness Engineering: How to Evaluate, Iterate, and Guard AI Coding Agents",
-    "summary": "While end-to-end benchmarks like SWE-bench provide broad performance scores for AI agents, they are often expensive, slow, and lack the root-cause diagnostics needed to explain exactly where an agent's logic broke down.…",
-    "url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-22T15:23:38Z"
   }
 ]
