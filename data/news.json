@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T21:55:46Z"
+    "publishedAt": "2026-09-25T00:16:15Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T21:55:46Z"
+    "publishedAt": "2026-09-25T00:16:15Z"
   },
   {
     "id": "news-900e6225644e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T21:55:46Z"
+    "publishedAt": "2026-09-25T00:16:15Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T21:55:46Z"
+    "publishedAt": "2026-09-25T00:16:15Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T21:55:46Z"
+    "publishedAt": "2026-09-25T00:16:15Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-24T21:55:46Z"
+    "publishedAt": "2026-09-25T00:16:15Z"
   },
   {
     "id": "news-2d3921d846c7",
@@ -98,6 +98,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-24T18:00:04Z"
+  },
+  {
+    "id": "news-e7107d9a76d9",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-09-24T16:20:39Z"
   },
   {
     "id": "news-c2a53f233272",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-09-22T12:00:41Z"
-  },
-  {
-    "id": "news-ce45d8dc0f6c",
-    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-22T12:00:00Z"
   }
 ]
