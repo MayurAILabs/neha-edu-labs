@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-27T12:41:38Z"
+    "publishedAt": "2026-09-27T17:26:16Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-27T12:41:38Z"
+    "publishedAt": "2026-09-27T17:26:16Z"
   },
   {
     "id": "news-900e6225644e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-27T12:41:38Z"
+    "publishedAt": "2026-09-27T17:26:16Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-27T12:41:38Z"
+    "publishedAt": "2026-09-27T17:26:16Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-27T12:41:38Z"
+    "publishedAt": "2026-09-27T17:26:16Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-27T12:41:38Z"
+    "publishedAt": "2026-09-27T17:26:16Z"
+  },
+  {
+    "id": "news-d6359c6d9de4",
+    "title": "Poetry for Engineers: The UI Designer’s Dream",
+    "summary": "My job is to translatedry and unrelenting codeinto a user interface of surpassing beauty.With my mouse, I roll one pixel after anotherup the vast anthill of the internet.My dream is to translatethe visions of the holy…",
+    "url": "https://spectrum.ieee.org/poetry-user-interface-design",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-27T13:00:03Z"
   },
   {
     "id": "news-6b4462044a09",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-22T21:00:00Z"
-  },
-  {
-    "id": "news-1500813625f0",
-    "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
-    "summary": "Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research.",
-    "url": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-22T19:00:00Z"
   }
 ]
