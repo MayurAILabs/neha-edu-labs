@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-28T18:23:33Z"
+    "publishedAt": "2026-09-28T23:39:35Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-28T18:23:33Z"
+    "publishedAt": "2026-09-28T23:39:35Z"
   },
   {
     "id": "news-900e6225644e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-28T18:23:33Z"
+    "publishedAt": "2026-09-28T23:39:35Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-28T18:23:33Z"
+    "publishedAt": "2026-09-28T23:39:35Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-28T18:23:33Z"
+    "publishedAt": "2026-09-28T23:39:35Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-28T18:23:33Z"
+    "publishedAt": "2026-09-28T23:39:35Z"
+  },
+  {
+    "id": "news-1eadd5627184",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-09-28T19:00:00Z"
+  },
+  {
+    "id": "news-791d6502db08",
+    "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+    "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our…",
+    "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-28T19:00:00Z"
   },
   {
     "id": "news-cc73799bd3ee",
@@ -118,6 +138,26 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-28T07:00:00Z"
+  },
+  {
+    "id": "news-914f14710638",
+    "title": "Are you a Codex Original?",
+    "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more…",
+    "url": "https://openai.com/form/codex-originals",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-28T00:00:00Z"
+  },
+  {
+    "id": "news-bf0fe8cc388a",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-28T00:00:00Z"
   },
   {
     "id": "news-d6359c6d9de4",
@@ -438,45 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-09-23T13:17:01Z"
-  },
-  {
-    "id": "news-1d77064cbebb",
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-23T13:00:00Z"
-  },
-  {
-    "id": "news-cded7a7a02c2",
-    "title": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
-    "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more…",
-    "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-23T13:00:00Z"
-  },
-  {
-    "id": "news-7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-    "url": "https://openai.com/index/ringg",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-23T12:00:00Z"
-  },
-  {
-    "id": "news-01d4e543c941",
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-23T12:00:00Z"
   }
 ]
