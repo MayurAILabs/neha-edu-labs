@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T04:00:55Z"
+    "publishedAt": "2026-09-29T11:02:07Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T04:00:55Z"
+    "publishedAt": "2026-09-29T11:02:07Z"
   },
   {
     "id": "news-900e6225644e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T04:00:55Z"
+    "publishedAt": "2026-09-29T11:02:07Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T04:00:55Z"
+    "publishedAt": "2026-09-29T11:02:07Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T04:00:55Z"
+    "publishedAt": "2026-09-29T11:02:07Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T04:00:55Z"
+    "publishedAt": "2026-09-29T11:02:07Z"
+  },
+  {
+    "id": "news-a002a190645e",
+    "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
+    "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.Key TakeawaysExplore four critical technologies…",
+    "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-29T10:00:06Z"
+  },
+  {
+    "id": "news-7912342139f3",
+    "title": "The effects of an “algorithmic monoculture” depend on the details",
+    "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations.",
+    "url": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-29T04:00:00Z"
+  },
+  {
+    "id": "news-809d70e354d2",
+    "title": "Who we become when we talk to machines",
+    "summary": "Professor Sherry Turkle’s new book, “Artificial Intimacy,” offers a withering critique of chatbots and the antisocial dynamics she believes they encourage.",
+    "url": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-29T04:00:00Z"
+  },
+  {
+    "id": "news-cc449d663807",
+    "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+    "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with…",
+    "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-28T21:48:56Z"
   },
   {
     "id": "news-1eadd5627184",
@@ -84,6 +124,16 @@
     "title": "How we will do better for Australia",
     "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
     "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-28T19:00:00Z"
+  },
+  {
+    "id": "news-cf468ec39dd6",
+    "title": "Towards safety cases for frontier AI training",
+    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -428,55 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-23T16:00:00Z"
-  },
-  {
-    "id": "news-7248e2b7cd78",
-    "title": "3 Skills That Will Matter More in the Age of AI",
-    "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and…",
-    "url": "https://spectrum.ieee.org/top-engineering-skills",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-23T15:40:04Z"
-  },
-  {
-    "id": "news-931c28839e38",
-    "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
-    "summary": "Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery.",
-    "url": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-23T15:30:00Z"
-  },
-  {
-    "id": "news-be2314c62992",
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-09-23T15:25:14Z"
-  },
-  {
-    "id": "news-a1700d1f6b37",
-    "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
-    "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a…",
-    "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-23T15:00:32Z"
-  },
-  {
-    "id": "news-44877dae650a",
-    "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond",
-    "summary": "Google has officially released version 1.0 of the Agent Development Kit (ADK) for Kotlin, achieving full feature parity with the Python and Java ADK cores to enable idiomatic, multi-agent AI development. Built on Kotlin…",
-    "url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-23T13:18:32Z"
   }
 ]
