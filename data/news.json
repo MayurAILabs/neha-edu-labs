@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T11:02:07Z"
+    "publishedAt": "2026-09-29T17:32:44Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T11:02:07Z"
+    "publishedAt": "2026-09-29T17:32:44Z"
   },
   {
     "id": "news-900e6225644e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T11:02:07Z"
+    "publishedAt": "2026-09-29T17:32:44Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T11:02:07Z"
+    "publishedAt": "2026-09-29T17:32:44Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T11:02:07Z"
+    "publishedAt": "2026-09-29T17:32:44Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T11:02:07Z"
+    "publishedAt": "2026-09-29T17:32:44Z"
+  },
+  {
+    "id": "news-493cf3fce1b8",
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-29T15:30:38Z"
+  },
+  {
+    "id": "news-dc9499639fbd",
+    "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+    "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The…",
+    "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-09-29T15:00:00Z"
+  },
+  {
+    "id": "news-984223f109f3",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-29T13:07:00Z"
+  },
+  {
+    "id": "news-04465be95d8a",
+    "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
+    "summary": "Seventeen years ago, cell biologist Donald Ingber and his colleagues at Harvard University’s Wyss Institute for Biologically Inspired Engineering submitted a paper to the journal Science describing their model human…",
+    "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-29T13:00:02Z"
   },
   {
     "id": "news-a002a190645e",
@@ -438,45 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-09-23T18:29:49Z"
-  },
-  {
-    "id": "news-db5062bc8a0f",
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-expansion/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-23T18:00:00Z"
-  },
-  {
-    "id": "news-8a86c97089bb",
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-23T18:00:00Z"
-  },
-  {
-    "id": "news-4c4abcff4acd",
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-09-23T16:00:57Z"
-  },
-  {
-    "id": "news-9d02eeb8cef1",
-    "title": "Two years of OpenAI Academy",
-    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-    "url": "https://openai.com/index/two-years-of-openai-academy",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-23T16:00:00Z"
   }
 ]
