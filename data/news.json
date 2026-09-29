@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T17:32:44Z"
+    "publishedAt": "2026-09-29T21:47:57Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T17:32:44Z"
+    "publishedAt": "2026-09-29T21:47:57Z"
   },
   {
     "id": "news-900e6225644e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T17:32:44Z"
+    "publishedAt": "2026-09-29T21:47:57Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T17:32:44Z"
+    "publishedAt": "2026-09-29T21:47:57Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T17:32:44Z"
+    "publishedAt": "2026-09-29T21:47:57Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T17:32:44Z"
+    "publishedAt": "2026-09-29T21:47:57Z"
   },
   {
     "id": "news-493cf3fce1b8",
@@ -110,6 +110,26 @@
     "publishedAt": "2026-09-29T10:00:06Z"
   },
   {
+    "id": "news-dd66acaed2a0",
+    "title": "Introducing GPT-6.1 Sol",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-29T10:00:00Z"
+  },
+  {
+    "id": "news-19db7cc5ca5c",
+    "title": "DevDay 2026 Recap",
+    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-29T10:00:00Z"
+  },
+  {
     "id": "news-7912342139f3",
     "title": "The effects of an “algorithmic monoculture” depend on the details",
     "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations.",
@@ -128,6 +148,16 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-09-29T04:00:00Z"
+  },
+  {
+    "id": "news-884977ecb800",
+    "title": "Introducing dots",
+    "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "url": "https://openai.com/index/introducing-dots",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-29T00:00:00Z"
   },
   {
     "id": "news-cc449d663807",
@@ -448,35 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-24T10:00:06Z"
-  },
-  {
-    "id": "news-f6fad453b0cd",
-    "title": "The promise and peril of using visual AI to study cities",
-    "summary": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
-    "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-24T04:00:00Z"
-  },
-  {
-    "id": "news-a70f8ac64edf",
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-23T18:41:40Z"
-  },
-  {
-    "id": "news-078c955aa93d",
-    "title": "Rendering huge pull requests in the GitHub Copilot app",
-    "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on…",
-    "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-23T18:29:49Z"
   }
 ]
