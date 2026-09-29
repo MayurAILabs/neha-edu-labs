@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-28T23:39:35Z"
+    "publishedAt": "2026-09-29T04:00:55Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-28T23:39:35Z"
+    "publishedAt": "2026-09-29T04:00:55Z"
   },
   {
     "id": "news-900e6225644e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-28T23:39:35Z"
+    "publishedAt": "2026-09-29T04:00:55Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-28T23:39:35Z"
+    "publishedAt": "2026-09-29T04:00:55Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-28T23:39:35Z"
+    "publishedAt": "2026-09-29T04:00:55Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-28T23:39:35Z"
+    "publishedAt": "2026-09-29T04:00:55Z"
   },
   {
     "id": "news-1eadd5627184",
@@ -77,6 +77,16 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "GitHub Blog",
     "category": "Programming",
+    "publishedAt": "2026-09-28T19:00:00Z"
+  },
+  {
+    "id": "news-cfe8e900401f",
+    "title": "How we will do better for Australia",
+    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
     "publishedAt": "2026-09-28T19:00:00Z"
   },
   {
@@ -468,15 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-09-23T13:18:32Z"
-  },
-  {
-    "id": "news-a4dec25709f4",
-    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-23T13:17:01Z"
   }
 ]
