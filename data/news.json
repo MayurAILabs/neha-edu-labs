@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-f10ecafae009",
-    "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
-    "summary": "Agent Anomaly Detection is a new, out-of-band oversight layer for the Gemini Enterprise Agent Platform that analyzes OpenTelemetry traces and tool calls to catch behavioral risks without adding runtime latency to live…",
-    "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-30T14:33:27Z"
-  },
-  {
     "id": "news-02bf3648b3ab",
     "title": "Why client SDK generation belongs in the open",
     "summary": "Google has partnered with Speakeasy to open-source their OpenAPI code generation suite under the AGPLv3 license, a strategic move prompted by the sudden shutdown of Google's previous proprietary SDK provider. The newly…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T14:33:27Z"
+    "publishedAt": "2026-09-30T19:46:50Z"
   },
   {
     "id": "news-900e6225644e",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T14:33:27Z"
+    "publishedAt": "2026-09-30T19:46:50Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T14:33:27Z"
+    "publishedAt": "2026-09-30T19:46:50Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -47,13 +37,93 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T14:33:27Z"
+    "publishedAt": "2026-09-30T19:46:50Z"
   },
   {
     "id": "news-d5cff23622a2",
     "title": "Reproducing Olmo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
     "summary": "The MaxText team successfully reproduced Ai2’s Olmo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, precisely matching the original PyTorch-on-GPU reference across pre-training and mid-training…",
     "url": "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-30T19:46:50Z"
+  },
+  {
+    "id": "news-88d730759d71",
+    "title": "Accelerating Spatio-Temporal Attention for Video Diffusion on TPUs",
+    "summary": "To address the quadratic latency bottleneck of self-attention in high-resolution video diffusion models, developers implemented Sparse VideoGen (SVG) to dynamically route attention heads to highly structured spatial or…",
+    "url": "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-09-30T19:46:50Z"
+  },
+  {
+    "id": "news-c6908ef440fa",
+    "title": "IEEE Celebrates Innovators Shaping the Future",
+    "summary": "Every year, IEEE recognizes individual researchers, innovators, and collaborative teams whose technical achievements and leadership have made a lasting impact on technology, engineering, and society worldwide with its…",
+    "url": "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-30T18:00:02Z"
+  },
+  {
+    "id": "news-f9faccd416c4",
+    "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+    "summary": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA…",
+    "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-30T17:00:21Z"
+  },
+  {
+    "id": "news-9f49b513f8de",
+    "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
+    "summary": "With $2.1 million funding from Google.org, the open-source Public Transit Intelligence Hub will unify public transit monitoring, operations, and passenger communication.",
+    "url": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-30T15:15:00Z"
+  },
+  {
+    "id": "news-0a622a33b8e3",
+    "title": "Introducing SynthID Bio",
+    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-09-30T15:03:07Z"
+  },
+  {
+    "id": "news-9c486db49df6",
+    "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+    "summary": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of…",
+    "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-09-30T15:00:00Z"
+  },
+  {
+    "id": "news-ea039df066f8",
+    "title": "This game-playing AI is the new champ at Stratego",
+    "summary": "Able to defeat top-ranked human players and more efficient than other models, the new system could help decision-makers in military maneuvers or business negotiations.",
+    "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-09-30T15:00:00Z"
+  },
+  {
+    "id": "news-f10ecafae009",
+    "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
+    "summary": "Agent Anomaly Detection is a new, out-of-band oversight layer for the Gemini Enterprise Agent Platform that analyzes OpenTelemetry traces and tool calls to catch behavioral risks without adding runtime latency to live…",
+    "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -128,6 +198,36 @@
     "source": "Python Insider",
     "category": "Programming",
     "publishedAt": "2026-09-30T12:00:06Z"
+  },
+  {
+    "id": "news-6a91381a4292",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-30T10:30:00Z"
+  },
+  {
+    "id": "news-b5e5e43443d2",
+    "title": "Helping small businesses put AI to work",
+    "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-09-30T10:00:00Z"
+  },
+  {
+    "id": "news-581ab3112c30",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/open-tts-leaderboard",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-09-30T00:00:00Z"
   },
   {
     "id": "news-493cf3fce1b8",
@@ -378,105 +478,5 @@
     "source": "Python Insider",
     "category": "Programming",
     "publishedAt": "2026-09-26T00:00:00Z"
-  },
-  {
-    "id": "news-e3aa7d4c7b11",
-    "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
-    "summary": "The PKG Center for Social Impact expands Code.Tulsa experiential learning program.",
-    "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-25T20:15:00Z"
-  },
-  {
-    "id": "news-d2d497e5eee4",
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-    "url": "https://openai.com/index/proaction",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-25T19:00:00Z"
-  },
-  {
-    "id": "news-aabbcb7a3a47",
-    "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-    "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-25T18:00:00Z"
-  },
-  {
-    "id": "news-4b83598dbd94",
-    "title": "Improving site performance by shipping more CSS",
-    "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog.",
-    "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-25T15:00:00Z"
-  },
-  {
-    "id": "news-5a63cb763d9d",
-    "title": "Social Media Bans Aren’t Enough to Make Children Safe",
-    "summary": "Even before France approved legislation banning social media for children under 15 last January, 13-year-old Benjamin was already wondering what life without social media would look like. “If we want to play football,…",
-    "url": "https://spectrum.ieee.org/social-media-bans",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-25T13:00:04Z"
-  },
-  {
-    "id": "news-2d3921d846c7",
-    "title": "Estimating suicide risk from text",
-    "summary": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions.",
-    "url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-24T21:00:00Z"
-  },
-  {
-    "id": "news-234391b377f9",
-    "title": "When chat is the wrong UI",
-    "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog.",
-    "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-24T20:00:00Z"
-  },
-  {
-    "id": "news-5d810621a5e7",
-    "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-    "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on…",
-    "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-24T18:26:12Z"
-  },
-  {
-    "id": "news-902d7ede2d3e",
-    "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
-    "summary": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics…",
-    "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-24T18:00:04Z"
-  },
-  {
-    "id": "news-e7107d9a76d9",
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-09-24T16:20:39Z"
   }
 ]
