@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T07:53:33Z"
+    "publishedAt": "2026-09-30T14:33:27Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T07:53:33Z"
+    "publishedAt": "2026-09-30T14:33:27Z"
   },
   {
     "id": "news-900e6225644e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T07:53:33Z"
+    "publishedAt": "2026-09-30T14:33:27Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T07:53:33Z"
+    "publishedAt": "2026-09-30T14:33:27Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T07:53:33Z"
+    "publishedAt": "2026-09-30T14:33:27Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -57,7 +57,77 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T07:53:33Z"
+    "publishedAt": "2026-09-30T14:33:27Z"
+  },
+  {
+    "id": "news-09f54a7fb5d1",
+    "title": "A Brief History of the Bloomberg Terminal",
+    "summary": "Financial markets have always relied on timely information, and the drive for timeliness has always adapted to the latest technology. From clipper ships transiting the oceans to telegraph wires connecting cities to…",
+    "url": "https://spectrum.ieee.org/bloomberg-terminal",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-09-30T13:00:02Z"
+  },
+  {
+    "id": "news-0f1d71d6fdc7",
+    "title": "Python Language Summit 2026",
+    "summary": "The 2026 Python Language Summit was hosted in Kraków, Poland as part of EuroPython 2026. There were 15 talks covering free-threading, Rust, garbage collection, type annotations, and more.",
+    "url": "https://blog.python.org/2026/09/language-summit-2026/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-09-30T12:00:11Z"
+  },
+  {
+    "id": "news-1a1c34a9e71f",
+    "title": "Lightning Talks (Python Language Summit 2026)",
+    "summary": "Lightning talks on a one-time ABI break, safer interruptions, EktuPy (Scratch but Python), an AGENTS.md file for CPython, and a call to read PEP 836.",
+    "url": "https://blog.python.org/2026/09/language-summit-2026-lightning-talks/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-09-30T12:00:10Z"
+  },
+  {
+    "id": "news-20dd36683270",
+    "title": "PEP 827: Type Manipulation (Python Language Summit 2026)",
+    "summary": "Michael J. Sullivan presents PEP 827 and discusses a key design decision: how to store type annotations?",
+    "url": "https://blog.python.org/2026/09/language-summit-2026-pep-827-type-manipulation/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-09-30T12:00:09Z"
+  },
+  {
+    "id": "news-5bd235d8a2e2",
+    "title": "Free-Threaded Python Post-Era (Python Language Summit 2026)",
+    "summary": "Tobias Wrigstad, Fridtjof Stoldt, and Donghee Na propose a safe and performant, high-level concurrency model for free-threaded Python",
+    "url": "https://blog.python.org/2026/09/language-summit-2026-free-threading-post-era/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-09-30T12:00:08Z"
+  },
+  {
+    "id": "news-08f2f60307ae",
+    "title": "Developer-in-Residence Update & Future (Python Language Summit 2026)",
+    "summary": "Petr Viktorin gives an update on the Developer-in-Residence role and asks Python core developers for projects to prioritize",
+    "url": "https://blog.python.org/2026/09/language-summit-2026-developer-in-residence-update-and-future/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-09-30T12:00:07Z"
+  },
+  {
+    "id": "news-5300bb09b014",
+    "title": "Spicycrab (Python Language Summit 2026)",
+    "summary": "Kushal Das shows off Spicycrab, a Python-to-Rust transpiler for Python users who need performance without learning Rust or leaving Python",
+    "url": "https://blog.python.org/2026/09/language-summit-2026-spicycrab/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-09-30T12:00:06Z"
   },
   {
     "id": "news-493cf3fce1b8",
@@ -408,75 +478,5 @@
     "source": "Google DeepMind",
     "category": "AI",
     "publishedAt": "2026-09-24T16:20:39Z"
-  },
-  {
-    "id": "news-c2a53f233272",
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-24T14:08:57Z"
-  },
-  {
-    "id": "news-85d9d81e1965",
-    "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-    "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time. The next pandemic may…",
-    "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-24T14:00:50Z"
-  },
-  {
-    "id": "news-8ab7cc76bcc5",
-    "title": "Autonomous LLM post-training with Tunix on TPUs",
-    "summary": "The \"autofinetune\" project introduces an autonomous research loop that fully automates LLM post-training workflows, including Supervised Fine-Tuning (SFT) and Reinforcement Learning via GRPO. By defining boundary…",
-    "url": "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-24T13:07:50Z"
-  },
-  {
-    "id": "news-c6261c24278f",
-    "title": "Build zero-trust AI agents that judge intent, not just syntax",
-    "summary": "This blog post explores how to transition AI agents from static, build-time security controls to dynamic runtime governance using the Gemini Enterprise Agent Platform. It highlights three primary managed defenses: Model…",
-    "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-09-24T13:07:50Z"
-  },
-  {
-    "id": "news-7a97ef45ef5f",
-    "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
-    "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-24T13:00:36Z"
-  },
-  {
-    "id": "news-463f4def331b",
-    "title": "Measure Distant Asteroids With a DIY Rig",
-    "summary": "I’ve seen two total solar eclipses and have been duly impressed by what happens as the moon casts its shadow on Earth. But recently I’ve become even more intrigued by a similar phenomenon that doesn’t involve the sun or…",
-    "url": "https://spectrum.ieee.org/asteroid-shadow",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-24T13:00:04Z"
-  },
-  {
-    "id": "news-f1318fe4943f",
-    "title": "Engineering the Substation Exit for Reliability, Capacity, and Expansion",
-    "summary": "This white paper gives distribution engineers and utility teams a practical overview of the substation exit, the short and high-consequence section where station capacity divides into individual feeders. It explains how…",
-    "url": "https://content.knowledgehub.wiley.com/aerial-cable-systems-for-substation-exit-construction/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-24T10:00:06Z"
   }
 ]
