@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T21:47:57Z"
+    "publishedAt": "2026-09-30T01:00:36Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T21:47:57Z"
+    "publishedAt": "2026-09-30T01:00:36Z"
   },
   {
     "id": "news-900e6225644e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T21:47:57Z"
+    "publishedAt": "2026-09-30T01:00:36Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T21:47:57Z"
+    "publishedAt": "2026-09-30T01:00:36Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T21:47:57Z"
+    "publishedAt": "2026-09-30T01:00:36Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-29T21:47:57Z"
+    "publishedAt": "2026-09-30T01:00:36Z"
   },
   {
     "id": "news-493cf3fce1b8",
@@ -152,7 +152,7 @@
   {
     "id": "news-884977ecb800",
     "title": "Introducing dots",
-    "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
     "url": "https://openai.com/index/introducing-dots",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
