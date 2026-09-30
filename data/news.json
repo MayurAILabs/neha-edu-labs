@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T19:46:50Z"
+    "publishedAt": "2026-09-30T23:24:44Z"
   },
   {
     "id": "news-900e6225644e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T19:46:50Z"
+    "publishedAt": "2026-09-30T23:24:44Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T19:46:50Z"
+    "publishedAt": "2026-09-30T23:24:44Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T19:46:50Z"
+    "publishedAt": "2026-09-30T23:24:44Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T19:46:50Z"
+    "publishedAt": "2026-09-30T23:24:44Z"
   },
   {
     "id": "news-88d730759d71",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T19:46:50Z"
+    "publishedAt": "2026-09-30T23:24:44Z"
+  },
+  {
+    "id": "news-15e70ee5e4a7",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-09-30T20:01:45Z"
   },
   {
     "id": "news-c6908ef440fa",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-27T13:00:03Z"
-  },
-  {
-    "id": "news-6b4462044a09",
-    "title": "The Python documentation is now available in German",
-    "summary": "You can now read the Python documentation online in German!",
-    "url": "https://blog.python.org/2026/09/python-docs-in-german/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-09-26T00:00:00Z"
   }
 ]
