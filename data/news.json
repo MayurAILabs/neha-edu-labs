@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-01T10:42:55Z"
+    "publishedAt": "2026-10-01T17:14:33Z"
   },
   {
     "id": "news-900e6225644e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-01T10:42:55Z"
+    "publishedAt": "2026-10-01T17:14:33Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-01T10:42:55Z"
+    "publishedAt": "2026-10-01T17:14:33Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-01T10:42:55Z"
+    "publishedAt": "2026-10-01T17:14:33Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-01T10:42:55Z"
+    "publishedAt": "2026-10-01T17:14:33Z"
   },
   {
     "id": "news-88d730759d71",
@@ -57,7 +57,67 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-01T10:42:55Z"
+    "publishedAt": "2026-10-01T17:14:33Z"
+  },
+  {
+    "id": "news-a80484c2d584",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-01T16:00:00Z"
+  },
+  {
+    "id": "news-a2af7a6c887d",
+    "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+    "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The…",
+    "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-01T15:07:16Z"
+  },
+  {
+    "id": "news-0bf00b70dbd7",
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/allenai/olmocore3",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-01T15:01:43Z"
+  },
+  {
+    "id": "news-77852fb24237",
+    "title": "Fall Into 25 New Games on GeForce NOW This October",
+    "summary": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week. From a new CONTROL Resonant…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-01T13:00:54Z"
+  },
+  {
+    "id": "news-2d4cb7a285af",
+    "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+    "summary": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on…",
+    "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-01T13:00:49Z"
+  },
+  {
+    "id": "news-b7f83b733c3e",
+    "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
+    "summary": "It’s disheartening how much power gets generated and then promptly lost as it travels through grid networks. This leaking of electricity happens when it vanishes as heat as well as when it is pilfered by thieves and…",
+    "url": "https://spectrum.ieee.org/electricity-theft",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-01T12:00:02Z"
   },
   {
     "id": "news-39db869583d6",
@@ -418,65 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-09-28T17:23:33Z"
-  },
-  {
-    "id": "news-f6300592734e",
-    "title": "Here’s How Delhi Achieved Its Epic Power-Grid Fix",
-    "summary": "It’s 6 a.m. on a cold January morning in 2002 in New Delhi. It’s still dark outside, and I’m in the kitchen preparing breakfast, packing lunches, and getting my two children ready to catch the school bus when, for the…",
-    "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-28T13:00:04Z"
-  },
-  {
-    "id": "news-9552195c964d",
-    "title": "Holo4: powering generalist computer-use agents",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/Hcompany/holo4",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-28T09:44:05Z"
-  },
-  {
-    "id": "news-875cad4e1ea4",
-    "title": "New formulation helps RNA vaccines withstand high temperatures",
-    "summary": "MIT engineers have found a way to stabilize the lipid nanoparticles used to deliver RNA vaccines, which could allow the vaccines to be more widely distributed.",
-    "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-28T09:00:00Z"
-  },
-  {
-    "id": "news-216d56bba26c",
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-28T07:00:00Z"
-  },
-  {
-    "id": "news-914f14710638",
-    "title": "Are you a Codex Original?",
-    "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more…",
-    "url": "https://openai.com/form/codex-originals",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-28T00:00:00Z"
-  },
-  {
-    "id": "news-bf0fe8cc388a",
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-28T00:00:00Z"
   }
 ]
