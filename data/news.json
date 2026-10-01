@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T23:24:44Z"
+    "publishedAt": "2026-10-01T03:55:44Z"
   },
   {
     "id": "news-900e6225644e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T23:24:44Z"
+    "publishedAt": "2026-10-01T03:55:44Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T23:24:44Z"
+    "publishedAt": "2026-10-01T03:55:44Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T23:24:44Z"
+    "publishedAt": "2026-10-01T03:55:44Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T23:24:44Z"
+    "publishedAt": "2026-10-01T03:55:44Z"
   },
   {
     "id": "news-88d730759d71",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-09-30T23:24:44Z"
+    "publishedAt": "2026-10-01T03:55:44Z"
+  },
+  {
+    "id": "news-39db869583d6",
+    "title": "Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!",
+    "summary": "Security updates across Python 3.10–3.14, the final maintenance release of 3.13, and a farewell to Python 3.10.",
+    "url": "https://blog.python.org/2026/10/python-31022-31117/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-10-01T00:00:00Z"
   },
   {
     "id": "news-15e70ee5e4a7",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-28T00:00:00Z"
-  },
-  {
-    "id": "news-d6359c6d9de4",
-    "title": "Poetry for Engineers: The UI Designer’s Dream",
-    "summary": "My job is to translatedry and unrelenting codeinto a user interface of surpassing beauty.With my mouse, I roll one pixel after anotherup the vast anthill of the internet.My dream is to translatethe visions of the holy…",
-    "url": "https://spectrum.ieee.org/poetry-user-interface-design",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-27T13:00:03Z"
   }
 ]
