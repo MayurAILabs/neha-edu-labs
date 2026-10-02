@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-01T22:17:36Z"
+    "publishedAt": "2026-10-02T01:57:20Z"
   },
   {
     "id": "news-900e6225644e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-01T22:17:36Z"
+    "publishedAt": "2026-10-02T01:57:20Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-01T22:17:36Z"
+    "publishedAt": "2026-10-02T01:57:20Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-01T22:17:36Z"
+    "publishedAt": "2026-10-02T01:57:20Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-01T22:17:36Z"
+    "publishedAt": "2026-10-02T01:57:20Z"
   },
   {
     "id": "news-88d730759d71",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-01T22:17:36Z"
+    "publishedAt": "2026-10-02T01:57:20Z"
+  },
+  {
+    "id": "news-c68e4b407e02",
+    "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+    "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the…",
+    "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-01T23:44:13Z"
+  },
+  {
+    "id": "news-487a3c06f882",
+    "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+    "summary": "“InstructMesh” can generate designs for everyday objects that are easy to edit and fabricate for both experts and newcomers to 3D modeling.",
+    "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-01T22:00:00Z"
   },
   {
     "id": "news-7e67b43cf9d0",
@@ -457,26 +477,6 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "GitHub Blog",
     "category": "Programming",
-    "publishedAt": "2026-09-28T19:00:00Z"
-  },
-  {
-    "id": "news-cfe8e900401f",
-    "title": "How we will do better for Australia",
-    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-28T19:00:00Z"
-  },
-  {
-    "id": "news-cf468ec39dd6",
-    "title": "Towards safety cases for frontier AI training",
-    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
     "publishedAt": "2026-09-28T19:00:00Z"
   }
 ]
