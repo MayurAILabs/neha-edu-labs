@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T08:04:36Z"
+    "publishedAt": "2026-10-02T15:19:01Z"
   },
   {
     "id": "news-900e6225644e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T08:04:36Z"
+    "publishedAt": "2026-10-02T15:19:01Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T08:04:36Z"
+    "publishedAt": "2026-10-02T15:19:01Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T08:04:36Z"
+    "publishedAt": "2026-10-02T15:19:01Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T08:04:36Z"
+    "publishedAt": "2026-10-02T15:19:01Z"
   },
   {
     "id": "news-88d730759d71",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T08:04:36Z"
+    "publishedAt": "2026-10-02T15:19:01Z"
+  },
+  {
+    "id": "news-1122627a66df",
+    "title": "The latest AI news we announced in September 2026",
+    "summary": "Here are Google’s latest AI updates from September 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-10-02T15:00:00Z"
+  },
+  {
+    "id": "news-5afa66c19841",
+    "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+    "summary": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software. The post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog.",
+    "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-02T15:00:00Z"
+  },
+  {
+    "id": "news-1f284fec3a90",
+    "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+    "summary": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally.…",
+    "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-02T13:00:39Z"
+  },
+  {
+    "id": "news-d6d8deb3c4e1",
+    "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
+    "summary": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These…",
+    "url": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-02T10:00:03Z"
   },
   {
     "id": "news-a885ed61f54a",
@@ -438,45 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-09-29T10:00:00Z"
-  },
-  {
-    "id": "news-7912342139f3",
-    "title": "The effects of an “algorithmic monoculture” depend on the details",
-    "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations.",
-    "url": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-29T04:00:00Z"
-  },
-  {
-    "id": "news-809d70e354d2",
-    "title": "Who we become when we talk to machines",
-    "summary": "Professor Sherry Turkle’s new book, “Artificial Intimacy,” offers a withering critique of chatbots and the antisocial dynamics she believes they encourage.",
-    "url": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-29T04:00:00Z"
-  },
-  {
-    "id": "news-884977ecb800",
-    "title": "Introducing dots",
-    "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-    "url": "https://openai.com/index/introducing-dots",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-29T00:00:00Z"
-  },
-  {
-    "id": "news-cc449d663807",
-    "title": "A Day in the Life of a Roboticist: Charlie Kemp",
-    "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with…",
-    "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-28T21:48:56Z"
   }
 ]
