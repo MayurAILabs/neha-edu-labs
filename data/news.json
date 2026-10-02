@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T01:57:20Z"
+    "publishedAt": "2026-10-02T08:04:36Z"
   },
   {
     "id": "news-900e6225644e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T01:57:20Z"
+    "publishedAt": "2026-10-02T08:04:36Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T01:57:20Z"
+    "publishedAt": "2026-10-02T08:04:36Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T01:57:20Z"
+    "publishedAt": "2026-10-02T08:04:36Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T01:57:20Z"
+    "publishedAt": "2026-10-02T08:04:36Z"
   },
   {
     "id": "news-88d730759d71",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T01:57:20Z"
+    "publishedAt": "2026-10-02T08:04:36Z"
+  },
+  {
+    "id": "news-a885ed61f54a",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-02T04:01:31Z"
+  },
+  {
+    "id": "news-5ef2700f9c57",
+    "title": "3 Questions: A new resource to empower young entrepreneurs",
+    "summary": "Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer, a free platform for middle and high school students who want to learn about entrepreneurship.",
+    "url": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-02T04:00:00Z"
   },
   {
     "id": "news-c68e4b407e02",
@@ -458,25 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-09-28T21:48:56Z"
-  },
-  {
-    "id": "news-1eadd5627184",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-09-28T19:00:00Z"
-  },
-  {
-    "id": "news-791d6502db08",
-    "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
-    "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our…",
-    "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-28T19:00:00Z"
   }
 ]
