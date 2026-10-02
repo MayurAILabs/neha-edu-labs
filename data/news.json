@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T15:19:01Z"
+    "publishedAt": "2026-10-02T20:18:20Z"
   },
   {
     "id": "news-900e6225644e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T15:19:01Z"
+    "publishedAt": "2026-10-02T20:18:20Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T15:19:01Z"
+    "publishedAt": "2026-10-02T20:18:20Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T15:19:01Z"
+    "publishedAt": "2026-10-02T20:18:20Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T15:19:01Z"
+    "publishedAt": "2026-10-02T20:18:20Z"
   },
   {
     "id": "news-88d730759d71",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T15:19:01Z"
+    "publishedAt": "2026-10-02T20:18:20Z"
+  },
+  {
+    "id": "news-84b251b19cc1",
+    "title": "Computational tools for society’s most complex challenges",
+    "summary": "Associate Professor Cathy Wu uses reinforcement learning to help map out improvements to transportation and other multifaceted systems.",
+    "url": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-02T19:30:00Z"
+  },
+  {
+    "id": "news-7073f9adeb8b",
+    "title": "Documenting the tech worker movement",
+    "summary": "Writing as a participant and researcher, PhD student JS Tan SM ’22 has co-authored a new book about the rise of tech worker protests and the employer backlash that followed.",
+    "url": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-02T17:00:00Z"
+  },
+  {
+    "id": "news-8e206c4d9ed6",
+    "title": "A model guide for the GPT-6 family",
+    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-02T16:15:00Z"
+  },
+  {
+    "id": "news-d599f0a282be",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/allenai/astabrief",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-02T15:19:50Z"
   },
   {
     "id": "news-1122627a66df",
@@ -71,8 +111,8 @@
   },
   {
     "id": "news-5afa66c19841",
-    "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-    "summary": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software. The post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog.",
+    "title": "AI is changing developer work. Here are three skills to strengthen.",
+    "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The…",
     "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "GitHub Blog",
@@ -118,6 +158,16 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-02T04:00:00Z"
+  },
+  {
+    "id": "news-a97398f76ee5",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "url": "https://openai.com/index/chatham-financial",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-02T00:00:00Z"
   },
   {
     "id": "news-c68e4b407e02",
@@ -428,55 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-09-29T15:00:00Z"
-  },
-  {
-    "id": "news-984223f109f3",
-    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-29T13:07:00Z"
-  },
-  {
-    "id": "news-04465be95d8a",
-    "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
-    "summary": "Seventeen years ago, cell biologist Donald Ingber and his colleagues at Harvard University’s Wyss Institute for Biologically Inspired Engineering submitted a paper to the journal Science describing their model human…",
-    "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-29T13:00:02Z"
-  },
-  {
-    "id": "news-a002a190645e",
-    "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
-    "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.Key TakeawaysExplore four critical technologies…",
-    "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-29T10:00:06Z"
-  },
-  {
-    "id": "news-dd66acaed2a0",
-    "title": "Introducing GPT-6.1 Sol",
-    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-29T10:00:00Z"
-  },
-  {
-    "id": "news-19db7cc5ca5c",
-    "title": "DevDay 2026 Recap",
-    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "url": "https://openai.com/index/devday-2026-recap",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-29T10:00:00Z"
   }
 ]
