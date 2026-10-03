@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T20:18:20Z"
+    "publishedAt": "2026-10-03T00:06:57Z"
   },
   {
     "id": "news-900e6225644e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T20:18:20Z"
+    "publishedAt": "2026-10-03T00:06:57Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T20:18:20Z"
+    "publishedAt": "2026-10-03T00:06:57Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T20:18:20Z"
+    "publishedAt": "2026-10-03T00:06:57Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T20:18:20Z"
+    "publishedAt": "2026-10-03T00:06:57Z"
   },
   {
     "id": "news-88d730759d71",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-02T20:18:20Z"
+    "publishedAt": "2026-10-03T00:06:57Z"
   },
   {
     "id": "news-84b251b19cc1",
@@ -167,6 +167,16 @@
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
+    "publishedAt": "2026-10-02T00:00:00Z"
+  },
+  {
+    "id": "news-3e14c8dce44e",
+    "title": "Python 3.15.0 candidate 3 is here!",
+    "summary": "Following tradition, a surprise rc3!",
+    "url": "https://blog.python.org/2026/10/python-3150-rc3/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
     "publishedAt": "2026-10-02T00:00:00Z"
   },
   {
@@ -468,15 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-09-29T15:30:38Z"
-  },
-  {
-    "id": "news-dc9499639fbd",
-    "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-    "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The…",
-    "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-09-29T15:00:00Z"
   }
 ]
