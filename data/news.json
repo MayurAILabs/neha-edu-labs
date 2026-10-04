@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-03T22:02:17Z"
+    "publishedAt": "2026-10-04T02:21:23Z"
   },
   {
     "id": "news-900e6225644e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-03T22:02:17Z"
+    "publishedAt": "2026-10-04T02:21:23Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-03T22:02:17Z"
+    "publishedAt": "2026-10-04T02:21:23Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-03T22:02:17Z"
+    "publishedAt": "2026-10-04T02:21:23Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-03T22:02:17Z"
+    "publishedAt": "2026-10-04T02:21:23Z"
   },
   {
     "id": "news-88d730759d71",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-03T22:02:17Z"
+    "publishedAt": "2026-10-04T02:21:23Z"
+  },
+  {
+    "id": "news-89764eae0099",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-03T22:56:48Z"
   },
   {
     "id": "news-84b251b19cc1",
@@ -468,15 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-09-30T00:00:00Z"
-  },
-  {
-    "id": "news-493cf3fce1b8",
-    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-29T15:30:38Z"
   }
 ]
