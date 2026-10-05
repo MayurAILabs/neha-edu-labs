@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-05T08:13:57Z"
+    "publishedAt": "2026-10-05T17:48:19Z"
   },
   {
     "id": "news-900e6225644e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-05T08:13:57Z"
+    "publishedAt": "2026-10-05T17:48:19Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-05T08:13:57Z"
+    "publishedAt": "2026-10-05T17:48:19Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-05T08:13:57Z"
+    "publishedAt": "2026-10-05T17:48:19Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-05T08:13:57Z"
+    "publishedAt": "2026-10-05T17:48:19Z"
   },
   {
     "id": "news-88d730759d71",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-05T08:13:57Z"
+    "publishedAt": "2026-10-05T17:48:19Z"
+  },
+  {
+    "id": "news-4b0c57f28723",
+    "title": "ReviewBench: An open benchmark for AI code review",
+    "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-05T15:59:40Z"
+  },
+  {
+    "id": "news-78ad53815846",
+    "title": "Our approach to EU text provenance rules",
+    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-05T15:00:00Z"
+  },
+  {
+    "id": "news-c2f51f56b801",
+    "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+    "summary": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms…",
+    "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-05T13:00:57Z"
+  },
+  {
+    "id": "news-3cbec84de8bf",
+    "title": "Building advertising for the way people use AI",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-05T10:00:00Z"
   },
   {
     "id": "news-89764eae0099",
@@ -78,6 +118,16 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-02T19:30:00Z"
+  },
+  {
+    "id": "news-c2a79430af87",
+    "title": "Smart Car Researcher Wants to Eliminate Stoplights",
+    "summary": "Christos Cassandras has spent more than 40 years studying how computers and machines make decisions. Lately, his work has focused on a problem nearly every driver knows well: sitting at a red light with no cross traffic…",
+    "url": "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-02T18:00:02Z"
   },
   {
     "id": "news-7073f9adeb8b",
@@ -428,55 +478,5 @@
     "source": "Python Insider",
     "category": "Programming",
     "publishedAt": "2026-09-30T12:00:08Z"
-  },
-  {
-    "id": "news-08f2f60307ae",
-    "title": "Developer-in-Residence Update & Future (Python Language Summit 2026)",
-    "summary": "Petr Viktorin gives an update on the Developer-in-Residence role and asks Python core developers for projects to prioritize",
-    "url": "https://blog.python.org/2026/09/language-summit-2026-developer-in-residence-update-and-future/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-09-30T12:00:07Z"
-  },
-  {
-    "id": "news-5300bb09b014",
-    "title": "Spicycrab (Python Language Summit 2026)",
-    "summary": "Kushal Das shows off Spicycrab, a Python-to-Rust transpiler for Python users who need performance without learning Rust or leaving Python",
-    "url": "https://blog.python.org/2026/09/language-summit-2026-spicycrab/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-09-30T12:00:06Z"
-  },
-  {
-    "id": "news-6a91381a4292",
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-30T10:30:00Z"
-  },
-  {
-    "id": "news-b5e5e43443d2",
-    "title": "Helping small businesses put AI to work",
-    "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-09-30T10:00:00Z"
-  },
-  {
-    "id": "news-581ab3112c30",
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/open-tts-leaderboard",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-09-30T00:00:00Z"
   }
 ]
