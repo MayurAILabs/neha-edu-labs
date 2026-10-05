@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-05T17:48:19Z"
+    "publishedAt": "2026-10-05T23:40:20Z"
   },
   {
     "id": "news-900e6225644e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-05T17:48:19Z"
+    "publishedAt": "2026-10-05T23:40:20Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-05T17:48:19Z"
+    "publishedAt": "2026-10-05T23:40:20Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-05T17:48:19Z"
+    "publishedAt": "2026-10-05T23:40:20Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-05T17:48:19Z"
+    "publishedAt": "2026-10-05T23:40:20Z"
   },
   {
     "id": "news-88d730759d71",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-05T17:48:19Z"
+    "publishedAt": "2026-10-05T23:40:20Z"
+  },
+  {
+    "id": "news-0722a3e342da",
+    "title": "6 Guidelines for Governing AI",
+    "summary": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers…",
+    "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-05T18:00:02Z"
   },
   {
     "id": "news-4b0c57f28723",
@@ -468,15 +478,5 @@
     "source": "Python Insider",
     "category": "Programming",
     "publishedAt": "2026-09-30T12:00:09Z"
-  },
-  {
-    "id": "news-5bd235d8a2e2",
-    "title": "Free-Threaded Python Post-Era (Python Language Summit 2026)",
-    "summary": "Tobias Wrigstad, Fridtjof Stoldt, and Donghee Na propose a safe and performant, high-level concurrency model for free-threaded Python",
-    "url": "https://blog.python.org/2026/09/language-summit-2026-free-threading-post-era/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-09-30T12:00:08Z"
   }
 ]
