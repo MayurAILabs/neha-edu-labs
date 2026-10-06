@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T17:51:21Z"
+    "publishedAt": "2026-10-06T22:15:32Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T17:51:21Z"
+    "publishedAt": "2026-10-06T22:15:32Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T17:51:21Z"
+    "publishedAt": "2026-10-06T22:15:32Z"
   },
   {
     "id": "news-88d730759d71",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T17:51:21Z"
+    "publishedAt": "2026-10-06T22:15:32Z"
   },
   {
     "id": "news-11c9f0c4777b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T17:51:21Z"
+    "publishedAt": "2026-10-06T22:15:32Z"
   },
   {
     "id": "news-f10a05aa3ab0",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T17:51:21Z"
+    "publishedAt": "2026-10-06T22:15:32Z"
+  },
+  {
+    "id": "news-caa9437859ae",
+    "title": "Building Git infrastructure for agent-scale development",
+    "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The…",
+    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-06T20:57:56Z"
+  },
+  {
+    "id": "news-21c23ab08aaf",
+    "title": "Supercomputing researchers document evolution of AI hardware",
+    "summary": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors.",
+    "url": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-06T20:55:00Z"
+  },
+  {
+    "id": "news-4dd290070848",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-10-06T19:57:04Z"
   },
   {
     "id": "news-cc060c5c5502",
@@ -118,6 +148,16 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-10-06T11:44:10Z"
+  },
+  {
+    "id": "news-9964af802e9c",
+    "title": "Advancing computer use with Ironclad",
+    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-06T10:00:00Z"
   },
   {
     "id": "news-6eae1f670c28",
@@ -438,45 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-01T00:00:00Z"
-  },
-  {
-    "id": "news-15e70ee5e4a7",
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-09-30T20:01:45Z"
-  },
-  {
-    "id": "news-c6908ef440fa",
-    "title": "IEEE Celebrates Innovators Shaping the Future",
-    "summary": "Every year, IEEE recognizes individual researchers, innovators, and collaborative teams whose technical achievements and leadership have made a lasting impact on technology, engineering, and society worldwide with its…",
-    "url": "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-09-30T18:00:02Z"
-  },
-  {
-    "id": "news-f9faccd416c4",
-    "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
-    "summary": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA…",
-    "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-09-30T17:00:21Z"
-  },
-  {
-    "id": "news-9f49b513f8de",
-    "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
-    "summary": "With $2.1 million funding from Google.org, the open-source Public Transit Intelligence Hub will unify public transit monitoring, operations, and passenger communication.",
-    "url": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-09-30T15:15:00Z"
   }
 ]
