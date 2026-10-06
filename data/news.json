@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T04:39:49Z"
+    "publishedAt": "2026-10-06T11:44:10Z"
   },
   {
     "id": "news-900e6225644e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T04:39:49Z"
+    "publishedAt": "2026-10-06T11:44:10Z"
   },
   {
     "id": "news-bc7ae535a1e3",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T04:39:49Z"
+    "publishedAt": "2026-10-06T11:44:10Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T04:39:49Z"
+    "publishedAt": "2026-10-06T11:44:10Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T04:39:49Z"
+    "publishedAt": "2026-10-06T11:44:10Z"
   },
   {
     "id": "news-88d730759d71",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T04:39:49Z"
+    "publishedAt": "2026-10-06T11:44:10Z"
+  },
+  {
+    "id": "news-6eae1f670c28",
+    "title": "Happy IEEE Day!",
+    "summary": "Happy IEEE Day 2026!IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884.One of the IEEE Day’s objectives is to show the ways…",
+    "url": "https://spectrum.ieee.org/ieee-day",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-06T09:21:18Z"
+  },
+  {
+    "id": "news-085f7195b66f",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-06T06:44:39Z"
   },
   {
     "id": "news-0722a3e342da",
@@ -458,25 +478,5 @@
     "source": "Python Insider",
     "category": "Programming",
     "publishedAt": "2026-09-30T12:00:11Z"
-  },
-  {
-    "id": "news-1a1c34a9e71f",
-    "title": "Lightning Talks (Python Language Summit 2026)",
-    "summary": "Lightning talks on a one-time ABI break, safer interruptions, EktuPy (Scratch but Python), an AGENTS.md file for CPython, and a call to read PEP 836.",
-    "url": "https://blog.python.org/2026/09/language-summit-2026-lightning-talks/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-09-30T12:00:10Z"
-  },
-  {
-    "id": "news-20dd36683270",
-    "title": "PEP 827: Type Manipulation (Python Language Summit 2026)",
-    "summary": "Michael J. Sullivan presents PEP 827 and discusses a key design decision: how to store type annotations?",
-    "url": "https://blog.python.org/2026/09/language-summit-2026-pep-827-type-manipulation/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-09-30T12:00:09Z"
   }
 ]
