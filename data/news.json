@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T22:15:32Z"
+    "publishedAt": "2026-10-07T02:02:01Z"
   },
   {
     "id": "news-ee2118ecc143",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T22:15:32Z"
+    "publishedAt": "2026-10-07T02:02:01Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T22:15:32Z"
+    "publishedAt": "2026-10-07T02:02:01Z"
   },
   {
     "id": "news-88d730759d71",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T22:15:32Z"
+    "publishedAt": "2026-10-07T02:02:01Z"
   },
   {
     "id": "news-11c9f0c4777b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T22:15:32Z"
+    "publishedAt": "2026-10-07T02:02:01Z"
   },
   {
     "id": "news-f10a05aa3ab0",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-06T22:15:32Z"
+    "publishedAt": "2026-10-07T02:02:01Z"
   },
   {
     "id": "news-caa9437859ae",
@@ -128,6 +128,26 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-06T13:00:19Z"
+  },
+  {
+    "id": "news-342677ae7ead",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "url": "https://openai.com/index/jump-trading",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-06T12:00:00Z"
+  },
+  {
+    "id": "news-47b9255d8fa0",
+    "title": "Sharing AI progress in mathematics",
+    "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-06T12:00:00Z"
   },
   {
     "id": "news-02bf3648b3ab",
@@ -458,25 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-10-01T12:00:02Z"
-  },
-  {
-    "id": "news-39db869583d6",
-    "title": "Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!",
-    "summary": "Security updates across Python 3.10–3.14, the final maintenance release of 3.13, and a farewell to Python 3.10.",
-    "url": "https://blog.python.org/2026/10/python-31022-31117/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-10-01T00:00:00Z"
-  },
-  {
-    "id": "news-3bba52758573",
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-    "url": "https://openai.com/index/the-den-family-social",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-01T00:00:00Z"
   }
 ]
