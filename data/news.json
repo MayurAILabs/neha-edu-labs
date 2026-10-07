@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-bc7ae535a1e3",
-    "title": "Introducing Support for Local AI Models in the Antigravity SDK",
-    "summary": "The Google Antigravity SDK now empowers developers to execute offline, agentic workflows locally using models like Gemma 4 26B A4B via LiteRT. This update facilitates powerful hybrid orchestration architectures,…",
-    "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-07T17:12:38Z"
-  },
-  {
     "id": "news-ee2118ecc143",
     "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
     "summary": "Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-07T17:12:38Z"
+    "publishedAt": "2026-10-07T22:37:15Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-07T17:12:38Z"
+    "publishedAt": "2026-10-07T22:37:15Z"
   },
   {
     "id": "news-88d730759d71",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-07T17:12:38Z"
+    "publishedAt": "2026-10-07T22:37:15Z"
   },
   {
     "id": "news-11c9f0c4777b",
@@ -47,13 +37,73 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-07T17:12:38Z"
+    "publishedAt": "2026-10-07T22:37:15Z"
   },
   {
     "id": "news-f10a05aa3ab0",
     "title": "EmbeddingGemma 2: The Developer Guide",
     "summary": "EmbeddingGemma 2 is a compact, open-source multimodal embedding model that maps text, code, images, video, and audio into a unified 768-dimensional space. Developers can use the sentence-transformers library to…",
     "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-07T22:37:15Z"
+  },
+  {
+    "id": "news-59130c3cf886",
+    "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
+    "summary": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date…",
+    "url": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-07T22:37:15Z"
+  },
+  {
+    "id": "news-4d5e1f5c1fab",
+    "title": "Discovering the value of humanistic inquiry",
+    "summary": "Students in MIT’s Concourse program delve deeply into the human condition, debate challenging questions, and learn to develop judgment about issues that can’t be quantified.",
+    "url": "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-07T20:10:00Z"
+  },
+  {
+    "id": "news-327e963986a0",
+    "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+    "summary": "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded…",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-07T18:45:28Z"
+  },
+  {
+    "id": "news-9d8c93adc385",
+    "title": "IEEE Report Predicts Tech That Will Transform Lives",
+    "summary": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology Megatrends Report…",
+    "url": "https://spectrum.ieee.org/ieee-report-predicts-tech",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-07T18:00:02Z"
+  },
+  {
+    "id": "news-c13c9140efc7",
+    "title": "Secret protection must scale with software",
+    "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-07T17:45:34Z"
+  },
+  {
+    "id": "news-bc7ae535a1e3",
+    "title": "Introducing Support for Local AI Models in the Antigravity SDK",
+    "summary": "The Google Antigravity SDK now empowers developers to execute offline, agentic workflows locally using models like Gemma 4 26B A4B via LiteRT. This update facilitates powerful hybrid orchestration architectures,…",
+    "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -118,6 +168,26 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-10-07T12:00:00Z"
+  },
+  {
+    "id": "news-04e9dc3828b5",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "url": "https://openai.com/index/radisson",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-07T07:00:00Z"
+  },
+  {
+    "id": "news-0ca1450969b5",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-07T00:00:00Z"
   },
   {
     "id": "news-caa9437859ae",
@@ -408,75 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-10-02T10:00:03Z"
-  },
-  {
-    "id": "news-a885ed61f54a",
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-02T04:01:31Z"
-  },
-  {
-    "id": "news-5ef2700f9c57",
-    "title": "3 Questions: A new resource to empower young entrepreneurs",
-    "summary": "Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer, a free platform for middle and high school students who want to learn about entrepreneurship.",
-    "url": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-02T04:00:00Z"
-  },
-  {
-    "id": "news-a97398f76ee5",
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-    "url": "https://openai.com/index/chatham-financial",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-02T00:00:00Z"
-  },
-  {
-    "id": "news-3e14c8dce44e",
-    "title": "Python 3.15.0 candidate 3 is here!",
-    "summary": "Following tradition, a surprise rc3!",
-    "url": "https://blog.python.org/2026/10/python-3150-rc3/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-10-02T00:00:00Z"
-  },
-  {
-    "id": "news-c68e4b407e02",
-    "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-    "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the…",
-    "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-01T23:44:13Z"
-  },
-  {
-    "id": "news-487a3c06f882",
-    "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
-    "summary": "“InstructMesh” can generate designs for everyday objects that are easy to edit and fabricate for both experts and newcomers to 3D modeling.",
-    "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-01T22:00:00Z"
-  },
-  {
-    "id": "news-7e67b43cf9d0",
-    "title": "The eternal complement",
-    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-    "url": "https://openai.com/index/the-eternal-complement",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-01T17:00:00Z"
   }
 ]
