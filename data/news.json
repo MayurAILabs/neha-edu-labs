@@ -7,17 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T09:54:16Z"
-  },
-  {
-    "id": "news-d5cff23622a2",
-    "title": "Reproducing Olmo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
-    "summary": "The MaxText team successfully reproduced Ai2’s Olmo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, precisely matching the original PyTorch-on-GPU reference across pre-training and mid-training…",
-    "url": "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-08T09:54:16Z"
+    "publishedAt": "2026-10-08T17:09:31Z"
   },
   {
     "id": "news-88d730759d71",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T09:54:16Z"
+    "publishedAt": "2026-10-08T17:09:31Z"
   },
   {
     "id": "news-11c9f0c4777b",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T09:54:16Z"
+    "publishedAt": "2026-10-08T17:09:31Z"
   },
   {
     "id": "news-f10a05aa3ab0",
@@ -47,13 +37,53 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T09:54:16Z"
+    "publishedAt": "2026-10-08T17:09:31Z"
   },
   {
     "id": "news-59130c3cf886",
     "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
     "summary": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date…",
     "url": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-08T17:09:31Z"
+  },
+  {
+    "id": "news-78c2867dd026",
+    "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
+    "summary": "How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference…",
+    "url": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-08T17:09:31Z"
+  },
+  {
+    "id": "news-e98e25a5c1b7",
+    "title": "How one bug bounty researcher chooses the features they investigate",
+    "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher…",
+    "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-08T17:02:52Z"
+  },
+  {
+    "id": "news-22621a26ca48",
+    "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+    "summary": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance. A new way to join the…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-08T13:00:46Z"
+  },
+  {
+    "id": "news-d5cff23622a2",
+    "title": "Reproducing Olmo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
+    "summary": "The MaxText team successfully reproduced Ai2’s Olmo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, precisely matching the original PyTorch-on-GPU reference across pre-training and mid-training…",
+    "url": "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -68,6 +98,16 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-08T04:00:00Z"
+  },
+  {
+    "id": "news-077dea1e8a7a",
+    "title": "Disrupting AI-enabled “false front” operations",
+    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-08T00:00:00Z"
   },
   {
     "id": "news-4d5e1f5c1fab",
@@ -148,6 +188,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-10-07T13:49:48Z"
+  },
+  {
+    "id": "news-91ed3eb235f3",
+    "title": "Introducing Falcon ASR",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-07T13:21:03Z"
   },
   {
     "id": "news-5bdd694c6290",
@@ -428,55 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-02T17:00:00Z"
-  },
-  {
-    "id": "news-8e206c4d9ed6",
-    "title": "A model guide for the GPT-6 family",
-    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-    "url": "https://openai.com/index/practical-guide-building-gpt-6",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-02T16:15:00Z"
-  },
-  {
-    "id": "news-d599f0a282be",
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/allenai/astabrief",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-02T15:19:50Z"
-  },
-  {
-    "id": "news-1122627a66df",
-    "title": "The latest AI news we announced in September 2026",
-    "summary": "Here are Google’s latest AI updates from September 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-10-02T15:00:00Z"
-  },
-  {
-    "id": "news-5afa66c19841",
-    "title": "AI is changing developer work. Here are three skills to strengthen.",
-    "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The…",
-    "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-02T15:00:00Z"
-  },
-  {
-    "id": "news-1f284fec3a90",
-    "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-    "summary": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally.…",
-    "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-02T13:00:39Z"
   }
 ]
