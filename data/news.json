@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-ee2118ecc143",
-    "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
-    "summary": "Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific…",
-    "url": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-08T17:09:31Z"
-  },
-  {
     "id": "news-88d730759d71",
     "title": "Accelerating Spatio-Temporal Attention for Video Diffusion on TPUs",
     "summary": "To address the quadratic latency bottleneck of self-attention in high-resolution video diffusion models, developers implemented Sparse VideoGen (SVG) to dynamically route attention heads to highly structured spatial or…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T17:09:31Z"
+    "publishedAt": "2026-10-08T22:49:03Z"
   },
   {
     "id": "news-11c9f0c4777b",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T17:09:31Z"
+    "publishedAt": "2026-10-08T22:49:03Z"
   },
   {
     "id": "news-f10a05aa3ab0",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T17:09:31Z"
+    "publishedAt": "2026-10-08T22:49:03Z"
   },
   {
     "id": "news-59130c3cf886",
@@ -47,13 +37,53 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T17:09:31Z"
+    "publishedAt": "2026-10-08T22:49:03Z"
   },
   {
     "id": "news-78c2867dd026",
     "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
     "summary": "How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference…",
     "url": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-08T22:49:03Z"
+  },
+  {
+    "id": "news-6a6f5396528b",
+    "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+    "summary": "Google AI Edge has introduced ML Drift, a high-performance, universal GPU compute framework designed to accelerate on-device AI and machine learning inference. By abstracting the complexities of hardware and low-level…",
+    "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-08T22:49:03Z"
+  },
+  {
+    "id": "news-7a987f35931d",
+    "title": "3 Questions: What is the best path forward for AI in academia?",
+    "summary": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
+    "url": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-08T21:25:00Z"
+  },
+  {
+    "id": "news-baf7193e75c1",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
+    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-08T21:06:35Z"
+  },
+  {
+    "id": "news-ee2118ecc143",
+    "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
+    "summary": "Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific…",
+    "url": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -70,6 +100,16 @@
     "publishedAt": "2026-10-08T17:02:52Z"
   },
   {
+    "id": "news-112b5f00879d",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "url": "https://openai.com/index/oracle",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-08T16:00:00Z"
+  },
+  {
     "id": "news-22621a26ca48",
     "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
     "summary": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance. A new way to join the…",
@@ -78,6 +118,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-08T13:00:46Z"
+  },
+  {
+    "id": "news-ca1ec6c6a1a1",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+    "url": "https://openai.com/index/pollo-ai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-08T12:00:00Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -106,6 +156,16 @@
     "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-08T00:00:00Z"
+  },
+  {
+    "id": "news-0f05fd4155a4",
+    "title": "The model that didn't exist, so you made it yourself",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/building-with-ml-intern",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-10-08T00:00:00Z"
   },
@@ -418,65 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-05T15:00:00Z"
-  },
-  {
-    "id": "news-c2f51f56b801",
-    "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-    "summary": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms…",
-    "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-05T13:00:57Z"
-  },
-  {
-    "id": "news-3cbec84de8bf",
-    "title": "Building advertising for the way people use AI",
-    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-05T10:00:00Z"
-  },
-  {
-    "id": "news-89764eae0099",
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-03T22:56:48Z"
-  },
-  {
-    "id": "news-84b251b19cc1",
-    "title": "Computational tools for society’s most complex challenges",
-    "summary": "Associate Professor Cathy Wu uses reinforcement learning to help map out improvements to transportation and other multifaceted systems.",
-    "url": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-02T19:30:00Z"
-  },
-  {
-    "id": "news-c2a79430af87",
-    "title": "Smart Car Researcher Wants to Eliminate Stoplights",
-    "summary": "Christos Cassandras has spent more than 40 years studying how computers and machines make decisions. Lately, his work has focused on a problem nearly every driver knows well: sitting at a red light with no cross traffic…",
-    "url": "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-02T18:00:02Z"
-  },
-  {
-    "id": "news-7073f9adeb8b",
-    "title": "Documenting the tech worker movement",
-    "summary": "Writing as a participant and researcher, PhD student JS Tan SM ’22 has co-authored a new book about the rise of tech worker protests and the employer backlash that followed.",
-    "url": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-02T17:00:00Z"
   }
 ]
