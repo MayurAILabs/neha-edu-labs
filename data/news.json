@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T02:26:50Z"
+    "publishedAt": "2026-10-08T09:54:16Z"
   },
   {
     "id": "news-d5cff23622a2",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T02:26:50Z"
+    "publishedAt": "2026-10-08T09:54:16Z"
   },
   {
     "id": "news-88d730759d71",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T02:26:50Z"
+    "publishedAt": "2026-10-08T09:54:16Z"
   },
   {
     "id": "news-11c9f0c4777b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T02:26:50Z"
+    "publishedAt": "2026-10-08T09:54:16Z"
   },
   {
     "id": "news-f10a05aa3ab0",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T02:26:50Z"
+    "publishedAt": "2026-10-08T09:54:16Z"
   },
   {
     "id": "news-59130c3cf886",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T02:26:50Z"
+    "publishedAt": "2026-10-08T09:54:16Z"
+  },
+  {
+    "id": "news-4c75baed558f",
+    "title": "Using AI to mitigate the growing environmental threat of data centers",
+    "summary": "By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient.",
+    "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-08T04:00:00Z"
   },
   {
     "id": "news-4d5e1f5c1fab",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-02T13:00:39Z"
-  },
-  {
-    "id": "news-d6d8deb3c4e1",
-    "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
-    "summary": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These…",
-    "url": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-02T10:00:03Z"
   }
 ]
