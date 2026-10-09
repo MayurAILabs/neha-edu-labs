@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T09:58:09Z"
+    "publishedAt": "2026-10-09T16:53:00Z"
   },
   {
     "id": "news-11c9f0c4777b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T09:58:09Z"
+    "publishedAt": "2026-10-09T16:53:00Z"
   },
   {
     "id": "news-f10a05aa3ab0",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T09:58:09Z"
+    "publishedAt": "2026-10-09T16:53:00Z"
   },
   {
     "id": "news-59130c3cf886",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T09:58:09Z"
+    "publishedAt": "2026-10-09T16:53:00Z"
   },
   {
     "id": "news-78c2867dd026",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T09:58:09Z"
+    "publishedAt": "2026-10-09T16:53:00Z"
   },
   {
     "id": "news-6a6f5396528b",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T09:58:09Z"
+    "publishedAt": "2026-10-09T16:53:00Z"
+  },
+  {
+    "id": "news-8608b90d585c",
+    "title": "Hack the World: Why hackathons are still the best place to learn to build",
+    "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared…",
+    "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-09T16:00:00Z"
+  },
+  {
+    "id": "news-43ef54e74d27",
+    "title": "Impactful scheduling for GPU clusters",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-09T15:20:29Z"
   },
   {
     "id": "news-edd58468d564",
@@ -68,6 +88,16 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-09T07:00:00Z"
+  },
+  {
+    "id": "news-d3194a2e84b0",
+    "title": "Python 3.15.0 (final) is here!",
+    "summary": "A brand new Python here for you to enjoy!",
+    "url": "https://blog.python.org/2026/10/python-3150-final-is-here/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-10-09T00:00:00Z"
   },
   {
     "id": "news-7a987f35931d",
@@ -448,35 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-06T10:00:00Z"
-  },
-  {
-    "id": "news-6eae1f670c28",
-    "title": "Happy IEEE Day!",
-    "summary": "Happy IEEE Day 2026!IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884.One of the IEEE Day’s objectives is to show the ways…",
-    "url": "https://spectrum.ieee.org/ieee-day",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-06T09:21:18Z"
-  },
-  {
-    "id": "news-085f7195b66f",
-    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-06T06:44:39Z"
-  },
-  {
-    "id": "news-0722a3e342da",
-    "title": "6 Guidelines for Governing AI",
-    "summary": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers…",
-    "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-05T18:00:02Z"
   }
 ]
