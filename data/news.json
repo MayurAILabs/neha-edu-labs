@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T02:43:46Z"
+    "publishedAt": "2026-10-09T09:58:09Z"
   },
   {
     "id": "news-11c9f0c4777b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T02:43:46Z"
+    "publishedAt": "2026-10-09T09:58:09Z"
   },
   {
     "id": "news-f10a05aa3ab0",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T02:43:46Z"
+    "publishedAt": "2026-10-09T09:58:09Z"
   },
   {
     "id": "news-59130c3cf886",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T02:43:46Z"
+    "publishedAt": "2026-10-09T09:58:09Z"
   },
   {
     "id": "news-78c2867dd026",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T02:43:46Z"
+    "publishedAt": "2026-10-09T09:58:09Z"
   },
   {
     "id": "news-6a6f5396528b",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T02:43:46Z"
+    "publishedAt": "2026-10-09T09:58:09Z"
+  },
+  {
+    "id": "news-edd58468d564",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "url": "https://openai.com/index/sophos",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-09T07:00:00Z"
   },
   {
     "id": "news-7a987f35931d",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-10-05T18:00:02Z"
-  },
-  {
-    "id": "news-4b0c57f28723",
-    "title": "ReviewBench: An open benchmark for AI code review",
-    "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-05T15:59:40Z"
   }
 ]
