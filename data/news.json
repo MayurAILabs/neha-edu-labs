@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T16:53:00Z"
+    "publishedAt": "2026-10-09T21:26:57Z"
   },
   {
     "id": "news-11c9f0c4777b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T16:53:00Z"
+    "publishedAt": "2026-10-09T21:26:57Z"
   },
   {
     "id": "news-f10a05aa3ab0",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T16:53:00Z"
+    "publishedAt": "2026-10-09T21:26:57Z"
   },
   {
     "id": "news-59130c3cf886",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T16:53:00Z"
+    "publishedAt": "2026-10-09T21:26:57Z"
   },
   {
     "id": "news-78c2867dd026",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T16:53:00Z"
+    "publishedAt": "2026-10-09T21:26:57Z"
   },
   {
     "id": "news-6a6f5396528b",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-09T16:53:00Z"
+    "publishedAt": "2026-10-09T21:26:57Z"
+  },
+  {
+    "id": "news-b1eb962139f0",
+    "title": "Master AI Chip Principles With New IEEE Design Program",
+    "summary": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the rapid growth of…",
+    "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-09T18:00:02Z"
   },
   {
     "id": "news-8608b90d585c",
@@ -80,10 +90,30 @@
     "publishedAt": "2026-10-09T15:20:29Z"
   },
   {
+    "id": "news-401d4ab42eae",
+    "title": "We Need to Embed Ethics Into Our Engineering Courses",
+    "summary": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid…",
+    "url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-09T12:00:02Z"
+  },
+  {
     "id": "news-edd58468d564",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
     "url": "https://openai.com/index/sophos",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-09T07:00:00Z"
+  },
+  {
+    "id": "news-90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "url": "https://openai.com/index/asana-browser-agent",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -448,35 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-06T12:00:00Z"
-  },
-  {
-    "id": "news-02bf3648b3ab",
-    "title": "Why client SDK generation belongs in the open",
-    "summary": "Google has partnered with Speakeasy to open-source their OpenAPI code generation suite under the AGPLv3 license, a strategic move prompted by the sudden shutdown of Google's previous proprietary SDK provider. The newly…",
-    "url": "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-06T11:44:10Z"
-  },
-  {
-    "id": "news-900e6225644e",
-    "title": "Colab is now part of your Google AI plan",
-    "summary": "Unlock premium Google Colab compute with Google AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs.",
-    "url": "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-06T11:44:10Z"
-  },
-  {
-    "id": "news-9964af802e9c",
-    "title": "Advancing computer use with Ironclad",
-    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-06T10:00:00Z"
   }
 ]
