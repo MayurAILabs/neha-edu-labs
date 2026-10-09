@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T22:49:03Z"
+    "publishedAt": "2026-10-09T02:43:46Z"
   },
   {
     "id": "news-11c9f0c4777b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T22:49:03Z"
+    "publishedAt": "2026-10-09T02:43:46Z"
   },
   {
     "id": "news-f10a05aa3ab0",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T22:49:03Z"
+    "publishedAt": "2026-10-09T02:43:46Z"
   },
   {
     "id": "news-59130c3cf886",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T22:49:03Z"
+    "publishedAt": "2026-10-09T02:43:46Z"
   },
   {
     "id": "news-78c2867dd026",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T22:49:03Z"
+    "publishedAt": "2026-10-09T02:43:46Z"
   },
   {
     "id": "news-6a6f5396528b",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-08T22:49:03Z"
+    "publishedAt": "2026-10-09T02:43:46Z"
   },
   {
     "id": "news-7a987f35931d",
@@ -124,6 +124,16 @@
     "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
     "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
     "url": "https://openai.com/index/pollo-ai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-08T12:00:00Z"
+  },
+  {
+    "id": "news-f6d3626eb7c8",
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+    "url": "https://openai.com/index/legalon-halves-codex-costs",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -468,15 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-10-05T15:59:40Z"
-  },
-  {
-    "id": "news-78ad53815846",
-    "title": "Our approach to EU text provenance rules",
-    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-    "url": "https://openai.com/index/eu-text-provenance",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-05T15:00:00Z"
   }
 ]
