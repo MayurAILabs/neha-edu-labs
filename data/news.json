@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-12T16:27:00Z"
+    "publishedAt": "2026-10-12T23:26:50Z"
   },
   {
     "id": "news-11c9f0c4777b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-12T16:27:00Z"
+    "publishedAt": "2026-10-12T23:26:50Z"
   },
   {
     "id": "news-f10a05aa3ab0",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-12T16:27:00Z"
+    "publishedAt": "2026-10-12T23:26:50Z"
   },
   {
     "id": "news-59130c3cf886",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-12T16:27:00Z"
+    "publishedAt": "2026-10-12T23:26:50Z"
   },
   {
     "id": "news-78c2867dd026",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-12T16:27:00Z"
+    "publishedAt": "2026-10-12T23:26:50Z"
   },
   {
     "id": "news-6a6f5396528b",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-12T16:27:00Z"
+    "publishedAt": "2026-10-12T23:26:50Z"
+  },
+  {
+    "id": "news-0ed98d3b2521",
+    "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+    "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone.Gurmeet Saran works to find that answer every day as an engineer at…",
+    "url": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-12T18:00:02Z"
+  },
+  {
+    "id": "news-d8d241723974",
+    "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+    "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-12T17:43:59Z"
   },
   {
     "id": "news-9c679f3096ea",
@@ -458,25 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-06T17:00:00Z"
-  },
-  {
-    "id": "news-60ef2af305e7",
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "url": "https://openai.com/index/atlassian-partnership",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-06T16:00:00Z"
-  },
-  {
-    "id": "news-e81043418dfe",
-    "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
-    "summary": "The effort aims to help U.S. learners from kindergarten to community college, with an emphasis on math, making, and the constructive use of AI.",
-    "url": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-06T15:00:00Z"
   }
 ]
