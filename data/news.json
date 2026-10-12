@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-12T06:54:38Z"
+    "publishedAt": "2026-10-12T16:27:00Z"
   },
   {
     "id": "news-11c9f0c4777b",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-12T06:54:38Z"
+    "publishedAt": "2026-10-12T16:27:00Z"
   },
   {
     "id": "news-f10a05aa3ab0",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-12T06:54:38Z"
+    "publishedAt": "2026-10-12T16:27:00Z"
   },
   {
     "id": "news-59130c3cf886",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-12T06:54:38Z"
+    "publishedAt": "2026-10-12T16:27:00Z"
   },
   {
     "id": "news-78c2867dd026",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-12T06:54:38Z"
+    "publishedAt": "2026-10-12T16:27:00Z"
   },
   {
     "id": "news-6a6f5396528b",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-12T06:54:38Z"
+    "publishedAt": "2026-10-12T16:27:00Z"
+  },
+  {
+    "id": "news-9c679f3096ea",
+    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+    "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open…",
+    "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-12T15:00:25Z"
+  },
+  {
+    "id": "news-5a7f7575a820",
+    "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
+    "summary": "This article was originally published by Canary Media.The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah — marking the first time a utility-scale, next-generation…",
+    "url": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-12T13:00:02Z"
+  },
+  {
+    "id": "news-001c1dd2389f",
+    "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+    "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why…",
+    "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-12T10:00:03Z"
   },
   {
     "id": "news-b1eb962139f0",
@@ -448,35 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-06T15:00:00Z"
-  },
-  {
-    "id": "news-c84805ae92ec",
-    "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-    "summary": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical…",
-    "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-06T13:00:19Z"
-  },
-  {
-    "id": "news-342677ae7ead",
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-    "url": "https://openai.com/index/jump-trading",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-06T12:00:00Z"
-  },
-  {
-    "id": "news-47b9255d8fa0",
-    "title": "Sharing AI progress in mathematics",
-    "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-06T12:00:00Z"
   }
 ]
