@@ -1,5 +1,125 @@
 [
   {
+    "id": "news-f10a05aa3ab0",
+    "title": "EmbeddingGemma 2: The Developer Guide",
+    "summary": "EmbeddingGemma 2 is a compact, open-source multimodal embedding model that maps text, code, images, video, and audio into a unified 768-dimensional space. Developers can use the sentence-transformers library to…",
+    "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-13T20:02:44Z"
+  },
+  {
+    "id": "news-59130c3cf886",
+    "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
+    "summary": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date…",
+    "url": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-13T20:02:44Z"
+  },
+  {
+    "id": "news-78c2867dd026",
+    "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
+    "summary": "How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference…",
+    "url": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-13T20:02:44Z"
+  },
+  {
+    "id": "news-6a6f5396528b",
+    "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+    "summary": "Google AI Edge has introduced ML Drift, a high-performance, universal GPU compute framework designed to accelerate on-device AI and machine learning inference. By abstracting the complexities of hardware and low-level…",
+    "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-13T20:02:44Z"
+  },
+  {
+    "id": "news-c64515c7bf52",
+    "title": "Gemini 4 Argon for Robotics",
+    "summary": "Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning.…",
+    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-13T20:02:44Z"
+  },
+  {
+    "id": "news-8e87a0864232",
+    "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+    "summary": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source…",
+    "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-13T20:02:44Z"
+  },
+  {
+    "id": "news-471508c04c30",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-10-13T19:43:07Z"
+  },
+  {
+    "id": "news-22c6ef693aee",
+    "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+    "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets…",
+    "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-13T17:56:33Z"
+  },
+  {
+    "id": "news-550c4c02e9ff",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-13T17:05:48Z"
+  },
+  {
+    "id": "news-884ebf3c3978",
+    "title": "Gemini 4 Argon for Robotics",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-10-13T16:01:58Z"
+  },
+  {
+    "id": "news-f174716114a9",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-10-13T16:01:52Z"
+  },
+  {
+    "id": "news-c1e94fc83136",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-10-13T16:00:00Z"
+  },
+  {
     "id": "news-88d730759d71",
     "title": "Accelerating Spatio-Temporal Attention for Video Diffusion on TPUs",
     "summary": "To address the quadratic latency bottleneck of self-attention in high-resolution video diffusion models, developers implemented Sparse VideoGen (SVG) to dynamically route attention heads to highly structured spatial or…",
@@ -20,46 +140,6 @@
     "publishedAt": "2026-10-13T13:28:24Z"
   },
   {
-    "id": "news-f10a05aa3ab0",
-    "title": "EmbeddingGemma 2: The Developer Guide",
-    "summary": "EmbeddingGemma 2 is a compact, open-source multimodal embedding model that maps text, code, images, video, and audio into a unified 768-dimensional space. Developers can use the sentence-transformers library to…",
-    "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-13T13:28:24Z"
-  },
-  {
-    "id": "news-59130c3cf886",
-    "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
-    "summary": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date…",
-    "url": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-13T13:28:24Z"
-  },
-  {
-    "id": "news-78c2867dd026",
-    "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
-    "summary": "How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference…",
-    "url": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-13T13:28:24Z"
-  },
-  {
-    "id": "news-6a6f5396528b",
-    "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
-    "summary": "Google AI Edge has introduced ML Drift, a high-performance, universal GPU compute framework designed to accelerate on-device AI and machine learning inference. By abstracting the complexities of hardware and low-level…",
-    "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-13T13:28:24Z"
-  },
-  {
     "id": "news-1001bd550953",
     "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
     "summary": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and…",
@@ -70,8 +150,18 @@
     "publishedAt": "2026-10-13T12:00:49Z"
   },
   {
+    "id": "news-ffc748cb8d88",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-13T12:00:00Z"
+  },
+  {
     "id": "news-3fa2d8668eae",
-    "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+    "title": "NVIDIA Announces New Investments in France’s Startups",
     "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to…",
     "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
     "image": "assets/images/news/cat-ai.svg",
@@ -88,6 +178,16 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-13T04:00:00Z"
+  },
+  {
+    "id": "news-288a44c8c89a",
+    "title": "Python 3.16.0 alpha 1 is now available",
+    "summary": "The first developer preview of Python 3.16 is ready for testing.",
+    "url": "https://blog.python.org/2026/10/python-3160-alpha-1-is-now-available/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-10-13T00:00:00Z"
   },
   {
     "id": "news-0ed98d3b2521",
@@ -122,7 +222,7 @@
   {
     "id": "news-5a7f7575a820",
     "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
-    "summary": "This article was originally published by Canary Media.The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah — marking the first time a utility-scale, next-generation…",
+    "summary": "This article was originally published by Canary Media.The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah—marking the first time a utility-scale, next-generation…",
     "url": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
@@ -214,6 +314,16 @@
     "title": "3 Questions: What is the best path forward for AI in academia?",
     "summary": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
     "url": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-08T21:25:00Z"
+  },
+  {
+    "id": "news-a9842125a33e",
+    "title": "3 Questions: What is the best path forward for AI in academia?",
+    "summary": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
+    "url": "https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008",
     "image": "assets/images/news/cat-ai.svg",
     "source": "MIT News — AI",
     "category": "AI",
@@ -368,115 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-10-07T17:45:34Z"
-  },
-  {
-    "id": "news-bc7ae535a1e3",
-    "title": "Introducing Support for Local AI Models in the Antigravity SDK",
-    "summary": "The Google Antigravity SDK now empowers developers to execute offline, agentic workflows locally using models like Gemma 4 26B A4B via LiteRT. This update facilitates powerful hybrid orchestration architectures,…",
-    "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-07T17:12:38Z"
-  },
-  {
-    "id": "news-15da62cc7059",
-    "title": "Changing Your Career Isn’t Easy",
-    "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and…",
-    "url": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-07T17:04:02Z"
-  },
-  {
-    "id": "news-0825a4897dea",
-    "title": "Multimodal open d1 decision models for the edge",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-07T16:54:33Z"
-  },
-  {
-    "id": "news-e3c4600c5330",
-    "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
-    "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the…",
-    "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-07T13:49:48Z"
-  },
-  {
-    "id": "news-91ed3eb235f3",
-    "title": "Introducing Falcon ASR",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-07T13:21:03Z"
-  },
-  {
-    "id": "news-5bdd694c6290",
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-07T12:45:31Z"
-  },
-  {
-    "id": "news-ad4e14640e35",
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "url": "https://openai.com/index/teens-learn-and-plan",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-07T12:00:00Z"
-  },
-  {
-    "id": "news-22643d6fcb19",
-    "title": "Introducing Playground: Create and play custom games",
-    "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-10-07T12:00:00Z"
-  },
-  {
-    "id": "news-04e9dc3828b5",
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-    "url": "https://openai.com/index/radisson",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-07T07:00:00Z"
-  },
-  {
-    "id": "news-0ca1450969b5",
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "url": "https://openai.com/index/gpt-6-for-everyone",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-07T00:00:00Z"
-  },
-  {
-    "id": "news-caa9437859ae",
-    "title": "Building Git infrastructure for agent-scale development",
-    "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The…",
-    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-06T20:57:56Z"
   }
 ]
