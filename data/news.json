@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-14T00:06:19Z"
+    "publishedAt": "2026-10-14T05:45:11Z"
   },
   {
     "id": "news-59130c3cf886",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-14T00:06:19Z"
+    "publishedAt": "2026-10-14T05:45:11Z"
   },
   {
     "id": "news-78c2867dd026",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-14T00:06:19Z"
+    "publishedAt": "2026-10-14T05:45:11Z"
   },
   {
     "id": "news-6a6f5396528b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-14T00:06:19Z"
+    "publishedAt": "2026-10-14T05:45:11Z"
   },
   {
     "id": "news-c64515c7bf52",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-14T00:06:19Z"
+    "publishedAt": "2026-10-14T05:45:11Z"
   },
   {
     "id": "news-8e87a0864232",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-14T00:06:19Z"
+    "publishedAt": "2026-10-14T05:45:11Z"
+  },
+  {
+    "id": "news-58e4191fcfe4",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-10-14T02:00:14Z"
   },
   {
     "id": "news-11e83311a7c5",
@@ -468,15 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-07T20:10:00Z"
-  },
-  {
-    "id": "news-327e963986a0",
-    "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-    "summary": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on…",
-    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-07T18:45:28Z"
   }
 ]
