@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-f10a05aa3ab0",
-    "title": "EmbeddingGemma 2: The Developer Guide",
-    "summary": "EmbeddingGemma 2 is a compact, open-source multimodal embedding model that maps text, code, images, video, and audio into a unified 768-dimensional space. Developers can use the sentence-transformers library to…",
-    "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-14T16:26:25Z"
-  },
-  {
     "id": "news-59130c3cf886",
     "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
     "summary": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-14T16:26:25Z"
+    "publishedAt": "2026-10-14T20:24:52Z"
   },
   {
     "id": "news-78c2867dd026",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-14T16:26:25Z"
+    "publishedAt": "2026-10-14T20:24:52Z"
   },
   {
     "id": "news-6a6f5396528b",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-14T16:26:25Z"
+    "publishedAt": "2026-10-14T20:24:52Z"
   },
   {
     "id": "news-c64515c7bf52",
@@ -47,13 +37,63 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-14T16:26:25Z"
+    "publishedAt": "2026-10-14T20:24:52Z"
   },
   {
     "id": "news-8e87a0864232",
     "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
     "summary": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source…",
     "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-14T20:24:52Z"
+  },
+  {
+    "id": "news-f350160e6b6f",
+    "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
+    "summary": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and…",
+    "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-14T20:24:52Z"
+  },
+  {
+    "id": "news-86f0f518c779",
+    "title": "GitHub availability report: September 2026",
+    "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog.",
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-14T20:01:35Z"
+  },
+  {
+    "id": "news-cc3cc3fb0e33",
+    "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+    "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding…",
+    "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-14T19:11:33Z"
+  },
+  {
+    "id": "news-92e983a3da8f",
+    "title": "IEEE Continues Preparations for the Realignment of Its Regions",
+    "summary": "Progress continues in restructuring IEEE’s geographic regions, as outlined in The Institute’s February 2023 article “IEEE Is Realigning Its Geographic Regions.” The “Region 1” designation will no longer be used.The new…",
+    "url": "https://spectrum.ieee.org/realignment-ieee-regions",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-14T18:00:03Z"
+  },
+  {
+    "id": "news-f10a05aa3ab0",
+    "title": "EmbeddingGemma 2: The Developer Guide",
+    "summary": "EmbeddingGemma 2 is a compact, open-source multimodal embedding model that maps text, code, images, video, and audio into a unified 768-dimensional space. Developers can use the sentence-transformers library to…",
+    "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -80,6 +120,26 @@
     "publishedAt": "2026-10-14T15:00:00Z"
   },
   {
+    "id": "news-a0e0fec2c2b5",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-14T12:00:00Z"
+  },
+  {
+    "id": "news-24cc989c02db",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "url": "https://openai.com/index/sentinelone",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-14T12:00:00Z"
+  },
+  {
     "id": "news-e181547094b0",
     "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
     "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
@@ -91,8 +151,8 @@
   },
   {
     "id": "news-641fd03bcae8",
-    "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
-    "summary": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems.…",
+    "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
+    "summary": "Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is…",
     "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
     "image": "assets/images/news/cat-ai.svg",
     "source": "NVIDIA",
@@ -418,65 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-08T21:25:00Z"
-  },
-  {
-    "id": "news-baf7193e75c1",
-    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
-    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-08T21:06:35Z"
-  },
-  {
-    "id": "news-ee2118ecc143",
-    "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
-    "summary": "Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific…",
-    "url": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-08T17:09:31Z"
-  },
-  {
-    "id": "news-e98e25a5c1b7",
-    "title": "How one bug bounty researcher chooses the features they investigate",
-    "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher…",
-    "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-08T17:02:52Z"
-  },
-  {
-    "id": "news-112b5f00879d",
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-    "url": "https://openai.com/index/oracle",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-08T16:00:00Z"
-  },
-  {
-    "id": "news-22621a26ca48",
-    "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-    "summary": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance. A new way to join the…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-08T13:00:46Z"
-  },
-  {
-    "id": "news-ca1ec6c6a1a1",
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "url": "https://openai.com/index/pollo-ai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-08T12:00:00Z"
   }
 ]
