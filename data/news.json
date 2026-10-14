@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-13T20:02:44Z"
+    "publishedAt": "2026-10-14T00:06:19Z"
   },
   {
     "id": "news-59130c3cf886",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-13T20:02:44Z"
+    "publishedAt": "2026-10-14T00:06:19Z"
   },
   {
     "id": "news-78c2867dd026",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-13T20:02:44Z"
+    "publishedAt": "2026-10-14T00:06:19Z"
   },
   {
     "id": "news-6a6f5396528b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-13T20:02:44Z"
+    "publishedAt": "2026-10-14T00:06:19Z"
   },
   {
     "id": "news-c64515c7bf52",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-13T20:02:44Z"
+    "publishedAt": "2026-10-14T00:06:19Z"
   },
   {
     "id": "news-8e87a0864232",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-13T20:02:44Z"
+    "publishedAt": "2026-10-14T00:06:19Z"
+  },
+  {
+    "id": "news-11e83311a7c5",
+    "title": "How artificial neural networks build their own learning machinery",
+    "summary": "Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the brain reorganizes itself during learning.",
+    "url": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-13T21:00:00Z"
+  },
+  {
+    "id": "news-8ad1969e4f56",
+    "title": "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology",
+    "summary": "Roadshow event highlights Massachusetts' defense-biotechnology ecosystem.",
+    "url": "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-13T20:40:00Z"
   },
   {
     "id": "news-471508c04c30",
@@ -458,25 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-07T18:45:28Z"
-  },
-  {
-    "id": "news-9d8c93adc385",
-    "title": "IEEE Report Predicts Tech That Will Transform Lives",
-    "summary": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology Megatrends Report…",
-    "url": "https://spectrum.ieee.org/ieee-report-predicts-tech",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-07T18:00:02Z"
-  },
-  {
-    "id": "news-c13c9140efc7",
-    "title": "Secret protection must scale with software",
-    "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-07T17:45:34Z"
   }
 ]
