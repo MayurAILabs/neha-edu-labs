@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T03:00:31Z"
+    "publishedAt": "2026-10-15T08:47:37Z"
   },
   {
     "id": "news-78c2867dd026",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T03:00:31Z"
+    "publishedAt": "2026-10-15T08:47:37Z"
   },
   {
     "id": "news-6a6f5396528b",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T03:00:31Z"
+    "publishedAt": "2026-10-15T08:47:37Z"
   },
   {
     "id": "news-c64515c7bf52",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T03:00:31Z"
+    "publishedAt": "2026-10-15T08:47:37Z"
   },
   {
     "id": "news-8e87a0864232",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T03:00:31Z"
+    "publishedAt": "2026-10-15T08:47:37Z"
   },
   {
     "id": "news-f350160e6b6f",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T03:00:31Z"
+    "publishedAt": "2026-10-15T08:47:37Z"
+  },
+  {
+    "id": "news-68f85c5a70ff",
+    "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+    "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is…",
+    "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-15T05:00:12Z"
+  },
+  {
+    "id": "news-bdb5f9d6d099",
+    "title": "Q&A: The “collision” between AI, your brain, and society",
+    "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
+    "url": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-15T04:00:00Z"
   },
   {
     "id": "news-86f0f518c779",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-09T07:00:00Z"
-  },
-  {
-    "id": "news-d3194a2e84b0",
-    "title": "Python 3.15.0 (final) is here!",
-    "summary": "A brand new Python here for you to enjoy!",
-    "url": "https://blog.python.org/2026/10/python-3150-final-is-here/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-10-09T00:00:00Z"
-  },
-  {
-    "id": "news-7a987f35931d",
-    "title": "3 Questions: What is the best path forward for AI in academia?",
-    "summary": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
-    "url": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-08T21:25:00Z"
   }
 ]
