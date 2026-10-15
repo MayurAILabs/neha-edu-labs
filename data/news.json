@@ -1,5 +1,115 @@
 [
   {
+    "id": "news-6a6f5396528b",
+    "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+    "summary": "Google AI Edge has introduced ML Drift, a high-performance, universal GPU compute framework designed to accelerate on-device AI and machine learning inference. By abstracting the complexities of hardware and low-level…",
+    "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-15T17:58:27Z"
+  },
+  {
+    "id": "news-c64515c7bf52",
+    "title": "Gemini 4 Argon for Robotics",
+    "summary": "Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning.…",
+    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-15T17:58:27Z"
+  },
+  {
+    "id": "news-8e87a0864232",
+    "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+    "summary": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source…",
+    "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-15T17:58:27Z"
+  },
+  {
+    "id": "news-f350160e6b6f",
+    "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
+    "summary": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and…",
+    "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-15T17:58:27Z"
+  },
+  {
+    "id": "news-663dce7dd7ee",
+    "title": "Evaluating AI agents: moving past the vibe check",
+    "summary": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
+    "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-15T17:58:27Z"
+  },
+  {
+    "id": "news-55b8ebcba1f7",
+    "title": "Three layers, one repo: a tour of google/adk-recipes",
+    "summary": "The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can…",
+    "url": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-15T17:58:27Z"
+  },
+  {
+    "id": "news-ef6c7beadf74",
+    "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+    "summary": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the…",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-15T17:00:23Z"
+  },
+  {
+    "id": "news-996b33c09ad5",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-10-15T16:08:03Z"
+  },
+  {
+    "id": "news-902189e10f1e",
+    "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+    "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models:…",
+    "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-15T15:00:24Z"
+  },
+  {
+    "id": "news-5582ed9e7901",
+    "title": "Chasing China’s Monazite Monopoly",
+    "summary": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred…",
+    "url": "https://spectrum.ieee.org/china-rare-earth-minerals",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-15T14:54:03Z"
+  },
+  {
+    "id": "news-fdc608a0fe34",
+    "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+    "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies,…",
+    "url": "https://spectrum.ieee.org/monazite-rare-earth",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-15T14:53:02Z"
+  },
+  {
     "id": "news-59130c3cf886",
     "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
     "summary": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date…",
@@ -20,46 +130,6 @@
     "publishedAt": "2026-10-15T13:53:42Z"
   },
   {
-    "id": "news-6a6f5396528b",
-    "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
-    "summary": "Google AI Edge has introduced ML Drift, a high-performance, universal GPU compute framework designed to accelerate on-device AI and machine learning inference. By abstracting the complexities of hardware and low-level…",
-    "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-15T13:53:42Z"
-  },
-  {
-    "id": "news-c64515c7bf52",
-    "title": "Gemini 4 Argon for Robotics",
-    "summary": "Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning.…",
-    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-15T13:53:42Z"
-  },
-  {
-    "id": "news-8e87a0864232",
-    "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-    "summary": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source…",
-    "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-15T13:53:42Z"
-  },
-  {
-    "id": "news-f350160e6b6f",
-    "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
-    "summary": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and…",
-    "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-15T13:53:42Z"
-  },
-  {
     "id": "news-a9f3afff6b19",
     "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
     "summary": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step…",
@@ -68,6 +138,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-15T13:00:59Z"
+  },
+  {
+    "id": "news-fa14b8f7db46",
+    "title": "Teaching students to think and learn through questions",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-15T13:00:00Z"
   },
   {
     "id": "news-0aa71d1f1cfd",
@@ -118,6 +198,26 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-15T04:00:00Z"
+  },
+  {
+    "id": "news-9d251ac6836a",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/meta-muse-spark-open",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-15T00:00:00Z"
+  },
+  {
+    "id": "news-3733c75a28bf",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/flux-3",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-15T00:00:00Z"
   },
   {
     "id": "news-86f0f518c779",
@@ -378,105 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-13T12:00:00Z"
-  },
-  {
-    "id": "news-3fa2d8668eae",
-    "title": "NVIDIA Announces New Investments in France’s Startups",
-    "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to…",
-    "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-13T05:00:31Z"
-  },
-  {
-    "id": "news-bbe9efcd0575",
-    "title": "Q&A: Building accountability behind our words — and AI’s — in civic conversations",
-    "summary": "Professor Deb Roy contends there should be someone who is “answerable” for every piece of text in public life, no matter its origins.",
-    "url": "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-13T04:00:00Z"
-  },
-  {
-    "id": "news-288a44c8c89a",
-    "title": "Python 3.16.0 alpha 1 is now available",
-    "summary": "The first developer preview of Python 3.16 is ready for testing.",
-    "url": "https://blog.python.org/2026/10/python-3160-alpha-1-is-now-available/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-10-13T00:00:00Z"
-  },
-  {
-    "id": "news-0ed98d3b2521",
-    "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
-    "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone.Gurmeet Saran works to find that answer every day as an engineer at…",
-    "url": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-12T18:00:02Z"
-  },
-  {
-    "id": "news-d8d241723974",
-    "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-    "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-12T17:43:59Z"
-  },
-  {
-    "id": "news-9c679f3096ea",
-    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-    "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open…",
-    "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-12T15:00:25Z"
-  },
-  {
-    "id": "news-5a7f7575a820",
-    "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
-    "summary": "This article was originally published by Canary Media.The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah—marking the first time a utility-scale, next-generation…",
-    "url": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-12T13:00:02Z"
-  },
-  {
-    "id": "news-001c1dd2389f",
-    "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
-    "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why…",
-    "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-12T10:00:03Z"
-  },
-  {
-    "id": "news-b1eb962139f0",
-    "title": "Master AI Chip Principles With New IEEE Design Program",
-    "summary": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the rapid growth of…",
-    "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-09T18:00:02Z"
-  },
-  {
-    "id": "news-8608b90d585c",
-    "title": "Hack the World: Why hackathons are still the best place to learn to build",
-    "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared…",
-    "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-09T16:00:00Z"
   }
 ]
