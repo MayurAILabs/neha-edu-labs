@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T08:47:37Z"
+    "publishedAt": "2026-10-15T13:53:42Z"
   },
   {
     "id": "news-78c2867dd026",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T08:47:37Z"
+    "publishedAt": "2026-10-15T13:53:42Z"
   },
   {
     "id": "news-6a6f5396528b",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T08:47:37Z"
+    "publishedAt": "2026-10-15T13:53:42Z"
   },
   {
     "id": "news-c64515c7bf52",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T08:47:37Z"
+    "publishedAt": "2026-10-15T13:53:42Z"
   },
   {
     "id": "news-8e87a0864232",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T08:47:37Z"
+    "publishedAt": "2026-10-15T13:53:42Z"
   },
   {
     "id": "news-f350160e6b6f",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T08:47:37Z"
+    "publishedAt": "2026-10-15T13:53:42Z"
+  },
+  {
+    "id": "news-a9f3afff6b19",
+    "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+    "summary": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-15T13:00:59Z"
+  },
+  {
+    "id": "news-0aa71d1f1cfd",
+    "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+    "summary": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more —…",
+    "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-15T10:00:12Z"
+  },
+  {
+    "id": "news-ff71041f971e",
+    "title": "Compact Analog Signal Generators for Fast RF Testing",
+    "summary": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power…",
+    "url": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-15T10:00:04Z"
+  },
+  {
+    "id": "news-e3c36d4422c6",
+    "title": "Apertus 1.5 Release Notes",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-15T09:08:45Z"
   },
   {
     "id": "news-68f85c5a70ff",
@@ -438,45 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-10-09T16:00:00Z"
-  },
-  {
-    "id": "news-43ef54e74d27",
-    "title": "Impactful scheduling for GPU clusters",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-09T15:20:29Z"
-  },
-  {
-    "id": "news-401d4ab42eae",
-    "title": "We Need to Embed Ethics Into Our Engineering Courses",
-    "summary": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid…",
-    "url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-09T12:00:02Z"
-  },
-  {
-    "id": "news-edd58468d564",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "url": "https://openai.com/index/sophos",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-09T07:00:00Z"
-  },
-  {
-    "id": "news-90995f7dbc9c",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "url": "https://openai.com/index/asana-browser-agent",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-09T07:00:00Z"
   }
 ]
