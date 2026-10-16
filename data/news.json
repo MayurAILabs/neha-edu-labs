@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T15:09:20Z"
+    "publishedAt": "2026-10-16T19:15:04Z"
   },
   {
     "id": "news-8e87a0864232",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T15:09:20Z"
+    "publishedAt": "2026-10-16T19:15:04Z"
   },
   {
     "id": "news-f350160e6b6f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T15:09:20Z"
+    "publishedAt": "2026-10-16T19:15:04Z"
   },
   {
     "id": "news-663dce7dd7ee",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T15:09:20Z"
+    "publishedAt": "2026-10-16T19:15:04Z"
   },
   {
     "id": "news-55b8ebcba1f7",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T15:09:20Z"
+    "publishedAt": "2026-10-16T19:15:04Z"
   },
   {
     "id": "news-87c512d70422",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T15:09:20Z"
+    "publishedAt": "2026-10-16T19:15:04Z"
+  },
+  {
+    "id": "news-7bda5edfccc8",
+    "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
+    "summary": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control, and waste…",
+    "url": "https://spectrum.ieee.org/ieee-smart-cities-new-services",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-16T18:00:03Z"
+  },
+  {
+    "id": "news-62145d24f47c",
+    "title": "Simulation App Speeds Up Electric Truck Battery Design",
+    "summary": "This article is brought to you by COMSOL.These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distribution centers that have…",
+    "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-16T16:49:18Z"
+  },
+  {
+    "id": "news-68b02ba462b0",
+    "title": "Fostering community amid Kendall Square’s innovation",
+    "summary": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
+    "url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-16T16:00:00Z"
   },
   {
     "id": "news-ba4e7337aba2",
@@ -448,35 +478,5 @@
     "source": "Google DeepMind",
     "category": "AI",
     "publishedAt": "2026-10-14T02:00:14Z"
-  },
-  {
-    "id": "news-2f3282e48314",
-    "title": "The EU’s next chapter in AI is agentic",
-    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-14T00:00:00Z"
-  },
-  {
-    "id": "news-11e83311a7c5",
-    "title": "How artificial neural networks build their own learning machinery",
-    "summary": "Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the brain reorganizes itself during learning.",
-    "url": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-13T21:00:00Z"
-  },
-  {
-    "id": "news-8ad1969e4f56",
-    "title": "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology",
-    "summary": "Roadshow event highlights Massachusetts' defense-biotechnology ecosystem.",
-    "url": "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-13T20:40:00Z"
   }
 ]
