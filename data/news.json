@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T10:36:34Z"
+    "publishedAt": "2026-10-16T15:09:20Z"
   },
   {
     "id": "news-8e87a0864232",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T10:36:34Z"
+    "publishedAt": "2026-10-16T15:09:20Z"
   },
   {
     "id": "news-f350160e6b6f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T10:36:34Z"
+    "publishedAt": "2026-10-16T15:09:20Z"
   },
   {
     "id": "news-663dce7dd7ee",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T10:36:34Z"
+    "publishedAt": "2026-10-16T15:09:20Z"
   },
   {
     "id": "news-55b8ebcba1f7",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T10:36:34Z"
+    "publishedAt": "2026-10-16T15:09:20Z"
   },
   {
     "id": "news-87c512d70422",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T10:36:34Z"
+    "publishedAt": "2026-10-16T15:09:20Z"
   },
   {
     "id": "news-ba4e7337aba2",
@@ -68,6 +68,16 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-10-16T01:44:47Z"
+  },
+  {
+    "id": "news-849b423196d1",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-16T00:00:00Z"
   },
   {
     "id": "news-e2eb449edbb7",
@@ -468,15 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-13T20:40:00Z"
-  },
-  {
-    "id": "news-471508c04c30",
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-10-13T19:43:07Z"
   }
 ]
