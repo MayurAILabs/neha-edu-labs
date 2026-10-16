@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T00:02:40Z"
+    "publishedAt": "2026-10-16T05:23:24Z"
   },
   {
     "id": "news-8e87a0864232",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T00:02:40Z"
+    "publishedAt": "2026-10-16T05:23:24Z"
   },
   {
     "id": "news-f350160e6b6f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T00:02:40Z"
+    "publishedAt": "2026-10-16T05:23:24Z"
   },
   {
     "id": "news-663dce7dd7ee",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T00:02:40Z"
+    "publishedAt": "2026-10-16T05:23:24Z"
   },
   {
     "id": "news-55b8ebcba1f7",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T00:02:40Z"
+    "publishedAt": "2026-10-16T05:23:24Z"
   },
   {
     "id": "news-87c512d70422",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T00:02:40Z"
+    "publishedAt": "2026-10-16T05:23:24Z"
+  },
+  {
+    "id": "news-ba4e7337aba2",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-16T01:44:47Z"
   },
   {
     "id": "news-e2eb449edbb7",
@@ -290,6 +300,16 @@
     "publishedAt": "2026-10-15T00:00:00Z"
   },
   {
+    "id": "news-dd00c04c9b95",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+    "url": "https://openai.com/index/sullivan-cromwell",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-15T00:00:00Z"
+  },
+  {
     "id": "news-86f0f518c779",
     "title": "GitHub availability report: September 2026",
     "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog.",
@@ -458,25 +478,5 @@
     "source": "Google DeepMind",
     "category": "AI",
     "publishedAt": "2026-10-13T19:43:07Z"
-  },
-  {
-    "id": "news-22c6ef693aee",
-    "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-    "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets…",
-    "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-13T17:56:33Z"
-  },
-  {
-    "id": "news-550c4c02e9ff",
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-13T17:05:48Z"
   }
 ]
