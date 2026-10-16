@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T19:15:04Z"
+    "publishedAt": "2026-10-16T22:27:33Z"
   },
   {
     "id": "news-8e87a0864232",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T19:15:04Z"
+    "publishedAt": "2026-10-16T22:27:33Z"
   },
   {
     "id": "news-f350160e6b6f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T19:15:04Z"
+    "publishedAt": "2026-10-16T22:27:33Z"
   },
   {
     "id": "news-663dce7dd7ee",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T19:15:04Z"
+    "publishedAt": "2026-10-16T22:27:33Z"
   },
   {
     "id": "news-55b8ebcba1f7",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T19:15:04Z"
+    "publishedAt": "2026-10-16T22:27:33Z"
   },
   {
     "id": "news-87c512d70422",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-16T19:15:04Z"
+    "publishedAt": "2026-10-16T22:27:33Z"
   },
   {
     "id": "news-7bda5edfccc8",
@@ -106,6 +106,16 @@
     "url": "https://huggingface.co/blog/reflection-beam",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-16T00:00:00Z"
+  },
+  {
+    "id": "news-9db4940a53f8",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-16T00:00:00Z"
   },
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-14T06:00:28Z"
-  },
-  {
-    "id": "news-58e4191fcfe4",
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-10-14T02:00:14Z"
   }
 ]
