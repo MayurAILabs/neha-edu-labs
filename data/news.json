@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T21:09:10Z"
+    "publishedAt": "2026-10-16T00:02:40Z"
   },
   {
     "id": "news-8e87a0864232",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T21:09:10Z"
+    "publishedAt": "2026-10-16T00:02:40Z"
   },
   {
     "id": "news-f350160e6b6f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T21:09:10Z"
+    "publishedAt": "2026-10-16T00:02:40Z"
   },
   {
     "id": "news-663dce7dd7ee",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T21:09:10Z"
+    "publishedAt": "2026-10-16T00:02:40Z"
   },
   {
     "id": "news-55b8ebcba1f7",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T21:09:10Z"
+    "publishedAt": "2026-10-16T00:02:40Z"
   },
   {
     "id": "news-87c512d70422",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-15T21:09:10Z"
+    "publishedAt": "2026-10-16T00:02:40Z"
+  },
+  {
+    "id": "news-e2eb449edbb7",
+    "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
+    "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
+    "url": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-15T21:00:00Z"
   },
   {
     "id": "news-c0a2e19f9297",
@@ -88,6 +98,26 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-10-15T19:39:27Z"
+  },
+  {
+    "id": "news-a72d1e4da6b0",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-15T19:00:00Z"
+  },
+  {
+    "id": "news-84007b3bda82",
+    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+    "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The…",
+    "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-15T18:00:00Z"
   },
   {
     "id": "news-6a6f5396528b",
@@ -448,35 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-10-13T17:05:48Z"
-  },
-  {
-    "id": "news-884ebf3c3978",
-    "title": "Gemini 4 Argon for Robotics",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-10-13T16:01:58Z"
-  },
-  {
-    "id": "news-f174716114a9",
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-10-13T16:01:52Z"
-  },
-  {
-    "id": "news-c1e94fc83136",
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-10-13T16:00:00Z"
   }
 ]
