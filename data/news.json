@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-17T01:00:12Z"
+    "publishedAt": "2026-10-17T06:30:06Z"
   },
   {
     "id": "news-8e87a0864232",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-17T01:00:12Z"
+    "publishedAt": "2026-10-17T06:30:06Z"
   },
   {
     "id": "news-f350160e6b6f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-17T01:00:12Z"
+    "publishedAt": "2026-10-17T06:30:06Z"
   },
   {
     "id": "news-663dce7dd7ee",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-17T01:00:12Z"
+    "publishedAt": "2026-10-17T06:30:06Z"
   },
   {
     "id": "news-55b8ebcba1f7",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-17T01:00:12Z"
+    "publishedAt": "2026-10-17T06:30:06Z"
   },
   {
     "id": "news-87c512d70422",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-17T01:00:12Z"
+    "publishedAt": "2026-10-17T06:30:06Z"
   },
   {
     "id": "news-65442e708214",
@@ -124,6 +124,16 @@
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-16T00:00:00Z"
+  },
+  {
+    "id": "news-4a2f3ca18eb9",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "url": "https://openai.com/index/benefit-street-partners",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-14T07:00:00Z"
-  },
-  {
-    "id": "news-641fd03bcae8",
-    "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
-    "summary": "Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is…",
-    "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-14T06:04:15Z"
   }
 ]
