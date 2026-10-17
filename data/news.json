@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-17T11:19:10Z"
+    "publishedAt": "2026-10-17T14:53:02Z"
   },
   {
     "id": "news-8e87a0864232",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-17T11:19:10Z"
+    "publishedAt": "2026-10-17T14:53:02Z"
   },
   {
     "id": "news-f350160e6b6f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-17T11:19:10Z"
+    "publishedAt": "2026-10-17T14:53:02Z"
   },
   {
     "id": "news-663dce7dd7ee",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-17T11:19:10Z"
+    "publishedAt": "2026-10-17T14:53:02Z"
   },
   {
     "id": "news-55b8ebcba1f7",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-17T11:19:10Z"
+    "publishedAt": "2026-10-17T14:53:02Z"
   },
   {
     "id": "news-87c512d70422",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-17T11:19:10Z"
+    "publishedAt": "2026-10-17T14:53:02Z"
+  },
+  {
+    "id": "news-f5f0086a8065",
+    "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
+    "summary": "This article was originally published by Canary Media.America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation — from polluting gas turbines to cleaner…",
+    "url": "https://spectrum.ieee.org/variable-frequency-drives",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-17T13:00:02Z"
   },
   {
     "id": "news-65442e708214",
@@ -464,16 +474,6 @@
     "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
     "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
     "url": "https://openai.com/index/third-moment-research",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-14T07:00:00Z"
-  },
-  {
-    "id": "news-7d10f0ddfecf",
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "url": "https://openai.com/index/block-ai-powered-security",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
