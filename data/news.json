@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-18T00:35:50Z"
+    "publishedAt": "2026-10-18T05:22:40Z"
   },
   {
     "id": "news-8e87a0864232",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-18T00:35:50Z"
+    "publishedAt": "2026-10-18T05:22:40Z"
   },
   {
     "id": "news-f350160e6b6f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-18T00:35:50Z"
+    "publishedAt": "2026-10-18T05:22:40Z"
   },
   {
     "id": "news-663dce7dd7ee",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-18T00:35:50Z"
+    "publishedAt": "2026-10-18T05:22:40Z"
   },
   {
     "id": "news-55b8ebcba1f7",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-18T00:35:50Z"
+    "publishedAt": "2026-10-18T05:22:40Z"
   },
   {
     "id": "news-87c512d70422",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-18T00:35:50Z"
+    "publishedAt": "2026-10-18T05:22:40Z"
+  },
+  {
+    "id": "news-631c78f18e27",
+    "title": "Giving AI a “crystal clear” view of the materials world",
+    "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
+    "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-18T04:00:00Z"
   },
   {
     "id": "news-c850cbc28643",
@@ -464,16 +474,6 @@
     "title": "Amp puts AI agents to work beyond code with OpenAI models",
     "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
     "url": "https://openai.com/index/amp-beyond-coding",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-14T12:00:00Z"
-  },
-  {
-    "id": "news-24cc989c02db",
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "url": "https://openai.com/index/sentinelone",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
