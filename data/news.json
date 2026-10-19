@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-19T18:39:47Z"
+    "publishedAt": "2026-10-19T22:47:23Z"
   },
   {
     "id": "news-663dce7dd7ee",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-19T18:39:47Z"
+    "publishedAt": "2026-10-19T22:47:23Z"
   },
   {
     "id": "news-55b8ebcba1f7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-19T18:39:47Z"
+    "publishedAt": "2026-10-19T22:47:23Z"
   },
   {
     "id": "news-87c512d70422",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-19T18:39:47Z"
+    "publishedAt": "2026-10-19T22:47:23Z"
   },
   {
     "id": "news-8bedacd178f8",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-19T18:39:47Z"
+    "publishedAt": "2026-10-19T22:47:23Z"
   },
   {
     "id": "news-afbab9c303fc",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-19T18:39:47Z"
+    "publishedAt": "2026-10-19T22:47:23Z"
+  },
+  {
+    "id": "news-81b55b50044b",
+    "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+    "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial…",
+    "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-19T19:27:08Z"
+  },
+  {
+    "id": "news-0f3dfef227c0",
+    "title": "How to continue a GitHub Copilot app session in VS Code",
+    "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-19T18:47:22Z"
   },
   {
     "id": "news-0dbde1ea1153",
@@ -100,6 +120,16 @@
     "publishedAt": "2026-10-19T13:00:03Z"
   },
   {
+    "id": "news-7a364f356aab",
+    "title": "Advancing Coding in Low-Resource Programming Languages",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-19T12:00:00Z"
+  },
+  {
     "id": "news-c64515c7bf52",
     "title": "Gemini 4 Argon for Robotics",
     "summary": "Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning.…",
@@ -128,6 +158,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-10-19T10:00:04Z"
+  },
+  {
+    "id": "news-9dbc0d55ff91",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/hf-torchneuron",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-19T00:00:00Z"
   },
   {
     "id": "news-631c78f18e27",
@@ -438,45 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-15T05:00:12Z"
-  },
-  {
-    "id": "news-bdb5f9d6d099",
-    "title": "Q&A: The “collision” between AI, your brain, and society",
-    "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
-    "url": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-15T04:00:00Z"
-  },
-  {
-    "id": "news-9d251ac6836a",
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/meta-muse-spark-open",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-15T00:00:00Z"
-  },
-  {
-    "id": "news-3733c75a28bf",
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/flux-3",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-15T00:00:00Z"
-  },
-  {
-    "id": "news-dd00c04c9b95",
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-    "url": "https://openai.com/index/sullivan-cromwell",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-15T00:00:00Z"
   }
 ]
