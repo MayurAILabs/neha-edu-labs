@@ -1,5 +1,105 @@
 [
   {
+    "id": "news-f350160e6b6f",
+    "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
+    "summary": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and…",
+    "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-19T18:39:47Z"
+  },
+  {
+    "id": "news-663dce7dd7ee",
+    "title": "Evaluating AI agents: moving past the vibe check",
+    "summary": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
+    "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-19T18:39:47Z"
+  },
+  {
+    "id": "news-55b8ebcba1f7",
+    "title": "Three layers, one repo: a tour of google/adk-recipes",
+    "summary": "The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can…",
+    "url": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-19T18:39:47Z"
+  },
+  {
+    "id": "news-87c512d70422",
+    "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
+    "summary": "Google OAuth Platform now supports DPoP (Demonstrating Proof-of-Possession) to sender-constrain refresh tokens, neutralizing Infostealer malware and adversary-in-the-middle attacks. By cryptographically binding…",
+    "url": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-19T18:39:47Z"
+  },
+  {
+    "id": "news-8bedacd178f8",
+    "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
+    "summary": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress…",
+    "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-19T18:39:47Z"
+  },
+  {
+    "id": "news-afbab9c303fc",
+    "title": "Native Model Authoring for Edge with LiteRT Tensor API",
+    "summary": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
+    "url": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-19T18:39:47Z"
+  },
+  {
+    "id": "news-0dbde1ea1153",
+    "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+    "summary": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
+    "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-19T18:20:00Z"
+  },
+  {
+    "id": "news-153fcac26eb5",
+    "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
+    "summary": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the time. IEEE’s recently…",
+    "url": "https://spectrum.ieee.org/ieee-report-engineering-public-good",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-19T18:00:03Z"
+  },
+  {
+    "id": "news-405e039bdc7e",
+    "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+    "summary": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the…",
+    "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-19T15:00:31Z"
+  },
+  {
+    "id": "news-b657bbd1f782",
+    "title": "The Robot I Didn’t Expect to Build",
+    "summary": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economically do useful…",
+    "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-19T13:00:03Z"
+  },
+  {
     "id": "news-c64515c7bf52",
     "title": "Gemini 4 Argon for Robotics",
     "summary": "Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning.…",
@@ -14,46 +114,6 @@
     "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
     "summary": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source…",
     "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-19T11:59:29Z"
-  },
-  {
-    "id": "news-f350160e6b6f",
-    "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
-    "summary": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and…",
-    "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-19T11:59:29Z"
-  },
-  {
-    "id": "news-663dce7dd7ee",
-    "title": "Evaluating AI agents: moving past the vibe check",
-    "summary": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
-    "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-19T11:59:29Z"
-  },
-  {
-    "id": "news-55b8ebcba1f7",
-    "title": "Three layers, one repo: a tour of google/adk-recipes",
-    "summary": "The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can…",
-    "url": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-19T11:59:29Z"
-  },
-  {
-    "id": "news-87c512d70422",
-    "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
-    "summary": "Google OAuth Platform now supports DPoP (Demonstrating Proof-of-Possession) to sender-constrain refresh tokens, neutralizing Infostealer malware and adversary-in-the-middle attacks. By cryptographically binding…",
-    "url": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -418,65 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-15T00:00:00Z"
-  },
-  {
-    "id": "news-86f0f518c779",
-    "title": "GitHub availability report: September 2026",
-    "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog.",
-    "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-14T20:01:35Z"
-  },
-  {
-    "id": "news-cc3cc3fb0e33",
-    "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-    "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding…",
-    "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-14T19:11:33Z"
-  },
-  {
-    "id": "news-92e983a3da8f",
-    "title": "IEEE Continues Preparations for the Realignment of Its Regions",
-    "summary": "Progress continues in restructuring IEEE’s geographic regions, as outlined in The Institute’s February 2023 article “IEEE Is Realigning Its Geographic Regions.” The “Region 1” designation will no longer be used.The new…",
-    "url": "https://spectrum.ieee.org/realignment-ieee-regions",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-14T18:00:03Z"
-  },
-  {
-    "id": "news-f10a05aa3ab0",
-    "title": "EmbeddingGemma 2: The Developer Guide",
-    "summary": "EmbeddingGemma 2 is a compact, open-source multimodal embedding model that maps text, code, images, video, and audio into a unified 768-dimensional space. Developers can use the sentence-transformers library to…",
-    "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-14T16:26:25Z"
-  },
-  {
-    "id": "news-672ebf75c430",
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-14T16:12:42Z"
-  },
-  {
-    "id": "news-378737ffe80d",
-    "title": "Researchers improve weather forecasts looking two to six weeks out",
-    "summary": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning.",
-    "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-14T15:00:00Z"
   }
 ]
