@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-19T22:47:23Z"
+    "publishedAt": "2026-10-20T01:31:21Z"
   },
   {
     "id": "news-663dce7dd7ee",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-19T22:47:23Z"
+    "publishedAt": "2026-10-20T01:31:21Z"
   },
   {
     "id": "news-55b8ebcba1f7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-19T22:47:23Z"
+    "publishedAt": "2026-10-20T01:31:21Z"
   },
   {
     "id": "news-87c512d70422",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-19T22:47:23Z"
+    "publishedAt": "2026-10-20T01:31:21Z"
   },
   {
     "id": "news-8bedacd178f8",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-19T22:47:23Z"
+    "publishedAt": "2026-10-20T01:31:21Z"
   },
   {
     "id": "news-afbab9c303fc",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-19T22:47:23Z"
+    "publishedAt": "2026-10-20T01:31:21Z"
   },
   {
     "id": "news-81b55b50044b",
@@ -121,7 +121,7 @@
   },
   {
     "id": "news-7a364f356aab",
-    "title": "Advancing Coding in Low-Resource Programming Languages",
+    "title": "Advancing coding in low‑resource programming languages",
     "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
     "url": "https://openai.com/index/low-resource-programming-languages",
     "image": "assets/images/news/cat-ai.svg",
