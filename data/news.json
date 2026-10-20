@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-f350160e6b6f",
-    "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
-    "summary": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and…",
-    "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-20T07:05:39Z"
-  },
-  {
     "id": "news-663dce7dd7ee",
     "title": "Evaluating AI agents: moving past the vibe check",
     "summary": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T07:05:39Z"
+    "publishedAt": "2026-10-20T13:16:32Z"
   },
   {
     "id": "news-55b8ebcba1f7",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T07:05:39Z"
+    "publishedAt": "2026-10-20T13:16:32Z"
   },
   {
     "id": "news-87c512d70422",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T07:05:39Z"
+    "publishedAt": "2026-10-20T13:16:32Z"
   },
   {
     "id": "news-8bedacd178f8",
@@ -47,13 +37,33 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T07:05:39Z"
+    "publishedAt": "2026-10-20T13:16:32Z"
   },
   {
     "id": "news-afbab9c303fc",
     "title": "Native Model Authoring for Edge with LiteRT Tensor API",
     "summary": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
     "url": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-20T13:16:32Z"
+  },
+  {
+    "id": "news-9a15d5e67127",
+    "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
+    "summary": "Google Research has completed the 32-bit open-source Coral NPU RISC-V architecture with the introduction of its Matrix Execution Unit, which delivers up to 1 TOPS while targeting 10 mW average power for edge inference.…",
+    "url": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-20T13:16:32Z"
+  },
+  {
+    "id": "news-f350160e6b6f",
+    "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
+    "summary": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and…",
+    "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -68,6 +78,26 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-20T05:00:00Z"
+  },
+  {
+    "id": "news-2596ff929aee",
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-20T00:00:00Z"
+  },
+  {
+    "id": "news-3eb18e5ff7f2",
+    "title": "MPS in PyTorch 2.15",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-20T00:00:00Z"
   },
   {
     "id": "news-81b55b50044b",
@@ -448,35 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-15T13:00:00Z"
-  },
-  {
-    "id": "news-0aa71d1f1cfd",
-    "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-    "summary": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more —…",
-    "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-15T10:00:12Z"
-  },
-  {
-    "id": "news-ff71041f971e",
-    "title": "Compact Analog Signal Generators for Fast RF Testing",
-    "summary": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power…",
-    "url": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-15T10:00:04Z"
-  },
-  {
-    "id": "news-e3c36d4422c6",
-    "title": "Apertus 1.5 Release Notes",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-15T09:08:45Z"
   }
 ]
