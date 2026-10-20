@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T01:31:21Z"
+    "publishedAt": "2026-10-20T07:05:39Z"
   },
   {
     "id": "news-663dce7dd7ee",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T01:31:21Z"
+    "publishedAt": "2026-10-20T07:05:39Z"
   },
   {
     "id": "news-55b8ebcba1f7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T01:31:21Z"
+    "publishedAt": "2026-10-20T07:05:39Z"
   },
   {
     "id": "news-87c512d70422",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T01:31:21Z"
+    "publishedAt": "2026-10-20T07:05:39Z"
   },
   {
     "id": "news-8bedacd178f8",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T01:31:21Z"
+    "publishedAt": "2026-10-20T07:05:39Z"
   },
   {
     "id": "news-afbab9c303fc",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T01:31:21Z"
+    "publishedAt": "2026-10-20T07:05:39Z"
+  },
+  {
+    "id": "news-d88fd01a7305",
+    "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+    "summary": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support…",
+    "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-20T05:00:00Z"
   },
   {
     "id": "news-81b55b50044b",
@@ -468,15 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-10-15T09:08:45Z"
-  },
-  {
-    "id": "news-68f85c5a70ff",
-    "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
-    "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is…",
-    "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-15T05:00:12Z"
   }
 ]
