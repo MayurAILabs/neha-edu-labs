@@ -1,5 +1,95 @@
 [
   {
+    "id": "news-8bedacd178f8",
+    "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
+    "summary": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress…",
+    "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-20T18:17:36Z"
+  },
+  {
+    "id": "news-afbab9c303fc",
+    "title": "Native Model Authoring for Edge with LiteRT Tensor API",
+    "summary": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
+    "url": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-20T18:17:36Z"
+  },
+  {
+    "id": "news-9a15d5e67127",
+    "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
+    "summary": "Google Research has completed the 32-bit open-source Coral NPU RISC-V architecture with the introduction of its Matrix Execution Unit, which delivers up to 1 TOPS while targeting 10 mW average power for edge inference.…",
+    "url": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-20T18:17:36Z"
+  },
+  {
+    "id": "news-f222c909380e",
+    "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
+    "summary": "This post announces native PyTorch backends for vLLM and SGLang powered by TorchTPU, enabling developers to run and optimize serving workloads using familiar PyTorch tools. Built in collaboration with open-source…",
+    "url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-20T18:17:36Z"
+  },
+  {
+    "id": "news-894c482077a9",
+    "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
+    "summary": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can leverage hierarchical graph…",
+    "url": "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-20T18:17:36Z"
+  },
+  {
+    "id": "news-bda22f534d0b",
+    "title": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+    "summary": "TorchTPU integrates a native torch.device(\"tpu\") backend directly into PyTorch, allowing developers to train large-scale models on Google Cloud TPUs without rewriting code in JAX. The TorchTitan TPU fork enhances this…",
+    "url": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-20T18:17:36Z"
+  },
+  {
+    "id": "news-ca293d8533a3",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/allenai/fairstress",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-20T16:09:19Z"
+  },
+  {
+    "id": "news-d3ec3a595c33",
+    "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+    "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-20T16:05:03Z"
+  },
+  {
+    "id": "news-94e7f4f5c0e5",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-20T15:19:48Z"
+  },
+  {
     "id": "news-663dce7dd7ee",
     "title": "Evaluating AI agents: moving past the vibe check",
     "summary": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
@@ -30,34 +120,14 @@
     "publishedAt": "2026-10-20T13:16:32Z"
   },
   {
-    "id": "news-8bedacd178f8",
-    "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
-    "summary": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress…",
-    "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-20T13:16:32Z"
-  },
-  {
-    "id": "news-afbab9c303fc",
-    "title": "Native Model Authoring for Edge with LiteRT Tensor API",
-    "summary": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
-    "url": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-20T13:16:32Z"
-  },
-  {
-    "id": "news-9a15d5e67127",
-    "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
-    "summary": "Google Research has completed the 32-bit open-source Coral NPU RISC-V architecture with the introduction of its Matrix Execution Unit, which delivers up to 1 TOPS while targeting 10 mW average power for edge inference.…",
-    "url": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-20T13:16:32Z"
+    "id": "news-b3fcb2e42d32",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-20T10:00:00Z"
   },
   {
     "id": "news-f350160e6b6f",
@@ -94,6 +164,16 @@
     "title": "MPS in PyTorch 2.15",
     "summary": "Latest update from Hugging Face.",
     "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-20T00:00:00Z"
+  },
+  {
+    "id": "news-84cd8d44e982",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/hf-torchtpu",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
     "category": "AI",
@@ -232,7 +312,7 @@
   {
     "id": "news-f5f0086a8065",
     "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
-    "summary": "This article was originally published by Canary Media.America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation — from polluting gas turbines to cleaner…",
+    "summary": "This article was originally published by Canary Media.America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation—from polluting gas turbines to cleaner developments…",
     "url": "https://spectrum.ieee.org/variable-frequency-drives",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
@@ -398,85 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-15T17:00:23Z"
-  },
-  {
-    "id": "news-996b33c09ad5",
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-10-15T16:08:03Z"
-  },
-  {
-    "id": "news-902189e10f1e",
-    "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-    "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models:…",
-    "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-15T15:00:24Z"
-  },
-  {
-    "id": "news-5582ed9e7901",
-    "title": "Chasing China’s Monazite Monopoly",
-    "summary": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred…",
-    "url": "https://spectrum.ieee.org/china-rare-earth-minerals",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-15T14:54:03Z"
-  },
-  {
-    "id": "news-fdc608a0fe34",
-    "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
-    "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies,…",
-    "url": "https://spectrum.ieee.org/monazite-rare-earth",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-15T14:53:02Z"
-  },
-  {
-    "id": "news-59130c3cf886",
-    "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
-    "summary": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date…",
-    "url": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-15T13:53:42Z"
-  },
-  {
-    "id": "news-78c2867dd026",
-    "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
-    "summary": "How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference…",
-    "url": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-15T13:53:42Z"
-  },
-  {
-    "id": "news-a9f3afff6b19",
-    "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-    "summary": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-15T13:00:59Z"
-  },
-  {
-    "id": "news-fa14b8f7db46",
-    "title": "Teaching students to think and learn through questions",
-    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-15T13:00:00Z"
   }
 ]
