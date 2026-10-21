@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T17:52:24Z"
+    "publishedAt": "2026-10-21T21:11:46Z"
   },
   {
     "id": "news-9a15d5e67127",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T17:52:24Z"
+    "publishedAt": "2026-10-21T21:11:46Z"
   },
   {
     "id": "news-f222c909380e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T17:52:24Z"
+    "publishedAt": "2026-10-21T21:11:46Z"
   },
   {
     "id": "news-894c482077a9",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T17:52:24Z"
+    "publishedAt": "2026-10-21T21:11:46Z"
   },
   {
     "id": "news-bda22f534d0b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T17:52:24Z"
+    "publishedAt": "2026-10-21T21:11:46Z"
   },
   {
     "id": "news-d52d49a590c7",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T17:52:24Z"
+    "publishedAt": "2026-10-21T21:11:46Z"
+  },
+  {
+    "id": "news-7104bc51c295",
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-21T18:26:30Z"
+  },
+  {
+    "id": "news-f21aa2af0599",
+    "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
+    "summary": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect. He will begin serving as president on 1 January 2028.Schindler, who was nominated by the IEEE Board of Directors, received…",
+    "url": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-21T18:00:03Z"
   },
   {
     "id": "news-354f89a6c7db",
@@ -68,6 +88,16 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-10-21T17:35:36Z"
+  },
+  {
+    "id": "news-4ab93569e260",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "url": "https://openai.com/index/att-legal",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-21T17:00:00Z"
   },
   {
     "id": "news-f9b499debdda",
@@ -260,6 +290,16 @@
     "publishedAt": "2026-10-21T04:00:00Z"
   },
   {
+    "id": "news-000b927b93b1",
+    "title": "Python 3.15.1, 3.14.9 and 3.13.17 are out",
+    "summary": "Three certified security releases for 3.15, 3.14 and 3.13.",
+    "url": "https://blog.python.org/2026/10/python-3151-3149-31317/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
+    "publishedAt": "2026-10-21T00:00:00Z"
+  },
+  {
     "id": "news-4eb9f7080b11",
     "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
     "summary": "Latest update from Hugging Face.",
@@ -438,45 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-19T18:20:00Z"
-  },
-  {
-    "id": "news-153fcac26eb5",
-    "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
-    "summary": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the time. IEEE’s recently…",
-    "url": "https://spectrum.ieee.org/ieee-report-engineering-public-good",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-19T18:00:03Z"
-  },
-  {
-    "id": "news-405e039bdc7e",
-    "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-    "summary": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the…",
-    "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-19T15:00:31Z"
-  },
-  {
-    "id": "news-b657bbd1f782",
-    "title": "The Robot I Didn’t Expect to Build",
-    "summary": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economically do useful…",
-    "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-19T13:00:03Z"
-  },
-  {
-    "id": "news-7a364f356aab",
-    "title": "Advancing coding in low‑resource programming languages",
-    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "url": "https://openai.com/index/low-resource-programming-languages",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-19T12:00:00Z"
   }
 ]
