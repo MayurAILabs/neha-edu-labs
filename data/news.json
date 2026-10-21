@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T06:58:56Z"
+    "publishedAt": "2026-10-21T12:50:11Z"
   },
   {
     "id": "news-afbab9c303fc",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T06:58:56Z"
+    "publishedAt": "2026-10-21T12:50:11Z"
   },
   {
     "id": "news-9a15d5e67127",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T06:58:56Z"
+    "publishedAt": "2026-10-21T12:50:11Z"
   },
   {
     "id": "news-f222c909380e",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T06:58:56Z"
+    "publishedAt": "2026-10-21T12:50:11Z"
   },
   {
     "id": "news-894c482077a9",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T06:58:56Z"
+    "publishedAt": "2026-10-21T12:50:11Z"
   },
   {
     "id": "news-bda22f534d0b",
@@ -57,7 +57,77 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T06:58:56Z"
+    "publishedAt": "2026-10-21T12:50:11Z"
+  },
+  {
+    "id": "news-6712508ff68f",
+    "title": "Protein Design with RFD4-Proteina and Hugging Face Spaces",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-21T12:39:49Z"
+  },
+  {
+    "id": "news-0b1d731f907e",
+    "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+    "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on…",
+    "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-21T10:50:37Z"
+  },
+  {
+    "id": "news-7dbdc8f6d3c5",
+    "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+    "summary": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud…",
+    "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-21T10:45:17Z"
+  },
+  {
+    "id": "news-f47072a36f45",
+    "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+    "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure…",
+    "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-21T10:30:41Z"
+  },
+  {
+    "id": "news-0c405e6fd045",
+    "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+    "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open…",
+    "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-21T10:30:40Z"
+  },
+  {
+    "id": "news-64ae1d1ebee7",
+    "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+    "summary": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs. Complex engineering feats — from advanced chips to…",
+    "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-21T10:30:25Z"
+  },
+  {
+    "id": "news-9e8b8c2e1479",
+    "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+    "summary": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy…",
+    "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-21T10:30:02Z"
   },
   {
     "id": "news-1778fb273dbb",
@@ -408,75 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-10-16T01:44:47Z"
-  },
-  {
-    "id": "news-849b423196d1",
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/reflection-beam",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-16T00:00:00Z"
-  },
-  {
-    "id": "news-9db4940a53f8",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-16T00:00:00Z"
-  },
-  {
-    "id": "news-4a2f3ca18eb9",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "url": "https://openai.com/index/benefit-street-partners",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-16T00:00:00Z"
-  },
-  {
-    "id": "news-e2eb449edbb7",
-    "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
-    "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
-    "url": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-15T21:00:00Z"
-  },
-  {
-    "id": "news-c0a2e19f9297",
-    "title": "AI model decodes the language cells use to communicate",
-    "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.",
-    "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-15T20:50:00Z"
-  },
-  {
-    "id": "news-a01e02239da0",
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-15T20:34:01Z"
-  },
-  {
-    "id": "news-5b6680e2f8b9",
-    "title": "The next developer interface is ambient intelligence",
-    "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient…",
-    "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-15T19:39:27Z"
   }
 ]
