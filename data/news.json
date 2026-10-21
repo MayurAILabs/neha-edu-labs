@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T22:02:56Z"
+    "publishedAt": "2026-10-21T01:14:01Z"
   },
   {
     "id": "news-afbab9c303fc",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T22:02:56Z"
+    "publishedAt": "2026-10-21T01:14:01Z"
   },
   {
     "id": "news-9a15d5e67127",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T22:02:56Z"
+    "publishedAt": "2026-10-21T01:14:01Z"
   },
   {
     "id": "news-f222c909380e",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T22:02:56Z"
+    "publishedAt": "2026-10-21T01:14:01Z"
   },
   {
     "id": "news-894c482077a9",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T22:02:56Z"
+    "publishedAt": "2026-10-21T01:14:01Z"
   },
   {
     "id": "news-bda22f534d0b",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-20T22:02:56Z"
+    "publishedAt": "2026-10-21T01:14:01Z"
   },
   {
     "id": "news-4eb9f7080b11",
@@ -148,6 +148,16 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-10-20T07:05:39Z"
+  },
+  {
+    "id": "news-a84b6a7bee5c",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "url": "https://openai.com/index/terminal-x",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-20T07:00:00Z"
   },
   {
     "id": "news-d88fd01a7305",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-15T19:00:00Z"
-  },
-  {
-    "id": "news-84007b3bda82",
-    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-    "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The…",
-    "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-15T18:00:00Z"
   }
 ]
