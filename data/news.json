@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T01:14:01Z"
+    "publishedAt": "2026-10-21T06:58:56Z"
   },
   {
     "id": "news-afbab9c303fc",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T01:14:01Z"
+    "publishedAt": "2026-10-21T06:58:56Z"
   },
   {
     "id": "news-9a15d5e67127",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T01:14:01Z"
+    "publishedAt": "2026-10-21T06:58:56Z"
   },
   {
     "id": "news-f222c909380e",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T01:14:01Z"
+    "publishedAt": "2026-10-21T06:58:56Z"
   },
   {
     "id": "news-894c482077a9",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T01:14:01Z"
+    "publishedAt": "2026-10-21T06:58:56Z"
   },
   {
     "id": "news-bda22f534d0b",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T01:14:01Z"
+    "publishedAt": "2026-10-21T06:58:56Z"
+  },
+  {
+    "id": "news-1778fb273dbb",
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-10-21T04:00:00Z"
   },
   {
     "id": "news-4eb9f7080b11",
@@ -468,15 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-10-15T19:39:27Z"
-  },
-  {
-    "id": "news-a72d1e4da6b0",
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-15T19:00:00Z"
   }
 ]
