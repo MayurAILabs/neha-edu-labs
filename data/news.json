@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T21:11:46Z"
+    "publishedAt": "2026-10-22T00:24:06Z"
   },
   {
     "id": "news-9a15d5e67127",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T21:11:46Z"
+    "publishedAt": "2026-10-22T00:24:06Z"
   },
   {
     "id": "news-f222c909380e",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T21:11:46Z"
+    "publishedAt": "2026-10-22T00:24:06Z"
   },
   {
     "id": "news-894c482077a9",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T21:11:46Z"
+    "publishedAt": "2026-10-22T00:24:06Z"
   },
   {
     "id": "news-bda22f534d0b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T21:11:46Z"
+    "publishedAt": "2026-10-22T00:24:06Z"
   },
   {
     "id": "news-d52d49a590c7",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-21T21:11:46Z"
+    "publishedAt": "2026-10-22T00:24:06Z"
+  },
+  {
+    "id": "news-2ed22a61b2f1",
+    "title": "Broad access through consistent standards",
+    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-21T21:00:00Z"
   },
   {
     "id": "news-7104bc51c295",
@@ -468,15 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-10-19T18:47:22Z"
-  },
-  {
-    "id": "news-0dbde1ea1153",
-    "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-    "summary": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
-    "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-19T18:20:00Z"
   }
 ]
