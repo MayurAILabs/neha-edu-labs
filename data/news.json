@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-22T20:24:02Z"
+    "publishedAt": "2026-10-22T23:51:35Z"
   },
   {
     "id": "news-f222c909380e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-22T20:24:02Z"
+    "publishedAt": "2026-10-22T23:51:35Z"
   },
   {
     "id": "news-894c482077a9",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-22T20:24:02Z"
+    "publishedAt": "2026-10-22T23:51:35Z"
   },
   {
     "id": "news-d52d49a590c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-22T20:24:02Z"
+    "publishedAt": "2026-10-22T23:51:35Z"
   },
   {
     "id": "news-65d55b82c54f",
@@ -47,17 +47,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-22T20:24:02Z"
+    "publishedAt": "2026-10-22T23:51:35Z"
   },
   {
     "id": "news-53f520a5f6b4",
-    "title": "Architecting Governed, Self-Evolving AI Agents on the Gemini platform",
+    "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
     "summary": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization,…",
     "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-22T20:24:02Z"
+    "publishedAt": "2026-10-22T23:51:35Z"
+  },
+  {
+    "id": "news-95eb6975ad24",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-22T22:24:34Z"
+  },
+  {
+    "id": "news-88e73b340e5c",
+    "title": "This design software reimagines everyday objects as self-aware devices",
+    "summary": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
+    "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-22T20:45:00Z"
   },
   {
     "id": "news-27825e300358",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-21T07:00:00Z"
-  },
-  {
-    "id": "news-edef63b51aed",
-    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-    "url": "https://openai.com/index/building-chatgpt-ad-stack",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-21T07:00:00Z"
-  },
-  {
-    "id": "news-1de8e62ff715",
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-21T04:50:00Z"
   }
 ]
