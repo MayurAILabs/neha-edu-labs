@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-22T23:51:35Z"
+    "publishedAt": "2026-10-23T03:12:37Z"
   },
   {
     "id": "news-f222c909380e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-22T23:51:35Z"
+    "publishedAt": "2026-10-23T03:12:37Z"
   },
   {
     "id": "news-894c482077a9",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-22T23:51:35Z"
+    "publishedAt": "2026-10-23T03:12:37Z"
   },
   {
     "id": "news-d52d49a590c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-22T23:51:35Z"
+    "publishedAt": "2026-10-23T03:12:37Z"
   },
   {
     "id": "news-65d55b82c54f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-22T23:51:35Z"
+    "publishedAt": "2026-10-23T03:12:37Z"
   },
   {
     "id": "news-53f520a5f6b4",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-22T23:51:35Z"
+    "publishedAt": "2026-10-23T03:12:37Z"
+  },
+  {
+    "id": "news-b21a97b1b273",
+    "title": "Kazakhstan Expands Compute for Its AI Future",
+    "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below…",
+    "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-23T02:00:13Z"
   },
   {
     "id": "news-95eb6975ad24",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-21T10:30:02Z"
-  },
-  {
-    "id": "news-d3f519557f32",
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-21T07:00:00Z"
   }
 ]
