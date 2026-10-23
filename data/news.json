@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T09:03:13Z"
+    "publishedAt": "2026-10-23T14:37:57Z"
   },
   {
     "id": "news-f222c909380e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T09:03:13Z"
+    "publishedAt": "2026-10-23T14:37:57Z"
   },
   {
     "id": "news-894c482077a9",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T09:03:13Z"
+    "publishedAt": "2026-10-23T14:37:57Z"
   },
   {
     "id": "news-d52d49a590c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T09:03:13Z"
+    "publishedAt": "2026-10-23T14:37:57Z"
   },
   {
     "id": "news-65d55b82c54f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T09:03:13Z"
+    "publishedAt": "2026-10-23T14:37:57Z"
   },
   {
     "id": "news-53f520a5f6b4",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T09:03:13Z"
+    "publishedAt": "2026-10-23T14:37:57Z"
   },
   {
     "id": "news-690aea53d2bd",
@@ -72,7 +72,7 @@
   {
     "id": "news-b21a97b1b273",
     "title": "Kazakhstan Expands Compute for Its AI Future",
-    "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below…",
+    "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a…",
     "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
     "image": "assets/images/news/cat-ai.svg",
     "source": "NVIDIA",
@@ -86,6 +86,16 @@
     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-23T00:00:00Z"
+  },
+  {
+    "id": "news-6430909168b5",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-10-23T00:00:00Z"
   },
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-21T10:30:41Z"
-  },
-  {
-    "id": "news-0c405e6fd045",
-    "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-    "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open…",
-    "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-21T10:30:40Z"
   }
 ]
