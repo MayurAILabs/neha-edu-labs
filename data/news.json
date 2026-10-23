@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T03:12:37Z"
+    "publishedAt": "2026-10-23T09:03:13Z"
   },
   {
     "id": "news-f222c909380e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T03:12:37Z"
+    "publishedAt": "2026-10-23T09:03:13Z"
   },
   {
     "id": "news-894c482077a9",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T03:12:37Z"
+    "publishedAt": "2026-10-23T09:03:13Z"
   },
   {
     "id": "news-d52d49a590c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T03:12:37Z"
+    "publishedAt": "2026-10-23T09:03:13Z"
   },
   {
     "id": "news-65d55b82c54f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T03:12:37Z"
+    "publishedAt": "2026-10-23T09:03:13Z"
   },
   {
     "id": "news-53f520a5f6b4",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T03:12:37Z"
+    "publishedAt": "2026-10-23T09:03:13Z"
+  },
+  {
+    "id": "news-690aea53d2bd",
+    "title": "Q&A: How AI came to model the “messy” human mind",
+    "summary": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
+    "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-23T04:00:00Z"
   },
   {
     "id": "news-b21a97b1b273",
@@ -68,6 +78,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-23T02:00:13Z"
+  },
+  {
+    "id": "news-15c1f8ef7a58",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-23T00:00:00Z"
   },
   {
     "id": "news-95eb6975ad24",
@@ -458,25 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-21T10:30:40Z"
-  },
-  {
-    "id": "news-64ae1d1ebee7",
-    "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
-    "summary": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs. Complex engineering feats — from advanced chips to…",
-    "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-21T10:30:25Z"
-  },
-  {
-    "id": "news-9e8b8c2e1479",
-    "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-    "summary": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy…",
-    "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-21T10:30:02Z"
   }
 ]
