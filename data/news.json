@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T18:51:53Z"
+    "publishedAt": "2026-10-23T21:49:07Z"
   },
   {
     "id": "news-f222c909380e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T18:51:53Z"
+    "publishedAt": "2026-10-23T21:49:07Z"
   },
   {
     "id": "news-894c482077a9",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T18:51:53Z"
+    "publishedAt": "2026-10-23T21:49:07Z"
   },
   {
     "id": "news-d52d49a590c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T18:51:53Z"
+    "publishedAt": "2026-10-23T21:49:07Z"
   },
   {
     "id": "news-65d55b82c54f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T18:51:53Z"
+    "publishedAt": "2026-10-23T21:49:07Z"
   },
   {
     "id": "news-53f520a5f6b4",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-23T18:51:53Z"
+    "publishedAt": "2026-10-23T21:49:07Z"
+  },
+  {
+    "id": "news-c636a8319993",
+    "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+    "summary": "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs.",
+    "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-23T21:00:00Z"
+  },
+  {
+    "id": "news-60c7eb065c48",
+    "title": "Reinforcing the value of human understanding at MIT",
+    "summary": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”",
+    "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-23T19:35:00Z"
   },
   {
     "id": "news-57d1526d44c4",
@@ -88,6 +108,16 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-10-23T16:15:50Z"
+  },
+  {
+    "id": "news-48e2274fdf2b",
+    "title": "Securing our frontier model training environment",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-23T10:00:00Z"
   },
   {
     "id": "news-690aea53d2bd",
@@ -448,35 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-10-21T12:51:24Z"
-  },
-  {
-    "id": "news-afbab9c303fc",
-    "title": "Native Model Authoring for Edge with LiteRT Tensor API",
-    "summary": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
-    "url": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-21T12:50:11Z"
-  },
-  {
-    "id": "news-6712508ff68f",
-    "title": "Protein Design with RFD4-Proteina and Hugging Face Spaces",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-21T12:39:49Z"
-  },
-  {
-    "id": "news-61f4d0141ff3",
-    "title": "OpenAI models are coming to Google Cloud",
-    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-    "url": "https://openai.com/index/openai-models-google-cloud",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-21T12:00:00Z"
   }
 ]
