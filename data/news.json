@@ -7,7 +7,77 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-26T09:37:49Z"
+    "publishedAt": "2026-10-26T16:26:13Z"
+  },
+  {
+    "id": "news-894c482077a9",
+    "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
+    "summary": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can leverage hierarchical graph…",
+    "url": "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-26T16:26:13Z"
+  },
+  {
+    "id": "news-d52d49a590c7",
+    "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
+    "summary": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party…",
+    "url": "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-26T16:26:13Z"
+  },
+  {
+    "id": "news-65d55b82c54f",
+    "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
+    "summary": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update…",
+    "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-26T16:26:13Z"
+  },
+  {
+    "id": "news-53f520a5f6b4",
+    "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
+    "summary": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization,…",
+    "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-26T16:26:13Z"
+  },
+  {
+    "id": "news-e1c7387c3a80",
+    "title": "Preview, edit, and collaborate on markdown (.md) files natively in Google Docs and Drive",
+    "summary": "Google Workspace now offers native support for Markdown (.md) files, allowing developers and AI agents to seamlessly collaborate on documentation directly in Google Docs without manual file conversions. This integration…",
+    "url": "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-26T16:26:13Z"
+  },
+  {
+    "id": "news-be77c96c39b4",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-10-26T16:00:00Z"
+  },
+  {
+    "id": "news-9fe4c2f3e500",
+    "title": "Build a Hidden Lock With a Magnetic Imager",
+    "summary": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cracking combinations…",
+    "url": "https://spectrum.ieee.org/magnetic",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-26T13:00:02Z"
   },
   {
     "id": "news-f222c909380e",
@@ -20,44 +90,14 @@
     "publishedAt": "2026-10-26T09:37:49Z"
   },
   {
-    "id": "news-894c482077a9",
-    "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
-    "summary": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can leverage hierarchical graph…",
-    "url": "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-26T09:37:49Z"
-  },
-  {
-    "id": "news-d52d49a590c7",
-    "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
-    "summary": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party…",
-    "url": "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-26T09:37:49Z"
-  },
-  {
-    "id": "news-65d55b82c54f",
-    "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
-    "summary": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update…",
-    "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-26T09:37:49Z"
-  },
-  {
-    "id": "news-53f520a5f6b4",
-    "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
-    "summary": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization,…",
-    "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-26T09:37:49Z"
+    "id": "news-eb7708c5f537",
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-26T07:00:00Z"
   },
   {
     "id": "news-efcececa5afa",
@@ -438,45 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-21T17:00:00Z"
-  },
-  {
-    "id": "news-f9b499debdda",
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-21T16:04:43Z"
-  },
-  {
-    "id": "news-d345d7957a6f",
-    "title": "The bridge to agent-scale Git infrastructure",
-    "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git…",
-    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-21T16:00:00Z"
-  },
-  {
-    "id": "news-9b35c0bfb2f0",
-    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-21T14:58:18Z"
-  },
-  {
-    "id": "news-acb3a24ef951",
-    "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
-    "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began,…",
-    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-21T13:00:02Z"
   }
 ]
