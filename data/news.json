@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-25T23:45:24Z"
+    "publishedAt": "2026-10-26T03:00:46Z"
   },
   {
     "id": "news-f222c909380e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-25T23:45:24Z"
+    "publishedAt": "2026-10-26T03:00:46Z"
   },
   {
     "id": "news-894c482077a9",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-25T23:45:24Z"
+    "publishedAt": "2026-10-26T03:00:46Z"
   },
   {
     "id": "news-d52d49a590c7",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-25T23:45:24Z"
+    "publishedAt": "2026-10-26T03:00:46Z"
   },
   {
     "id": "news-65d55b82c54f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-25T23:45:24Z"
+    "publishedAt": "2026-10-26T03:00:46Z"
   },
   {
     "id": "news-53f520a5f6b4",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-25T23:45:24Z"
+    "publishedAt": "2026-10-26T03:00:46Z"
+  },
+  {
+    "id": "news-2ee31f3d9c92",
+    "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
+    "summary": "I step into the warm moist airamong the columns of the pines,their net of twigs and rootscomplex as any lines of code.The trees purify and anchor.Their branches balance my restlessness.Their calling is to be…",
+    "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-25T12:00:02Z"
   },
   {
     "id": "news-c636a8319993",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-21T13:00:00Z"
-  },
-  {
-    "id": "news-38715d90bd30",
-    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-21T12:51:24Z"
   }
 ]
