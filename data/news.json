@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-26T21:18:07Z"
+    "publishedAt": "2026-10-27T01:04:11Z"
   },
   {
     "id": "news-65d55b82c54f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-26T21:18:07Z"
+    "publishedAt": "2026-10-27T01:04:11Z"
   },
   {
     "id": "news-53f520a5f6b4",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-26T21:18:07Z"
+    "publishedAt": "2026-10-27T01:04:11Z"
   },
   {
     "id": "news-e1c7387c3a80",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-26T21:18:07Z"
+    "publishedAt": "2026-10-27T01:04:11Z"
   },
   {
     "id": "news-f222c909380e",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-26T21:18:07Z"
+    "publishedAt": "2026-10-27T01:04:11Z"
   },
   {
     "id": "news-bda22f534d0b",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-26T21:18:07Z"
+    "publishedAt": "2026-10-27T01:04:11Z"
+  },
+  {
+    "id": "news-250e5d8f3024",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-26T22:00:00Z"
   },
   {
     "id": "news-f3b6de314f91",
@@ -108,6 +118,26 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-10-26T16:00:00Z"
+  },
+  {
+    "id": "news-f16aefe89a6e",
+    "title": "Working with academic communities to build scientific understanding",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-26T14:30:00Z"
+  },
+  {
+    "id": "news-1a1d4bf2fc11",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-26T13:45:00Z"
   },
   {
     "id": "news-9fe4c2f3e500",
@@ -448,35 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-22T05:00:23Z"
-  },
-  {
-    "id": "news-6d8a31a2427f",
-    "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
-    "summary": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can show a storm taking…",
-    "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-22T05:00:19Z"
-  },
-  {
-    "id": "news-2d9cc8be346c",
-    "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
-    "summary": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to local languages and…",
-    "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-22T05:00:02Z"
-  },
-  {
-    "id": "news-ba6fa07d677a",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-22T00:00:00Z"
   }
 ]
