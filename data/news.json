@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-27T07:13:43Z"
+    "publishedAt": "2026-10-27T13:54:03Z"
   },
   {
     "id": "news-65d55b82c54f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-27T07:13:43Z"
+    "publishedAt": "2026-10-27T13:54:03Z"
   },
   {
     "id": "news-53f520a5f6b4",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-27T07:13:43Z"
+    "publishedAt": "2026-10-27T13:54:03Z"
   },
   {
     "id": "news-e1c7387c3a80",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-27T07:13:43Z"
+    "publishedAt": "2026-10-27T13:54:03Z"
   },
   {
     "id": "news-f222c909380e",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-27T07:13:43Z"
+    "publishedAt": "2026-10-27T13:54:03Z"
   },
   {
     "id": "news-bda22f534d0b",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-27T07:13:43Z"
+    "publishedAt": "2026-10-27T13:54:03Z"
+  },
+  {
+    "id": "news-42c92fbc7a08",
+    "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
+    "summary": "Science has a spam problem. And the spam filter is getting clogged up.According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with…",
+    "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-27T13:00:03Z"
   },
   {
     "id": "news-250e5d8f3024",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-22T05:00:25Z"
-  },
-  {
-    "id": "news-231615289514",
-    "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-    "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is…",
-    "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-22T05:00:23Z"
   }
 ]
