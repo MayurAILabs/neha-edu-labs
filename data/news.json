@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-27T13:54:03Z"
+    "publishedAt": "2026-10-27T19:11:13Z"
   },
   {
     "id": "news-65d55b82c54f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-27T13:54:03Z"
+    "publishedAt": "2026-10-27T19:11:13Z"
   },
   {
     "id": "news-53f520a5f6b4",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-27T13:54:03Z"
+    "publishedAt": "2026-10-27T19:11:13Z"
   },
   {
     "id": "news-e1c7387c3a80",
@@ -37,7 +37,67 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-27T13:54:03Z"
+    "publishedAt": "2026-10-27T19:11:13Z"
+  },
+  {
+    "id": "news-b8729281aa3f",
+    "title": "Fast, reliable A2UI, with swappable inference formats",
+    "summary": "A2UI now supports swappable inference formats, introducing A2UI Express which uses up to 3x fewer tokens and cuts latency by compiling compact Python-style syntax into standard A2UI JSON via Agent SDKs. Developers can…",
+    "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-27T19:11:13Z"
+  },
+  {
+    "id": "news-dc1ded807a3c",
+    "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
+    "summary": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks,…",
+    "url": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-27T19:11:13Z"
+  },
+  {
+    "id": "news-db98bf59a6c7",
+    "title": "Build specialized multimodal models with LFM3",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-27T17:16:52Z"
+  },
+  {
+    "id": "news-1698e31ea5a4",
+    "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+    "summary": "This article is brought to you by VicOne.A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on…",
+    "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-27T16:14:39Z"
+  },
+  {
+    "id": "news-34370e88c88d",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-27T16:12:42Z"
+  },
+  {
+    "id": "news-df8156dd7062",
+    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+    "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of…",
+    "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-27T15:00:20Z"
   },
   {
     "id": "news-f222c909380e",
@@ -68,6 +128,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-10-27T13:00:03Z"
+  },
+  {
+    "id": "news-a3a879144b29",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-27T07:00:00Z"
   },
   {
     "id": "news-250e5d8f3024",
@@ -408,75 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-22T13:00:20Z"
-  },
-  {
-    "id": "news-bac3b1cc8940",
-    "title": "Why Engineers Should Brave Capitol Hill",
-    "summary": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of…",
-    "url": "https://spectrum.ieee.org/engineers-lobbying-congress",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-22T13:00:02Z"
-  },
-  {
-    "id": "news-8bedacd178f8",
-    "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
-    "summary": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress…",
-    "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-22T11:04:58Z"
-  },
-  {
-    "id": "news-5d118fadbe79",
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-22T07:51:31Z"
-  },
-  {
-    "id": "news-63c31ca523f9",
-    "title": "What FDE means at OpenAI",
-    "summary": "What forward deployed engineering means at OpenAI",
-    "url": "https://openai.com/index/forward-deployed-engineering-means",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-22T06:00:00Z"
-  },
-  {
-    "id": "news-8eb5c126f8cf",
-    "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
-    "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their…",
-    "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-22T05:00:56Z"
-  },
-  {
-    "id": "news-381130e24d54",
-    "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-    "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos…",
-    "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-22T05:00:27Z"
-  },
-  {
-    "id": "news-761a1716cf64",
-    "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-    "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds…",
-    "url": "https://blogs.nvidia.com/blog/dsx-power/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-22T05:00:25Z"
   }
 ]
