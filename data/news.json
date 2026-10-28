@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-28T10:17:41Z"
+    "publishedAt": "2026-10-28T16:57:14Z"
   },
   {
     "id": "news-65d55b82c54f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-28T10:17:41Z"
+    "publishedAt": "2026-10-28T16:57:14Z"
   },
   {
     "id": "news-53f520a5f6b4",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-28T10:17:41Z"
+    "publishedAt": "2026-10-28T16:57:14Z"
   },
   {
     "id": "news-e1c7387c3a80",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-28T10:17:41Z"
+    "publishedAt": "2026-10-28T16:57:14Z"
   },
   {
     "id": "news-b8729281aa3f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-28T10:17:41Z"
+    "publishedAt": "2026-10-28T16:57:14Z"
   },
   {
     "id": "news-dc1ded807a3c",
@@ -57,13 +57,83 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-28T10:17:41Z"
+    "publishedAt": "2026-10-28T16:57:14Z"
+  },
+  {
+    "id": "news-6c275e5fd0ef",
+    "title": "GitHub Universe 2026: Evolving every layer of the stack",
+    "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog.",
+    "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-28T16:09:28Z"
+  },
+  {
+    "id": "news-bedf4f2776b5",
+    "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+    "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents…",
+    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-10-28T16:07:40Z"
+  },
+  {
+    "id": "news-071e826394b5",
+    "title": "3 Questions: Why infrastructure is entering a defining era",
+    "summary": "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed.",
+    "url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-28T16:00:00Z"
+  },
+  {
+    "id": "news-2952348be6c4",
+    "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+    "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems…",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-28T15:00:46Z"
+  },
+  {
+    "id": "news-7ae8eb20550e",
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-28T14:58:17Z"
+  },
+  {
+    "id": "news-d969a2298b12",
+    "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
+    "summary": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle…",
+    "url": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-28T13:00:03Z"
   },
   {
     "id": "news-2fc8e689e413",
     "title": "Legora is building the agentic operating system for legal work",
     "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
     "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-28T09:30:00Z"
+  },
+  {
+    "id": "news-41c97fe8dc29",
+    "title": "Legora is building the agentic operating system for legal work",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "url": "https://openai.com/index/legora",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -408,75 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-23T10:00:00Z"
-  },
-  {
-    "id": "news-690aea53d2bd",
-    "title": "Q&A: How AI came to model the “messy” human mind",
-    "summary": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
-    "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-23T04:00:00Z"
-  },
-  {
-    "id": "news-b21a97b1b273",
-    "title": "Kazakhstan Expands Compute for Its AI Future",
-    "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a…",
-    "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-23T02:00:13Z"
-  },
-  {
-    "id": "news-15c1f8ef7a58",
-    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-23T00:00:00Z"
-  },
-  {
-    "id": "news-6430909168b5",
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-23T00:00:00Z"
-  },
-  {
-    "id": "news-95eb6975ad24",
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-22T22:24:34Z"
-  },
-  {
-    "id": "news-88e73b340e5c",
-    "title": "This design software reimagines everyday objects as self-aware devices",
-    "summary": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
-    "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-22T20:45:00Z"
-  },
-  {
-    "id": "news-27825e300358",
-    "title": "Build more responsive apps with the Decisions API",
-    "summary": "Fast, focused, low-cost decisions for any application.",
-    "url": "https://openai.com/index/decisions-api",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-22T19:00:00Z"
   }
 ]
