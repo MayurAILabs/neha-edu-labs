@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-28T03:48:41Z"
+    "publishedAt": "2026-10-28T10:17:41Z"
   },
   {
     "id": "news-65d55b82c54f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-28T03:48:41Z"
+    "publishedAt": "2026-10-28T10:17:41Z"
   },
   {
     "id": "news-53f520a5f6b4",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-28T03:48:41Z"
+    "publishedAt": "2026-10-28T10:17:41Z"
   },
   {
     "id": "news-e1c7387c3a80",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-28T03:48:41Z"
+    "publishedAt": "2026-10-28T10:17:41Z"
   },
   {
     "id": "news-b8729281aa3f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-28T03:48:41Z"
+    "publishedAt": "2026-10-28T10:17:41Z"
   },
   {
     "id": "news-dc1ded807a3c",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-28T03:48:41Z"
+    "publishedAt": "2026-10-28T10:17:41Z"
+  },
+  {
+    "id": "news-2fc8e689e413",
+    "title": "Legora is building the agentic operating system for legal work",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-28T09:30:00Z"
+  },
+  {
+    "id": "news-9e57b3c7cb0d",
+    "title": "Making machines that can listen",
+    "summary": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
+    "url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-28T04:00:00Z"
   },
   {
     "id": "news-67f0b179673c",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-22T19:00:00Z"
-  },
-  {
-    "id": "news-ba1967cf9869",
-    "title": "Why AI Can’t Replace Engineering Teams",
-    "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and…",
-    "url": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-22T18:02:20Z"
-  },
-  {
-    "id": "news-09be57be38cc",
-    "title": "How bug bounty sharpens one researcher’s security skills",
-    "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one…",
-    "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-22T17:21:30Z"
   }
 ]
