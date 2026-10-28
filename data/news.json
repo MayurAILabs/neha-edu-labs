@@ -1,5 +1,85 @@
 [
   {
+    "id": "news-65d55b82c54f",
+    "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
+    "summary": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update…",
+    "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-28T21:31:22Z"
+  },
+  {
+    "id": "news-e1c7387c3a80",
+    "title": "Preview, edit, and collaborate on markdown (.md) files natively in Google Docs and Drive",
+    "summary": "Google Workspace now offers native support for Markdown (.md) files, allowing developers and AI agents to seamlessly collaborate on documentation directly in Google Docs without manual file conversions. This integration…",
+    "url": "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-28T21:31:22Z"
+  },
+  {
+    "id": "news-b8729281aa3f",
+    "title": "Fast, reliable A2UI, with swappable inference formats",
+    "summary": "A2UI now supports swappable inference formats, introducing A2UI Express which uses up to 3x fewer tokens and cuts latency by compiling compact Python-style syntax into standard A2UI JSON via Agent SDKs. Developers can…",
+    "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-28T21:31:22Z"
+  },
+  {
+    "id": "news-dc1ded807a3c",
+    "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
+    "summary": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks,…",
+    "url": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-28T21:31:22Z"
+  },
+  {
+    "id": "news-2a8d977a35aa",
+    "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
+    "summary": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps…",
+    "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-28T21:31:22Z"
+  },
+  {
+    "id": "news-5d4b8a710b96",
+    "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
+    "summary": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by…",
+    "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-28T21:31:22Z"
+  },
+  {
+    "id": "news-d27073b544a7",
+    "title": "Systems Thinking Is Vital in the Age of AI",
+    "summary": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards,…",
+    "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-28T18:00:02Z"
+  },
+  {
+    "id": "news-b0da25ea6c1a",
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-10-28T17:00:58Z"
+  },
+  {
     "id": "news-d52d49a590c7",
     "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
     "summary": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party…",
@@ -10,50 +90,10 @@
     "publishedAt": "2026-10-28T16:57:14Z"
   },
   {
-    "id": "news-65d55b82c54f",
-    "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
-    "summary": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update…",
-    "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-28T16:57:14Z"
-  },
-  {
     "id": "news-53f520a5f6b4",
     "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
     "summary": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization,…",
     "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-28T16:57:14Z"
-  },
-  {
-    "id": "news-e1c7387c3a80",
-    "title": "Preview, edit, and collaborate on markdown (.md) files natively in Google Docs and Drive",
-    "summary": "Google Workspace now offers native support for Markdown (.md) files, allowing developers and AI agents to seamlessly collaborate on documentation directly in Google Docs without manual file conversions. This integration…",
-    "url": "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-28T16:57:14Z"
-  },
-  {
-    "id": "news-b8729281aa3f",
-    "title": "Fast, reliable A2UI, with swappable inference formats",
-    "summary": "A2UI now supports swappable inference formats, introducing A2UI Express which uses up to 3x fewer tokens and cuts latency by compiling compact Python-style syntax into standard A2UI JSON via Agent SDKs. Developers can…",
-    "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-28T16:57:14Z"
-  },
-  {
-    "id": "news-dc1ded807a3c",
-    "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
-    "summary": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks,…",
-    "url": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -110,6 +150,16 @@
     "publishedAt": "2026-10-28T14:58:17Z"
   },
   {
+    "id": "news-75e2017ed4c5",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-28T13:15:00Z"
+  },
+  {
     "id": "news-d969a2298b12",
     "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
     "summary": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle…",
@@ -118,6 +168,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-10-28T13:00:03Z"
+  },
+  {
+    "id": "news-0dc3cf0b7c98",
+    "title": "The future of the firm",
+    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-28T10:00:00Z"
   },
   {
     "id": "news-2fc8e689e413",
@@ -242,7 +302,7 @@
   {
     "id": "news-42c92fbc7a08",
     "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
-    "summary": "Science has a spam problem. And the spam filter is getting clogged up.According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with…",
+    "summary": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with…",
     "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
     "image": "assets/images/news/cat-engineering.svg",
     "source": "IEEE Spectrum",
@@ -418,65 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-10-25T12:00:02Z"
-  },
-  {
-    "id": "news-c636a8319993",
-    "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
-    "summary": "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs.",
-    "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-23T21:00:00Z"
-  },
-  {
-    "id": "news-60c7eb065c48",
-    "title": "Reinforcing the value of human understanding at MIT",
-    "summary": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”",
-    "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-23T19:35:00Z"
-  },
-  {
-    "id": "news-57d1526d44c4",
-    "title": "From Chip Lab to Center Stage",
-    "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and…",
-    "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-23T18:00:03Z"
-  },
-  {
-    "id": "news-298c8de07d18",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-23T17:00:00Z"
-  },
-  {
-    "id": "news-d5dfb55b0129",
-    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/allenai/litpivot",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-23T16:15:50Z"
-  },
-  {
-    "id": "news-48e2274fdf2b",
-    "title": "Securing our frontier model training environment",
-    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-23T10:00:00Z"
   }
 ]
