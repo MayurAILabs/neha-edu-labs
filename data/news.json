@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-29T07:58:06Z"
+    "publishedAt": "2026-10-29T15:03:11Z"
   },
   {
     "id": "news-e1c7387c3a80",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-29T07:58:06Z"
+    "publishedAt": "2026-10-29T15:03:11Z"
   },
   {
     "id": "news-b8729281aa3f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-29T07:58:06Z"
+    "publishedAt": "2026-10-29T15:03:11Z"
   },
   {
     "id": "news-dc1ded807a3c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-29T07:58:06Z"
+    "publishedAt": "2026-10-29T15:03:11Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-29T07:58:06Z"
+    "publishedAt": "2026-10-29T15:03:11Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -57,7 +57,57 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-29T07:58:06Z"
+    "publishedAt": "2026-10-29T15:03:11Z"
+  },
+  {
+    "id": "news-f3538b6fb36f",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-29T13:37:07Z"
+  },
+  {
+    "id": "news-f52687297c33",
+    "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+    "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-29T13:00:16Z"
+  },
+  {
+    "id": "news-e1c742c1d925",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-29T00:00:00Z"
+  },
+  {
+    "id": "news-a1765f446c5b",
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/mistral-large4",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-29T00:00:00Z"
+  },
+  {
+    "id": "news-85d975255b4f",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-29T00:00:00Z"
   },
   {
     "id": "news-d27073b544a7",
@@ -428,55 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-26T10:00:00Z"
-  },
-  {
-    "id": "news-eb7708c5f537",
-    "title": "How Fanatics and OpenAI streamline the fan experience",
-    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-26T07:00:00Z"
-  },
-  {
-    "id": "news-8f2f08b6e197",
-    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-    "url": "https://openai.com/index/openai-cut-incident-investigation",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-26T07:00:00Z"
-  },
-  {
-    "id": "news-efcececa5afa",
-    "title": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out",
-    "summary": "Five expedited security releases to distrust the compromised eMudhra intermediate CA keys.",
-    "url": "https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-10-26T00:00:00Z"
-  },
-  {
-    "id": "news-1758535ac6be",
-    "title": "Introducing GPT-6.1 Terra",
-    "summary": "Bringing fast and capable computer use to everyone",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-26T00:00:00Z"
-  },
-  {
-    "id": "news-2ee31f3d9c92",
-    "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
-    "summary": "I step into the warm moist airamong the columns of the pines,their net of twigs and rootscomplex as any lines of code.The trees purify and anchor.Their branches balance my restlessness.Their calling is to be…",
-    "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-25T12:00:02Z"
   }
 ]
