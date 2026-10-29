@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-65d55b82c54f",
-    "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
-    "summary": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update…",
-    "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-29T15:03:11Z"
-  },
-  {
     "id": "news-e1c7387c3a80",
     "title": "Preview, edit, and collaborate on markdown (.md) files natively in Google Docs and Drive",
     "summary": "Google Workspace now offers native support for Markdown (.md) files, allowing developers and AI agents to seamlessly collaborate on documentation directly in Google Docs without manual file conversions. This integration…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-29T15:03:11Z"
+    "publishedAt": "2026-10-29T20:49:13Z"
   },
   {
     "id": "news-b8729281aa3f",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-29T15:03:11Z"
+    "publishedAt": "2026-10-29T20:49:13Z"
   },
   {
     "id": "news-dc1ded807a3c",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-29T15:03:11Z"
+    "publishedAt": "2026-10-29T20:49:13Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -47,13 +37,63 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-29T15:03:11Z"
+    "publishedAt": "2026-10-29T20:49:13Z"
   },
   {
     "id": "news-5d4b8a710b96",
     "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
     "summary": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by…",
     "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-29T20:49:13Z"
+  },
+  {
+    "id": "news-d64805000bf9",
+    "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
+    "summary": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
+    "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-29T20:49:13Z"
+  },
+  {
+    "id": "news-296e570e8a26",
+    "title": "Consumer Appetite for Personal AI Goes Mainstream",
+    "summary": "This article is brought to you by Qualcomm Technologies.For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help…",
+    "url": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-29T19:18:20Z"
+  },
+  {
+    "id": "news-7bf0065ceb16",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "url": "https://openai.com/index/updated-model-spec",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-29T17:00:00Z"
+  },
+  {
+    "id": "news-baf7193e75c1",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
+    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-29T16:00:35Z"
+  },
+  {
+    "id": "news-65d55b82c54f",
+    "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
+    "summary": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update…",
+    "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -78,6 +118,26 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-29T13:00:16Z"
+  },
+  {
+    "id": "news-d28967fce9c6",
+    "title": "How we detect frontier model misalignment",
+    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-29T09:00:00Z"
+  },
+  {
+    "id": "news-2d9928289658",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-29T07:00:00Z"
   },
   {
     "id": "news-e1c742c1d925",
@@ -418,65 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-10-26T16:26:13Z"
-  },
-  {
-    "id": "news-894c482077a9",
-    "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
-    "summary": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can leverage hierarchical graph…",
-    "url": "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-26T16:26:13Z"
-  },
-  {
-    "id": "news-be77c96c39b4",
-    "title": "Our newest AI Quest: Mapping the human brain",
-    "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
-    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-10-26T16:00:00Z"
-  },
-  {
-    "id": "news-f16aefe89a6e",
-    "title": "Working with academic communities to build scientific understanding",
-    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-26T14:30:00Z"
-  },
-  {
-    "id": "news-1a1d4bf2fc11",
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-26T13:45:00Z"
-  },
-  {
-    "id": "news-9fe4c2f3e500",
-    "title": "Build a Hidden Lock With a Magnetic Imager",
-    "summary": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cracking combinations…",
-    "url": "https://spectrum.ieee.org/magnetic",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-26T13:00:02Z"
-  },
-  {
-    "id": "news-64d59b55a8fb",
-    "title": "ChatGPT’s expanding world of work",
-    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-26T10:00:00Z"
   }
 ]
