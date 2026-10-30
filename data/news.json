@@ -1,5 +1,85 @@
 [
   {
+    "id": "news-b8729281aa3f",
+    "title": "Fast, reliable A2UI, with swappable inference formats",
+    "summary": "A2UI now supports swappable inference formats, introducing A2UI Express which uses up to 3x fewer tokens and cuts latency by compiling compact Python-style syntax into standard A2UI JSON via Agent SDKs. Developers can…",
+    "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-30T18:57:23Z"
+  },
+  {
+    "id": "news-dc1ded807a3c",
+    "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
+    "summary": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks,…",
+    "url": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-30T18:57:23Z"
+  },
+  {
+    "id": "news-2a8d977a35aa",
+    "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
+    "summary": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps…",
+    "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-30T18:57:23Z"
+  },
+  {
+    "id": "news-5d4b8a710b96",
+    "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
+    "summary": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by…",
+    "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-30T18:57:23Z"
+  },
+  {
+    "id": "news-d64805000bf9",
+    "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
+    "summary": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
+    "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-30T18:57:23Z"
+  },
+  {
+    "id": "news-c352d9d60e1b",
+    "title": "DevFest is back!",
+    "summary": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain…",
+    "url": "https://developers.googleblog.com/devfest-is-back/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-10-30T18:57:23Z"
+  },
+  {
+    "id": "news-b2263e9f8412",
+    "title": "nemotron-halloween",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-30T17:57:24Z"
+  },
+  {
+    "id": "news-4a4bcbde667c",
+    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+    "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence…",
+    "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-10-30T15:00:10Z"
+  },
+  {
     "id": "news-e1c7387c3a80",
     "title": "Preview, edit, and collaborate on markdown (.md) files natively in Google Docs and Drive",
     "summary": "Google Workspace now offers native support for Markdown (.md) files, allowing developers and AI agents to seamlessly collaborate on documentation directly in Google Docs without manual file conversions. This integration…",
@@ -10,54 +90,24 @@
     "publishedAt": "2026-10-30T13:47:30Z"
   },
   {
-    "id": "news-b8729281aa3f",
-    "title": "Fast, reliable A2UI, with swappable inference formats",
-    "summary": "A2UI now supports swappable inference formats, introducing A2UI Express which uses up to 3x fewer tokens and cuts latency by compiling compact Python-style syntax into standard A2UI JSON via Agent SDKs. Developers can…",
-    "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-30T13:47:30Z"
+    "id": "news-25cc4c9bb2e3",
+    "title": "Making it easier for websites to express AI training preferences",
+    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-30T09:30:00Z"
   },
   {
-    "id": "news-dc1ded807a3c",
-    "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
-    "summary": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks,…",
-    "url": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-30T13:47:30Z"
-  },
-  {
-    "id": "news-2a8d977a35aa",
-    "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
-    "summary": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps…",
-    "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-30T13:47:30Z"
-  },
-  {
-    "id": "news-5d4b8a710b96",
-    "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
-    "summary": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by…",
-    "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-30T13:47:30Z"
-  },
-  {
-    "id": "news-d64805000bf9",
-    "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
-    "summary": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
-    "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-30T13:47:30Z"
+    "id": "news-c7606af40dbb",
+    "title": "Community safety report and new protections for teens",
+    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-30T09:00:00Z"
   },
   {
     "id": "news-296e570e8a26",
@@ -166,6 +216,16 @@
     "url": "https://huggingface.co/blog/anydecisionmodel",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-10-29T00:00:00Z"
+  },
+  {
+    "id": "news-6750c2461412",
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+    "url": "https://openai.com/index/credit-saison",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-29T00:00:00Z"
   },
@@ -418,65 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-10-27T13:00:03Z"
-  },
-  {
-    "id": "news-a3a879144b29",
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-27T07:00:00Z"
-  },
-  {
-    "id": "news-8cb333260a17",
-    "title": "How Check Point accelerates vulnerability research with Daybreak",
-    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-    "url": "https://openai.com/index/check-point-daybreak",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-27T00:00:00Z"
-  },
-  {
-    "id": "news-250e5d8f3024",
-    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-    "url": "https://openai.com/index/greptile-code-review-codex-astra",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-26T22:00:00Z"
-  },
-  {
-    "id": "news-f3b6de314f91",
-    "title": "At New York Climate Week 2026, MIT connects with a global network",
-    "summary": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education.",
-    "url": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-26T19:00:00Z"
-  },
-  {
-    "id": "news-d57e9a8a9f2d",
-    "title": "IEEE Xplore Digital Library Adds AI Assistant",
-    "summary": "IEEE recently released the IEEE Xplore AI Research Suite, built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library. The library offers full-text access to IEEE standards,…",
-    "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-26T18:00:03Z"
-  },
-  {
-    "id": "news-9a15d5e67127",
-    "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
-    "summary": "Google Research has completed the 32-bit open-source Coral NPU RISC-V architecture with the introduction of its Matrix Execution Unit, which delivers up to 1 TOPS while targeting 10 mW average power for edge inference.…",
-    "url": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-26T16:26:13Z"
   }
 ]
