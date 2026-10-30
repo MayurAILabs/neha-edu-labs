@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-30T18:57:23Z"
+    "publishedAt": "2026-10-30T22:49:46Z"
   },
   {
     "id": "news-dc1ded807a3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-30T18:57:23Z"
+    "publishedAt": "2026-10-30T22:49:46Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-30T18:57:23Z"
+    "publishedAt": "2026-10-30T22:49:46Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-30T18:57:23Z"
+    "publishedAt": "2026-10-30T22:49:46Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-30T18:57:23Z"
+    "publishedAt": "2026-10-30T22:49:46Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-30T18:57:23Z"
+    "publishedAt": "2026-10-30T22:49:46Z"
+  },
+  {
+    "id": "news-de7eef275564",
+    "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+    "summary": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.",
+    "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-30T20:15:00Z"
+  },
+  {
+    "id": "news-226d6d5c25cb",
+    "title": "Q&A: Hey AI, who should I vote for this year?",
+    "summary": "MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections.",
+    "url": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-10-30T19:00:00Z"
   },
   {
     "id": "news-b2263e9f8412",
@@ -108,6 +128,16 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-30T09:00:00Z"
+  },
+  {
+    "id": "news-d2282bcce162",
+    "title": "Fair use benefits everyone",
+    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+    "url": "https://openai.com/index/fair-use-benefits-everyone",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-10-30T00:00:00Z"
   },
   {
     "id": "news-296e570e8a26",
@@ -448,35 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-27T15:00:00Z"
-  },
-  {
-    "id": "news-f222c909380e",
-    "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
-    "summary": "This post announces native PyTorch backends for vLLM and SGLang powered by TorchTPU, enabling developers to run and optimize serving workloads using familiar PyTorch tools. Built in collaboration with open-source…",
-    "url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-27T13:54:03Z"
-  },
-  {
-    "id": "news-bda22f534d0b",
-    "title": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
-    "summary": "TorchTPU integrates a native torch.device(\"tpu\") backend directly into PyTorch, allowing developers to train large-scale models on Google Cloud TPUs without rewriting code in JAX. The TorchTitan TPU fork enhances this…",
-    "url": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-27T13:54:03Z"
-  },
-  {
-    "id": "news-42c92fbc7a08",
-    "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
-    "summary": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with…",
-    "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-27T13:00:03Z"
   }
 ]
