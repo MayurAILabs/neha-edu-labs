@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-31T08:10:09Z"
+    "publishedAt": "2026-10-31T14:58:33Z"
   },
   {
     "id": "news-dc1ded807a3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-31T08:10:09Z"
+    "publishedAt": "2026-10-31T14:58:33Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-31T08:10:09Z"
+    "publishedAt": "2026-10-31T14:58:33Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-31T08:10:09Z"
+    "publishedAt": "2026-10-31T14:58:33Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-31T08:10:09Z"
+    "publishedAt": "2026-10-31T14:58:33Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-10-31T08:10:09Z"
+    "publishedAt": "2026-10-31T14:58:33Z"
+  },
+  {
+    "id": "news-062f94d6c1c8",
+    "title": "When Electric Cars Were for Women",
+    "summary": "At the turn of the last century, the automobile industry was still new and evolving rapidly. In 1898, there were about 50 carmakers in the United States. A decade later, that number had increased fivefold. In 1901, the…",
+    "url": "https://spectrum.ieee.org/early-electric-vehicles",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-10-31T13:00:02Z"
   },
   {
     "id": "news-de7eef275564",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-27T15:00:20Z"
-  },
-  {
-    "id": "news-d42fb1eb3362",
-    "title": "Retell uses OpenAI models to help power 100M monthly calls",
-    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-    "url": "https://openai.com/index/retell-ai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-27T15:00:00Z"
   }
 ]
