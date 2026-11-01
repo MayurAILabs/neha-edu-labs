@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-01T11:38:15Z"
+    "publishedAt": "2026-11-01T17:35:04Z"
   },
   {
     "id": "news-dc1ded807a3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-01T11:38:15Z"
+    "publishedAt": "2026-11-01T17:35:04Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-01T11:38:15Z"
+    "publishedAt": "2026-11-01T17:35:04Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-01T11:38:15Z"
+    "publishedAt": "2026-11-01T17:35:04Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-01T11:38:15Z"
+    "publishedAt": "2026-11-01T17:35:04Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-01T11:38:15Z"
+    "publishedAt": "2026-11-01T17:35:04Z"
+  },
+  {
+    "id": "news-594f44f4d349",
+    "title": "Guarding the Gates of Knowledge",
+    "summary": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who…",
+    "url": "https://spectrum.ieee.org/ai-slop-trust-science",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-01T14:00:01Z"
   },
   {
     "id": "news-062f94d6c1c8",
@@ -468,15 +478,5 @@
     "source": "Google DeepMind",
     "category": "AI",
     "publishedAt": "2026-10-27T16:01:38Z"
-  },
-  {
-    "id": "news-df8156dd7062",
-    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-    "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of…",
-    "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-27T15:00:20Z"
   }
 ]
