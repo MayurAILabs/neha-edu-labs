@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-02T08:48:49Z"
+    "publishedAt": "2026-11-02T19:06:21Z"
   },
   {
     "id": "news-dc1ded807a3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-02T08:48:49Z"
+    "publishedAt": "2026-11-02T19:06:21Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-02T08:48:49Z"
+    "publishedAt": "2026-11-02T19:06:21Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-02T08:48:49Z"
+    "publishedAt": "2026-11-02T19:06:21Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-02T08:48:49Z"
+    "publishedAt": "2026-11-02T19:06:21Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-02T08:48:49Z"
+    "publishedAt": "2026-11-02T19:06:21Z"
+  },
+  {
+    "id": "news-b810030289ed",
+    "title": "The latest AI news we announced in October 2026",
+    "summary": "Here are Google’s latest AI updates from October 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-11-02T17:45:00Z"
+  },
+  {
+    "id": "news-19244c7aa206",
+    "title": "Introducing the Grid Protectors Program",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-02T15:00:00Z"
+  },
+  {
+    "id": "news-ed4b58253682",
+    "title": "LifeVal",
+    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+    "url": "https://openai.com/index/lifeval",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "id": "news-624e23d0cdf0",
+    "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
+    "summary": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery.",
+    "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-02T05:35:00Z"
   },
   {
     "id": "news-8efc4c266dc3",
@@ -128,6 +168,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-10-30T15:00:10Z"
+  },
+  {
+    "id": "news-094c331a98fa",
+    "title": "Speeding up planning decisions with AI",
+    "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-10-30T14:18:30Z"
   },
   {
     "id": "news-e1c7387c3a80",
@@ -428,55 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-28T09:30:00Z"
-  },
-  {
-    "id": "news-9e57b3c7cb0d",
-    "title": "Making machines that can listen",
-    "summary": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
-    "url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-28T04:00:00Z"
-  },
-  {
-    "id": "news-67f0b179673c",
-    "title": "Learner collaborates with MIT peers to develop book of AI insights",
-    "summary": "Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to write a book.",
-    "url": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-10-27T20:55:00Z"
-  },
-  {
-    "id": "news-db98bf59a6c7",
-    "title": "Build specialized multimodal models with LFM3",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-27T17:16:52Z"
-  },
-  {
-    "id": "news-1698e31ea5a4",
-    "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-    "summary": "This article is brought to you by VicOne.A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on…",
-    "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-27T16:14:39Z"
-  },
-  {
-    "id": "news-34370e88c88d",
-    "title": "Can we trust LLMs to judge whether a research idea is novel?",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/allenai/novelty-bench",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-27T16:12:42Z"
   }
 ]
