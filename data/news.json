@@ -1,5 +1,115 @@
 [
   {
+    "id": "news-dc1ded807a3c",
+    "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
+    "summary": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks,…",
+    "url": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-03T17:29:20Z"
+  },
+  {
+    "id": "news-2a8d977a35aa",
+    "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
+    "summary": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps…",
+    "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-03T17:29:20Z"
+  },
+  {
+    "id": "news-5d4b8a710b96",
+    "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
+    "summary": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by…",
+    "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-03T17:29:20Z"
+  },
+  {
+    "id": "news-d64805000bf9",
+    "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
+    "summary": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
+    "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-03T17:29:20Z"
+  },
+  {
+    "id": "news-c352d9d60e1b",
+    "title": "DevFest is back!",
+    "summary": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain…",
+    "url": "https://developers.googleblog.com/devfest-is-back/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-03T17:29:20Z"
+  },
+  {
+    "id": "news-ce5cc4220354",
+    "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
+    "summary": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
+    "url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-03T17:29:20Z"
+  },
+  {
+    "id": "news-a55665cf4895",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/allenai/statebench",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-03T17:15:21Z"
+  },
+  {
+    "id": "news-7b04a568c5ad",
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-11-03T17:01:49Z"
+  },
+  {
+    "id": "news-bc4177032a04",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-03T16:35:36Z"
+  },
+  {
+    "id": "news-c90cd6cc0c02",
+    "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+    "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will…",
+    "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-03T16:00:45Z"
+  },
+  {
+    "id": "news-a9339aac474e",
+    "title": "Arnis turns any place on Earth into a Minecraft world",
+    "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
+    "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-11-03T16:00:00Z"
+  },
+  {
     "id": "news-b8729281aa3f",
     "title": "Fast, reliable A2UI, with swappable inference formats",
     "summary": "A2UI now supports swappable inference formats, introducing A2UI Express which uses up to 3x fewer tokens and cuts latency by compiling compact Python-style syntax into standard A2UI JSON via Agent SDKs. Developers can…",
@@ -10,54 +120,14 @@
     "publishedAt": "2026-11-03T09:10:31Z"
   },
   {
-    "id": "news-dc1ded807a3c",
-    "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
-    "summary": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks,…",
-    "url": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-03T09:10:31Z"
-  },
-  {
-    "id": "news-2a8d977a35aa",
-    "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
-    "summary": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps…",
-    "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-03T09:10:31Z"
-  },
-  {
-    "id": "news-5d4b8a710b96",
-    "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
-    "summary": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by…",
-    "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-03T09:10:31Z"
-  },
-  {
-    "id": "news-d64805000bf9",
-    "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
-    "summary": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
-    "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-03T09:10:31Z"
-  },
-  {
-    "id": "news-c352d9d60e1b",
-    "title": "DevFest is back!",
-    "summary": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain…",
-    "url": "https://developers.googleblog.com/devfest-is-back/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-03T09:10:31Z"
+    "id": "news-08b710f1e780",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "url": "https://openai.com/index/heimstaden",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-03T08:00:00Z"
   },
   {
     "id": "news-928e7584e6cd",
@@ -74,6 +144,16 @@
     "title": "Transformers Model Integration Contracts",
     "summary": "Latest update from Hugging Face.",
     "url": "https://huggingface.co/blog/transformers-mic",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-03T00:00:00Z"
+  },
+  {
+    "id": "news-20954e3ac0ff",
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/cwe-bench",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
     "category": "AI",
@@ -398,85 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-10-29T00:00:00Z"
-  },
-  {
-    "id": "news-85d975255b4f",
-    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/anydecisionmodel",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-29T00:00:00Z"
-  },
-  {
-    "id": "news-6750c2461412",
-    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-    "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-    "url": "https://openai.com/index/credit-saison",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-29T00:00:00Z"
-  },
-  {
-    "id": "news-d27073b544a7",
-    "title": "Systems Thinking Is Vital in the Age of AI",
-    "summary": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards,…",
-    "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-28T18:00:02Z"
-  },
-  {
-    "id": "news-b0da25ea6c1a",
-    "title": "Gemini 4 Carbon: Our next frontier model",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-10-28T17:00:58Z"
-  },
-  {
-    "id": "news-d52d49a590c7",
-    "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
-    "summary": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party…",
-    "url": "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-28T16:57:14Z"
-  },
-  {
-    "id": "news-53f520a5f6b4",
-    "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
-    "summary": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization,…",
-    "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-28T16:57:14Z"
-  },
-  {
-    "id": "news-6c275e5fd0ef",
-    "title": "GitHub Universe 2026: Evolving every layer of the stack",
-    "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog.",
-    "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-28T16:09:28Z"
-  },
-  {
-    "id": "news-bedf4f2776b5",
-    "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-    "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents…",
-    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-10-28T16:07:40Z"
   }
 ]
