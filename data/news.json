@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-02T19:06:21Z"
+    "publishedAt": "2026-11-03T01:57:42Z"
   },
   {
     "id": "news-dc1ded807a3c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-02T19:06:21Z"
+    "publishedAt": "2026-11-03T01:57:42Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-02T19:06:21Z"
+    "publishedAt": "2026-11-03T01:57:42Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-02T19:06:21Z"
+    "publishedAt": "2026-11-03T01:57:42Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-02T19:06:21Z"
+    "publishedAt": "2026-11-03T01:57:42Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-02T19:06:21Z"
+    "publishedAt": "2026-11-03T01:57:42Z"
+  },
+  {
+    "id": "news-b91db1d100bf",
+    "title": "Powering up for a pivotal moment",
+    "summary": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs.",
+    "url": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-02T19:55:00Z"
   },
   {
     "id": "news-b810030289ed",
@@ -68,6 +78,16 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-11-02T17:45:00Z"
+  },
+  {
+    "id": "news-de4cf53f9db9",
+    "title": "Scaling Git at OpenAI",
+    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-02T15:30:00Z"
   },
   {
     "id": "news-19244c7aa206",
@@ -98,6 +118,26 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-11-02T05:35:00Z"
+  },
+  {
+    "id": "news-598c6194c0d3",
+    "title": "Qodo builds context into AI code review with Codex",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-02T00:00:00Z"
+  },
+  {
+    "id": "news-ff138f709a7e",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-02T00:00:00Z"
   },
   {
     "id": "news-8efc4c266dc3",
@@ -438,45 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-28T13:15:00Z"
-  },
-  {
-    "id": "news-d969a2298b12",
-    "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
-    "summary": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle…",
-    "url": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-28T13:00:03Z"
-  },
-  {
-    "id": "news-0dc3cf0b7c98",
-    "title": "The future of the firm",
-    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-    "url": "https://openai.com/index/the-future-of-the-firm",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-28T10:00:00Z"
-  },
-  {
-    "id": "news-2fc8e689e413",
-    "title": "Legora is building the agentic operating system for legal work",
-    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-28T09:30:00Z"
-  },
-  {
-    "id": "news-41c97fe8dc29",
-    "title": "Legora is building the agentic operating system for legal work",
-    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-    "url": "https://openai.com/index/legora",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-28T09:30:00Z"
   }
 ]
