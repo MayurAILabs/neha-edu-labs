@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-04T10:23:09Z"
+    "publishedAt": "2026-11-04T18:24:24Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-04T10:23:09Z"
+    "publishedAt": "2026-11-04T18:24:24Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-04T10:23:09Z"
+    "publishedAt": "2026-11-04T18:24:24Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-04T10:23:09Z"
+    "publishedAt": "2026-11-04T18:24:24Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-04T10:23:09Z"
+    "publishedAt": "2026-11-04T18:24:24Z"
   },
   {
     "id": "news-ce5cc4220354",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-04T10:23:09Z"
+    "publishedAt": "2026-11-04T18:24:24Z"
+  },
+  {
+    "id": "news-5afc49da7bd4",
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-04T17:50:10Z"
+  },
+  {
+    "id": "news-3a06f84c0f51",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-04T14:30:00Z"
+  },
+  {
+    "id": "news-75679f5aa60b",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-04T07:00:00Z"
   },
   {
     "id": "news-12feaf67ddae",
@@ -448,35 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-29T17:00:00Z"
-  },
-  {
-    "id": "news-baf7193e75c1",
-    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
-    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-29T16:00:35Z"
-  },
-  {
-    "id": "news-65d55b82c54f",
-    "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
-    "summary": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update…",
-    "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-29T15:03:11Z"
-  },
-  {
-    "id": "news-f3538b6fb36f",
-    "title": "Granite Switch 4.1.1 — Update models like you update software",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-29T13:37:07Z"
   }
 ]
