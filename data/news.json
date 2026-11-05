@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-04T18:24:24Z"
+    "publishedAt": "2026-11-05T00:05:51Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-04T18:24:24Z"
+    "publishedAt": "2026-11-05T00:05:51Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-04T18:24:24Z"
+    "publishedAt": "2026-11-05T00:05:51Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-04T18:24:24Z"
+    "publishedAt": "2026-11-05T00:05:51Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-04T18:24:24Z"
+    "publishedAt": "2026-11-05T00:05:51Z"
   },
   {
     "id": "news-ce5cc4220354",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-04T18:24:24Z"
+    "publishedAt": "2026-11-05T00:05:51Z"
   },
   {
     "id": "news-5afc49da7bd4",
@@ -80,6 +80,16 @@
     "publishedAt": "2026-11-04T14:30:00Z"
   },
   {
+    "id": "news-a4f4c423c542",
+    "title": "A thousand fewer paths to root",
+    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-04T08:00:00Z"
+  },
+  {
     "id": "news-75679f5aa60b",
     "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
     "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
@@ -88,6 +98,16 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-04T07:00:00Z"
+  },
+  {
+    "id": "news-bf25be8f8779",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-04T00:00:00Z"
   },
   {
     "id": "news-12feaf67ddae",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-30T00:00:00Z"
-  },
-  {
-    "id": "news-296e570e8a26",
-    "title": "Consumer Appetite for Personal AI Goes Mainstream",
-    "summary": "This article is brought to you by Qualcomm Technologies.For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help…",
-    "url": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-10-29T19:18:20Z"
-  },
-  {
-    "id": "news-7bf0065ceb16",
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-    "url": "https://openai.com/index/updated-model-spec",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-29T17:00:00Z"
   }
 ]
