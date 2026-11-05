@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T07:39:49Z"
+    "publishedAt": "2026-11-05T16:02:03Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T07:39:49Z"
+    "publishedAt": "2026-11-05T16:02:03Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T07:39:49Z"
+    "publishedAt": "2026-11-05T16:02:03Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T07:39:49Z"
+    "publishedAt": "2026-11-05T16:02:03Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T07:39:49Z"
+    "publishedAt": "2026-11-05T16:02:03Z"
   },
   {
     "id": "news-ce5cc4220354",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T07:39:49Z"
+    "publishedAt": "2026-11-05T16:02:03Z"
+  },
+  {
+    "id": "news-485010988bfc",
+    "title": "Accessibility statements now have a home on GitHub",
+    "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility…",
+    "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-11-05T16:00:00Z"
+  },
+  {
+    "id": "news-d050786c603e",
+    "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+    "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft:…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-05T14:00:34Z"
+  },
+  {
+    "id": "news-d1c490a44cb3",
+    "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
+    "summary": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza, it appears that a few puffy white clouds have started to block the sun. That’s…",
+    "url": "https://spectrum.ieee.org/2026-solar-eclipse",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-05T14:00:02Z"
   },
   {
     "id": "news-16de4ca3c25d",
@@ -68,6 +98,26 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-11-05T05:00:00Z"
+  },
+  {
+    "id": "news-f93567576105",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-05T02:00:00Z"
+  },
+  {
+    "id": "news-89209ab642b1",
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/phonon-tts",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-05T00:00:00Z"
   },
   {
     "id": "news-5afc49da7bd4",
@@ -428,55 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-10-30T19:00:00Z"
-  },
-  {
-    "id": "news-b2263e9f8412",
-    "title": "nemotron-halloween",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-10-30T17:57:24Z"
-  },
-  {
-    "id": "news-4a4bcbde667c",
-    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-    "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence…",
-    "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-10-30T15:00:10Z"
-  },
-  {
-    "id": "news-094c331a98fa",
-    "title": "Speeding up planning decisions with AI",
-    "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
-    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-10-30T14:18:30Z"
-  },
-  {
-    "id": "news-e1c7387c3a80",
-    "title": "Preview, edit, and collaborate on markdown (.md) files natively in Google Docs and Drive",
-    "summary": "Google Workspace now offers native support for Markdown (.md) files, allowing developers and AI agents to seamlessly collaborate on documentation directly in Google Docs without manual file conversions. This integration…",
-    "url": "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-10-30T13:47:30Z"
-  },
-  {
-    "id": "news-25cc4c9bb2e3",
-    "title": "Making it easier for websites to express AI training preferences",
-    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-30T09:30:00Z"
   }
 ]
