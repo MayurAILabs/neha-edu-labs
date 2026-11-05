@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T00:05:51Z"
+    "publishedAt": "2026-11-05T07:39:49Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T00:05:51Z"
+    "publishedAt": "2026-11-05T07:39:49Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T00:05:51Z"
+    "publishedAt": "2026-11-05T07:39:49Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T00:05:51Z"
+    "publishedAt": "2026-11-05T07:39:49Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T00:05:51Z"
+    "publishedAt": "2026-11-05T07:39:49Z"
   },
   {
     "id": "news-ce5cc4220354",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T00:05:51Z"
+    "publishedAt": "2026-11-05T07:39:49Z"
+  },
+  {
+    "id": "news-16de4ca3c25d",
+    "title": "Clearing up a robot’s fuzzy memory",
+    "summary": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
+    "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-05T05:00:00Z"
   },
   {
     "id": "news-5afc49da7bd4",
@@ -104,6 +114,16 @@
     "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
     "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
     "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-04T00:00:00Z"
+  },
+  {
+    "id": "news-0a437d67f2ef",
+    "title": "Introducing Images 2.6",
+    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+    "url": "https://openai.com/index/introducing-images-2-6",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -458,25 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-10-30T09:30:00Z"
-  },
-  {
-    "id": "news-c7606af40dbb",
-    "title": "Community safety report and new protections for teens",
-    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-30T09:00:00Z"
-  },
-  {
-    "id": "news-d2282bcce162",
-    "title": "Fair use benefits everyone",
-    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-    "url": "https://openai.com/index/fair-use-benefits-everyone",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-10-30T00:00:00Z"
   }
 ]
