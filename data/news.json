@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-06T03:05:22Z"
+    "publishedAt": "2026-11-06T11:45:28Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-06T03:05:22Z"
+    "publishedAt": "2026-11-06T11:45:28Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-06T03:05:22Z"
+    "publishedAt": "2026-11-06T11:45:28Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-06T03:05:22Z"
+    "publishedAt": "2026-11-06T11:45:28Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-06T03:05:22Z"
+    "publishedAt": "2026-11-06T11:45:28Z"
   },
   {
     "id": "news-ce5cc4220354",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-06T03:05:22Z"
+    "publishedAt": "2026-11-06T11:45:28Z"
+  },
+  {
+    "id": "news-82196d4ece0a",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-06T00:00:00Z"
   },
   {
     "id": "news-e8ad3aaf9c4e",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-03T00:00:00Z"
-  },
-  {
-    "id": "news-b91db1d100bf",
-    "title": "Powering up for a pivotal moment",
-    "summary": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs.",
-    "url": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-02T19:55:00Z"
   }
 ]
