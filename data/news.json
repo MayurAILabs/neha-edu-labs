@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T22:29:29Z"
+    "publishedAt": "2026-11-06T03:05:22Z"
   },
   {
     "id": "news-2a8d977a35aa",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T22:29:29Z"
+    "publishedAt": "2026-11-06T03:05:22Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T22:29:29Z"
+    "publishedAt": "2026-11-06T03:05:22Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T22:29:29Z"
+    "publishedAt": "2026-11-06T03:05:22Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T22:29:29Z"
+    "publishedAt": "2026-11-06T03:05:22Z"
   },
   {
     "id": "news-ce5cc4220354",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-05T22:29:29Z"
+    "publishedAt": "2026-11-06T03:05:22Z"
   },
   {
     "id": "news-e8ad3aaf9c4e",
@@ -78,6 +78,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-11-05T20:00:41Z"
+  },
+  {
+    "id": "news-c88b52d0b210",
+    "title": "Cult.fit builds operational muscle with Codex",
+    "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "url": "https://openai.com/index/cultfit-builds-with-codex",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-05T20:00:00Z"
   },
   {
     "id": "news-e8690f74b67f",
@@ -116,6 +126,16 @@
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-11-05T17:00:00Z"
+  },
+  {
+    "id": "news-b58fee4edbbb",
+    "title": "Australian universities are creating AI-native graduates",
+    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-05T17:00:00Z"
   },
@@ -190,6 +210,16 @@
     "publishedAt": "2026-11-05T09:00:00Z"
   },
   {
+    "id": "news-300d91101f21",
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-05T08:00:00Z"
+  },
+  {
     "id": "news-16de4ca3c25d",
     "title": "Clearing up a robot’s fuzzy memory",
     "summary": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
@@ -208,6 +238,16 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-05T02:00:00Z"
+  },
+  {
+    "id": "news-1f9981de5700",
+    "title": "Flipsnack grows product signups with conversion optimization",
+    "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+    "url": "https://openai.com/ads/customers/flipsnack",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-05T00:45:15Z"
   },
   {
     "id": "news-89209ab642b1",
@@ -438,45 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-11-02T19:55:00Z"
-  },
-  {
-    "id": "news-6fd6ad7938fa",
-    "title": "Rewarding defenders with bigger bug bounties",
-    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-02T18:00:00Z"
-  },
-  {
-    "id": "news-262cfa35f430",
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-02T18:00:00Z"
-  },
-  {
-    "id": "news-b810030289ed",
-    "title": "The latest AI news we announced in October 2026",
-    "summary": "Here are Google’s latest AI updates from October 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-11-02T17:45:00Z"
-  },
-  {
-    "id": "news-de4cf53f9db9",
-    "title": "Scaling Git at OpenAI",
-    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-    "url": "https://openai.com/index/scaling-git-at-openai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-02T15:30:00Z"
   }
 ]
