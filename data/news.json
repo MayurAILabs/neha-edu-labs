@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-06T18:49:42Z"
+    "publishedAt": "2026-11-06T23:37:24Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-06T18:49:42Z"
+    "publishedAt": "2026-11-06T23:37:24Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-06T18:49:42Z"
+    "publishedAt": "2026-11-06T23:37:24Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-06T18:49:42Z"
+    "publishedAt": "2026-11-06T23:37:24Z"
   },
   {
     "id": "news-ce5cc4220354",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-06T18:49:42Z"
+    "publishedAt": "2026-11-06T23:37:24Z"
   },
   {
     "id": "news-4d4568a780d2",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-06T18:49:42Z"
+    "publishedAt": "2026-11-06T23:37:24Z"
+  },
+  {
+    "id": "news-5ab88d15c948",
+    "title": "Beyond code generation: A developer’s guide to agentic engineering",
+    "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-11-06T22:15:59Z"
+  },
+  {
+    "id": "news-ba5f1cdb14f5",
+    "title": "How to predict the behavior of molecules from scant data",
+    "summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
+    "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-06T19:00:00Z"
   },
   {
     "id": "news-215687ca939d",
@@ -116,6 +136,16 @@
     "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-06T00:00:00Z"
+  },
+  {
+    "id": "news-cfd4354afa14",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-06T00:00:00Z"
   },
@@ -448,35 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-11-03T16:00:45Z"
-  },
-  {
-    "id": "news-a9339aac474e",
-    "title": "Arnis turns any place on Earth into a Minecraft world",
-    "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
-    "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-11-03T16:00:00Z"
-  },
-  {
-    "id": "news-26c6032e1d26",
-    "title": "Accelerating engineering for the physical world",
-    "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-03T12:00:00Z"
-  },
-  {
-    "id": "news-b8729281aa3f",
-    "title": "Fast, reliable A2UI, with swappable inference formats",
-    "summary": "A2UI now supports swappable inference formats, introducing A2UI Express which uses up to 3x fewer tokens and cuts latency by compiling compact Python-style syntax into standard A2UI JSON via Agent SDKs. Developers can…",
-    "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-03T09:10:31Z"
   }
 ]
