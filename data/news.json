@@ -1,5 +1,95 @@
 [
   {
+    "id": "news-2a8d977a35aa",
+    "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
+    "summary": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps…",
+    "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-06T18:49:42Z"
+  },
+  {
+    "id": "news-5d4b8a710b96",
+    "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
+    "summary": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by…",
+    "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-06T18:49:42Z"
+  },
+  {
+    "id": "news-d64805000bf9",
+    "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
+    "summary": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
+    "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-06T18:49:42Z"
+  },
+  {
+    "id": "news-c352d9d60e1b",
+    "title": "DevFest is back!",
+    "summary": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain…",
+    "url": "https://developers.googleblog.com/devfest-is-back/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-06T18:49:42Z"
+  },
+  {
+    "id": "news-ce5cc4220354",
+    "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
+    "summary": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
+    "url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-06T18:49:42Z"
+  },
+  {
+    "id": "news-4d4568a780d2",
+    "title": "Agent Distraction",
+    "summary": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These…",
+    "url": "https://developers.googleblog.com/agent-distraction/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-06T18:49:42Z"
+  },
+  {
+    "id": "news-215687ca939d",
+    "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+    "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation…",
+    "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-06T16:00:35Z"
+  },
+  {
+    "id": "news-149e1ea67ea2",
+    "title": "How Do You Land on a Moon With Almost No Gravity?",
+    "summary": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos, the Martian moon named for the Greek god…",
+    "url": "https://spectrum.ieee.org/mmx-mission-to-phobos",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-06T15:00:02Z"
+  },
+  {
+    "id": "news-be1ba71e55b7",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/allenai/toyblocks",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-06T14:00:48Z"
+  },
+  {
     "id": "news-dc1ded807a3c",
     "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
     "summary": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks,…",
@@ -10,54 +100,14 @@
     "publishedAt": "2026-11-06T11:45:28Z"
   },
   {
-    "id": "news-2a8d977a35aa",
-    "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
-    "summary": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps…",
-    "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-06T11:45:28Z"
-  },
-  {
-    "id": "news-5d4b8a710b96",
-    "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
-    "summary": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by…",
-    "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-06T11:45:28Z"
-  },
-  {
-    "id": "news-d64805000bf9",
-    "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
-    "summary": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
-    "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-06T11:45:28Z"
-  },
-  {
-    "id": "news-c352d9d60e1b",
-    "title": "DevFest is back!",
-    "summary": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain…",
-    "url": "https://developers.googleblog.com/devfest-is-back/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-06T11:45:28Z"
-  },
-  {
-    "id": "news-ce5cc4220354",
-    "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
-    "summary": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
-    "url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-06T11:45:28Z"
+    "id": "news-bc8f9eac1966",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-06T08:00:00Z"
   },
   {
     "id": "news-82196d4ece0a",
@@ -108,6 +158,16 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-11-05T19:35:16Z"
+  },
+  {
+    "id": "news-7ed1c40ec230",
+    "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
+    "summary": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tested lessons.This…",
+    "url": "https://spectrum.ieee.org/ieee-preuniversity",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-05T19:00:02Z"
   },
   {
     "id": "news-825a50d1c0ad",
@@ -418,65 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-11-03T09:10:31Z"
-  },
-  {
-    "id": "news-08b710f1e780",
-    "title": "Heimstaden is changing residential real estate management with AI",
-    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-    "url": "https://openai.com/index/heimstaden",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-03T08:00:00Z"
-  },
-  {
-    "id": "news-a2357e701f02",
-    "title": "How Cisco defends at machine speed with OpenAI",
-    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-    "url": "https://openai.com/index/cisco-cyber",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-03T08:00:00Z"
-  },
-  {
-    "id": "news-928e7584e6cd",
-    "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-    "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI…",
-    "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-03T07:00:12Z"
-  },
-  {
-    "id": "news-fec0e46ceba4",
-    "title": "Transformers Model Integration Contracts",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/transformers-mic",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-03T00:00:00Z"
-  },
-  {
-    "id": "news-20954e3ac0ff",
-    "title": "CWE-bench v2: More coverage, quality, and transparency",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/cwe-bench",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-03T00:00:00Z"
-  },
-  {
-    "id": "news-3d509e27bae2",
-    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-03T00:00:00Z"
   }
 ]
