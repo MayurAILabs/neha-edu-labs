@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-09T00:27:56Z"
+    "publishedAt": "2026-11-09T07:35:44Z"
   },
   {
     "id": "news-5d4b8a710b96",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-09T00:27:56Z"
+    "publishedAt": "2026-11-09T07:35:44Z"
   },
   {
     "id": "news-d64805000bf9",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-09T00:27:56Z"
+    "publishedAt": "2026-11-09T07:35:44Z"
   },
   {
     "id": "news-c352d9d60e1b",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-09T00:27:56Z"
+    "publishedAt": "2026-11-09T07:35:44Z"
   },
   {
     "id": "news-ce5cc4220354",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-09T00:27:56Z"
+    "publishedAt": "2026-11-09T07:35:44Z"
   },
   {
     "id": "news-4d4568a780d2",
@@ -57,7 +57,67 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-09T00:27:56Z"
+    "publishedAt": "2026-11-09T07:35:44Z"
+  },
+  {
+    "id": "news-dc742b2cbd8f",
+    "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+    "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to…",
+    "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-09T05:00:40Z"
+  },
+  {
+    "id": "news-741e635ddb78",
+    "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+    "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM…",
+    "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-09T05:00:39Z"
+  },
+  {
+    "id": "news-22dc4f77b8e2",
+    "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+    "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models,…",
+    "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-09T05:00:04Z"
+  },
+  {
+    "id": "news-e18a5f64b586",
+    "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+    "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models…",
+    "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-09T05:00:00Z"
+  },
+  {
+    "id": "news-8422634c9a06",
+    "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+    "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
+    "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-09T05:00:00Z"
+  },
+  {
+    "id": "news-aac00f5f941f",
+    "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+    "summary": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
+    "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-09T05:00:00Z"
   },
   {
     "id": "news-5ab88d15c948",
@@ -418,65 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-04T00:00:00Z"
-  },
-  {
-    "id": "news-12feaf67ddae",
-    "title": "Building connections across the research infrastructure",
-    "summary": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
-    "url": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-03T19:30:00Z"
-  },
-  {
-    "id": "news-142f7099240d",
-    "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
-    "summary": "To help engineers keep up with emerging technologies such as AI, cloud computing, and sustainable infrastructure, and learn how they can be applied in practice, the IEEE Computer Society’s Central Indiana Chapter…",
-    "url": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-03T19:00:02Z"
-  },
-  {
-    "id": "news-a55665cf4895",
-    "title": "StateBench: Testing how language models track state changes over long documents",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/allenai/statebench",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-03T17:15:21Z"
-  },
-  {
-    "id": "news-7b04a568c5ad",
-    "title": "Agentic cheminformatics with Google Antigravity",
-    "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-11-03T17:01:49Z"
-  },
-  {
-    "id": "news-bc4177032a04",
-    "title": "Palette: teaching a small model to build decks in your design language",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-03T16:35:36Z"
-  },
-  {
-    "id": "news-c90cd6cc0c02",
-    "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-    "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will…",
-    "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-03T16:00:45Z"
   }
 ]
