@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T17:26:50Z"
+    "publishedAt": "2026-11-10T22:46:33Z"
   },
   {
     "id": "news-4d4568a780d2",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T17:26:50Z"
+    "publishedAt": "2026-11-10T22:46:33Z"
   },
   {
     "id": "news-25611dc724ec",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T17:26:50Z"
+    "publishedAt": "2026-11-10T22:46:33Z"
   },
   {
     "id": "news-09bf66735211",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T17:26:50Z"
+    "publishedAt": "2026-11-10T22:46:33Z"
   },
   {
     "id": "news-b4107ce9852f",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T17:26:50Z"
+    "publishedAt": "2026-11-10T22:46:33Z"
   },
   {
     "id": "news-e51c1437733b",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T17:26:50Z"
+    "publishedAt": "2026-11-10T22:46:33Z"
+  },
+  {
+    "id": "news-f908b1bdd038",
+    "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
+    "summary": "Bishnu Saroop AtalAcoustics and signal processing pioneerLife Fellow, 93; died 19 AugustAtal was an acoustics and signal processing researcher at Bell Labs in Murray Hill, N.J., and later at AT&T’s Shannon Laboratory,…",
+    "url": "https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-10T19:00:02Z"
+  },
+  {
+    "id": "news-ac5a661efbfd",
+    "title": "Gemini Intelligence: New features, on more devices",
+    "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-11-10T19:00:00Z"
+  },
+  {
+    "id": "news-7bd6d5785093",
+    "title": "Git security vulnerabilities announced",
+    "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security…",
+    "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-11-10T18:00:00Z"
   },
   {
     "id": "news-0b2e1c02de47",
@@ -130,6 +160,16 @@
     "publishedAt": "2026-11-10T11:00:02Z"
   },
   {
+    "id": "news-5ca4dc7b6d88",
+    "title": "Introducing Businesses in ChatGPT",
+    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-10T10:00:00Z"
+  },
+  {
     "id": "news-c352d9d60e1b",
     "title": "DevFest is back!",
     "summary": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain…",
@@ -187,6 +227,16 @@
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
     "category": "AI",
+    "publishedAt": "2026-11-10T00:00:00Z"
+  },
+  {
+    "id": "news-17f71397914d",
+    "title": "Python 3.16.0 alpha 2 is now available",
+    "summary": "The second developer preview of Python 3.16 is ready for testing.",
+    "url": "https://blog.python.org/2026/11/python-3160-alpha-2-is-now-available/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Python Insider",
+    "category": "Programming",
     "publishedAt": "2026-11-10T00:00:00Z"
   },
   {
@@ -428,55 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-11-06T14:00:48Z"
-  },
-  {
-    "id": "news-dc1ded807a3c",
-    "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
-    "summary": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks,…",
-    "url": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-06T11:45:28Z"
-  },
-  {
-    "id": "news-bc8f9eac1966",
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "url": "https://openai.com/index/partnering-with-hacktron",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-06T08:00:00Z"
-  },
-  {
-    "id": "news-82196d4ece0a",
-    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-06T00:00:00Z"
-  },
-  {
-    "id": "news-cfd4354afa14",
-    "title": "Measuring how AI agents handle everyday wet-lab science",
-    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-06T00:00:00Z"
-  },
-  {
-    "id": "news-e8ad3aaf9c4e",
-    "title": "Inside GitHub’s new Git storage architecture",
-    "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub&#8217;s new Git storage architecture appeared first on The…",
-    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-11-05T20:23:21Z"
   }
 ]
