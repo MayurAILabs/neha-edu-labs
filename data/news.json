@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T01:51:26Z"
+    "publishedAt": "2026-11-10T09:10:01Z"
   },
   {
     "id": "news-ce5cc4220354",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T01:51:26Z"
+    "publishedAt": "2026-11-10T09:10:01Z"
   },
   {
     "id": "news-4d4568a780d2",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T01:51:26Z"
+    "publishedAt": "2026-11-10T09:10:01Z"
   },
   {
     "id": "news-25611dc724ec",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T01:51:26Z"
+    "publishedAt": "2026-11-10T09:10:01Z"
   },
   {
     "id": "news-09bf66735211",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T01:51:26Z"
+    "publishedAt": "2026-11-10T09:10:01Z"
   },
   {
     "id": "news-b4107ce9852f",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T01:51:26Z"
+    "publishedAt": "2026-11-10T09:10:01Z"
+  },
+  {
+    "id": "news-01a8528fa117",
+    "title": "Closing the AI guidance gap in education",
+    "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-10T09:00:00Z"
+  },
+  {
+    "id": "news-f60cbf1284a6",
+    "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+    "summary": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
+    "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-10T05:00:00Z"
   },
   {
     "id": "news-9c331579e229",
@@ -458,25 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-11-05T16:00:00Z"
-  },
-  {
-    "id": "news-d050786c603e",
-    "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-    "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft:…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-05T14:00:34Z"
-  },
-  {
-    "id": "news-d1c490a44cb3",
-    "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
-    "summary": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza, it appears that a few puffy white clouds have started to block the sun. That’s…",
-    "url": "https://spectrum.ieee.org/2026-solar-eclipse",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-05T14:00:02Z"
   }
 ]
