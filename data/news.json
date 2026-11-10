@@ -1,5 +1,155 @@
 [
   {
+    "id": "news-c352d9d60e1b",
+    "title": "DevFest is back!",
+    "summary": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain…",
+    "url": "https://developers.googleblog.com/devfest-is-back/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-10T01:51:26Z"
+  },
+  {
+    "id": "news-ce5cc4220354",
+    "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
+    "summary": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
+    "url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-10T01:51:26Z"
+  },
+  {
+    "id": "news-4d4568a780d2",
+    "title": "Agent Distraction",
+    "summary": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These…",
+    "url": "https://developers.googleblog.com/agent-distraction/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-10T01:51:26Z"
+  },
+  {
+    "id": "news-25611dc724ec",
+    "title": "What is Pathways? Single-controller training for large models",
+    "summary": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike…",
+    "url": "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-10T01:51:26Z"
+  },
+  {
+    "id": "news-09bf66735211",
+    "title": "From prompt to app: Build with Google Maps in AI Studio",
+    "summary": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration…",
+    "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-10T01:51:26Z"
+  },
+  {
+    "id": "news-b4107ce9852f",
+    "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
+    "summary": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash…",
+    "url": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-10T01:51:26Z"
+  },
+  {
+    "id": "news-9c331579e229",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-09T19:00:00Z"
+  },
+  {
+    "id": "news-273d7db17a98",
+    "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+    "summary": "This article is brought to you by Queen’s University Belfast.Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk…",
+    "url": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-09T16:25:06Z"
+  },
+  {
+    "id": "news-057e22ab69c0",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-09T15:05:57Z"
+  },
+  {
+    "id": "news-97be7dad625b",
+    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+    "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling…",
+    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-09T14:00:01Z"
+  },
+  {
+    "id": "news-f37b680abcf7",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "url": "https://openai.com/index/control-room",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-09T13:00:00Z"
+  },
+  {
+    "id": "news-7b1451fc786c",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-09T12:34:29Z"
+  },
+  {
+    "id": "news-57a8ba0d5522",
+    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+    "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across…",
+    "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-09T08:00:53Z"
+  },
+  {
+    "id": "news-23b94c697622",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-09T08:00:00Z"
+  },
+  {
+    "id": "news-932fe34bad72",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "url": "https://openai.com/index/kuken",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-09T08:00:00Z"
+  },
+  {
     "id": "news-2a8d977a35aa",
     "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
     "summary": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps…",
@@ -24,36 +174,6 @@
     "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
     "summary": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
     "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-09T07:35:44Z"
-  },
-  {
-    "id": "news-c352d9d60e1b",
-    "title": "DevFest is back!",
-    "summary": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain…",
-    "url": "https://developers.googleblog.com/devfest-is-back/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-09T07:35:44Z"
-  },
-  {
-    "id": "news-ce5cc4220354",
-    "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
-    "summary": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
-    "url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-09T07:35:44Z"
-  },
-  {
-    "id": "news-4d4568a780d2",
-    "title": "Agent Distraction",
-    "summary": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These…",
-    "url": "https://developers.googleblog.com/agent-distraction/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -358,125 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-11-05T14:00:02Z"
-  },
-  {
-    "id": "news-53c56afbaf05",
-    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-    "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-    "url": "https://openai.com/index/introducing-gpt-6-cyber",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-05T09:00:00Z"
-  },
-  {
-    "id": "news-300d91101f21",
-    "title": "Merge builds product and business tools with OpenAI technology",
-    "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-    "url": "https://openai.com/index/merge-builds-with-openai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-05T08:00:00Z"
-  },
-  {
-    "id": "news-16de4ca3c25d",
-    "title": "Clearing up a robot’s fuzzy memory",
-    "summary": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
-    "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-05T05:00:00Z"
-  },
-  {
-    "id": "news-f93567576105",
-    "title": "Setting a new standard for responsible AI infrastructure",
-    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-05T02:00:00Z"
-  },
-  {
-    "id": "news-1f9981de5700",
-    "title": "Flipsnack grows product signups with conversion optimization",
-    "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-    "url": "https://openai.com/ads/customers/flipsnack",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-05T00:45:15Z"
-  },
-  {
-    "id": "news-89209ab642b1",
-    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/phonon-tts",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-05T00:00:00Z"
-  },
-  {
-    "id": "news-5afc49da7bd4",
-    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-04T17:50:10Z"
-  },
-  {
-    "id": "news-3a06f84c0f51",
-    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-    "url": "https://openai.com/index/openai-to-acquire-pierre",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-04T14:30:00Z"
-  },
-  {
-    "id": "news-a4f4c423c542",
-    "title": "A thousand fewer paths to root",
-    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-04T08:00:00Z"
-  },
-  {
-    "id": "news-75679f5aa60b",
-    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-04T07:00:00Z"
-  },
-  {
-    "id": "news-bf25be8f8779",
-    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-    "url": "https://openai.com/index/devrev-enterprise-self-service",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-04T00:00:00Z"
-  },
-  {
-    "id": "news-0a437d67f2ef",
-    "title": "Introducing Images 2.6",
-    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-    "url": "https://openai.com/index/introducing-images-2-6",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-04T00:00:00Z"
   }
 ]
