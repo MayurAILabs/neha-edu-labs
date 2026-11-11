@@ -10,16 +10,6 @@
     "publishedAt": "2026-11-12T00:00:00Z"
   },
   {
-    "id": "news-ce5cc4220354",
-    "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
-    "summary": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
-    "url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-11T10:15:12Z"
-  },
-  {
     "id": "news-4d4568a780d2",
     "title": "Agent Distraction",
     "summary": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These…",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T10:15:12Z"
+    "publishedAt": "2026-11-11T18:19:19Z"
   },
   {
     "id": "news-25611dc724ec",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T10:15:12Z"
+    "publishedAt": "2026-11-11T18:19:19Z"
   },
   {
     "id": "news-09bf66735211",
@@ -47,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T10:15:12Z"
+    "publishedAt": "2026-11-11T18:19:19Z"
   },
   {
     "id": "news-b4107ce9852f",
@@ -57,13 +47,73 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T10:15:12Z"
+    "publishedAt": "2026-11-11T18:19:19Z"
   },
   {
     "id": "news-e51c1437733b",
     "title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
     "summary": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for…",
     "url": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-11T18:19:19Z"
+  },
+  {
+    "id": "news-57ed8b68629c",
+    "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+    "summary": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including…",
+    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-11T18:19:19Z"
+  },
+  {
+    "id": "news-8e4104a923ec",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-11-11T18:00:00Z"
+  },
+  {
+    "id": "news-97adab01dbf7",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-11-11T16:00:00Z"
+  },
+  {
+    "id": "news-5b916f1bea87",
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-11-11T15:00:15Z"
+  },
+  {
+    "id": "news-8e9c0e02fbb0",
+    "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
+    "summary": "This article is brought to you by Innomotics.In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-electric principle. Discovered by Werner von Siemens in…",
+    "url": "https://spectrum.ieee.org/innomotics-electric-motors-drive-systems",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-11T11:00:02Z"
+  },
+  {
+    "id": "news-ce5cc4220354",
+    "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
+    "summary": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
+    "url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -108,6 +158,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-11-11T03:00:20Z"
+  },
+  {
+    "id": "news-d2296a64c0dc",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-11T00:00:00Z"
   },
   {
     "id": "news-f908b1bdd038",
@@ -418,65 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-11-09T07:35:44Z"
-  },
-  {
-    "id": "news-d64805000bf9",
-    "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
-    "summary": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
-    "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-09T07:35:44Z"
-  },
-  {
-    "id": "news-dc742b2cbd8f",
-    "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-    "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to…",
-    "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-09T05:00:40Z"
-  },
-  {
-    "id": "news-741e635ddb78",
-    "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-    "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM…",
-    "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-09T05:00:39Z"
-  },
-  {
-    "id": "news-22dc4f77b8e2",
-    "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-    "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models,…",
-    "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-09T05:00:04Z"
-  },
-  {
-    "id": "news-e18a5f64b586",
-    "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-    "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models…",
-    "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-09T05:00:00Z"
-  },
-  {
-    "id": "news-8422634c9a06",
-    "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
-    "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
-    "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-09T05:00:00Z"
   }
 ]
