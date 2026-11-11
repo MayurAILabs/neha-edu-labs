@@ -1,5 +1,15 @@
 [
   {
+    "id": "news-f28f90d2895a",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-12T00:00:00Z"
+  },
+  {
     "id": "news-ce5cc4220354",
     "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
     "summary": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
@@ -7,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T22:46:33Z"
+    "publishedAt": "2026-11-11T02:29:25Z"
   },
   {
     "id": "news-4d4568a780d2",
@@ -17,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T22:46:33Z"
+    "publishedAt": "2026-11-11T02:29:25Z"
   },
   {
     "id": "news-25611dc724ec",
@@ -27,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T22:46:33Z"
+    "publishedAt": "2026-11-11T02:29:25Z"
   },
   {
     "id": "news-09bf66735211",
@@ -37,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T22:46:33Z"
+    "publishedAt": "2026-11-11T02:29:25Z"
   },
   {
     "id": "news-b4107ce9852f",
@@ -47,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T22:46:33Z"
+    "publishedAt": "2026-11-11T02:29:25Z"
   },
   {
     "id": "news-e51c1437733b",
@@ -57,7 +67,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-10T22:46:33Z"
+    "publishedAt": "2026-11-11T02:29:25Z"
   },
   {
     "id": "news-f908b1bdd038",
@@ -468,15 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-11-06T15:00:02Z"
-  },
-  {
-    "id": "news-be1ba71e55b7",
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/allenai/toyblocks",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-06T14:00:48Z"
   }
 ]
