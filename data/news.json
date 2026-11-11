@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T02:29:25Z"
+    "publishedAt": "2026-11-11T10:15:12Z"
   },
   {
     "id": "news-4d4568a780d2",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T02:29:25Z"
+    "publishedAt": "2026-11-11T10:15:12Z"
   },
   {
     "id": "news-25611dc724ec",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T02:29:25Z"
+    "publishedAt": "2026-11-11T10:15:12Z"
   },
   {
     "id": "news-09bf66735211",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T02:29:25Z"
+    "publishedAt": "2026-11-11T10:15:12Z"
   },
   {
     "id": "news-b4107ce9852f",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T02:29:25Z"
+    "publishedAt": "2026-11-11T10:15:12Z"
   },
   {
     "id": "news-e51c1437733b",
@@ -67,7 +67,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T02:29:25Z"
+    "publishedAt": "2026-11-11T10:15:12Z"
+  },
+  {
+    "id": "news-7e65614cc89a",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-11-11T09:00:00Z"
+  },
+  {
+    "id": "news-80b38ea7da37",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-11T08:00:00Z"
+  },
+  {
+    "id": "news-b22522d14a17",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-11T05:01:16Z"
+  },
+  {
+    "id": "news-34dcc0e759ee",
+    "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+    "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+    "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-11T03:00:20Z"
   },
   {
     "id": "news-f908b1bdd038",
@@ -198,6 +238,16 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-10T09:00:00Z"
+  },
+  {
+    "id": "news-4e3e5904c85a",
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+    "url": "https://openai.com/index/singapore-airlines-travel-work",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-10T08:00:00Z"
   },
   {
     "id": "news-3588ceed4155",
@@ -428,55 +478,5 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-11-09T05:00:00Z"
-  },
-  {
-    "id": "news-aac00f5f941f",
-    "title": "AI-assisted learning platform helps robots reason beyond literal commands",
-    "summary": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
-    "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-09T05:00:00Z"
-  },
-  {
-    "id": "news-5ab88d15c948",
-    "title": "Beyond code generation: A developer’s guide to agentic engineering",
-    "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-11-06T22:15:59Z"
-  },
-  {
-    "id": "news-ba5f1cdb14f5",
-    "title": "How to predict the behavior of molecules from scant data",
-    "summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
-    "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-06T19:00:00Z"
-  },
-  {
-    "id": "news-215687ca939d",
-    "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-    "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation…",
-    "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-06T16:00:35Z"
-  },
-  {
-    "id": "news-149e1ea67ea2",
-    "title": "How Do You Land on a Moon With Almost No Gravity?",
-    "summary": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos, the Martian moon named for the Greek god…",
-    "url": "https://spectrum.ieee.org/mmx-mission-to-phobos",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-06T15:00:02Z"
   }
 ]
