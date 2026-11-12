@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-12T09:12:26Z"
+    "publishedAt": "2026-11-12T17:53:01Z"
   },
   {
     "id": "news-25611dc724ec",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-12T09:12:26Z"
+    "publishedAt": "2026-11-12T17:53:01Z"
   },
   {
     "id": "news-09bf66735211",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-12T09:12:26Z"
+    "publishedAt": "2026-11-12T17:53:01Z"
   },
   {
     "id": "news-b4107ce9852f",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-12T09:12:26Z"
+    "publishedAt": "2026-11-12T17:53:01Z"
   },
   {
     "id": "news-e51c1437733b",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-12T09:12:26Z"
+    "publishedAt": "2026-11-12T17:53:01Z"
   },
   {
     "id": "news-57ed8b68629c",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-12T09:12:26Z"
+    "publishedAt": "2026-11-12T17:53:01Z"
+  },
+  {
+    "id": "news-42899cb2010a",
+    "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+    "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-12T14:00:59Z"
+  },
+  {
+    "id": "news-0990939c7d6e",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-12T09:30:00Z"
   },
   {
     "id": "news-a865d7bae4f0",
@@ -76,6 +96,26 @@
     "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-12T00:00:00Z"
+  },
+  {
+    "id": "news-b06379671ede",
+    "title": "Supporting research on AI and children’s safety",
+    "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "url": "https://openai.com/index/children-first-declaration",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-12T00:00:00Z"
+  },
+  {
+    "id": "news-56dac742ff29",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-11-12T00:00:00Z"
   },
@@ -438,45 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-09T13:00:00Z"
-  },
-  {
-    "id": "news-7b1451fc786c",
-    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-09T12:34:29Z"
-  },
-  {
-    "id": "news-57a8ba0d5522",
-    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-    "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across…",
-    "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-09T08:00:53Z"
-  },
-  {
-    "id": "news-23b94c697622",
-    "title": "CodeRabbit scales agentic software development and ships 20x more",
-    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-    "url": "https://openai.com/index/coderabbit-codex-daybreak",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-09T08:00:00Z"
-  },
-  {
-    "id": "news-932fe34bad72",
-    "title": "Kuken Industries searches 70 years of drawings in minutes",
-    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-    "url": "https://openai.com/index/kuken",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-09T08:00:00Z"
   }
 ]
