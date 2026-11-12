@@ -1,5 +1,125 @@
 [
   {
+    "id": "news-09bf66735211",
+    "title": "From prompt to app: Build with Google Maps in AI Studio",
+    "summary": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration…",
+    "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-12T23:09:31Z"
+  },
+  {
+    "id": "news-b4107ce9852f",
+    "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
+    "summary": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash…",
+    "url": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-12T23:09:31Z"
+  },
+  {
+    "id": "news-e51c1437733b",
+    "title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
+    "summary": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for…",
+    "url": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-12T23:09:31Z"
+  },
+  {
+    "id": "news-57ed8b68629c",
+    "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+    "summary": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including…",
+    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-12T23:09:31Z"
+  },
+  {
+    "id": "news-dc0e8f605222",
+    "title": "Catch Go bugs that fuzzing misses with Gemini and a constraint solver",
+    "summary": "How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.",
+    "url": "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-12T23:09:31Z"
+  },
+  {
+    "id": "news-20fb8f8cc0ec",
+    "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
+    "summary": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks,…",
+    "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-12T23:09:31Z"
+  },
+  {
+    "id": "news-657af3312af0",
+    "title": "Build once, run on any agent: A practical guide to agent skills",
+    "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-11-12T22:54:52Z"
+  },
+  {
+    "id": "news-c1b8ea1b2fb3",
+    "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
+    "summary": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations.",
+    "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-12T21:15:00Z"
+  },
+  {
+    "id": "news-372847c94994",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "url": "https://openai.com/index/amplitude",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-12T20:00:00Z"
+  },
+  {
+    "id": "news-a88bddb17214",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-12T19:07:35Z"
+  },
+  {
+    "id": "news-4bad5afe01a1",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-11-12T18:00:50Z"
+  },
+  {
+    "id": "news-459a57b4750a",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-11-12T18:00:00Z"
+  },
+  {
     "id": "news-4d4568a780d2",
     "title": "Agent Distraction",
     "summary": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These…",
@@ -14,46 +134,6 @@
     "title": "What is Pathways? Single-controller training for large models",
     "summary": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike…",
     "url": "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-12T17:53:01Z"
-  },
-  {
-    "id": "news-09bf66735211",
-    "title": "From prompt to app: Build with Google Maps in AI Studio",
-    "summary": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration…",
-    "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-12T17:53:01Z"
-  },
-  {
-    "id": "news-b4107ce9852f",
-    "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
-    "summary": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash…",
-    "url": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-12T17:53:01Z"
-  },
-  {
-    "id": "news-e51c1437733b",
-    "title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
-    "summary": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for…",
-    "url": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-12T17:53:01Z"
-  },
-  {
-    "id": "news-57ed8b68629c",
-    "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
-    "summary": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including…",
-    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -271,7 +351,7 @@
   },
   {
     "id": "news-b4eac762a15a",
-    "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+    "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
     "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its…",
     "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
     "image": "assets/images/news/cat-ai.svg",
@@ -398,85 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-11-10T00:00:00Z"
-  },
-  {
-    "id": "news-3229de0d9192",
-    "title": "Decision Models in Hugging Face",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/decision",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-10T00:00:00Z"
-  },
-  {
-    "id": "news-17f71397914d",
-    "title": "Python 3.16.0 alpha 2 is now available",
-    "summary": "The second developer preview of Python 3.16 is ready for testing.",
-    "url": "https://blog.python.org/2026/11/python-3160-alpha-2-is-now-available/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-11-10T00:00:00Z"
-  },
-  {
-    "id": "news-a98763b80c84",
-    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-    "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-11-09T19:51:47Z"
-  },
-  {
-    "id": "news-9c331579e229",
-    "title": "ChatGPT Enterprise now available in AWS Marketplace",
-    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-09T19:00:00Z"
-  },
-  {
-    "id": "news-273d7db17a98",
-    "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
-    "summary": "This article is brought to you by Queen’s University Belfast.Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk…",
-    "url": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-09T16:25:06Z"
-  },
-  {
-    "id": "news-057e22ab69c0",
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-09T15:05:57Z"
-  },
-  {
-    "id": "news-97be7dad625b",
-    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-    "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling…",
-    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-09T14:00:01Z"
-  },
-  {
-    "id": "news-f37b680abcf7",
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "url": "https://openai.com/index/control-room",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-09T13:00:00Z"
   }
 ]
