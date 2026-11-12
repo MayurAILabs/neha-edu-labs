@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-f28f90d2895a",
-    "title": "Gilbert + Tobin rethinks the business of law with AI",
-    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-12T00:00:00Z"
-  },
-  {
     "id": "news-4d4568a780d2",
     "title": "Agent Distraction",
     "summary": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T18:19:19Z"
+    "publishedAt": "2026-11-12T01:15:28Z"
   },
   {
     "id": "news-25611dc724ec",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T18:19:19Z"
+    "publishedAt": "2026-11-12T01:15:28Z"
   },
   {
     "id": "news-09bf66735211",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T18:19:19Z"
+    "publishedAt": "2026-11-12T01:15:28Z"
   },
   {
     "id": "news-b4107ce9852f",
@@ -47,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T18:19:19Z"
+    "publishedAt": "2026-11-12T01:15:28Z"
   },
   {
     "id": "news-e51c1437733b",
@@ -57,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T18:19:19Z"
+    "publishedAt": "2026-11-12T01:15:28Z"
   },
   {
     "id": "news-57ed8b68629c",
@@ -67,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-11T18:19:19Z"
+    "publishedAt": "2026-11-12T01:15:28Z"
+  },
+  {
+    "id": "news-f28f90d2895a",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-12T00:00:00Z"
   },
   {
     "id": "news-8e4104a923ec",
@@ -166,6 +166,16 @@
     "url": "https://huggingface.co/blog/token-pooling",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-11T00:00:00Z"
+  },
+  {
+    "id": "news-8c999d6885d2",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-11T00:00:00Z"
   },
@@ -464,16 +474,6 @@
     "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
     "summary": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps…",
     "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-09T07:35:44Z"
-  },
-  {
-    "id": "news-5d4b8a710b96",
-    "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
-    "summary": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by…",
-    "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
