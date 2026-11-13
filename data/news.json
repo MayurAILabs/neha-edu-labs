@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-12T23:09:31Z"
+    "publishedAt": "2026-11-13T04:53:12Z"
   },
   {
     "id": "news-b4107ce9852f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-12T23:09:31Z"
+    "publishedAt": "2026-11-13T04:53:12Z"
   },
   {
     "id": "news-e51c1437733b",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-12T23:09:31Z"
+    "publishedAt": "2026-11-13T04:53:12Z"
   },
   {
     "id": "news-57ed8b68629c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-12T23:09:31Z"
+    "publishedAt": "2026-11-13T04:53:12Z"
   },
   {
     "id": "news-dc0e8f605222",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-12T23:09:31Z"
+    "publishedAt": "2026-11-13T04:53:12Z"
   },
   {
     "id": "news-20fb8f8cc0ec",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-12T23:09:31Z"
+    "publishedAt": "2026-11-13T04:53:12Z"
+  },
+  {
+    "id": "news-126f79483dcc",
+    "title": "GitHub availability report: October 2026",
+    "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog.",
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-11-13T00:20:16Z"
   },
   {
     "id": "news-657af3312af0",
@@ -84,6 +94,16 @@
     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
     "url": "https://openai.com/index/amplitude",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-12T20:00:00Z"
+  },
+  {
+    "id": "news-5b0f73df89a6",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "url": "https://openai.com/business/customer-stories/amplitude",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -148,6 +168,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-11-12T14:00:59Z"
+  },
+  {
+    "id": "news-90d79223706e",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-12T12:00:00Z"
   },
   {
     "id": "news-0990939c7d6e",
@@ -448,35 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-10T08:00:00Z"
-  },
-  {
-    "id": "news-3588ceed4155",
-    "title": "Work at the Frontier: AI’s effect on freelance work",
-    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-    "url": "https://openai.com/index/ai-effect-on-freelance-work",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-10T07:00:00Z"
-  },
-  {
-    "id": "news-f60cbf1284a6",
-    "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
-    "summary": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
-    "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-10T05:00:00Z"
-  },
-  {
-    "id": "news-724fae925148",
-    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-10T00:00:00Z"
   }
 ]
