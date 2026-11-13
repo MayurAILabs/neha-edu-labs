@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T04:53:12Z"
+    "publishedAt": "2026-11-13T12:49:55Z"
   },
   {
     "id": "news-b4107ce9852f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T04:53:12Z"
+    "publishedAt": "2026-11-13T12:49:55Z"
   },
   {
     "id": "news-e51c1437733b",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T04:53:12Z"
+    "publishedAt": "2026-11-13T12:49:55Z"
   },
   {
     "id": "news-57ed8b68629c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T04:53:12Z"
+    "publishedAt": "2026-11-13T12:49:55Z"
   },
   {
     "id": "news-dc0e8f605222",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T04:53:12Z"
+    "publishedAt": "2026-11-13T12:49:55Z"
   },
   {
     "id": "news-20fb8f8cc0ec",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T04:53:12Z"
+    "publishedAt": "2026-11-13T12:49:55Z"
+  },
+  {
+    "id": "news-606399e29c9e",
+    "title": "New AI “copilot” helps engineers design better structures",
+    "summary": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
+    "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-13T05:00:00Z"
+  },
+  {
+    "id": "news-666c9ce2ae9f",
+    "title": "Helping robots fit into the human workplace",
+    "summary": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
+    "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-13T05:00:00Z"
   },
   {
     "id": "news-126f79483dcc",
@@ -430,6 +450,16 @@
     "publishedAt": "2026-11-10T12:00:00Z"
   },
   {
+    "id": "news-51d2fad24045",
+    "title": "Opening the datasets behind our AI weather models",
+    "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+    "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-11-10T11:13:04Z"
+  },
+  {
     "id": "news-4b2c2f063eae",
     "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
     "summary": "Learn how guided virtual shock and drop analysis helps engineering teams identify reliability risks before physical testing, reduce qualification iterations, optimize packaging designs, and accelerate electronics…",
@@ -448,35 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-10T10:00:00Z"
-  },
-  {
-    "id": "news-c352d9d60e1b",
-    "title": "DevFest is back!",
-    "summary": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain…",
-    "url": "https://developers.googleblog.com/devfest-is-back/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-10T09:10:01Z"
-  },
-  {
-    "id": "news-01a8528fa117",
-    "title": "Closing the AI guidance gap in education",
-    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-10T09:00:00Z"
-  },
-  {
-    "id": "news-4e3e5904c85a",
-    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-    "url": "https://openai.com/index/singapore-airlines-travel-work",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-10T08:00:00Z"
   }
 ]
