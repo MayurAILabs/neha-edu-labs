@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T12:49:55Z"
+    "publishedAt": "2026-11-13T20:17:00Z"
   },
   {
     "id": "news-b4107ce9852f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T12:49:55Z"
+    "publishedAt": "2026-11-13T20:17:00Z"
   },
   {
     "id": "news-e51c1437733b",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T12:49:55Z"
+    "publishedAt": "2026-11-13T20:17:00Z"
   },
   {
     "id": "news-57ed8b68629c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T12:49:55Z"
+    "publishedAt": "2026-11-13T20:17:00Z"
   },
   {
     "id": "news-dc0e8f605222",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T12:49:55Z"
+    "publishedAt": "2026-11-13T20:17:00Z"
   },
   {
     "id": "news-20fb8f8cc0ec",
@@ -57,7 +57,67 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T12:49:55Z"
+    "publishedAt": "2026-11-13T20:17:00Z"
+  },
+  {
+    "id": "news-2427bacb74a9",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-13T18:00:39Z"
+  },
+  {
+    "id": "news-8400bdfe1e2a",
+    "title": "XYBench: Helping with the problem behind the question",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/allenai/xybench",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-13T17:02:35Z"
+  },
+  {
+    "id": "news-5bf4951adbe9",
+    "title": "Introducing ChatGPT Wallet",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-13T15:00:00Z"
+  },
+  {
+    "id": "news-40e78db6601d",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-13T14:05:22Z"
+  },
+  {
+    "id": "news-a326fbf0621f",
+    "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+    "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching…",
+    "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-13T13:00:42Z"
+  },
+  {
+    "id": "news-eec9abe0c41c",
+    "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
+    "summary": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options.What you will learn about:How…",
+    "url": "https://content.knowledgehub.wiley.com/engineering-overhead-electric-lines-for-ice-wind-and-freezing-rain/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-13T11:00:02Z"
   },
   {
     "id": "news-606399e29c9e",
@@ -418,65 +478,5 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-11-10T14:00:00Z"
-  },
-  {
-    "id": "news-155d33cae726",
-    "title": "Google Cloud launches Gemini for healthcare.",
-    "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-11-10T13:00:00Z"
-  },
-  {
-    "id": "news-428ac4b42c0b",
-    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-11-10T12:02:28Z"
-  },
-  {
-    "id": "news-46ecb159c153",
-    "title": "Helping caregivers use AI in everyday life",
-    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-10T12:00:00Z"
-  },
-  {
-    "id": "news-51d2fad24045",
-    "title": "Opening the datasets behind our AI weather models",
-    "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-    "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-11-10T11:13:04Z"
-  },
-  {
-    "id": "news-4b2c2f063eae",
-    "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
-    "summary": "Learn how guided virtual shock and drop analysis helps engineering teams identify reliability risks before physical testing, reduce qualification iterations, optimize packaging designs, and accelerate electronics…",
-    "url": "https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-10T11:00:02Z"
-  },
-  {
-    "id": "news-5ca4dc7b6d88",
-    "title": "Introducing Businesses in ChatGPT",
-    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-    "url": "https://openai.com/index/introducing-businesses-chatgpt",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-10T10:00:00Z"
   }
 ]
