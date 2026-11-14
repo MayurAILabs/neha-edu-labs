@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T20:17:00Z"
+    "publishedAt": "2026-11-14T01:13:47Z"
   },
   {
     "id": "news-b4107ce9852f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T20:17:00Z"
+    "publishedAt": "2026-11-14T01:13:47Z"
   },
   {
     "id": "news-e51c1437733b",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T20:17:00Z"
+    "publishedAt": "2026-11-14T01:13:47Z"
   },
   {
     "id": "news-57ed8b68629c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T20:17:00Z"
+    "publishedAt": "2026-11-14T01:13:47Z"
   },
   {
     "id": "news-dc0e8f605222",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T20:17:00Z"
+    "publishedAt": "2026-11-14T01:13:47Z"
   },
   {
     "id": "news-20fb8f8cc0ec",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-13T20:17:00Z"
+    "publishedAt": "2026-11-14T01:13:47Z"
+  },
+  {
+    "id": "news-0d9fae548b15",
+    "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+    "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics, governance, and auditing…",
+    "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-13T19:00:03Z"
   },
   {
     "id": "news-2427bacb74a9",
@@ -118,6 +128,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-11-13T11:00:02Z"
+  },
+  {
+    "id": "news-d1318183fe17",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "url": "https://openai.com/business/customer-stories/shield",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-13T08:00:00Z"
   },
   {
     "id": "news-606399e29c9e",
@@ -458,25 +478,5 @@
     "source": "Google DeepMind",
     "category": "AI",
     "publishedAt": "2026-11-10T16:03:47Z"
-  },
-  {
-    "id": "news-b4eac762a15a",
-    "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
-    "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its…",
-    "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-10T16:00:03Z"
-  },
-  {
-    "id": "news-c5fffc8a0cbd",
-    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-    "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-11-10T14:00:00Z"
   }
 ]
