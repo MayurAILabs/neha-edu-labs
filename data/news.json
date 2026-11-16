@@ -1,5 +1,215 @@
 [
   {
+    "id": "news-e51c1437733b",
+    "title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
+    "summary": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for…",
+    "url": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-16T17:52:03Z"
+  },
+  {
+    "id": "news-57ed8b68629c",
+    "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+    "summary": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including…",
+    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-16T17:52:03Z"
+  },
+  {
+    "id": "news-dc0e8f605222",
+    "title": "Catch Go bugs that fuzzing misses with Gemini and a constraint solver",
+    "summary": "How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.",
+    "url": "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-16T17:52:03Z"
+  },
+  {
+    "id": "news-20fb8f8cc0ec",
+    "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
+    "summary": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks,…",
+    "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-16T17:52:03Z"
+  },
+  {
+    "id": "news-fa9ce42d9ba7",
+    "title": "Agents are sessions, not requests: size GKE node pools for AI agent sessions",
+    "summary": "AI agent sessions remain active and idle for most of the workday, making traditional one-Pod-per-session allocations inefficient for cluster resources. By using open-source tools like Agent Substrate and AX on GKE,…",
+    "url": "https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-16T17:52:03Z"
+  },
+  {
+    "id": "news-3300e16ee75f",
+    "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch",
+    "summary": "How we eliminated floating-point train–inference logprob drift for on-policy LLM reinforcement learning across 64 Cloud TPU v5p chips using a generalizable four-part JAX and Pallas recipe in Tunix.",
+    "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-16T17:52:03Z"
+  },
+  {
+    "id": "news-f26f2a4dfd6b",
+    "title": "Broadening access to AI for scientists",
+    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-16T17:00:00Z"
+  },
+  {
+    "id": "news-b1c71d07875a",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-16T17:00:00Z"
+  },
+  {
+    "id": "news-f149dc1a48ff",
+    "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+    "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO)…",
+    "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-16T16:00:51Z"
+  },
+  {
+    "id": "news-cd6b6d848fb0",
+    "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+    "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum…",
+    "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-16T16:00:47Z"
+  },
+  {
+    "id": "news-3197bf91500d",
+    "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+    "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1…",
+    "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-16T16:00:25Z"
+  },
+  {
+    "id": "news-7ffe4f27310f",
+    "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+    "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology.…",
+    "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-16T16:00:16Z"
+  },
+  {
+    "id": "news-ed06a68081ab",
+    "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+    "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an…",
+    "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-16T16:00:11Z"
+  },
+  {
+    "id": "news-13aacf9f27d8",
+    "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+    "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists…",
+    "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-16T16:00:01Z"
+  },
+  {
+    "id": "news-d40156bb9a84",
+    "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+    "summary": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up…",
+    "url": "https://spectrum.ieee.org/telesurgery-stroke",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-16T14:00:02Z"
+  },
+  {
+    "id": "news-717626b76ea0",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-11-16T14:00:00Z"
+  },
+  {
+    "id": "news-f891bd93f3d2",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-16T12:00:00Z"
+  },
+  {
+    "id": "news-bc38a17a0110",
+    "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+    "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear,…",
+    "url": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-16T11:00:03Z"
+  },
+  {
+    "id": "news-1dea03b2350e",
+    "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+    "summary": "This article is brought to you by VicOne.VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These…",
+    "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-16T10:00:01Z"
+  },
+  {
+    "id": "news-91e58e2ea930",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-16T09:00:00Z"
+  },
+  {
+    "id": "news-ebd9eb949639",
+    "title": "Our first phase of embedded assessments",
+    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-16T08:00:00Z"
+  },
+  {
     "id": "news-09bf66735211",
     "title": "From prompt to app: Build with Google Maps in AI Studio",
     "summary": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration…",
@@ -20,44 +230,14 @@
     "publishedAt": "2026-11-16T07:35:53Z"
   },
   {
-    "id": "news-e51c1437733b",
-    "title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
-    "summary": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for…",
-    "url": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-16T07:35:53Z"
-  },
-  {
-    "id": "news-57ed8b68629c",
-    "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
-    "summary": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including…",
-    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-16T07:35:53Z"
-  },
-  {
-    "id": "news-dc0e8f605222",
-    "title": "Catch Go bugs that fuzzing misses with Gemini and a constraint solver",
-    "summary": "How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.",
-    "url": "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-16T07:35:53Z"
-  },
-  {
-    "id": "news-20fb8f8cc0ec",
-    "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
-    "summary": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks,…",
-    "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-16T07:35:53Z"
+    "id": "news-b0ded74e06b0",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "summary": "Latest update from OpenAI.",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-16T06:00:00Z"
   },
   {
     "id": "news-0ea5fbe79c2f",
@@ -68,6 +248,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-11-16T00:00:28Z"
+  },
+  {
+    "id": "news-853b24ff0d6e",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/openrouter",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-16T00:00:00Z"
   },
   {
     "id": "news-87d7014c15ee",
@@ -288,195 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-11-12T17:53:01Z"
-  },
-  {
-    "id": "news-42899cb2010a",
-    "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
-    "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-12T14:00:59Z"
-  },
-  {
-    "id": "news-90d79223706e",
-    "title": "Gondola doubles revenue as its team builds more with Codex",
-    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-    "url": "https://openai.com/business/customer-stories/gondola",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-12T12:00:00Z"
-  },
-  {
-    "id": "news-0990939c7d6e",
-    "title": "Holiday Extras is rethinking what it can build with Codex",
-    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-12T09:30:00Z"
-  },
-  {
-    "id": "news-a865d7bae4f0",
-    "title": "New research could lead to faster, trustworthy AI models for climate prediction",
-    "summary": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
-    "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-12T05:00:00Z"
-  },
-  {
-    "id": "news-f28f90d2895a",
-    "title": "Gilbert + Tobin rethinks the business of law with AI",
-    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-12T00:00:00Z"
-  },
-  {
-    "id": "news-b06379671ede",
-    "title": "Supporting research on AI and children’s safety",
-    "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-    "url": "https://openai.com/index/children-first-declaration",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-12T00:00:00Z"
-  },
-  {
-    "id": "news-56dac742ff29",
-    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/3d-lora-finetuning",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-12T00:00:00Z"
-  },
-  {
-    "id": "news-8e4104a923ec",
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-11-11T18:00:00Z"
-  },
-  {
-    "id": "news-97adab01dbf7",
-    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-    "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-11-11T16:00:00Z"
-  },
-  {
-    "id": "news-5b916f1bea87",
-    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-11-11T15:00:15Z"
-  },
-  {
-    "id": "news-8e9c0e02fbb0",
-    "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
-    "summary": "This article is brought to you by Innomotics.In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-electric principle. Discovered by Werner von Siemens in…",
-    "url": "https://spectrum.ieee.org/innomotics-electric-motors-drive-systems",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-11T11:00:02Z"
-  },
-  {
-    "id": "news-ce5cc4220354",
-    "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
-    "summary": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
-    "url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-11T10:15:12Z"
-  },
-  {
-    "id": "news-7e65614cc89a",
-    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-    "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
-    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-11-11T09:00:00Z"
-  },
-  {
-    "id": "news-80b38ea7da37",
-    "title": "ChatGPT Plus for veterans and servicemembers",
-    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-11T08:00:00Z"
-  },
-  {
-    "id": "news-b22522d14a17",
-    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/qvac/botpsy",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-11T05:01:16Z"
-  },
-  {
-    "id": "news-34dcc0e759ee",
-    "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-    "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
-    "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-11T03:00:20Z"
-  },
-  {
-    "id": "news-d2296a64c0dc",
-    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/token-pooling",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-11T00:00:00Z"
-  },
-  {
-    "id": "news-8c999d6885d2",
-    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-    "url": "https://openai.com/index/jiostar-vijay-seshadri",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-11T00:00:00Z"
-  },
-  {
-    "id": "news-f908b1bdd038",
-    "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
-    "summary": "Bishnu Saroop AtalAcoustics and signal processing pioneerLife Fellow, 93; died 19 AugustAtal was an acoustics and signal processing researcher at Bell Labs in Murray Hill, N.J., and later at AT&T’s Shannon Laboratory,…",
-    "url": "https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-10T19:00:02Z"
   }
 ]
