@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-15T20:46:05Z"
+    "publishedAt": "2026-11-16T00:41:23Z"
   },
   {
     "id": "news-b4107ce9852f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-15T20:46:05Z"
+    "publishedAt": "2026-11-16T00:41:23Z"
   },
   {
     "id": "news-e51c1437733b",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-15T20:46:05Z"
+    "publishedAt": "2026-11-16T00:41:23Z"
   },
   {
     "id": "news-57ed8b68629c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-15T20:46:05Z"
+    "publishedAt": "2026-11-16T00:41:23Z"
   },
   {
     "id": "news-dc0e8f605222",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-15T20:46:05Z"
+    "publishedAt": "2026-11-16T00:41:23Z"
   },
   {
     "id": "news-20fb8f8cc0ec",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-15T20:46:05Z"
+    "publishedAt": "2026-11-16T00:41:23Z"
+  },
+  {
+    "id": "news-0ea5fbe79c2f",
+    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+    "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions,…",
+    "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-16T00:00:28Z"
+  },
+  {
+    "id": "news-87d7014c15ee",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-15T22:00:01Z"
+  },
+  {
+    "id": "news-4b0fc5b701ff",
+    "title": "Our new blog for science",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-15T22:00:00Z"
   },
   {
     "id": "news-0d9fae548b15",
@@ -448,35 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-11-10T19:00:02Z"
-  },
-  {
-    "id": "news-ac5a661efbfd",
-    "title": "Gemini Intelligence: New features, on more devices",
-    "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-11-10T19:00:00Z"
-  },
-  {
-    "id": "news-7bd6d5785093",
-    "title": "Git security vulnerabilities announced",
-    "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security…",
-    "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-11-10T18:00:00Z"
-  },
-  {
-    "id": "news-0b2e1c02de47",
-    "title": "Gemini 4 Carbon is now available",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-11-10T16:03:47Z"
   }
 ]
