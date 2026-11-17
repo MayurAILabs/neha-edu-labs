@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-17T01:30:05Z"
+    "publishedAt": "2026-11-17T10:05:27Z"
   },
   {
     "id": "news-20fb8f8cc0ec",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-17T01:30:05Z"
+    "publishedAt": "2026-11-17T10:05:27Z"
   },
   {
     "id": "news-fa9ce42d9ba7",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-17T01:30:05Z"
+    "publishedAt": "2026-11-17T10:05:27Z"
   },
   {
     "id": "news-3300e16ee75f",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-17T01:30:05Z"
+    "publishedAt": "2026-11-17T10:05:27Z"
   },
   {
     "id": "news-35bba63f22a2",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-17T01:30:05Z"
+    "publishedAt": "2026-11-17T10:05:27Z"
   },
   {
     "id": "news-1b0d0ac52bb4",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-17T01:30:05Z"
+    "publishedAt": "2026-11-17T10:05:27Z"
+  },
+  {
+    "id": "news-ffe4b9c88a23",
+    "title": "Q&A: Why building math muscles remains important in the AI era",
+    "summary": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools.",
+    "url": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-17T05:00:00Z"
+  },
+  {
+    "id": "news-1ac3744caa9c",
+    "title": "Learning the language of machine learning",
+    "summary": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans.",
+    "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-17T05:00:00Z"
+  },
+  {
+    "id": "news-590cb0b9c5dd",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-17T00:00:00Z"
   },
   {
     "id": "news-23e0c35a1797",
@@ -228,6 +258,16 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-11-16T10:00:01Z"
+  },
+  {
+    "id": "news-f054a54f8228",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+    "url": "https://openai.com/business/customer-stories/revolut",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-16T09:30:00Z"
   },
   {
     "id": "news-91e58e2ea930",
@@ -438,45 +478,5 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-11-13T00:20:16Z"
-  },
-  {
-    "id": "news-657af3312af0",
-    "title": "Build once, run on any agent: A practical guide to agent skills",
-    "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A…",
-    "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-11-12T22:54:52Z"
-  },
-  {
-    "id": "news-c1b8ea1b2fb3",
-    "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
-    "summary": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations.",
-    "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-12T21:15:00Z"
-  },
-  {
-    "id": "news-372847c94994",
-    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-    "url": "https://openai.com/index/amplitude",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-12T20:00:00Z"
-  },
-  {
-    "id": "news-5b0f73df89a6",
-    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-    "url": "https://openai.com/business/customer-stories/amplitude",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-12T20:00:00Z"
   }
 ]
