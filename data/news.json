@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-17T19:33:35Z"
+    "publishedAt": "2026-11-18T02:03:26Z"
   },
   {
     "id": "news-3300e16ee75f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-17T19:33:35Z"
+    "publishedAt": "2026-11-18T02:03:26Z"
   },
   {
     "id": "news-35bba63f22a2",
@@ -27,17 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-17T19:33:35Z"
-  },
-  {
-    "id": "news-1b0d0ac52bb4",
-    "title": "Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection",
-    "summary": "This guide walks developers through setting up Agent Anomaly Detection on the Gemini Enterprise Agent Platform to monitor AI agent telemetry and catch behavioral risks. It demonstrates how to deploy a sample customer…",
-    "url": "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-17T19:33:35Z"
+    "publishedAt": "2026-11-18T02:03:26Z"
   },
   {
     "id": "news-e3f1cd914aee",
@@ -47,13 +37,43 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-17T19:33:35Z"
+    "publishedAt": "2026-11-18T02:03:26Z"
   },
   {
     "id": "news-9702532486ea",
     "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
     "summary": "Google's Gemini 4 Hydrogen brings strong spatial and embodied reasoning capabilities to a fast, efficient model built specifically for robotics. To help developers put these capabilities to work, the new Robotics plugin…",
     "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-18T02:03:26Z"
+  },
+  {
+    "id": "news-2c5e4844c010",
+    "title": "Build full-stack Android apps with Gemini in Google AI Studio",
+    "summary": "Google AI Studio now lets developers build, test, and ship full-stack Kotlin Android apps from a single prompt—complete with Cloud Firestore, Firebase Authentication, Firebase AI Logic, a faster HD emulator with audio,…",
+    "url": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-18T02:03:26Z"
+  },
+  {
+    "id": "news-f38228c9ef56",
+    "title": "Putting a spotlight on AI, society, and humanity",
+    "summary": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education.",
+    "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-17T20:40:00Z"
+  },
+  {
+    "id": "news-1b0d0ac52bb4",
+    "title": "Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection",
+    "summary": "This guide walks developers through setting up Agent Anomaly Detection on the Gemini Enterprise Agent Platform to monitor AI agent telemetry and catch behavioral risks. It demonstrates how to deploy a sample customer…",
+    "url": "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -158,6 +178,16 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-11-17T10:05:27Z"
+  },
+  {
+    "id": "news-c6c361c53bc4",
+    "title": "Introducing ChatGPT for Sales",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-17T08:00:00Z"
   },
   {
     "id": "news-ffe4b9c88a23",
@@ -448,35 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-11-16T00:00:28Z"
-  },
-  {
-    "id": "news-853b24ff0d6e",
-    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/openrouter",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-16T00:00:00Z"
-  },
-  {
-    "id": "news-6996cdc17999",
-    "title": "XTM Transifex sponsors Python’s documentation translations",
-    "summary": "XTM Transifex is supporting Python’s documentation translation teams with a year of free access to its Growth plan.",
-    "url": "https://blog.python.org/2026/11/transifex-sponsors-python-docs/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Python Insider",
-    "category": "Programming",
-    "publishedAt": "2026-11-16T00:00:00Z"
-  },
-  {
-    "id": "news-87d7014c15ee",
-    "title": "A step toward defining the Standard Model on a lattice",
-    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-15T22:00:01Z"
   }
 ]
