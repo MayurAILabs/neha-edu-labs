@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T02:03:26Z"
+    "publishedAt": "2026-11-18T11:02:43Z"
   },
   {
     "id": "news-3300e16ee75f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T02:03:26Z"
+    "publishedAt": "2026-11-18T11:02:43Z"
   },
   {
     "id": "news-35bba63f22a2",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T02:03:26Z"
+    "publishedAt": "2026-11-18T11:02:43Z"
   },
   {
     "id": "news-e3f1cd914aee",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T02:03:26Z"
+    "publishedAt": "2026-11-18T11:02:43Z"
   },
   {
     "id": "news-9702532486ea",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T02:03:26Z"
+    "publishedAt": "2026-11-18T11:02:43Z"
   },
   {
     "id": "news-2c5e4844c010",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T02:03:26Z"
+    "publishedAt": "2026-11-18T11:02:43Z"
+  },
+  {
+    "id": "news-461a1fe87414",
+    "title": "Helping AI text detectors keep up with changing conditions",
+    "summary": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human.",
+    "url": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-18T05:00:00Z"
+  },
+  {
+    "id": "news-6cab9c8cd383",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-18T00:00:00Z"
   },
   {
     "id": "news-f38228c9ef56",
@@ -458,25 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-11-16T07:35:53Z"
-  },
-  {
-    "id": "news-b0ded74e06b0",
-    "title": "Advancing computer-use agents for healthcare teams",
-    "summary": "Latest update from OpenAI.",
-    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-16T06:00:00Z"
-  },
-  {
-    "id": "news-0ea5fbe79c2f",
-    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-    "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions,…",
-    "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-16T00:00:28Z"
   }
 ]
