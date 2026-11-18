@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T11:02:43Z"
+    "publishedAt": "2026-11-18T19:54:46Z"
   },
   {
     "id": "news-3300e16ee75f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T11:02:43Z"
+    "publishedAt": "2026-11-18T19:54:46Z"
   },
   {
     "id": "news-35bba63f22a2",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T11:02:43Z"
+    "publishedAt": "2026-11-18T19:54:46Z"
   },
   {
     "id": "news-e3f1cd914aee",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T11:02:43Z"
+    "publishedAt": "2026-11-18T19:54:46Z"
   },
   {
     "id": "news-9702532486ea",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T11:02:43Z"
+    "publishedAt": "2026-11-18T19:54:46Z"
   },
   {
     "id": "news-2c5e4844c010",
@@ -57,7 +57,87 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T11:02:43Z"
+    "publishedAt": "2026-11-18T19:54:46Z"
+  },
+  {
+    "id": "news-62626f8cbcfd",
+    "title": "This featherweight, flying robot carries its own sensors and computers",
+    "summary": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance.",
+    "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-18T19:00:00Z"
+  },
+  {
+    "id": "news-75623b38e68b",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-18T18:53:43Z"
+  },
+  {
+    "id": "news-652211f5c064",
+    "title": "Genie 4 is now available",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-11-18T18:13:42Z"
+  },
+  {
+    "id": "news-6f41e71febfa",
+    "title": "Build a Personal Brand to Help Employers Find You",
+    "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and…",
+    "url": "https://spectrum.ieee.org/personal-branding-for-engineers",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-18T17:33:26Z"
+  },
+  {
+    "id": "news-03ca256a4adf",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-11-18T17:00:00Z"
+  },
+  {
+    "id": "news-bf1424b145e4",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-18T15:00:23Z"
+  },
+  {
+    "id": "news-2f5d6d63b059",
+    "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+    "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified…",
+    "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-18T14:00:31Z"
+  },
+  {
+    "id": "news-53f2a14376dd",
+    "title": "Inside the Codex sandbox",
+    "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+    "url": "https://openai.com/index/inside-the-codex-sandbox",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-18T08:00:00Z"
   },
   {
     "id": "news-461a1fe87414",
@@ -76,6 +156,46 @@
     "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-18T00:00:00Z"
+  },
+  {
+    "id": "news-e683d40fba10",
+    "title": "The Silent Consensus",
+    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-18T00:00:00Z"
+  },
+  {
+    "id": "news-c7d3ecb00643",
+    "title": "Advancing chip design with OpenAI models",
+    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-18T00:00:00Z"
+  },
+  {
+    "id": "news-af1852b4c46d",
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/moe-expert-streaming",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-18T00:00:00Z"
+  },
+  {
+    "id": "news-679cee5ea146",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/rumble-2-flash",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-11-18T00:00:00Z"
   },
@@ -358,125 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-11-16T16:00:16Z"
-  },
-  {
-    "id": "news-ed06a68081ab",
-    "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
-    "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an…",
-    "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-16T16:00:11Z"
-  },
-  {
-    "id": "news-13aacf9f27d8",
-    "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-    "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists…",
-    "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-16T16:00:01Z"
-  },
-  {
-    "id": "news-d40156bb9a84",
-    "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
-    "summary": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up…",
-    "url": "https://spectrum.ieee.org/telesurgery-stroke",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-16T14:00:02Z"
-  },
-  {
-    "id": "news-717626b76ea0",
-    "title": "New Ask Maps features to help with holiday travel and prep",
-    "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-11-16T14:00:00Z"
-  },
-  {
-    "id": "news-f891bd93f3d2",
-    "title": "Science at the Frontier: How scientists use ChatGPT",
-    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-    "url": "https://openai.com/index/science-at-the-frontier",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-16T12:00:00Z"
-  },
-  {
-    "id": "news-bc38a17a0110",
-    "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
-    "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear,…",
-    "url": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-16T11:00:03Z"
-  },
-  {
-    "id": "news-1dea03b2350e",
-    "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
-    "summary": "This article is brought to you by VicOne.VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These…",
-    "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-16T10:00:01Z"
-  },
-  {
-    "id": "news-f054a54f8228",
-    "title": "How Revolut raises ambition without lowering the bar",
-    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-    "url": "https://openai.com/business/customer-stories/revolut",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-16T09:30:00Z"
-  },
-  {
-    "id": "news-91e58e2ea930",
-    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-    "url": "https://openai.com/index/lvmh-media-division-partnership",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-16T09:00:00Z"
-  },
-  {
-    "id": "news-ebd9eb949639",
-    "title": "Our first phase of embedded assessments",
-    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-16T08:00:00Z"
-  },
-  {
-    "id": "news-09bf66735211",
-    "title": "From prompt to app: Build with Google Maps in AI Studio",
-    "summary": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration…",
-    "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-16T07:35:53Z"
-  },
-  {
-    "id": "news-b4107ce9852f",
-    "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
-    "summary": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash…",
-    "url": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-16T07:35:53Z"
   }
 ]
