@@ -1,5 +1,135 @@
 [
   {
+    "id": "news-e3f1cd914aee",
+    "title": "Accelerating development for massive Git repositories",
+    "summary": "Meet Another Build File Service (ABFS), Google's open-source content-addressable filesystem and build cache that cuts Android checkouts to",
+    "url": "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-19T18:49:22Z"
+  },
+  {
+    "id": "news-9702532486ea",
+    "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+    "summary": "Google's Gemini 4 Hydrogen brings strong spatial and embodied reasoning capabilities to a fast, efficient model built specifically for robotics. To help developers put these capabilities to work, the new Robotics plugin…",
+    "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-19T18:49:22Z"
+  },
+  {
+    "id": "news-2c5e4844c010",
+    "title": "Build full-stack Android apps with Gemini in Google AI Studio",
+    "summary": "Google AI Studio now lets developers build, test, and ship full-stack Kotlin Android apps from a single prompt—complete with Cloud Firestore, Firebase Authentication, Firebase AI Logic, a faster HD emulator with audio,…",
+    "url": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-19T18:49:22Z"
+  },
+  {
+    "id": "news-1b0d0ac52bb4",
+    "title": "Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection",
+    "summary": "This guide walks developers through setting up Agent Anomaly Detection on the Gemini Enterprise Agent Platform to monitor AI agent telemetry and catch behavioral risks. It demonstrates how to deploy a sample customer…",
+    "url": "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-19T18:49:22Z"
+  },
+  {
+    "id": "news-a1dbec1993aa",
+    "title": "Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs",
+    "summary": "This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts, the…",
+    "url": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-19T18:49:22Z"
+  },
+  {
+    "id": "news-f8d8466e185e",
+    "title": "Distributed LLM Training Across Metros: Streaming DiLoCo in MaxText",
+    "summary": "Streaming DiLoCo in MaxText enables developers to efficiently train large language models across geographically distributed TPU slices by streaming parameter fragments instead of synchronizing full models at every step.…",
+    "url": "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-19T18:49:22Z"
+  },
+  {
+    "id": "news-57728669e048",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-11-19T18:00:00Z"
+  },
+  {
+    "id": "news-baf7193e75c1",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
+    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-19T17:00:35Z"
+  },
+  {
+    "id": "news-c3e7758a2373",
+    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-11-19T17:00:00Z"
+  },
+  {
+    "id": "news-1359fddbf694",
+    "title": "The best things in open source are built together",
+    "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog.",
+    "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-11-19T16:00:00Z"
+  },
+  {
+    "id": "news-b6fd64654869",
+    "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+    "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-19T14:00:12Z"
+  },
+  {
+    "id": "news-d943a23e58cc",
+    "title": "Study reveals data centers’ long-distance damage to air quality",
+    "summary": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest.",
+    "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-19T14:00:00Z"
+  },
+  {
+    "id": "news-97b20df2e79d",
+    "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
+    "summary": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started when Anthropic…",
+    "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-19T12:00:03Z"
+  },
+  {
     "id": "news-fa9ce42d9ba7",
     "title": "Agents are sessions, not requests: size GKE node pools for AI agent sessions",
     "summary": "AI agent sessions remain active and idle for most of the workday, making traditional one-Pod-per-session allocations inefficient for cluster resources. By using open-source tools like Agent Substrate and AX on GKE,…",
@@ -30,34 +160,14 @@
     "publishedAt": "2026-11-19T09:49:18Z"
   },
   {
-    "id": "news-e3f1cd914aee",
-    "title": "Accelerating development for massive Git repositories",
-    "summary": "Meet Another Build File Service (ABFS), Google's open-source content-addressable filesystem and build cache that cuts Android checkouts to",
-    "url": "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-19T09:49:18Z"
-  },
-  {
-    "id": "news-9702532486ea",
-    "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
-    "summary": "Google's Gemini 4 Hydrogen brings strong spatial and embodied reasoning capabilities to a fast, efficient model built specifically for robotics. To help developers put these capabilities to work, the new Robotics plugin…",
-    "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-19T09:49:18Z"
-  },
-  {
-    "id": "news-2c5e4844c010",
-    "title": "Build full-stack Android apps with Gemini in Google AI Studio",
-    "summary": "Google AI Studio now lets developers build, test, and ship full-stack Kotlin Android apps from a single prompt—complete with Cloud Firestore, Firebase Authentication, Firebase AI Logic, a faster HD emulator with audio,…",
-    "url": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-19T09:49:18Z"
+    "id": "news-6687f7be62c3",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-19T08:00:00Z"
   },
   {
     "id": "news-0c3c8b23c6ca",
@@ -260,16 +370,6 @@
     "publishedAt": "2026-11-17T20:40:00Z"
   },
   {
-    "id": "news-1b0d0ac52bb4",
-    "title": "Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection",
-    "summary": "This guide walks developers through setting up Agent Anomaly Detection on the Gemini Enterprise Agent Platform to monitor AI agent telemetry and catch behavioral risks. It demonstrates how to deploy a sample customer…",
-    "url": "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-17T19:33:35Z"
-  },
-  {
     "id": "news-41930dc76153",
     "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
     "summary": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of…",
@@ -378,105 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-17T08:00:00Z"
-  },
-  {
-    "id": "news-ffe4b9c88a23",
-    "title": "Q&A: Why building math muscles remains important in the AI era",
-    "summary": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools.",
-    "url": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-17T05:00:00Z"
-  },
-  {
-    "id": "news-1ac3744caa9c",
-    "title": "Learning the language of machine learning",
-    "summary": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans.",
-    "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-17T05:00:00Z"
-  },
-  {
-    "id": "news-590cb0b9c5dd",
-    "title": "Strengthening NATO and allied cyber defenses with AI",
-    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-17T00:00:00Z"
-  },
-  {
-    "id": "news-58da9c66b145",
-    "title": "Introducing OpenAI for Chile",
-    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "url": "https://openai.com/index/introducing-openai-for-chile",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-17T00:00:00Z"
-  },
-  {
-    "id": "news-0604bc2b50fc",
-    "title": "Astra for Law leads in legal intelligence",
-    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-    "url": "https://openai.com/index/astra-law-6-2",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-17T00:00:00Z"
-  },
-  {
-    "id": "news-23e0c35a1797",
-    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
-    "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA…",
-    "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-16T23:00:05Z"
-  },
-  {
-    "id": "news-66395cf5113b",
-    "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-    "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over…",
-    "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-16T20:00:37Z"
-  },
-  {
-    "id": "news-e51c1437733b",
-    "title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
-    "summary": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for…",
-    "url": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-16T17:52:03Z"
-  },
-  {
-    "id": "news-57ed8b68629c",
-    "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
-    "summary": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including…",
-    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-16T17:52:03Z"
-  },
-  {
-    "id": "news-f26f2a4dfd6b",
-    "title": "Broadening access to AI for scientists",
-    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-16T17:00:00Z"
   }
 ]
