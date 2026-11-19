@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T19:54:46Z"
+    "publishedAt": "2026-11-19T01:39:58Z"
   },
   {
     "id": "news-3300e16ee75f",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T19:54:46Z"
+    "publishedAt": "2026-11-19T01:39:58Z"
   },
   {
     "id": "news-35bba63f22a2",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T19:54:46Z"
+    "publishedAt": "2026-11-19T01:39:58Z"
   },
   {
     "id": "news-e3f1cd914aee",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T19:54:46Z"
+    "publishedAt": "2026-11-19T01:39:58Z"
   },
   {
     "id": "news-9702532486ea",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T19:54:46Z"
+    "publishedAt": "2026-11-19T01:39:58Z"
   },
   {
     "id": "news-2c5e4844c010",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-18T19:54:46Z"
+    "publishedAt": "2026-11-19T01:39:58Z"
+  },
+  {
+    "id": "news-0c3c8b23c6ca",
+    "title": "Introducing Gemini 4 Neon",
+    "summary": "Latest update from Google DeepMind.",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-11-18T21:35:43Z"
+  },
+  {
+    "id": "news-f689168723dc",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-18T19:54:56Z"
   },
   {
     "id": "news-62626f8cbcfd",
@@ -130,6 +150,16 @@
     "publishedAt": "2026-11-18T14:00:31Z"
   },
   {
+    "id": "news-e683d40fba10",
+    "title": "The Silent Consensus",
+    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-18T10:00:00Z"
+  },
+  {
     "id": "news-53f2a14376dd",
     "title": "Inside the Codex sandbox",
     "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
@@ -138,6 +168,36 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-18T08:00:00Z"
+  },
+  {
+    "id": "news-9fa731b0ef6c",
+    "title": "Research acceleration: The jagged frontier",
+    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-18T08:00:00Z"
+  },
+  {
+    "id": "news-b527b6f0ddce",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-18T08:00:00Z"
+  },
+  {
+    "id": "news-8b6ac2940fdc",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+    "url": "https://openai.com/index/managing-frontier-ai-risk",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-18T06:00:00Z"
   },
   {
     "id": "news-461a1fe87414",
@@ -154,16 +214,6 @@
     "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
     "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
     "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-18T00:00:00Z"
-  },
-  {
-    "id": "news-e683d40fba10",
-    "title": "The Silent Consensus",
-    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-    "url": "https://openai.com/index/the-silent-consensus",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -428,55 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-16T17:00:00Z"
-  },
-  {
-    "id": "news-b1c71d07875a",
-    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-    "url": "https://openai.com/index/strengthening-online-child-safety",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-16T17:00:00Z"
-  },
-  {
-    "id": "news-f149dc1a48ff",
-    "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-    "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO)…",
-    "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-16T16:00:51Z"
-  },
-  {
-    "id": "news-cd6b6d848fb0",
-    "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
-    "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum…",
-    "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-16T16:00:47Z"
-  },
-  {
-    "id": "news-3197bf91500d",
-    "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-    "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1…",
-    "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-16T16:00:25Z"
-  },
-  {
-    "id": "news-7ffe4f27310f",
-    "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-    "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology.…",
-    "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-16T16:00:16Z"
   }
 ]
