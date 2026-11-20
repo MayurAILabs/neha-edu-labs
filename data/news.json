@@ -1,5 +1,85 @@
 [
   {
+    "id": "news-a1dbec1993aa",
+    "title": "Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs",
+    "summary": "This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts, the…",
+    "url": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-20T23:38:21Z"
+  },
+  {
+    "id": "news-f8d8466e185e",
+    "title": "Distributed LLM Training Across Metros: Streaming DiLoCo in MaxText",
+    "summary": "Streaming DiLoCo in MaxText enables developers to efficiently train large language models across geographically distributed TPU slices by streaming parameter fragments instead of synchronizing full models at every step.…",
+    "url": "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-20T23:38:21Z"
+  },
+  {
+    "id": "news-ce0a30f76c3f",
+    "title": "Agent Anomaly Detection: Safeguarding agents across other clouds",
+    "summary": "Agent Anomaly Detection now monitors ADK agents running across AWS, Azure, or on-premises by analyzing their traces and logs in your Google Cloud project. By ingesting OpenTelemetry-formatted data through the Telemetry…",
+    "url": "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-20T23:38:21Z"
+  },
+  {
+    "id": "news-ae36ed88a90c",
+    "title": "How to securely connect internal Cloud Run MCP servers to Gemini Enterprise",
+    "summary": "How to connect Gemini Enterprise privately to internal StreamableHTTP MCP servers on Cloud Run using Egress Agent Gateway, Private Service Connect, FQDN-scoped Private Cloud DNS, and dual-header OAuth 2.0 authentication.",
+    "url": "https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-20T23:38:21Z"
+  },
+  {
+    "id": "news-de8fdba8f0dd",
+    "title": "Check what your AI agents do before they do it, with Semantic governance policies",
+    "summary": "Semantic governance policies enable developers to govern AI agents by evaluating every proposed tool call inline before execution. Operating via Agent Gateway, the policy engine checks each action against user intent…",
+    "url": "https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-20T23:38:21Z"
+  },
+  {
+    "id": "news-c38bd14b3269",
+    "title": "How to handle user, connector, and agent auth in Gemini Enterprise with a custom UI",
+    "summary": "When building a custom enterprise UI on top of Gemini Enterprise's :streamAssist API, developers must manually implement three core authentication layers. These include authenticating users or workloads via Google…",
+    "url": "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-20T23:38:21Z"
+  },
+  {
+    "id": "news-33a61caea8aa",
+    "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+    "summary": "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models.",
+    "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-20T21:00:00Z"
+  },
+  {
+    "id": "news-480a8b723958",
+    "title": "New approach enables physically consistent AI models of chaotic systems",
+    "summary": "Enforcing physics-based constraints prevents AI models from generating unreliable predictions for complex nonlinear systems in weather, climate, and turbulent flows.",
+    "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-20T20:00:00Z"
+  },
+  {
     "id": "news-e3f1cd914aee",
     "title": "Accelerating development for massive Git repositories",
     "summary": "Meet Another Build File Service (ABFS), Google's open-source content-addressable filesystem and build cache that cuts Android checkouts to",
@@ -40,26 +120,6 @@
     "publishedAt": "2026-11-20T17:30:12Z"
   },
   {
-    "id": "news-a1dbec1993aa",
-    "title": "Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs",
-    "summary": "This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts, the…",
-    "url": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-20T17:30:12Z"
-  },
-  {
-    "id": "news-f8d8466e185e",
-    "title": "Distributed LLM Training Across Metros: Streaming DiLoCo in MaxText",
-    "summary": "Streaming DiLoCo in MaxText enables developers to efficiently train large language models across geographically distributed TPU slices by streaming parameter fragments instead of synchronizing full models at every step.…",
-    "url": "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-20T17:30:12Z"
-  },
-  {
     "id": "news-9be98e73c6c8",
     "title": "Following the “mathocalypse,” mathematicians consider the future",
     "summary": "A panel discussion at MIT explored AI’s implications for mathematical discovery and the people who make it their profession.",
@@ -80,10 +140,50 @@
     "publishedAt": "2026-11-20T14:00:03Z"
   },
   {
+    "id": "news-3ea993db7e3c",
+    "title": "Combatting adversarial distillation",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-20T10:00:00Z"
+  },
+  {
     "id": "news-211fbe8009a4",
     "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
     "summary": "Latest update from Hugging Face.",
     "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-20T00:00:00Z"
+  },
+  {
+    "id": "news-d15c45643214",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-20T00:00:00Z"
+  },
+  {
+    "id": "news-f4784c304003",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-20T00:00:00Z"
+  },
+  {
+    "id": "news-80d31a6dee29",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/inkling2mini",
     "image": "assets/images/news/cat-ai.svg",
     "source": "Hugging Face",
     "category": "AI",
@@ -378,105 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-18T08:00:00Z"
-  },
-  {
-    "id": "news-9fa731b0ef6c",
-    "title": "Research acceleration: The jagged frontier",
-    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-18T08:00:00Z"
-  },
-  {
-    "id": "news-b527b6f0ddce",
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-    "url": "https://openai.com/business/customer-stories/sumitomo-life",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-18T08:00:00Z"
-  },
-  {
-    "id": "news-8b6ac2940fdc",
-    "title": "Managing frontier AI risk: From training to deployment",
-    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-    "url": "https://openai.com/index/managing-frontier-ai-risk",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-18T06:00:00Z"
-  },
-  {
-    "id": "news-461a1fe87414",
-    "title": "Helping AI text detectors keep up with changing conditions",
-    "summary": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human.",
-    "url": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-18T05:00:00Z"
-  },
-  {
-    "id": "news-6cab9c8cd383",
-    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-18T00:00:00Z"
-  },
-  {
-    "id": "news-c7d3ecb00643",
-    "title": "Advancing chip design with OpenAI models",
-    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-18T00:00:00Z"
-  },
-  {
-    "id": "news-af1852b4c46d",
-    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/moe-expert-streaming",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-18T00:00:00Z"
-  },
-  {
-    "id": "news-679cee5ea146",
-    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/rumble-2-flash",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-18T00:00:00Z"
-  },
-  {
-    "id": "news-f38228c9ef56",
-    "title": "Putting a spotlight on AI, society, and humanity",
-    "summary": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education.",
-    "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-17T20:40:00Z"
-  },
-  {
-    "id": "news-41930dc76153",
-    "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
-    "summary": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of…",
-    "url": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-17T19:00:03Z"
   }
 ]
