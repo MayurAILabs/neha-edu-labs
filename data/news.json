@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-19T18:49:22Z"
+    "publishedAt": "2026-11-20T01:00:14Z"
   },
   {
     "id": "news-9702532486ea",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-19T18:49:22Z"
+    "publishedAt": "2026-11-20T01:00:14Z"
   },
   {
     "id": "news-2c5e4844c010",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-19T18:49:22Z"
+    "publishedAt": "2026-11-20T01:00:14Z"
   },
   {
     "id": "news-1b0d0ac52bb4",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-19T18:49:22Z"
+    "publishedAt": "2026-11-20T01:00:14Z"
   },
   {
     "id": "news-a1dbec1993aa",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-19T18:49:22Z"
+    "publishedAt": "2026-11-20T01:00:14Z"
   },
   {
     "id": "news-f8d8466e185e",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-19T18:49:22Z"
+    "publishedAt": "2026-11-20T01:00:14Z"
+  },
+  {
+    "id": "news-4665289b81f8",
+    "title": "AI helps researchers investigate how thousands of medical studies share code",
+    "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
+    "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-19T22:15:00Z"
+  },
+  {
+    "id": "news-fe6303fbf7c4",
+    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+    "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and…",
+    "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-19T20:00:15Z"
+  },
+  {
+    "id": "news-7a9fd6201afb",
+    "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
+    "summary": "Many farmers and ranchers in eastern Colorado are curious about artificial intelligence, but they don’t have a local tech-savvy person to show them how to use it. Xue “Alice” Dong has made that her job.Dong, an IEEE…",
+    "url": "https://spectrum.ieee.org/ai-tools-for-rural-communities",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-19T19:00:02Z"
   },
   {
     "id": "news-57728669e048",
@@ -168,6 +198,46 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-19T08:00:00Z"
+  },
+  {
+    "id": "news-4b08ec50268e",
+    "title": "Deploying Daybreak Red",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-19T00:00:00Z"
+  },
+  {
+    "id": "news-cb99e2baa62e",
+    "title": "See PR scans in action",
+    "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+    "url": "https://openai.com/business/learn/pr-scans-demo",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-19T00:00:00Z"
+  },
+  {
+    "id": "news-e29ac258c013",
+    "title": "Explore the Codex Security Plugin",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-19T00:00:00Z"
+  },
+  {
+    "id": "news-a2fb00344062",
+    "title": "Get started with Daybreak Blue",
+    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-19T00:00:00Z"
   },
   {
     "id": "news-0c3c8b23c6ca",
@@ -408,75 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-17T17:45:00Z"
-  },
-  {
-    "id": "news-357d085ae06f",
-    "title": "Put Gemini to work for you",
-    "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-11-17T17:00:00Z"
-  },
-  {
-    "id": "news-b198e88d7ab7",
-    "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-    "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special…",
-    "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-17T14:00:10Z"
-  },
-  {
-    "id": "news-2f0718683799",
-    "title": "AI Is Giving Optical Computing Another Shot",
-    "summary": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing…",
-    "url": "https://spectrum.ieee.org/optical-computing-ai",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-17T14:00:03Z"
-  },
-  {
-    "id": "news-ab7506628686",
-    "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
-    "summary": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC.Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages.Where non-terrestrial networks (NTN)…",
-    "url": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-17T11:00:04Z"
-  },
-  {
-    "id": "news-dc0e8f605222",
-    "title": "Catch Go bugs that fuzzing misses with Gemini and a constraint solver",
-    "summary": "How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.",
-    "url": "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-17T10:05:27Z"
-  },
-  {
-    "id": "news-20fb8f8cc0ec",
-    "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
-    "summary": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks,…",
-    "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-17T10:05:27Z"
-  },
-  {
-    "id": "news-c6c361c53bc4",
-    "title": "Introducing ChatGPT for Sales",
-    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-17T08:00:00Z"
   }
 ]
