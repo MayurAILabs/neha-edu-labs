@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-20T08:21:30Z"
+    "publishedAt": "2026-11-20T17:30:12Z"
   },
   {
     "id": "news-9702532486ea",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-20T08:21:30Z"
+    "publishedAt": "2026-11-20T17:30:12Z"
   },
   {
     "id": "news-2c5e4844c010",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-20T08:21:30Z"
+    "publishedAt": "2026-11-20T17:30:12Z"
   },
   {
     "id": "news-1b0d0ac52bb4",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-20T08:21:30Z"
+    "publishedAt": "2026-11-20T17:30:12Z"
   },
   {
     "id": "news-a1dbec1993aa",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-20T08:21:30Z"
+    "publishedAt": "2026-11-20T17:30:12Z"
   },
   {
     "id": "news-f8d8466e185e",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-20T08:21:30Z"
+    "publishedAt": "2026-11-20T17:30:12Z"
+  },
+  {
+    "id": "news-9be98e73c6c8",
+    "title": "Following the “mathocalypse,” mathematicians consider the future",
+    "summary": "A panel discussion at MIT explored AI’s implications for mathematical discovery and the people who make it their profession.",
+    "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-20T15:20:00Z"
+  },
+  {
+    "id": "news-6d39921c7e25",
+    "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
+    "summary": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what appeared to be a…",
+    "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-20T14:00:03Z"
+  },
+  {
+    "id": "news-211fbe8009a4",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-20T00:00:00Z"
   },
   {
     "id": "news-4665289b81f8",
@@ -448,35 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-11-17T19:00:03Z"
-  },
-  {
-    "id": "news-aa9ce3deb1b1",
-    "title": "Maintainers don’t need more AI bug reports. They need fixes.",
-    "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more…",
-    "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-11-17T18:29:29Z"
-  },
-  {
-    "id": "news-e2c93b2ad7cf",
-    "title": "Building the Agent Host Protocol for sessions that continue across devices",
-    "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices…",
-    "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-11-17T18:20:40Z"
-  },
-  {
-    "id": "news-549a77347d5e",
-    "title": "Introducing GPT-6.2 Astra and Sol",
-    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-17T17:45:00Z"
   }
 ]
