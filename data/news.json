@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-22T15:53:12Z"
+    "publishedAt": "2026-11-22T21:29:28Z"
   },
   {
     "id": "news-f8d8466e185e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-22T15:53:12Z"
+    "publishedAt": "2026-11-22T21:29:28Z"
   },
   {
     "id": "news-ce0a30f76c3f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-22T15:53:12Z"
+    "publishedAt": "2026-11-22T21:29:28Z"
   },
   {
     "id": "news-ae36ed88a90c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-22T15:53:12Z"
+    "publishedAt": "2026-11-22T21:29:28Z"
   },
   {
     "id": "news-de8fdba8f0dd",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-22T15:53:12Z"
+    "publishedAt": "2026-11-22T21:29:28Z"
   },
   {
     "id": "news-c38bd14b3269",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-22T15:53:12Z"
+    "publishedAt": "2026-11-22T21:29:28Z"
+  },
+  {
+    "id": "news-de5cd1a6d51d",
+    "title": "Perplexity and Intelligence",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-22T00:00:00Z"
   },
   {
     "id": "news-33a61caea8aa",
@@ -468,15 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-18T10:00:00Z"
-  },
-  {
-    "id": "news-53f2a14376dd",
-    "title": "Inside the Codex sandbox",
-    "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-    "url": "https://openai.com/index/inside-the-codex-sandbox",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-18T08:00:00Z"
   }
 ]
