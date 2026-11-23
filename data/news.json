@@ -7,7 +7,127 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-23T11:43:55Z"
+    "publishedAt": "2026-11-23T23:19:21Z"
+  },
+  {
+    "id": "news-ce0a30f76c3f",
+    "title": "Agent Anomaly Detection: Safeguarding agents across other clouds",
+    "summary": "Agent Anomaly Detection now monitors ADK agents running across AWS, Azure, or on-premises by analyzing their traces and logs in your Google Cloud project. By ingesting OpenTelemetry-formatted data through the Telemetry…",
+    "url": "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-23T23:19:21Z"
+  },
+  {
+    "id": "news-ae36ed88a90c",
+    "title": "How to securely connect internal Cloud Run MCP servers to Gemini Enterprise",
+    "summary": "How to connect Gemini Enterprise privately to internal StreamableHTTP MCP servers on Cloud Run using Egress Agent Gateway, Private Service Connect, FQDN-scoped Private Cloud DNS, and dual-header OAuth 2.0 authentication.",
+    "url": "https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-23T23:19:21Z"
+  },
+  {
+    "id": "news-de8fdba8f0dd",
+    "title": "Check what your AI agents do before they do it, with Semantic governance policies",
+    "summary": "Semantic governance policies enable developers to govern AI agents by evaluating every proposed tool call inline before execution. Operating via Agent Gateway, the policy engine checks each action against user intent…",
+    "url": "https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-23T23:19:21Z"
+  },
+  {
+    "id": "news-c38bd14b3269",
+    "title": "How to handle user, connector, and agent auth in Gemini Enterprise with a custom UI",
+    "summary": "When building a custom enterprise UI on top of Gemini Enterprise's :streamAssist API, developers must manually implement three core authentication layers. These include authenticating users or workloads via Google…",
+    "url": "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-23T23:19:21Z"
+  },
+  {
+    "id": "news-d7d6c469d7f8",
+    "title": "Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies",
+    "summary": "Semantic governance policies protect AI agents from indirect prompt injection and intent hijacking by validating every proposed tool call against user intent and natural language constraints before execution. As…",
+    "url": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-23T23:19:21Z"
+  },
+  {
+    "id": "news-1d0c151fefed",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-23T21:20:00Z"
+  },
+  {
+    "id": "news-f82e2058d3bb",
+    "title": "Many languages, one common neural code",
+    "summary": "Analyzing speakers of 21 languages, an MIT study using multilingual AI finds the human brain may represent meaning in much the same way.",
+    "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-23T21:15:00Z"
+  },
+  {
+    "id": "news-ca38829e7312",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/allenai/robotrack",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-23T17:20:37Z"
+  },
+  {
+    "id": "news-5080a13c0be9",
+    "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+    "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the…",
+    "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-23T17:00:08Z"
+  },
+  {
+    "id": "news-c5903c8754bb",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "publishedAt": "2026-11-23T17:00:00Z"
+  },
+  {
+    "id": "news-9dddeb89e408",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-11-23T16:59:40Z"
+  },
+  {
+    "id": "news-99ce44242649",
+    "title": "Learn How 5G NTN Architecture, Mobility, and Testing Shape 6G",
+    "summary": "What you will learn about: How 3GPP standards from Release 15 to Release 19 built the foundation of NR-NTN, and why NTN extends 5G coverage to oceans, rural regions, and disaster zones.How transparent and regenerative…",
+    "url": "https://content.knowledgehub.wiley.com/5g-ntn-takes-flight-a-deep-dive-into-nr-ntn-technology-and-testing-aspects/",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-23T14:08:53Z"
   },
   {
     "id": "news-f8d8466e185e",
@@ -20,44 +140,24 @@
     "publishedAt": "2026-11-23T11:43:55Z"
   },
   {
-    "id": "news-ce0a30f76c3f",
-    "title": "Agent Anomaly Detection: Safeguarding agents across other clouds",
-    "summary": "Agent Anomaly Detection now monitors ADK agents running across AWS, Azure, or on-premises by analyzing their traces and logs in your Google Cloud project. By ingesting OpenTelemetry-formatted data through the Telemetry…",
-    "url": "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-23T11:43:55Z"
+    "id": "news-f8a4e02f4212",
+    "title": "Connected intelligence for in-house legal",
+    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside…",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-23T08:00:00Z"
   },
   {
-    "id": "news-ae36ed88a90c",
-    "title": "How to securely connect internal Cloud Run MCP servers to Gemini Enterprise",
-    "summary": "How to connect Gemini Enterprise privately to internal StreamableHTTP MCP servers on Cloud Run using Egress Agent Gateway, Private Service Connect, FQDN-scoped Private Cloud DNS, and dual-header OAuth 2.0 authentication.",
-    "url": "https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-23T11:43:55Z"
-  },
-  {
-    "id": "news-de8fdba8f0dd",
-    "title": "Check what your AI agents do before they do it, with Semantic governance policies",
-    "summary": "Semantic governance policies enable developers to govern AI agents by evaluating every proposed tool call inline before execution. Operating via Agent Gateway, the policy engine checks each action against user intent…",
-    "url": "https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-23T11:43:55Z"
-  },
-  {
-    "id": "news-c38bd14b3269",
-    "title": "How to handle user, connector, and agent auth in Gemini Enterprise with a custom UI",
-    "summary": "When building a custom enterprise UI on top of Gemini Enterprise's :streamAssist API, developers must manually implement three core authentication layers. These include authenticating users or workloads via Google…",
-    "url": "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-23T11:43:55Z"
+    "id": "news-680b35173b97",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-23T08:00:00Z"
   },
   {
     "id": "news-315fb775dc30",
@@ -68,6 +168,16 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-11-23T05:00:00Z"
+  },
+  {
+    "id": "news-6fd4c32fe34a",
+    "title": "How to build and maintain an agentic evaluation",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/agentic-evals",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-23T00:00:00Z"
   },
   {
     "id": "news-de5cd1a6d51d",
@@ -368,115 +478,5 @@
     "source": "OpenAI",
     "category": "AI",
     "publishedAt": "2026-11-19T00:00:00Z"
-  },
-  {
-    "id": "news-e29ac258c013",
-    "title": "Explore the Codex Security Plugin",
-    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-19T00:00:00Z"
-  },
-  {
-    "id": "news-a2fb00344062",
-    "title": "Get started with Daybreak Blue",
-    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-19T00:00:00Z"
-  },
-  {
-    "id": "news-0c3c8b23c6ca",
-    "title": "Introducing Gemini 4 Neon",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-11-18T21:35:43Z"
-  },
-  {
-    "id": "news-f689168723dc",
-    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-18T19:54:56Z"
-  },
-  {
-    "id": "news-62626f8cbcfd",
-    "title": "This featherweight, flying robot carries its own sensors and computers",
-    "summary": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance.",
-    "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-18T19:00:00Z"
-  },
-  {
-    "id": "news-75623b38e68b",
-    "title": "Why your fine-tuning job takes longer than the FLOPs say",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-18T18:53:43Z"
-  },
-  {
-    "id": "news-652211f5c064",
-    "title": "Genie 4 is now available",
-    "summary": "Latest update from Google DeepMind.",
-    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google DeepMind",
-    "category": "AI",
-    "publishedAt": "2026-11-18T18:13:42Z"
-  },
-  {
-    "id": "news-6f41e71febfa",
-    "title": "Build a Personal Brand to Help Employers Find You",
-    "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and…",
-    "url": "https://spectrum.ieee.org/personal-branding-for-engineers",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-18T17:33:26Z"
-  },
-  {
-    "id": "news-03ca256a4adf",
-    "title": "The Gemini app is now available on lower-memory Android devices.",
-    "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-11-18T17:00:00Z"
-  },
-  {
-    "id": "news-bf1424b145e4",
-    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-18T15:00:23Z"
-  },
-  {
-    "id": "news-2f5d6d63b059",
-    "title": "NVIDIA RTX Spark Compact Desktops Out Now",
-    "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified…",
-    "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-18T14:00:31Z"
   }
 ]
