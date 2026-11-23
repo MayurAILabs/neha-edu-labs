@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-23T02:10:42Z"
+    "publishedAt": "2026-11-23T11:43:55Z"
   },
   {
     "id": "news-f8d8466e185e",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-23T02:10:42Z"
+    "publishedAt": "2026-11-23T11:43:55Z"
   },
   {
     "id": "news-ce0a30f76c3f",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-23T02:10:42Z"
+    "publishedAt": "2026-11-23T11:43:55Z"
   },
   {
     "id": "news-ae36ed88a90c",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-23T02:10:42Z"
+    "publishedAt": "2026-11-23T11:43:55Z"
   },
   {
     "id": "news-de8fdba8f0dd",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-23T02:10:42Z"
+    "publishedAt": "2026-11-23T11:43:55Z"
   },
   {
     "id": "news-c38bd14b3269",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-23T02:10:42Z"
+    "publishedAt": "2026-11-23T11:43:55Z"
+  },
+  {
+    "id": "news-315fb775dc30",
+    "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+    "summary": "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
+    "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "MIT News — AI",
+    "category": "AI",
+    "publishedAt": "2026-11-23T05:00:00Z"
   },
   {
     "id": "news-de5cd1a6d51d",
@@ -468,15 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-11-18T14:00:31Z"
-  },
-  {
-    "id": "news-e683d40fba10",
-    "title": "The Silent Consensus",
-    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-    "url": "https://openai.com/index/the-silent-consensus",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-18T10:00:00Z"
   }
 ]
