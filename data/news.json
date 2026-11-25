@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T13:51:16Z"
+    "publishedAt": "2026-11-25T22:55:18Z"
   },
   {
     "id": "news-ae36ed88a90c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T13:51:16Z"
+    "publishedAt": "2026-11-25T22:55:18Z"
   },
   {
     "id": "news-de8fdba8f0dd",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T13:51:16Z"
+    "publishedAt": "2026-11-25T22:55:18Z"
   },
   {
     "id": "news-c38bd14b3269",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T13:51:16Z"
+    "publishedAt": "2026-11-25T22:55:18Z"
   },
   {
     "id": "news-d7d6c469d7f8",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T13:51:16Z"
+    "publishedAt": "2026-11-25T22:55:18Z"
   },
   {
     "id": "news-dbc9490c38a0",
@@ -57,7 +57,37 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T13:51:16Z"
+    "publishedAt": "2026-11-25T22:55:18Z"
+  },
+  {
+    "id": "news-37b5c9ba9326",
+    "title": "Where scientists draw the line on AI agents",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-25T18:52:55Z"
+  },
+  {
+    "id": "news-c510c0910746",
+    "title": "Art of play in the age of AI",
+    "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on…",
+    "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-11-25T16:00:00Z"
+  },
+  {
+    "id": "news-60ccd11aa2a7",
+    "title": "How to choose the next safe step in application modernization",
+    "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared…",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "GitHub Blog",
+    "category": "Programming",
+    "publishedAt": "2026-11-25T15:00:00Z"
   },
   {
     "id": "news-d0a3a7f662b5",
@@ -68,6 +98,16 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-11-25T10:22:09Z"
+  },
+  {
+    "id": "news-d8d6777ecf09",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-25T00:00:00Z"
   },
   {
     "id": "news-a1dbec1993aa",
@@ -438,45 +478,5 @@
     "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-11-20T00:00:00Z"
-  },
-  {
-    "id": "news-4665289b81f8",
-    "title": "AI helps researchers investigate how thousands of medical studies share code",
-    "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
-    "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-19T22:15:00Z"
-  },
-  {
-    "id": "news-fe6303fbf7c4",
-    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-    "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and…",
-    "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-19T20:00:15Z"
-  },
-  {
-    "id": "news-7a9fd6201afb",
-    "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
-    "summary": "Many farmers and ranchers in eastern Colorado are curious about artificial intelligence, but they don’t have a local tech-savvy person to show them how to use it. Xue “Alice” Dong has made that her job.Dong, an IEEE…",
-    "url": "https://spectrum.ieee.org/ai-tools-for-rural-communities",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-19T19:00:02Z"
-  },
-  {
-    "id": "news-57728669e048",
-    "title": "Introducing Tool Retrieval in the Gemini API",
-    "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-11-19T18:00:00Z"
   }
 ]
