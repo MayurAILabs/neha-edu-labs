@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T03:20:26Z"
+    "publishedAt": "2026-11-25T13:51:16Z"
   },
   {
     "id": "news-ae36ed88a90c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T03:20:26Z"
+    "publishedAt": "2026-11-25T13:51:16Z"
   },
   {
     "id": "news-de8fdba8f0dd",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T03:20:26Z"
+    "publishedAt": "2026-11-25T13:51:16Z"
   },
   {
     "id": "news-c38bd14b3269",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T03:20:26Z"
+    "publishedAt": "2026-11-25T13:51:16Z"
   },
   {
     "id": "news-d7d6c469d7f8",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T03:20:26Z"
+    "publishedAt": "2026-11-25T13:51:16Z"
   },
   {
     "id": "news-dbc9490c38a0",
@@ -57,7 +57,17 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T03:20:26Z"
+    "publishedAt": "2026-11-25T13:51:16Z"
+  },
+  {
+    "id": "news-d0a3a7f662b5",
+    "title": "An Indic Voice Agent with CUGA",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-25T10:22:09Z"
   },
   {
     "id": "news-a1dbec1993aa",
@@ -468,15 +478,5 @@
     "source": "Google AI Blog",
     "category": "AI",
     "publishedAt": "2026-11-19T18:00:00Z"
-  },
-  {
-    "id": "news-baf7193e75c1",
-    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
-    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-19T17:00:35Z"
   }
 ]
