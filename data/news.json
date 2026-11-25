@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-a1dbec1993aa",
-    "title": "Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs",
-    "summary": "This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts, the…",
-    "url": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-24T19:54:18Z"
-  },
-  {
     "id": "news-ce0a30f76c3f",
     "title": "Agent Anomaly Detection: Safeguarding agents across other clouds",
     "summary": "Agent Anomaly Detection now monitors ADK agents running across AWS, Azure, or on-premises by analyzing their traces and logs in your Google Cloud project. By ingesting OpenTelemetry-formatted data through the Telemetry…",
@@ -17,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-24T19:54:18Z"
+    "publishedAt": "2026-11-25T03:20:26Z"
   },
   {
     "id": "news-ae36ed88a90c",
@@ -27,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-24T19:54:18Z"
+    "publishedAt": "2026-11-25T03:20:26Z"
   },
   {
     "id": "news-de8fdba8f0dd",
@@ -37,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-24T19:54:18Z"
+    "publishedAt": "2026-11-25T03:20:26Z"
   },
   {
     "id": "news-c38bd14b3269",
@@ -47,13 +37,33 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-24T19:54:18Z"
+    "publishedAt": "2026-11-25T03:20:26Z"
   },
   {
     "id": "news-d7d6c469d7f8",
     "title": "Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies",
     "summary": "Semantic governance policies protect AI agents from indirect prompt injection and intent hijacking by validating every proposed tool call against user intent and natural language constraints before execution. As…",
     "url": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-25T03:20:26Z"
+  },
+  {
+    "id": "news-dbc9490c38a0",
+    "title": "From Files to Cited Answers in One API Call: Managed Ingestion and SearchDocuments in Agent Retrieval",
+    "summary": "Agent Retrieval in Vertex AI introduces managed ingestion and SearchDocuments to replace custom chunking and embedding pipelines. Developers can now import document and video files directly from Cloud Storage and query…",
+    "url": "https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/",
+    "image": "assets/images/news/cat-programming.svg",
+    "source": "Google Developers",
+    "category": "Programming",
+    "publishedAt": "2026-11-25T03:20:26Z"
+  },
+  {
+    "id": "news-a1dbec1993aa",
+    "title": "Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs",
+    "summary": "This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts, the…",
+    "url": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
@@ -68,6 +78,16 @@
     "source": "MIT News — AI",
     "category": "AI",
     "publishedAt": "2026-11-24T19:30:00Z"
+  },
+  {
+    "id": "news-3921b84cccb9",
+    "title": "Mitsubishi Electric Research Lab CEO on How He Reached the C-Suite",
+    "summary": "The trajectory from researcher to top executive at a leading R&D organization doesn’t happen overnight. It took Anthony Vetro nearly 30 years to climb the corporate ladder at Mitsubishi Electric Research Laboratories,…",
+    "url": "https://spectrum.ieee.org/mitsubishi-electric-research-lab-ceo",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-24T19:00:01Z"
   },
   {
     "id": "news-16565a3f5dc0",
@@ -100,6 +120,16 @@
     "publishedAt": "2026-11-24T16:00:00Z"
   },
   {
+    "id": "news-3c6728c1bfd1",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-24T13:00:00Z"
+  },
+  {
     "id": "news-f3aa9260f109",
     "title": "Searching for distant planets with Astra",
     "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
@@ -124,6 +154,16 @@
     "title": "How iFood scales coding agents across 15,000 repositories",
     "summary": "Latest update from OpenAI.",
     "url": "https://openai.com/business/customer-stories/ifood",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "OpenAI",
+    "category": "AI",
+    "publishedAt": "2026-11-24T00:00:00Z"
+  },
+  {
+    "id": "news-99b93f3e1098",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
     "category": "AI",
@@ -438,45 +478,5 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-11-19T17:00:35Z"
-  },
-  {
-    "id": "news-c3e7758a2373",
-    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-    "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "publishedAt": "2026-11-19T17:00:00Z"
-  },
-  {
-    "id": "news-1359fddbf694",
-    "title": "The best things in open source are built together",
-    "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog.",
-    "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "GitHub Blog",
-    "category": "Programming",
-    "publishedAt": "2026-11-19T16:00:00Z"
-  },
-  {
-    "id": "news-b6fd64654869",
-    "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
-    "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big…",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "NVIDIA",
-    "category": "AI",
-    "publishedAt": "2026-11-19T14:00:12Z"
-  },
-  {
-    "id": "news-d943a23e58cc",
-    "title": "Study reveals data centers’ long-distance damage to air quality",
-    "summary": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest.",
-    "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-19T14:00:00Z"
   }
 ]
