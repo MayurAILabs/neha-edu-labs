@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-26T04:41:00Z"
+    "publishedAt": "2026-11-26T14:41:20Z"
   },
   {
     "id": "news-ae36ed88a90c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-26T04:41:00Z"
+    "publishedAt": "2026-11-26T14:41:20Z"
   },
   {
     "id": "news-de8fdba8f0dd",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-26T04:41:00Z"
+    "publishedAt": "2026-11-26T14:41:20Z"
   },
   {
     "id": "news-c38bd14b3269",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-26T04:41:00Z"
+    "publishedAt": "2026-11-26T14:41:20Z"
   },
   {
     "id": "news-d7d6c469d7f8",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-26T04:41:00Z"
+    "publishedAt": "2026-11-26T14:41:20Z"
   },
   {
     "id": "news-dbc9490c38a0",
@@ -57,7 +57,47 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-26T04:41:00Z"
+    "publishedAt": "2026-11-26T14:41:20Z"
+  },
+  {
+    "id": "news-99043acd3b6a",
+    "title": "Come for the Games, Stay for the Community With GeForce NOW",
+    "summary": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online…",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "NVIDIA",
+    "category": "AI",
+    "publishedAt": "2026-11-26T14:00:22Z"
+  },
+  {
+    "id": "news-02a088434703",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-26T11:37:17Z"
+  },
+  {
+    "id": "news-d3aa48daa62d",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-26T05:05:36Z"
+  },
+  {
+    "id": "news-c01600d41603",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/training-swarms",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-26T00:00:00Z"
   },
   {
     "id": "news-37b5c9ba9326",
@@ -438,45 +478,5 @@
     "source": "IEEE Spectrum",
     "category": "Engineering",
     "publishedAt": "2026-11-20T14:00:03Z"
-  },
-  {
-    "id": "news-3ea993db7e3c",
-    "title": "Combatting adversarial distillation",
-    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-    "url": "https://openai.com/index/combatting-adversarial-distillation",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-20T10:00:00Z"
-  },
-  {
-    "id": "news-211fbe8009a4",
-    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
-    "category": "AI",
-    "publishedAt": "2026-11-20T00:00:00Z"
-  },
-  {
-    "id": "news-d15c45643214",
-    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-    "url": "https://openai.com/business/customer-stories/hebbia",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-20T00:00:00Z"
-  },
-  {
-    "id": "news-f4784c304003",
-    "title": "Can AI help scientists identify promising drug candidates?",
-    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-    "url": "https://openai.com/index/introducing-medchembench",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-20T00:00:00Z"
   }
 ]
