@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T22:55:18Z"
+    "publishedAt": "2026-11-26T04:41:00Z"
   },
   {
     "id": "news-ae36ed88a90c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T22:55:18Z"
+    "publishedAt": "2026-11-26T04:41:00Z"
   },
   {
     "id": "news-de8fdba8f0dd",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T22:55:18Z"
+    "publishedAt": "2026-11-26T04:41:00Z"
   },
   {
     "id": "news-c38bd14b3269",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T22:55:18Z"
+    "publishedAt": "2026-11-26T04:41:00Z"
   },
   {
     "id": "news-d7d6c469d7f8",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T22:55:18Z"
+    "publishedAt": "2026-11-26T04:41:00Z"
   },
   {
     "id": "news-dbc9490c38a0",
@@ -57,7 +57,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-25T22:55:18Z"
+    "publishedAt": "2026-11-26T04:41:00Z"
   },
   {
     "id": "news-37b5c9ba9326",
@@ -168,6 +168,16 @@
     "source": "GitHub Blog",
     "category": "Programming",
     "publishedAt": "2026-11-24T16:00:00Z"
+  },
+  {
+    "id": "news-dd94f7af62fb",
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Google DeepMind",
+    "category": "AI",
+    "publishedAt": "2026-11-24T13:07:53Z"
   },
   {
     "id": "news-3c6728c1bfd1",
@@ -466,16 +476,6 @@
     "url": "https://openai.com/index/introducing-medchembench",
     "image": "assets/images/news/cat-ai.svg",
     "source": "OpenAI",
-    "category": "AI",
-    "publishedAt": "2026-11-20T00:00:00Z"
-  },
-  {
-    "id": "news-80d31a6dee29",
-    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-    "summary": "Latest update from Hugging Face.",
-    "url": "https://huggingface.co/blog/inkling2mini",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "Hugging Face",
     "category": "AI",
     "publishedAt": "2026-11-20T00:00:00Z"
   }
