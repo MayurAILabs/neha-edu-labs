@@ -7,7 +7,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-27T06:31:54Z"
+    "publishedAt": "2026-11-27T17:11:13Z"
   },
   {
     "id": "news-ae36ed88a90c",
@@ -17,7 +17,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-27T06:31:54Z"
+    "publishedAt": "2026-11-27T17:11:13Z"
   },
   {
     "id": "news-de8fdba8f0dd",
@@ -27,7 +27,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-27T06:31:54Z"
+    "publishedAt": "2026-11-27T17:11:13Z"
   },
   {
     "id": "news-c38bd14b3269",
@@ -37,7 +37,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-27T06:31:54Z"
+    "publishedAt": "2026-11-27T17:11:13Z"
   },
   {
     "id": "news-d7d6c469d7f8",
@@ -47,7 +47,7 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-27T06:31:54Z"
+    "publishedAt": "2026-11-27T17:11:13Z"
   },
   {
     "id": "news-dbc9490c38a0",
@@ -57,7 +57,27 @@
     "image": "assets/images/news/cat-programming.svg",
     "source": "Google Developers",
     "category": "Programming",
-    "publishedAt": "2026-11-27T06:31:54Z"
+    "publishedAt": "2026-11-27T17:11:13Z"
+  },
+  {
+    "id": "news-0f9957586415",
+    "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+    "summary": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job.At the time, prompt engineering was being touted as one of the hot new…",
+    "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-27T14:00:01Z"
+  },
+  {
+    "id": "news-2d7f8b4f8454",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "summary": "Latest update from Hugging Face.",
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "image": "assets/images/news/cat-ai.svg",
+    "source": "Hugging Face",
+    "category": "AI",
+    "publishedAt": "2026-11-27T00:00:00Z"
   },
   {
     "id": "news-99043acd3b6a",
@@ -68,6 +88,16 @@
     "source": "NVIDIA",
     "category": "AI",
     "publishedAt": "2026-11-26T14:00:22Z"
+  },
+  {
+    "id": "news-1beb336d7314",
+    "title": "How Engineers Designed a Mission to One of Jupiter’s Icy Moons",
+    "summary": "On 3 December 2026, a 30.5-meter-wide space probe will slingshot past Earth, picking up the speed it needs to reach Jupiter in 2030. The Europa Clipper is designed to investigate Jupiter’s enigmatic moon Europa and look…",
+    "url": "https://spectrum.ieee.org/jupiter-europa-clipper-mission-jpl",
+    "image": "assets/images/news/cat-engineering.svg",
+    "source": "IEEE Spectrum",
+    "category": "Engineering",
+    "publishedAt": "2026-11-26T14:00:02Z"
   },
   {
     "id": "news-02a088434703",
@@ -448,35 +478,5 @@
     "source": "Google Developers",
     "category": "Programming",
     "publishedAt": "2026-11-20T17:30:12Z"
-  },
-  {
-    "id": "news-1b0d0ac52bb4",
-    "title": "Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection",
-    "summary": "This guide walks developers through setting up Agent Anomaly Detection on the Gemini Enterprise Agent Platform to monitor AI agent telemetry and catch behavioral risks. It demonstrates how to deploy a sample customer…",
-    "url": "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
-    "image": "assets/images/news/cat-programming.svg",
-    "source": "Google Developers",
-    "category": "Programming",
-    "publishedAt": "2026-11-20T17:30:12Z"
-  },
-  {
-    "id": "news-9be98e73c6c8",
-    "title": "Following the “mathocalypse,” mathematicians consider the future",
-    "summary": "A panel discussion at MIT explored AI’s implications for mathematical discovery and the people who make it their profession.",
-    "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
-    "image": "assets/images/news/cat-ai.svg",
-    "source": "MIT News — AI",
-    "category": "AI",
-    "publishedAt": "2026-11-20T15:20:00Z"
-  },
-  {
-    "id": "news-6d39921c7e25",
-    "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
-    "summary": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what appeared to be a…",
-    "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
-    "image": "assets/images/news/cat-engineering.svg",
-    "source": "IEEE Spectrum",
-    "category": "Engineering",
-    "publishedAt": "2026-11-20T14:00:03Z"
   }
 ]
